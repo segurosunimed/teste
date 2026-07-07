@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Radar Estratégico · Seguros Unimed</title>
+<title>Copiloto da Estratégia · Seguros Unimed</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--azul:#003087;--azul-med:#005EB8;--azul-light:#E8F0FB;--azul-line:#C8D8F0;--verde:#00843D;--verde-light:#E6F4EC;--amber:#F59E0B;--amber-light:#FEF3C7;--red:#DC2626;--red-light:#FEE2E2;--purple:#7C3AED;--purple-light:#EDE9FE;--bg:#F4F6FA;--white:#FFFFFF;--gray1:#F8FAFC;--gray2:#EEF2F7;--gray3:#CBD5E1;--text:#0F172A;--text2:#475569;--text3:#94A3B8;--border:#E2E8F0}
@@ -507,7 +507,7 @@ footer .su{color:var(--azul-med);font-weight:700}
            alt="Seguros Unimed">
     </div>
     <div class="brand-text">
-      <strong>Radar Estratégico</strong>
+      <strong>Copiloto da Estratégia</strong>
       <span id="header-sub">GERÊNCIA DE ESTRATÉGIA · SEGUROS UNIMED</span>
     </div>
   </div>
@@ -779,7 +779,7 @@ footer .su{color:var(--azul-med);font-weight:700}
 
 <footer>
   <p>Fontes: SUSEP · CNseg · Fenaprevi · ANS · Revista Apólice · Gazeta Mercantil · CQCS · Swiss Re · Deloitte · Marsh · OCB · Confebras · Escoop · Banco Central (SNCC)</p>
-  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Radar Estratégico · <span id="footer-ed"></span></p>
+  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Copiloto da Estratégia · <span id="footer-ed"></span></p>
 </footer>
 
 <script>
@@ -1293,10 +1293,10 @@ function abrirNewsletter() {
   ).join('\n');
 
   const preview = `
-    <strong>Assunto:</strong> 📡 Radar Estratégico · ${ed.titulo}<br><br>
+    <strong>Assunto:</strong> 📡 Copiloto da Estratégia · ${ed.titulo}<br><br>
     <strong>Corpo:</strong><br>
     Prezados,<br><br>
-    A edição desta semana do Radar Estratégico está disponível. Destaques:<br><br>
+    A edição desta semana do Copiloto da Estratégia está disponível. Destaques:<br><br>
     ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('<br>')}
     <br><br>
     🔗 Acesse o radar completo:<br>
@@ -1314,11 +1314,11 @@ function fecharNewsletter() {
 
 function montarEmailParams() {
   const ed = edicaoAtual;
-  const assunto = encodeURIComponent(`📡 Radar Estratégico · ${ed.titulo}`);
+  const assunto = encodeURIComponent(`📡 Copiloto da Estratégia · ${ed.titulo}`);
   const corpo = encodeURIComponent(
 `Prezados,
 
-A edição desta semana do Radar Estratégico está disponível.
+A edição desta semana do Copiloto da Estratégia está disponível.
 
 Destaques da semana:
 ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('\n')}
@@ -1348,7 +1348,7 @@ function enviarGmail() {
 // ─── PPTX ─────────────────────────────────────────────────────────────────────
 function gerarPPTX() {
   const ed = edicaoAtual;
-  const msg = `Para gerar o PPTX desta edição, abra o projeto no Claude e use o comando:\n\n"Gera o PPTX do Radar Estratégico — ${ed.titulo}"\n\nO Claude vai gerar os slides com os dados desta edição e entregar o arquivo para download.`;
+  const msg = `Para gerar o PPTX desta edição, abra o projeto no Claude e use o comando:\n\n"Gera o PPTX do Copiloto da Estratégia — ${ed.titulo}"\n\nO Claude vai gerar os slides com os dados desta edição e entregar o arquivo para download.`;
   alert(msg);
 }
 
