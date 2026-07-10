@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Copiloto da Estratégia · Seguros Unimed</title>
+<title>Radar Estratégico · Seguros Unimed</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--azul:#003087;--azul-med:#005EB8;--azul-light:#E8F0FB;--azul-line:#C8D8F0;--verde:#00843D;--verde-light:#E6F4EC;--amber:#F59E0B;--amber-light:#FEF3C7;--red:#DC2626;--red-light:#FEE2E2;--purple:#7C3AED;--purple-light:#EDE9FE;--bg:#F4F6FA;--white:#FFFFFF;--gray1:#F8FAFC;--gray2:#EEF2F7;--gray3:#CBD5E1;--text:#0F172A;--text2:#475569;--text3:#94A3B8;--border:#E2E8F0}
@@ -414,7 +414,7 @@ footer .su{color:var(--azul-med);font-weight:700}
 
   /* Nav grid mobile — scroll horizontal */
   .section-grid {
-    grid-template-columns: repeat(12, minmax(64px, 1fr));
+    grid-template-columns: repeat(10, minmax(64px, 1fr));
     overflow-x: auto;
     overflow-y: visible;
     -webkit-overflow-scrolling: touch;
@@ -507,7 +507,7 @@ footer .su{color:var(--azul-med);font-weight:700}
            alt="Seguros Unimed">
     </div>
     <div class="brand-text">
-      <strong>Copiloto da Estratégia</strong>
+      <strong>Radar Estratégico</strong>
       <span id="header-sub">GERÊNCIA DE ESTRATÉGIA · SEGUROS UNIMED</span>
     </div>
   </div>
@@ -572,6 +572,18 @@ footer .su{color:var(--azul-med);font-weight:700}
     <div class="sec-label">Radar Global</div>
     <div class="sec-arrow">▾</div>
   </div>
+  <!-- Canais -->
+  <div class="sec-card" onclick="toggle('canais')" id="card-canais">
+    <div class="sec-icon"><svg viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="7" r="3"/><circle cx="13" cy="16" r="3"/><line x1="9" y1="10" x2="12" y2="14"/><line x1="17" y1="10" x2="14" y2="14"/></svg></div>
+    <div class="sec-label">Canais</div>
+    <div class="sec-arrow">▾</div>
+  </div>
+  <!-- Tendências de Consumo -->
+  <div class="sec-card" onclick="toggle('tendencias')" id="card-tendencias">
+    <div class="sec-icon"><svg viewBox="0 0 24 24"><polyline points="3,17 9,11 13,15 21,6"/><polyline points="15,6 21,6 21,12"/></svg></div>
+    <div class="sec-label">Tendências de Consumo</div>
+    <div class="sec-arrow">▾</div>
+  </div>
   <!-- Concorrentes -->
   <div class="sec-card" onclick="toggle('concorrentes')" id="card-concorrentes">
     <div class="sec-icon"><svg viewBox="0 0 24 24"><polyline points="23,6 13.5,15.5 8.5,10.5 1,18"/><polyline points="17,6 23,6 23,12"/></svg></div>
@@ -588,18 +600,6 @@ footer .su{color:var(--azul-med);font-weight:700}
   <div class="sec-card" onclick="toggle('agenda')" id="card-agenda">
     <div class="sec-icon"><svg viewBox="0 0 24 24"><polyline points="9,11 12,14 22,4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg></div>
     <div class="sec-label">Agenda Estratégica</div>
-    <div class="sec-arrow">▾</div>
-  </div>
-  <!-- Canais (Cooperativismo) -->
-  <div class="sec-card" onclick="toggle('canais')" id="card-canais">
-    <div class="sec-icon"><svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg></div>
-    <div class="sec-label">Canais</div>
-    <div class="sec-arrow">▾</div>
-  </div>
-  <!-- Tendências de Consumo -->
-  <div class="sec-card" onclick="toggle('tendencias')" id="card-tendencias">
-    <div class="sec-icon"><svg viewBox="0 0 24 24"><path d="M17 6l-9.5 9.5-5-5L1 12"/><path d="M17 6h6v6"/></svg></div>
-    <div class="sec-label">Tendências de Consumo</div>
     <div class="sec-arrow">▾</div>
   </div>
 
@@ -625,6 +625,8 @@ footer .su{color:var(--azul-med);font-weight:700}
       <span class="search-bar-tag" onclick="filtrarTag('DESTAQUE SU')">#SU</span>
       <span class="search-bar-tag" onclick="filtrarTag('INSURTECH')">#TECH</span>
       <span class="search-bar-tag" onclick="filtrarTag('LC 213')">#LC213</span>
+      <span class="search-bar-tag" onclick="filtrarTag('COOPERATIVISMO')">#COOPERATIVISMO</span>
+      <span class="search-bar-tag" onclick="filtrarTag('TENDÊNCIA')">#TENDÊNCIAS</span>
     </div>
     <div class="search-dropdown" id="search-dropdown"></div>
   </div>
@@ -642,6 +644,10 @@ footer .su{color:var(--azul-med);font-weight:700}
 <div id="panel-previdencia" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
 <div class="panel-divider"></div>
 <div id="panel-elementares" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
+<div class="panel-divider"></div>
+<div id="panel-canais" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
+<div class="panel-divider"></div>
+<div id="panel-tendencias" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
 <div class="panel-divider"></div>
 
 <!-- RADAR GLOBAL — conteúdo fixo com dados frescos desta edição -->
@@ -709,10 +715,6 @@ footer .su{color:var(--azul-med);font-weight:700}
 <div class="panel-divider"></div>
 <div id="panel-agenda" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
 <div class="panel-divider"></div>
-<div id="panel-canais" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
-<div class="panel-divider"></div>
-<div id="panel-tendencias" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
-<div class="panel-divider"></div>
 
 <!-- PAINEL BUSCA -->
 <div id="panel-corretores" class="acc-panel"><div class="acc-inner"><div class="loading">Carregando...</div></div></div>
@@ -739,6 +741,8 @@ footer .su{color:var(--azul-med);font-weight:700}
       <span class="filter-tag" onclick="filtrarTag('INSURTECH')">#INSURTECH</span>
       <span class="filter-tag" onclick="filtrarTag('GLOBAL')">#GLOBAL</span>
       <span class="filter-tag" onclick="filtrarTag('LC 213')">#LC 213</span>
+      <span class="filter-tag" onclick="filtrarTag('COOPERATIVISMO')">#COOPERATIVISMO</span>
+      <span class="filter-tag" onclick="filtrarTag('TENDÊNCIA')">#TENDÊNCIAS</span>
     </div>
     <div class="search-results" id="search-results">
       <div class="search-empty"><span>🔍</span>Digite algo para pesquisar em todas as edições do histórico</div>
@@ -778,8 +782,8 @@ footer .su{color:var(--azul-med);font-weight:700}
 </div>
 
 <footer>
-  <p>Fontes: SUSEP · CNseg · Fenaprevi · ANS · Revista Apólice · Gazeta Mercantil · CQCS · Swiss Re · Deloitte · Marsh · OCB · Confebras · Escoop · Banco Central (SNCC)</p>
-  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Copiloto da Estratégia · <span id="footer-ed"></span></p>
+  <p>Fontes: SUSEP · CNseg · Fenaprevi · ANS · Revista Apólice · Gazeta Mercantil · CQCS · Swiss Re · Deloitte · Marsh</p>
+  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Radar Estratégico · <span id="footer-ed"></span></p>
 </footer>
 
 <script>
@@ -821,8 +825,8 @@ function carregarEdicao(id) {
   document.getElementById('edition-info').textContent = `Semana de ${edicaoAtual.data}`;
   renderGeral(); renderSeg('saude'); renderSeg('odonto');
   renderSeg('vida'); renderSeg('previdencia'); renderSeg('elementares');
-  renderConcorrentes(); renderCorretores(); renderAgenda(); renderHistorico();
   renderSeg('canais'); renderSeg('tendencias');
+  renderConcorrentes(); renderCorretores(); renderAgenda(); renderHistorico();
 }
 
 // ─── RENDERIZADORES ───────────────────────────────────────────────────────────
@@ -900,8 +904,8 @@ function renderSeg(id) {
   const s = edicaoAtual.secoes[id];
   if (!s) {
     set(`panel-${id}`, `
-    <div class="alert-bar bl"><span class="alert-ico">🧭</span>
-    <span>Categoria <strong>${nomes[id]}</strong> ainda não possui dados nesta edição — introduzida a partir da migração seguinte. Consulte edições mais recentes.</span></div>`);
+    <div class="alert-bar bl"><span class="alert-ico">🗂️</span>
+    <span>Esta seção (<strong>${nomes[id]}</strong>) foi incluída a partir de uma edição mais recente e não está disponível para <strong>${edicaoAtual.titulo}</strong>. Selecione uma edição mais atual no seletor acima.</span></div>`);
     return;
   }
   set(`panel-${id}`, `
@@ -1293,10 +1297,10 @@ function abrirNewsletter() {
   ).join('\n');
 
   const preview = `
-    <strong>Assunto:</strong> 📡 Copiloto da Estratégia · ${ed.titulo}<br><br>
+    <strong>Assunto:</strong> 📡 Radar Estratégico · ${ed.titulo}<br><br>
     <strong>Corpo:</strong><br>
     Prezados,<br><br>
-    A edição desta semana do Copiloto da Estratégia está disponível. Destaques:<br><br>
+    A edição desta semana do Radar Estratégico está disponível. Destaques:<br><br>
     ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('<br>')}
     <br><br>
     🔗 Acesse o radar completo:<br>
@@ -1314,11 +1318,11 @@ function fecharNewsletter() {
 
 function montarEmailParams() {
   const ed = edicaoAtual;
-  const assunto = encodeURIComponent(`📡 Copiloto da Estratégia · ${ed.titulo}`);
+  const assunto = encodeURIComponent(`📡 Radar Estratégico · ${ed.titulo}`);
   const corpo = encodeURIComponent(
 `Prezados,
 
-A edição desta semana do Copiloto da Estratégia está disponível.
+A edição desta semana do Radar Estratégico está disponível.
 
 Destaques da semana:
 ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('\n')}
@@ -1348,7 +1352,7 @@ function enviarGmail() {
 // ─── PPTX ─────────────────────────────────────────────────────────────────────
 function gerarPPTX() {
   const ed = edicaoAtual;
-  const msg = `Para gerar o PPTX desta edição, abra o projeto no Claude e use o comando:\n\n"Gera o PPTX do Copiloto da Estratégia — ${ed.titulo}"\n\nO Claude vai gerar os slides com os dados desta edição e entregar o arquivo para download.`;
+  const msg = `Para gerar o PPTX desta edição, abra o projeto no Claude e use o comando:\n\n"Gera o PPTX do Radar Estratégico — ${ed.titulo}"\n\nO Claude vai gerar os slides com os dados desta edição e entregar o arquivo para download.`;
   alert(msg);
 }
 
