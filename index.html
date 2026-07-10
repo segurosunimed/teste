@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Radar Estratégico · Seguros Unimed</title>
+<title>Copiloto da Estratégia · Seguros Unimed</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--azul:#003087;--azul-med:#005EB8;--azul-light:#E8F0FB;--azul-line:#C8D8F0;--verde:#00843D;--verde-light:#E6F4EC;--amber:#F59E0B;--amber-light:#FEF3C7;--red:#DC2626;--red-light:#FEE2E2;--purple:#7C3AED;--purple-light:#EDE9FE;--bg:#F4F6FA;--white:#FFFFFF;--gray1:#F8FAFC;--gray2:#EEF2F7;--gray3:#CBD5E1;--text:#0F172A;--text2:#475569;--text3:#94A3B8;--border:#E2E8F0}
@@ -23,7 +23,6 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-
 .btn-hdr:hover{opacity:.85}
 .btn-pdf{background:var(--white);color:var(--azul)}
 .btn-news{background:rgba(255,255,255,.15);color:#fff;border:1px solid rgba(255,255,255,.3)}
-.btn-ppt{background:#00843D;color:#fff}
 
 /* EDITION BAR */
 .edition-bar{background:var(--white);border-bottom:1px solid var(--border);padding:7px 40px;display:flex;align-items:center;gap:12px;font-size:12px;color:var(--text2)}
@@ -398,7 +397,6 @@ footer .su{color:var(--azul-med);font-weight:700}
   }
   .brand-text span { display: none; }
   .brand-text strong { font-size: 13px; }
-  .btn-ppt { display: none; }
   .btn-pdf { padding: 5px 10px; font-size: 10px; }
   .btn-news { display: none; }
   .pill-live { display: none; }
@@ -507,14 +505,13 @@ footer .su{color:var(--azul-med);font-weight:700}
            alt="Seguros Unimed">
     </div>
     <div class="brand-text">
-      <strong>Radar Estratégico</strong>
+      <strong>Copiloto da Estratégia</strong>
       <span id="header-sub">GERÊNCIA DE ESTRATÉGIA · SEGUROS UNIMED</span>
     </div>
   </div>
   <div class="header-right">
     <span class="pill-live">● Atualizado</span>
     
-    <button class="btn-hdr btn-ppt" onclick="gerarPPTX()">📑 PPTX</button>
     <button class="btn-hdr btn-pdf" onclick="window.print()">⬇ PDF</button>
   </div>
 </div>
@@ -768,7 +765,7 @@ footer .su{color:var(--azul-med);font-weight:700}
 <div class="modal-overlay" id="modal-news" onclick="if(event.target===this)fecharNewsletter()">
   <div class="modal">
     <div class="modal-title">✉ Enviar Newsletter</div>
-    <div class="modal-sub">Envia os destaques da semana com link para o radar. O e-mail abre no seu cliente de e-mail já preenchido — você só clica em enviar.</div>
+    <div class="modal-sub">Envia os destaques da semana com link para o Copiloto. O e-mail abre no seu cliente de e-mail já preenchido — você só clica em enviar.</div>
     <div class="modal-label">Pré-visualização do e-mail</div>
     <div class="modal-preview" id="news-preview">Carregando...</div>
     <div class="modal-label" style="margin-bottom:6px">Destinatários — edite o arquivo <code style="background:var(--gray2);padding:1px 5px;border-radius:4px;font-size:11px">destinatarios.json</code> para gerenciar a lista</div>
@@ -783,7 +780,7 @@ footer .su{color:var(--azul-med);font-weight:700}
 
 <footer>
   <p>Fontes: SUSEP · CNseg · Fenaprevi · ANS · Revista Apólice · Gazeta Mercantil · CQCS · Swiss Re · Deloitte · Marsh</p>
-  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Radar Estratégico · <span id="footer-ed"></span></p>
+  <p><span class="su">Gerência de Estratégia · Seguros Unimed</span> · Copiloto da Estratégia · <span id="footer-ed"></span></p>
 </footer>
 
 <script>
@@ -899,6 +896,18 @@ function renderGeral() {
     </div>`);
 }
 
+function noticiasConcorrentesSegmento(id) {
+  const bloco = edicaoAtual.concorrentes_segmento && edicaoAtual.concorrentes_segmento[id];
+  if (!bloco) return [];
+  let todas = [];
+  Object.keys(bloco).forEach(sub => {
+    (bloco[sub].noticias || []).forEach(item => todas.push(item));
+  });
+  // notícias com fonte/link real aparecem primeiro; genéricas ("sem fato novo") ficam por último
+  todas.sort((a, b) => (b.url ? 1 : 0) - (a.url ? 1 : 0));
+  return todas;
+}
+
 function renderSeg(id) {
   const nomes = {saude:'Saúde Suplementar',odonto:'Odontologia',vida:'Seguro de Vida',previdencia:'Previdência Privada Aberta',elementares:'Ramos Elementares',canais:'Canais · Cooperativismo',tendencias:'Tendências de Consumo'};
   const s = edicaoAtual.secoes[id];
@@ -908,11 +917,17 @@ function renderSeg(id) {
     <span>Esta seção (<strong>${nomes[id]}</strong>) foi incluída a partir de uma edição mais recente e não está disponível para <strong>${edicaoAtual.titulo}</strong>. Selecione uma edição mais atual no seletor acima.</span></div>`);
     return;
   }
+  const concorrentesDoSegmento = noticiasConcorrentesSegmento(id).slice(0, 3);
   set(`panel-${id}`, `
     <div class="sec-block">
       <div class="slabel">Notícias Estratégicas · ${nomes[id]}</div>
       <div class="nfeed">${s.noticias.map(x=>n(x)).join('')}</div>
     </div>
+    ${concorrentesDoSegmento.length ? `
+    <div class="sec-block">
+      <div class="slabel">⚔️ Notícias dos Principais Concorrentes · ${nomes[id]}</div>
+      <div class="nfeed">${concorrentesDoSegmento.map(x=>n(x)).join('')}</div>
+    </div>` : ''}
     <div class="impl-box">
       <div class="impl-title">⚡ Implicação para a Seguros Unimed · ${nomes[id]}</div>
       <div class="impl-txt">${s.implicacao}</div>
@@ -937,234 +952,79 @@ function cb(rank,nome,tipo,noticias,su=false) {
 }
 
 function renderConcorrentes() {
+  const conc = edicaoAtual.concorrentes;
+  if (!conc || !conc.top10) {
+    set('panel-concorrentes', `<div class="alert-bar bl"><span class="alert-ico">🔭</span><span>Esta edição não possui dados estruturados de concorrentes (edição anterior à migração de junho/2026).</span></div>`);
+    return;
+  }
+  const posicaoSU = conc.top10.findIndex(c => c.su) + 1;
   set('panel-concorrentes', `
     <div class="alert-bar bl"><span class="alert-ico">🔭</span>
-    <span>Monitoramento das <strong>10 principais seguradoras</strong>. Seguros Unimed na <strong>8ª posição</strong>.</span></div>
-    ${cb('1ª','Bradesco Seguros / Bradesco Saúde','Bancassurance · Grupo Bradesco',[
-      {tag:'hot',tag_label:'ESCALA',titulo:'OdontoPrev lidera odonto com +8 mi de beneficiários e múltiplas marcas',url:'https://www.beneficiosrh.com.br/maiores-operadoras-planos-odontologicos/',texto:'Bradesco Dental, Prívian, Prontodente e BB Dental. <strong>Maior rede credenciada do Brasil.</strong> Capital aberto na B3 (ODPV3).',fonte:'ANS',fonte_url:'https://www.beneficiosrh.com.br/maiores-operadoras-planos-odontologicos/',fonte_label:'BenefíciosRH',data:''},
-      {tag:'reg',tag_label:'VOZ',titulo:'Ney Dias lidera discussões no Enconseg 2026',url:'https://revistaapolice.com.br/2026/05/enconseg-2026-debate-desafios-e-futuro-do-mercado-segurador/',texto:'Bradesco Seguros mantém posição de <strong>maior grupo segurador da América Latina</strong> com influência dominante na agenda SUSEP e CNseg.',fonte:'Sincor-RJ',fonte_url:'https://revistaapolice.com.br/2026/05/enconseg-2026-debate-desafios-e-futuro-do-mercado-segurador/',fonte_label:'Revista Apólice',data:'Mai/2026'}
-    ])}
-    ${cb('2ª','SulAmérica Seguros','Grupo Generali · Capital Aberto',[
-      {tag:'new',tag_label:'RESULTADO',titulo:'SulAmérica encerra 1T26 com alta de 7,9% na receita líquida',url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',texto:'Forte em Saúde e Vida corporativo — <strong>concorrente direta da SU no B2B</strong>.',fonte:'SulAmérica',fonte_url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',fonte_label:'Revista Apólice',data:'Mai/2026'}
-    ])}
-    ${cb('3ª','Porto Seguro','Capital Aberto · B3: PSSA3',[
-      {tag:'new',tag_label:'RESULTADO',titulo:'Porto inicia 2026 com dois dígitos no lucro recorrente',url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',texto:'Líder em Auto. <strong>Porto Saúde</strong> com 763 mil beneficiários concorre com a SU nas praças premium.',fonte:'Porto Seguro',fonte_url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',fonte_label:'Revista Apólice',data:'Mai/2026'}
-    ])}
-    ${cb('4ª','Hapvida / NotreDame Intermédica','Grupo Viveo · B3: HAPV3',[
-      {tag:'hot',tag_label:'ESTRATÉGIA',titulo:'Hapvida mantém modelo verticalizado com hospitais próprios — vantagem de custo estrutural',url:'',texto:'Maior grupo de saúde do Brasil. Hospitais próprios garantem custo estruturalmente inferior. <strong>Líder no Norte e Nordeste.</strong> Monitorar deleveraging em 2026.',fonte:'Hapvida · ANS',fonte_url:'',fonte_label:'',data:'Mar/2025'}
-    ])}
-    ${cb('5ª','Icatu Seguros','Capital Fechado · Vida e Previdência',[
-      {tag:'opp',tag_label:'POSIÇÃO',titulo:'Icatu: referência em Vida e Previdência com modelo independente de bancassurance',url:'',texto:'Principal seguradora independente em Vida e Previdência via corretores. Forte em <strong>planejamento sucessório e proteção patrimonial</strong>.',fonte:'Icatu · SUSEP 2025',fonte_url:'',fonte_label:'',data:''}
-    ])}
-    ${cb('6ª','Amil Saúde','Grupo Seripieri · Capital Fechado desde 2024',[
-      {tag:'wtf',tag_label:'MONITORAR',titulo:'Amil sob novo controle de Seripieri — reposicionamento estratégico em curso',url:'',texto:'<strong>4ª maior operadora</strong> do Brasil. Foco em PME e grandes empresas. <strong>Monitorar movimentos de produto e distribuição ao longo de 2026.</strong>',fonte:'Amil · 2024–2026',fonte_url:'',fonte_label:'',data:''}
-    ])}
-    ${cb('7ª','Caixa Seguridade','Bancassurance · B3: CXSE3',[
-      {tag:'reg',tag_label:'AÇÃO',titulo:'Caixa ativa plano emergencial para segurados impactados por chuvas',url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',texto:'Forte em Habitacional — beneficiária direta do MCMV. Distribuição via <strong>rede da Caixa Econômica Federal</strong>.',fonte:'Caixa Seguridade',fonte_url:'https://revistaapolice.com.br/2026/05/susep-setor-arrecada-r-1061-bilhoes-ate-marco/',fonte_label:'Revista Apólice',data:'Mai/2026'}
-    ])}
-    ${cb('8ª ★','Seguros Unimed','Cooperativa · NÓS',[
-      {tag:'new',tag_label:'NÓS',titulo:'Unimed Odonto 1,3 mi · NPS nº 1 Brasil · nota máxima ANS/SUSEP pelo 6º ano · 3ª melhor seguradora BR',url:'',texto:'<strong>6,6 milhões de segurados</strong> em saúde com presença em 92% do território. 2ª cooperativa seguradora da América Latina.',fonte:'Seguros Unimed · Mar/2026',fonte_url:'',fonte_label:'',data:''}
-    ], true)}
-    ${cb('9ª','BB Seguros / Brasilseg','Bancassurance · Banco do Brasil',[
-      {tag:'wtf',tag_label:'CONTEXTO',titulo:'BB Seguros forte em Rural — segmento pressionado por inadimplência e PSR incerto',url:'',texto:'Rural projeta retração em 2026. Participa da <strong>Brasildental</strong> (joint-venture com OdontoPrev).',fonte:'BB Seguros · IRB · 2025–2026',fonte_url:'',fonte_label:'',data:''}
-    ])}
-    ${cb('10ª','Zurich Santander','Bancassurance · Grupo Zurich',[
-      {tag:'opp',tag_label:'POSIÇÃO',titulo:'Zurich Santander consolida bancassurance corporativo internacional',url:'',texto:'Forte em <strong>seguros corporativos</strong> via rede Santander. <strong>Menor sobreposição direta</strong> com o portfólio atual da SU.',fonte:'Zurich · Santander · SUSEP 2025',fonte_url:'',fonte_label:'',data:''}
-    ])}
+    <span>Monitoramento das <strong>10 principais seguradoras</strong>. Seguros Unimed na <strong>${posicaoSU}ª posição</strong>.</span></div>
+    ${conc.top10.map(c => cb(c.rank, c.nome, c.tipo, c.noticias, !!c.su)).join('')}
     <div class="impl-box" style="margin-top:16px">
       <div class="impl-title">⚡ Leitura Competitiva da Semana</div>
-      <div class="impl-txt">SulAmérica (+7,9%) e Porto (dois dígitos no lucro) confirmam crescimento robusto dos líderes. <strong>Amil sob novo controle</strong> é o concorrente a monitorar com mais atenção. <strong>Loovi no sandbox</strong> sinaliza que insurtechs digitais vão pressionar o Auto nos próximos 18 meses.</div>
+      <div class="impl-txt">${conc.leitura}</div>
     </div>`);
 }
 
 
 function renderCorretores() {
+  const cor = edicaoAtual.corretores;
+  if (!cor) {
+    set('panel-corretores', `<div class="alert-bar bl"><span class="alert-ico">🤝</span><span>Esta edição não possui dados estruturados de corretores (edição anterior à migração de junho/2026).</span></div>`);
+    return;
+  }
+  const t = cor.termometro || {};
+  const labels = {atividade:'Atividade do Canal', disputa:'Disputa pelo Canal', digitalizacao:'Digitalização do Canal'};
   set('panel-corretores', `
     <div class="alert-bar bl"><span class="alert-ico">🤝</span>
-    <span>Monitoramento do <strong>canal de corretores</strong> — movimentos das grandes corretoras, o que o mercado oferece ao corretor e perguntas estratégicas para a alta direção. Cadência: <strong>quinzenal</strong>.</span></div>
+    <span>Monitoramento do <strong>canal de corretores</strong> — movimentos das grandes corretoras, benchmark e voz do corretor.</span></div>
 
     <!-- TERMÔMETRO DO CANAL -->
     <div class="sec-block">
       <div class="slabel">Termômetro do Canal</div>
       <div class="termometro">
-        <div class="termo-card" style="cursor:pointer" onclick="window.open('https://revistaapolice.com.br/2026/05/enconseg-2026-debate-desafios-e-futuro-do-mercado-segurador/','_blank')">
-          <div class="termo-indicator att">🔥</div>
-          <div>
-            <div class="termo-label att">Atividade do Canal</div>
-            <div class="termo-status">Aquecido ↗</div>
-            <div class="termo-reason">Enconseg 2026 reuniu corretores e seguradoras com casa cheia. Categoria investe em qualificação e diversificação de carteira. Forte movimento de networking entre entidades.</div>
-          </div>
-        </div>
-        <div class="termo-card" style="cursor:pointer" onclick="window.open('https://revistaapolice.com.br/2026/02/bradesco-seguros-fortalece-presenca-digital-dos-corretores-em-novo-programa/','_blank')">
-          <div class="termo-indicator bad">⚡</div>
-          <div>
-            <div class="termo-label bad">Disputa pelo Canal</div>
-            <div class="termo-status">Intensa ↗</div>
-            <div class="termo-reason">Porto lança "Acelera Seguro Vida" com 35% de desconto. Bradesco cria "Com Você Corretor On". SulAmérica lança plataforma de e-commerce para corretores. Canal muito disputado.</div>
-          </div>
-        </div>
-        <div class="termo-card" style="cursor:pointer" onclick="window.open('https://cqcs.com.br/noticia/corretores-de-seguros-na-era-dos-algoritmos-os-tres-anos-que-testarao-a-permanencia-no-mercado/','_blank')">
-          <div class="termo-indicator att">📱</div>
-          <div>
-            <div class="termo-label att">Digitalização do Canal</div>
-            <div class="termo-status">Em Aceleração ↗</div>
-            <div class="termo-reason">IA, plataformas digitais e multicálculo dominam a agenda. ENS TechVillage leva inovação para corretores. Transformação digital é irreversível — corretor que não se adaptar perde espaço.</div>
-          </div>
-        </div>
+        ${['atividade','disputa','digitalizacao'].filter(k=>t[k]).map(k=>`
+          <div class="termo-card" style="cursor:${t[k].url?'pointer':'default'}" onclick="${t[k].url?`window.open('`+t[k].url+`','_blank')`:''}">
+            <div class="termo-indicator ${t[k].status}">${t[k].emoji}</div>
+            <div><div class="termo-label ${t[k].status}">${labels[k]}</div>
+            <div class="termo-status">${t[k].titulo}${t[k].url?` <span style="color:var(--azul-med);font-size:10px">↗</span>`:''}</div>
+            <div class="termo-reason">${t[k].texto}</div></div>
+          </div>`).join('')}
       </div>
     </div>
 
     <!-- GRANDES CORRETORAS -->
     <div class="sec-block">
       <div class="slabel">Grandes Corretoras & Brokers — Movimentos Estratégicos</div>
-
-      <div class="comp-block">
-        <div class="comp-header">
-          <span class="comp-rank" style="background:#1D4ED8">Global</span>
-          <span class="comp-name">Marsh Brasil</span>
-          <span class="comp-type">Marsh McLennan · Broker Global</span>
-        </div>
-        <div class="comp-body"><div class="nfeed">
-          <div class="ncard"><span class="ntag reg">POSIÇÃO</span><div class="ncontent">
-            <div class="nhead">Marsh mantém liderança em riscos corporativos complexos e resseguro no Brasil</div>
-            <div class="ntxt">Maior broker global com forte presença no segmento corporativo brasileiro. Foco em <strong>riscos complexos, D&O, cyber e resseguro</strong>. Clientes: grandes empresas, multinacionais e setor público. Canal com menor sobreposição direta ao portfólio de varejo da SU, mas relevante em Elementares e Garantia.</div>
-            <div class="nmeta"><span>Marsh McLennan</span><span class="nmeta-dot"></span><span>2026</span></div>
-          </div></div>
-        </div></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="comp-header">
-          <span class="comp-rank" style="background:#1D4ED8">Global</span>
-          <span class="comp-name">Aon Brasil</span>
-          <span class="comp-type">Aon PLC · Broker Global</span>
-        </div>
-        <div class="comp-body"><div class="nfeed">
-          <div class="ncard"><span class="ntag new">MOVIMENTO</span><div class="ncontent">
-            <div class="nhead"><a href="https://cqcs.com.br" target="_blank">Aon anuncia Fabio Martinez como novo Head of Health & Talent para o Brasil</a></div>
-            <div class="ntxt">Reforço na área de <strong>Saúde e Benefícios Corporativos</strong> com perfil atuarial. Sinaliza aposta da Aon no segmento de saúde empresarial — terreno onde a Seguros Unimed também compete. Aon e Redkik firmaram parceria em 2025 para seguros com tecnologia, ampliando capacidade digital no canal.</div>
-            <div class="nmeta"><span>Aon Brasil</span><span class="nmeta-dot"></span><a href="https://www.insurtech.com.br/seguros/mercado-em-movimento-marco-de-2026/" target="_blank">InsurTech BR</a><span class="nmeta-dot"></span><span>Mar/2026</span></div>
-          </div></div>
-        </div></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="comp-header">
-          <span class="comp-rank" style="background:#1D4ED8">Global</span>
-          <span class="comp-name">Willis Towers Watson</span>
-          <span class="comp-type">WTW · Broker Global</span>
-        </div>
-        <div class="comp-body"><div class="nfeed">
-          <div class="ncard"><span class="ntag opp">CONTEXTO</span><div class="ncontent">
-            <div class="nhead">WTW mantém foco em benefícios corporativos e gestão de riscos no Brasil</div>
-            <div class="ntxt">Forte em <strong>benefícios, previdência corporativa e riscos de pessoas</strong>. Relevante para a Seguros Unimed especialmente nos ramos de Vida e Previdência corporativa. Segmento onde a SU tem lacuna estratégica e o WTW atua como influenciador de compra para grandes empregadores.</div>
-            <div class="nmeta"><span>Willis Towers Watson</span><span class="nmeta-dot"></span><span>2026</span></div>
-          </div></div>
-        </div></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="comp-header">
-          <span class="comp-rank">Nacional</span>
-          <span class="comp-name">Wiz Co</span>
-          <span class="comp-type">B3: WIZC3 · Corretora Nacional</span>
-        </div>
-        <div class="comp-body"><div class="nfeed">
-          <div class="ncard"><span class="ntag wtf">MONITORAR</span><div class="ncontent">
-            <div class="nhead"><a href="https://cqcs.com.br" target="_blank">Wiz Co é a única corretora de seguros no ranking das 1000 maiores empresas do Brasil</a></div>
-            <div class="ntxt">Maior corretora nacional independente. Forte em bancassurance via parcerias (Banco Inter, ex-CEF). Presente em <strong>400 municípios</strong> do Brasil. Luis Capobianco assumiu como Superintendente de Crédito na Wiz Corporate em março/2026 — reforço em crédito sinaliza diversificação de atuação além do seguro tradicional.</div>
-            <div class="nmeta"><span>Wiz Co · CQCS</span><span class="nmeta-dot"></span><a href="https://www.insurtech.com.br/seguros/mercado-em-movimento-marco-de-2026/" target="_blank">InsurTech BR</a><span class="nmeta-dot"></span><span>Mar/2026</span></div>
-          </div></div>
-        </div></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="comp-header">
-          <span class="comp-rank">Nacional</span>
-          <span class="comp-name">Grupo Assure de Seguros</span>
-          <span class="comp-type">Corretora Nacional · Fenacor</span>
-        </div>
-        <div class="comp-body"><div class="nfeed">
-          <div class="ncard"><span class="ntag reg">VOZ</span><div class="ncontent">
-            <div class="nhead"><a href="https://cqcs.com.br/noticia/enconseg-2026-reune-corretores-e-seguradores-para-discutirem-o-futuro-do-mercado/" target="_blank">Henrique Brandão Junior (Assure) eleito Vice-Presidente de Relação com o Mercado da Fenacor</a></div>
-            <div class="ntxt">Liderança crescente na Fenacor sinaliza maior influência do Grupo Assure na pauta regulatória e de relacionamento com seguradoras. Brandão defendeu no Enconseg 2026 que <strong>"o corretor continuará sendo muito importante, mas precisa buscar aprimoramento constante"</strong>. Corretora com forte atuação no Rio de Janeiro.</div>
-            <div class="nmeta"><span>Fenacor · CQCS</span><span class="nmeta-dot"></span><a href="https://cqcs.com.br/noticia/enconseg-2026-reune-corretores-e-seguradores-para-discutirem-o-futuro-do-mercado/" target="_blank">CQCS</a><span class="nmeta-dot"></span><span>Mai/2026</span></div>
-          </div></div>
-        </div></div>
-      </div>
-
+      ${(cor.grandes_corretoras||[]).map(c => cb(c.rank || '', c.nome, c.tipo, c.noticias)).join('')}
     </div>
 
-    <!-- O QUE O MERCADO OFERECE AO CORRETOR -->
+    <!-- BENCHMARK -->
     <div class="sec-block">
       <div class="slabel">Benchmark — O que as Melhores Seguradoras fazem pelo Corretor</div>
-      <div class="nfeed">
-
-        <div class="ncard"><span class="ntag hot">BENCHMARK</span><div class="ncontent">
-          <div class="nhead"><a href="https://www.revistacobertura.com.br/noticias/instituicoes/no-ccs-sp-ceo-da-porto-seguro-fala-sobre-momento-de-expansao-e-do-compromisso-com-os-corretores/" target="_blank">Porto Seguro: campanha "Acelera Seguro Vida" com 35% de desconto + "A Voz do Corretor" como prática permanente</a></div>
-          <div class="ntxt">CEO Patricia Chacon declarou no CCS-SP: <em>"Para a Porto, corretor é para sempre."</em> A empresa criou internamente <strong>"A Voz do Corretor"</strong> — escuta ativa em campo, eventos e canais digitais, com registro em sistema online e acompanhamento de execução. Campanhas "Acelera Auto Day" e "Fecha com a Porto" geraram cross-sell: clientes com média de 2 produtos vs 1,4 em 2020.</div>
-          <div class="nmeta"><span>Porto Seguro · CCS-SP</span><span class="nmeta-dot"></span><a href="https://www.revistacobertura.com.br/noticias/instituicoes/no-ccs-sp-ceo-da-porto-seguro-fala-sobre-momento-de-expansao-e-do-compromisso-com-os-corretores/" target="_blank">Revista Cobertura</a><span class="nmeta-dot"></span><span>Mar/2026</span></div>
-        </div></div>
-
-        <div class="ncard"><span class="ntag hot">BENCHMARK</span><div class="ncontent">
-          <div class="nhead"><a href="https://revistaapolice.com.br/2026/02/bradesco-seguros-fortalece-presenca-digital-dos-corretores-em-novo-programa/" target="_blank">Bradesco Seguros lança "Com Você Corretor On" — programa para capacitar corretores nas redes sociais</a></div>
-          <div class="ntxt">Iniciativa piloto que capacita corretores para atuação digital e redes sociais — além do Portal de Negócios, app exclusivo e suporte por WhatsApp. <strong>Bradesco Seguros já tem portal, app, treinamentos e agora adiciona presença digital como diferencial de parceria</strong>. Pacote de relacionamento com o corretor mais completo do mercado.</div>
-          <div class="nmeta"><span>Bradesco Seguros</span><span class="nmeta-dot"></span><a href="https://revistaapolice.com.br/2026/02/bradesco-seguros-fortalece-presenca-digital-dos-corretores-em-novo-programa/" target="_blank">Revista Apólice</a><span class="nmeta-dot"></span><span>Fev/2026</span></div>
-        </div></div>
-
-        <div class="ncard"><span class="ntag hot">BENCHMARK</span><div class="ncontent">
-          <div class="nhead"><a href="https://www.insurtalks.com.br/posts/sulamerica-lanca-plataforma-para-corretores-criarem-seus-proprios-sites-de-vendas-de-seguro-de-vida" target="_blank">SulAmérica lança "Meu Contrata Fácil" — corretor cria seu próprio e-commerce de Seguro de Vida gratuitamente</a></div>
-          <div class="ntxt">Plataforma gratuita e personalizável onde o corretor cria sua loja online com marca própria, vende 24h, acompanha carrinhos abandonados e gera relatórios de vendas. <strong>Único no mercado</strong> — combina autonomia do corretor com estrutura da seguradora. Disponível via Portal do Corretor SulAmérica.</div>
-          <div class="nmeta"><span>SulAmérica</span><span class="nmeta-dot"></span><a href="https://www.insurtalks.com.br/posts/sulamerica-lanca-plataforma-para-corretores-criarem-seus-proprios-sites-de-vendas-de-seguro-de-vida" target="_blank">InsurTalks</a></div>
-        </div></div>
-
-        <div class="ncard"><span class="ntag new">TENDÊNCIA</span><div class="ncontent">
-          <div class="nhead"><a href="https://cqcs.com.br/noticia/corretores-de-seguros-na-era-dos-algoritmos-os-tres-anos-que-testarao-a-permanencia-no-mercado/" target="_blank">Corretores na era dos algoritmos: os 3 anos que definirão quem permanece no mercado</a></div>
-          <div class="ntxt">Fenacor e Sincor-SP investem em capacitação digital e IA para preparar corretores para a transformação irreversível do setor. <strong>ENS TechVillage</strong> levou experiência imersiva de inovação para corretores no ConsegNNE. Seguradoras que oferecerem suporte tecnológico ao corretor terão vantagem competitiva no canal.</div>
-          <div class="nmeta"><span>Fenacor · Sincor-SP · CQCS</span><span class="nmeta-dot"></span><a href="https://cqcs.com.br/noticia/corretores-de-seguros-na-era-dos-algoritmos-os-tres-anos-que-testarao-a-permanencia-no-mercado/" target="_blank">CQCS</a><span class="nmeta-dot"></span><span>Fev/2026</span></div>
-        </div></div>
-
-      </div>
+      <div class="nfeed">${(cor.benchmark||[]).map(x=>n(x)).join('')}</div>
     </div>
 
     <!-- VOZ DO CORRETOR -->
     <div class="sec-block">
       <div class="slabel">Voz do Corretor — O que o Canal espera das Seguradoras</div>
-      <div class="vozes">
-
+      <div class="vozes">${(cor.vozes||[]).map(v=>`
         <div class="voz-card">
-          <div class="voz-quote">Hoje, o consumidor já nasce com um celular na mão. Quer tudo rápido e transparente. Mas, na hora de um sinistro, não abre mão da empatia e do atendimento humano que só o Corretor pode oferecer.</div>
+          <div class="voz-quote">${v.quote}</div>
           <div class="voz-meta">
-            <div class="voz-avatar">AV</div>
-            <div><div class="voz-name">Armando Vergilio</div><div class="voz-role">Presidente · Fenacor</div></div>
-            <div class="voz-ctx">Enconseg 2026 · Mai/2026</div>
+            <div class="voz-avatar">${v.avatar}</div>
+            <div><div class="voz-name">${v.nome}</div><div class="voz-role">${v.cargo}</div></div>
+            <div class="voz-ctx">${v.contexto}</div>
           </div>
-        </div>
-
-        <div class="voz-card">
-          <div class="voz-quote">O Corretor precisa estar sempre junto do segurado para oferecer múltiplos produtos e soluções de acordo com as necessidades do cliente. É indispensável ficar alerta às mudanças regulatórias.</div>
-          <div class="voz-meta">
-            <div class="voz-avatar">BB</div>
-            <div><div class="voz-name">Boris Ber</div><div class="voz-role">Presidente · Sincor-SP</div></div>
-            <div class="voz-ctx">Enconseg 2026 · Mai/2026</div>
-          </div>
-        </div>
-
-        <div class="voz-card">
-          <div class="voz-quote">O corretor não opera o algoritmo, mas traduz o que ele produz em termos que o cliente compreende e pode contestar. Esse é o papel estratégico da intermediação qualificada.</div>
-          <div class="voz-meta">
-            <div class="voz-avatar">MM</div>
-            <div><div class="voz-name">Manuel Matos</div><div class="voz-role">Delegado Sincor-SP · Fenacor</div></div>
-            <div class="voz-ctx">ConsegNNE · Mar/2026</div>
-          </div>
-        </div>
-
+        </div>`).join('')}
       </div>
     </div>
 
     <div class="opp-card" style="margin-top:12px">
       <div class="opp-label">🚀 Oportunidade Estratégica</div>
-      <div class="opp-txt">A Seguros Unimed tem um diferencial único para o canal: <strong>o médico cooperado como aliado natural do corretor</strong> — nenhuma concorrente tem esse ativo. Um programa de parceria corretor-médico Unimed para indicação e venda conjunta de Vida, Odonto e Saúde seria inédito no mercado e de baixo custo de implementação.</div>
+      <div class="opp-txt">${cor.oportunidade}</div>
     </div>
   `);
 }
@@ -1297,13 +1157,13 @@ function abrirNewsletter() {
   ).join('\n');
 
   const preview = `
-    <strong>Assunto:</strong> 📡 Radar Estratégico · ${ed.titulo}<br><br>
+    <strong>Assunto:</strong> 📡 Copiloto da Estratégia · ${ed.titulo}<br><br>
     <strong>Corpo:</strong><br>
     Prezados,<br><br>
-    A edição desta semana do Radar Estratégico está disponível. Destaques:<br><br>
+    A edição desta semana do Copiloto da Estratégia está disponível. Destaques:<br><br>
     ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('<br>')}
     <br><br>
-    🔗 Acesse o radar completo:<br>
+    🔗 Acesse o Copiloto completo:<br>
     <strong>https://segurosunimed.github.io/radar_da_estrategia</strong><br><br>
     Gerência de Estratégia · Seguros Unimed`;
 
@@ -1318,16 +1178,16 @@ function fecharNewsletter() {
 
 function montarEmailParams() {
   const ed = edicaoAtual;
-  const assunto = encodeURIComponent(`📡 Radar Estratégico · ${ed.titulo}`);
+  const assunto = encodeURIComponent(`📡 Copiloto da Estratégia · ${ed.titulo}`);
   const corpo = encodeURIComponent(
 `Prezados,
 
-A edição desta semana do Radar Estratégico está disponível.
+A edição desta semana do Copiloto da Estratégia está disponível.
 
 Destaques da semana:
 ${ed.secoes.geral.noticias.slice(0,3).map(n=>`• ${n.titulo.replace(/<[^>]*>/g,'')}`).join('\n')}
 
-Acesse o radar completo com todas as análises por segmento, movimentos de concorrentes e agenda estratégica:
+Acesse o Copiloto completo com todas as análises por segmento, movimentos de concorrentes e agenda estratégica:
 https://segurosunimed.github.io/radar_da_estrategia
 
 Gerência de Estratégia · Seguros Unimed`
@@ -1347,13 +1207,6 @@ function enviarGmail() {
   const dest = DESTINATARIOS_DEFAULT.join(',');
   window.open(`https://mail.google.com/mail/?view=cm&to=${encodeURIComponent(dest)}&su=${assunto}&body=${corpo}`, '_blank');
   fecharNewsletter();
-}
-
-// ─── PPTX ─────────────────────────────────────────────────────────────────────
-function gerarPPTX() {
-  const ed = edicaoAtual;
-  const msg = `Para gerar o PPTX desta edição, abra o projeto no Claude e use o comando:\n\n"Gera o PPTX do Radar Estratégico — ${ed.titulo}"\n\nO Claude vai gerar os slides com os dados desta edição e entregar o arquivo para download.`;
-  alert(msg);
 }
 
 // ─── NAVEGAÇÃO ────────────────────────────────────────────────────────────────
