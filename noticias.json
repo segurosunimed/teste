@@ -1,6 +1,1520 @@
 {
   "edicoes": [
     {
+      "id": "2026-07-31",
+      "titulo": "Edição 31/Jul/2026",
+      "data": "31 de julho de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "att",
+          "emoji": "⚖️",
+          "titulo": "Atenção",
+          "url": "https://francesnews.com.br/post/2026/07/26/32809-ans-nega-reajuste-extraordinario-em-planos-de-saude-e-afirma-que-unico-indice-autorizado-e-de-511",
+          "texto": "ANS nega publicamente qualquer reajuste extraordinário e reafirma que o único índice autorizado para individuais é 5,11% — mas a proposta de 'revisão técnica' (suspensa pela Justiça Federal desde 2025) segue em avaliação interna e pode voltar à Diretoria Colegiada. Susep retoma divulgação do painel de corretores e analisa nova resolução sobre seguros de danos em reunião de diretoria."
+        },
+        "competitivo": {
+          "status": "bad",
+          "emoji": "🔥",
+          "titulo": "Muito Intenso",
+          "url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+          "texto": "Amil avalia venda de participação para fundos internacionais (Bain Capital, Advent) em meio à incerteza regulatória da ANS; BB Seguros lança Seguro de Doenças Graves com mapeamento genético; Icatu eleva capital segurado em Vida Individual para R$150 milhões — mercado segue em movimento acelerado de produto e M&A."
+        },
+        "sentimento": {
+          "status": "att",
+          "emoji": "🧭",
+          "titulo": "Resiliência em foco",
+          "url": "https://www.reinsurancene.ws/",
+          "texto": "Munich Re reporta perdas seguradas por catástrofes naturais de US$ 44 bi no 1S26; Swiss Re e SAS anunciam parceria para IA aplicada à resiliência de risco. No Brasil, corretores debatem baixa cobertura como oportunidade de negócio, na reta final de inscrições para o 24º Congresso Brasileiro de Corretores."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "ANS nega reajuste extraordinário e reafirma que único índice autorizado para individuais é 5,11%, mas 'revisão técnica' continua em avaliação interna",
+              "url": "https://francesnews.com.br/post/2026/07/26/32809-ans-nega-reajuste-extraordinario-em-planos-de-saude-e-afirma-que-unico-indice-autorizado-e-de-511",
+              "texto": "A proposta de um terceiro tipo de reajuste para planos individuais — batizada de 'revisão técnica' e capaz de elevar mensalidades além do teto anual — segue suspensa por decisão da Justiça Federal desde 2025, mas a ANS já sinalizou que pode levá-la novamente à Diretoria Colegiada após nova Análise de Impacto Regulatório.",
+              "fonte": "ANS",
+              "fonte_url": "https://francesnews.com.br/post/2026/07/26/32809-ans-nega-reajuste-extraordinario-em-planos-de-saude-e-afirma-que-unico-indice-autorizado-e-de-511",
+              "fonte_label": "Frances News",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Amil avalia venda de participação para Bain Capital ou Advent em meio a incertezas regulatórias no setor de saúde suplementar",
+              "url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+              "texto": "As negociações, ainda preliminares, ganham novo peso diante de especulações sobre mudanças regulatórias em estudo pelo governo federal e pela ANS — o que já leva investidores e consultorias de fusões e aquisições a revisar suas análises sobre todo o setor de saúde suplementar, não apenas sobre a Amil.",
+              "fonte": "Amil",
+              "fonte_url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Festival de Teatro Seguros Unimed chega à 3ª edição e expande atuação para Minas Gerais e Espírito Santo",
+              "url": "https://cqcs.com.br/noticia/festival-de-teatro-seguros-unimed-realiza-mais-de-100-apresentacoes-em-28-cidades-da-regiao-sudeste/",
+              "texto": "O circuito cultural, que começa em agosto e vai até outubro, passa a reunir mais de 100 apresentações em 28 cidades de três estados — ampliação inédita que reforça a estratégia de marca da companhia como pilar de conexão social e acesso à cultura fora dos grandes centros.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/festival-de-teatro-seguros-unimed-realiza-mais-de-100-apresentacoes-em-28-cidades-da-regiao-sudeste/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "BB Seguros lança Seguro de Doenças Graves com benefício de mapeamento genético",
+              "url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+              "texto": "O produto da Brasilseg chega em três modalidades — Essencial, Ampliada e Total — com a possibilidade de incluir o cônjuge na mesma apólice; no plano Total, o cliente tem acesso a mapeamento genético para identificar predisposições a doenças, unindo proteção financeira e prevenção.",
+              "fonte": "BB Seguros · Brasilseg",
+              "fonte_url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+              "fonte_label": "SEGS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Icatu eleva capital segurado do seguro de vida individual para R$150 milhões e amplia idade máxima de contratação",
+              "url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+              "texto": "A companhia também elevou a idade máxima de contratação para 80 anos e passou a oferecer opções sem possibilidade de resgate, mirando famílias, empresários e clientes com estruturas patrimoniais mais sofisticadas.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CORRETORES",
+              "titulo": "Susep volta a divulgar Painel de Corretores após 45 dias e confirma 24º Congresso Brasileiro de Corretores para agosto no Rio",
+              "url": "https://www.fenacor.org.br/noticias/susep-volta-a-divulgar-dados-sobre-corretores",
+              "texto": "A autarquia retomou a atualização do painel nesta segunda-feira (28), enquanto a Fenacor encerra nesta sexta (31) as inscrições para o Congresso, que reunirá mais de 80 painéis sobre IA, regulação e diversificação de carteira entre 27 e 29 de agosto.",
+              "fonte": "Susep · Fenacor",
+              "fonte_url": "https://www.fenacor.org.br/noticias/susep-volta-a-divulgar-dados-sobre-corretores",
+              "fonte_label": "Fenacor",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "ODONTO",
+              "titulo": "Campanha Julho Neon mobiliza o setor e Odontoprev se compromete a doar 500 planos odontológicos para pessoas em vulnerabilidade",
+              "url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "texto": "A ação social usa a plataforma digital Galeria do Sorriso para mobilizar o público e destravar a doação ao atingir a meta de 6 mil registros — iniciativa que reforça o papel do setor odontológico suplementar em ampliar acesso à saúde bucal.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "fonte_label": "SEGS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "glob",
+              "tag_label": "GLOBAL",
+              "titulo": "Munich Re reporta perdas seguradas de US$ 44 bilhões por catástrofes naturais no primeiro semestre de 2026",
+              "url": "https://www.reinsurancene.ws/",
+              "texto": "O montante confirma a tendência de maior severidade de eventos climáticos monitorada globalmente pelas resseguradoras, na mesma semana em que Swiss Re e SAS anunciam parceria para reforçar a resiliência do setor por meio de inteligência artificial aplicada a risco.",
+              "fonte": "Munich Re",
+              "fonte_url": "https://www.reinsurancene.ws/",
+              "fonte_label": "Reinsurance News",
+              "data": "Jul/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "O diagnóstico de uma doença grave pode gerar impactos emocionais, familiares e financeiros. Por isso, desenvolvemos uma solução que combina proteção financeira, prevenção e acesso a serviços de saúde.",
+              "avatar": "TR",
+              "nome": "Tatiene Rokkaku",
+              "cargo": "Superintendente Executiva de Produtos Vida · Brasilseg (BB Seguros)",
+              "contexto": "SEGS · Jul/2026"
+            },
+            {
+              "quote": "A ampliação do capital segurado reforça a capacidade da companhia de atender famílias, empresários e clientes com estruturas patrimoniais mais sofisticadas.",
+              "avatar": "IC",
+              "nome": "Icatu Seguros",
+              "cargo": "Comunicado oficial · Elevação de capital segurado em Vida",
+              "contexto": "Revista Apólice · Jul/2026"
+            },
+            {
+              "quote": "Nossa expansão para três estados diferentes permite criar um intercâmbio de plateias e cumprir a missão de levar o teatro a palcos descentralizados.",
+              "avatar": "VF",
+              "nome": "Vicente Freitas",
+              "cargo": "Idealizador e Diretor Geral · Festival de Teatro Seguros Unimed",
+              "contexto": "CQCS · Jul/2026"
+            }
+          ],
+          "implicacao": "A semana confirma que reguladores e mercado seguem em rota de colisão em Saúde: a ANS nega publicamente qualquer reajuste extraordinário, mas mantém viva a discussão da 'revisão técnica' — o que ajuda a explicar por que a Amil avalia vender participação para fundos internacionais justamente num momento de maior incerteza regulatória. Em paralelo, o mercado de Vida segue em ritmo de inovação de produto (Icatu, BB Seguros/Brasilseg), o que reforça a pressão competitiva sobre a Seguros Unimed nesse ramo. A companhia, por sua vez, aparece bem posicionada institucionalmente com a expansão do Festival de Teatro para novos estados — ativo de marca relevante, ainda que sem correspondência direta em lançamento de produto nesta semana."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "ANS nega reajuste extraordinário e reafirma teto de 5,11% para individuais, mas 'revisão técnica' segue em avaliação apesar da suspensão judicial",
+              "url": "https://francesnews.com.br/post/2026/07/26/32809-ans-nega-reajuste-extraordinario-em-planos-de-saude-e-afirma-que-unico-indice-autorizado-e-de-511",
+              "texto": "A discussão sobre o novo mecanismo — que poderia elevar mensalidades em até 20% ao ano somando-se ao reajuste anual — foi suspensa pela Justiça Federal em 2025 após ação da Abramge, mas a agência já promoveu nova Análise de Impacto Regulatório e pode levar o tema de volta à Diretoria Colegiada.",
+              "fonte": "ANS",
+              "fonte_url": "https://francesnews.com.br/post/2026/07/26/32809-ans-nega-reajuste-extraordinario-em-planos-de-saude-e-afirma-que-unico-indice-autorizado-e-de-511",
+              "fonte_label": "Frances News",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Amil avalia venda de participação para Bain Capital ou Advent International em meio a incertezas regulatórias na saúde suplementar",
+              "url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+              "texto": "Nenhuma medida regulatória foi oficialmente anunciada, mas o simples aumento da incerteza já influencia as análises de investidores e consultorias especializadas em fusões e aquisições sobre o setor como um todo — não apenas sobre a operadora.",
+              "fonte": "Amil",
+              "fonte_url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EXPANSÃO",
+              "titulo": "Onmed escolhe Minas Gerais para ampliar operações",
+              "url": "https://revistaapolice.com.br/2026/07/onmed-escolhe-minas-gerais-para-ampliar-operacoes/",
+              "texto": "A operadora regional inicia nova etapa de expansão a partir do estado, sinalizando o interesse crescente de operadoras fora do eixo Rio-São Paulo em capturar espaço fora dos grandes centros.",
+              "fonte": "Onmed Saúde",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/onmed-escolhe-minas-gerais-para-ampliar-operacoes/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jun/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "COMPETITIVO",
+              "titulo": "Hapvida segue sob pressão competitiva e revisão de comando, avaliando venda de ativos não estratégicos no Sul do país",
+              "url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+              "texto": "Bancos de investimento revisaram o ritmo esperado de recuperação da companhia diante da continuidade da retração de carteira e da pressão sobre custos assistenciais, num cenário que analistas descrevem como de disputa mais intensa por participação entre as operadoras em 2026.",
+              "fonte": "Hapvida",
+              "fonte_url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+              "fonte_label": "ADVFN News",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "ODONTO/SAÚDE",
+              "titulo": "Julho Neon mobiliza o setor de saúde bucal: Odontoprev se compromete a doar 500 planos odontológicos ao atingir meta social",
+              "url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "texto": "A campanha reforça o vínculo entre marketing de propósito e acesso à saúde suplementar, tema que ganha relevância em meio ao debate regulatório sobre reajustes e sustentabilidade do setor.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "fonte_label": "SEGS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "Sincor-SP promove encontro sobre o mercado odontológico em expansão como oportunidade de negócio para corretores de Saúde",
+              "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "texto": "A Comissão de Saúde e Odonto do sindicato recebe a Odontoprev para debater a porta de entrada que planos odontológicos representam para novos negócios do corretor, num momento de crescimento sustentado da base de beneficiários exclusivamente odontológicos.",
+              "fonte": "Sincor-SP · Odontoprev",
+              "fonte_url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "fonte_label": "Revista Cobertura",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "A negação pública da ANS sobre reajuste extraordinário não encerra o debate: a 'revisão técnica' segue viva internamente e pode voltar à pauta a qualquer momento, mantendo o setor em compasso de espera regulatória — pano de fundo que ajuda a explicar por que a Amil avalia vender participação relevante justamente agora. Ao mesmo tempo, a Hapvida segue em modo de reestruturação defensiva, enquanto operadoras regionais como a Onmed aproveitam a janela para expandir fora dos grandes centros.",
+          "oportunidade": "O ambiente de incerteza sobre a Amil e a fragilidade competitiva da Hapvida abrem espaço para a Seguros Unimed reforçar sua posição de estabilidade regulatória (6 anos com nota máxima ANS/SUSEP) como argumento comercial diferenciado junto a corretores e clientes corporativos que buscam previsibilidade num momento de instabilidade entre concorrentes."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "MOBILIZAÇÃO SOCIAL",
+              "titulo": "Julho Neon: Odontoprev se compromete a doar 500 planos odontológicos ao atingir meta de 6 mil registros na Galeria do Sorriso",
+              "url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "texto": "Líder em planos odontológicos na América Latina, a Odontoprev integra a campanha que transforma engajamento digital em acesso real a tratamento odontológico para pessoas em situação de vulnerabilidade — iniciativa que reforça o vínculo entre a marca e a democratização do acesso à saúde bucal.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+              "fonte_label": "SEGS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "IESS registra expansão sustentada da base de beneficiários exclusivamente odontológicos, com Sincor-SP promovendo capacitação de corretores no tema",
+              "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "texto": "A Comissão de Saúde e Odonto do Sincor-SP recebe a Odontoprev para apresentar o plano odontológico como porta de entrada para novos negócios do corretor, reforçando a percepção do segmento como oportunidade de cross-sell num momento favorável do mercado.",
+              "fonte": "IESS · Sincor-SP",
+              "fonte_url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "fonte_label": "Revista Cobertura",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "INTEGRAÇÃO",
+              "titulo": "BradSaúde mantém Odontoprev como marca comercial enquanto integra a operação odontológica à estrutura mais ampla de saúde do grupo",
+              "url": "https://www.seudinheiro.com/2026/empresas/adeus-odpv3-ola-saud3-acionistas-dao-o-sim-para-uniao-entre-a-odontoprev-e-o-braco-de-saude-do-bradesco-bbdc4-ccgg/",
+              "texto": "A holding de saúde do Bradesco preserva a força de marca já consolidada com corretores e clientes, enquanto avança na integração operacional que passou a reunir as marcas do grupo sob um único guarda-chuva.",
+              "fonte": "BradSaúde · Odontoprev",
+              "fonte_url": "https://www.seudinheiro.com/2026/empresas/adeus-odpv3-ola-saud3-acionistas-dao-o-sim-para-uniao-entre-a-odontoprev-e-o-braco-de-saude-do-bradesco-bbdc4-ccgg/",
+              "fonte_label": "Seu Dinheiro",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "JUDICIALIZAÇÃO",
+              "titulo": "Jurisprudência do 'falso coletivo' segue avançando nos tribunais e pode alcançar contratos odontológicos vinculados a planos coletivos empresariais",
+              "url": "https://www.conjur.com.br/2026-jul-13/plano-de-saude-empresarial-com-uma-familia-deve-ter-reajuste-limitado-pela-ans/",
+              "texto": "Tribunais como TJ-SP e STJ vêm reconhecendo que planos coletivos restritos a um único núcleo familiar devem seguir o teto de reajuste da ANS para individuais — entendimento que tende a se estender à discussão sobre reajustes de planos odontológicos coletivos.",
+              "fonte": "TJ-SP · STJ",
+              "fonte_url": "https://www.conjur.com.br/2026-jul-13/plano-de-saude-empresarial-com-uma-familia-deve-ter-reajuste-limitado-pela-ans/",
+              "fonte_label": "Conjur",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "PRODUTO",
+              "titulo": "Convênios e planos odontológicos por adesão via entidades de classe seguem como via relevante de captação para operadoras do setor",
+              "url": "https://oabrj.org.br/noticias/ja-esta-vigor-novo-plano-odontologico-oabrj-odonto-system",
+              "texto": "Acordos como o da OAB-RJ, que transferiu automaticamente titulares para uma nova rede odontológica sem custo adicional, ilustram como parcerias institucionais seguem sendo canal relevante de captação de beneficiários no segmento odontológico.",
+              "fonte": "OAB-RJ · Odontoprev",
+              "fonte_url": "https://oabrj.org.br/noticias/ja-esta-vigor-novo-plano-odontologico-oabrj-odonto-system",
+              "fonte_label": "OAB-RJ",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "A campanha Julho Neon reforça a associação entre a Odontoprev e o propósito social no segmento, na mesma semana em que o IESS confirma que o mercado odontológico segue em expansão sustentada — o que mantém o setor atrativo tanto para consolidação (BradSaúde/Odontoprev) quanto para captação via canais institucionais (convênios de classe).",
+          "oportunidade": "A Unimed Odonto, com NPS nº 1 do Brasil, tem espaço para capitalizar sobre o momentum do Julho Neon e da expansão do mercado, propondo ações de responsabilidade social semelhantes junto às Unimeds regionais e reforçando parcerias por adesão com entidades de classe ainda não conveniadas."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "PRODUTO",
+              "titulo": "Icatu eleva capital segurado do seguro de vida individual para R$150 milhões e amplia idade máxima de contratação para 80 anos",
+              "url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+              "texto": "A companhia também passou a oferecer opções de contratação sem possibilidade de resgate e prepara uma nova modalidade de pagamento único — movimento que mira famílias, empresários e clientes com estruturas patrimoniais mais sofisticadas.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "BB Seguros lança Seguro de Doenças Graves com benefício de mapeamento genético em parceria da Brasilseg",
+              "url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+              "texto": "Disponível em três modalidades a partir de R$38,90/mês, o produto combina proteção financeira, prevenção e acesso a serviços de saúde — no plano Total, o segurado tem acesso a mapeamento genético para identificar predisposições a doenças.",
+              "fonte": "BB Seguros · Brasilseg",
+              "fonte_url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+              "fonte_label": "SEGS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Fenaprevi confirma XII Fórum Nacional de Seguro de Vida e Previdência Privada para 16 de setembro em São Paulo",
+              "url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+              "texto": "O evento da federação que representa 66 associadas já tem inscrições abertas e deve reunir o setor para debater os principais temas estratégicos de Vida e Previdência do segundo semestre.",
+              "fonte": "Fenaprevi",
+              "fonte_url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+              "fonte_label": "Monitor Mercantil",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "POSICIONAMENTO",
+              "titulo": "Icatu reforça discurso de que seguro de vida deixou de ser produto apenas para cobertura por morte e passa a proteger contra doenças graves e afastamentos",
+              "url": "https://revistaapolice.com.br/2026/07/icatu-seguros-a-protecao-em-vida-e-o-novo-foco-do-seguro/",
+              "texto": "Segundo a diretora de Produtos de Vida da companhia, o consumidor busca cada vez mais soluções que cubram também doenças graves, acidentes ou afastamentos do trabalho — não apenas o risco de morte, tendência que se conecta diretamente ao lançamento do BB Seguros na mesma semana.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/icatu-seguros-a-protecao-em-vida-e-o-novo-foco-do-seguro/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "CANAL",
+              "titulo": "Bradesco Vida e Previdência retoma road show nacional de relacionamento com corretores",
+              "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+              "texto": "A agenda passa por Cuiabá, Campinas, Rio de Janeiro, Salvador e Recife, reforçando o relacionamento direto da seguradora com o canal em um momento de forte disputa comercial por corretores de Vida.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+              "fonte_label": "CQCS",
+              "data": "Jun/2026"
+            }
+          ],
+          "implicacao": "Duas das maiores seguradoras de Vida do país (Icatu e BB Seguros/Brasilseg) lançaram produtos na mesma semana ampliando a cobertura para doenças graves e capitais segurados mais altos — sinal de que a disputa por clientes de maior renda e patrimônio se intensifica, exatamente quando a Fenaprevi confirma novo fórum setorial para setembro.",
+          "oportunidade": "Avaliar a ampliação do capital segurado e da cobertura por doenças graves nos produtos de Vida da Seguros Unimed, capitalizando sobre a mesma tendência identificada por Icatu e BB Seguros — e usar o XII Fórum Fenaprevi de setembro como vitrine para posicionar novos lançamentos."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "EVENTO",
+              "titulo": "Fenaprevi confirma XII Fórum Nacional de Seguro de Vida e Previdência Privada para 16 de setembro, em São Paulo",
+              "url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+              "texto": "O evento, que reúne as 66 associadas da federação, chega em um momento de debate intenso sobre a atratividade do VGBL após as mudanças na tributação via IOF e sobre a necessidade de o setor atrair públicos mais jovens.",
+              "fonte": "Fenaprevi",
+              "fonte_url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+              "fonte_label": "Monitor Mercantil",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Seguros Unimed segue reforçando o VGBL Unimed Coop, plano de previdência aberta lançado em julho e aberto a qualquer interessado",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-lanca-vgbl-e-reforca-aposta-em-previdencia-aberta/",
+              "texto": "O produto, estruturado para competir com investimentos tradicionais, chega em meio à expansão da carteira previdenciária da companhia e reforça a aposta da Seguros Unimed no segmento de previdência aberta.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-lanca-vgbl-e-reforca-aposta-em-previdencia-aberta/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "Brasilprev, ligada à BB Seguros em parceria com a Principal, segue ampliando integração de seus produtos ao ecossistema do Banco do Brasil",
+              "url": "https://www.brasil247.com/negocios/brasilprev-chega-a-r-500-bi-em-ativos-e-reforca-lideranca/",
+              "texto": "A companhia tem investido em canais digitais — incluindo contratação por WhatsApp com pagamento via Pix — e busca integrar seus planos de previdência a soluções que permitem seu uso como garantia em operações de crédito.",
+              "fonte": "Brasilprev · BB Seguros",
+              "fonte_url": "https://www.brasil247.com/negocios/brasilprev-chega-a-r-500-bi-em-ativos-e-reforca-lideranca/",
+              "fonte_label": "Brasil 247",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "Emenda Constitucional 132/2023 prevê extinção do IOF sobre operações de seguros até 31 de dezembro de 2026, o que pode alterar novamente a tributação do VGBL",
+              "url": "https://viva.com.br/dinheiro/previdencia-privada-pode-deixar-de-captar-r-130-bi-por-iof-diz-fenaprevi.html",
+              "texto": "A perspectiva de mudança no horizonte de 2026 mantém o setor de previdência aberta em compasso de espera regulatória, mesmo com a maioria dos participantes do VGBL concentrando reservas moderadas e aportes esporádicos.",
+              "fonte": "Fenaprevi",
+              "fonte_url": "https://viva.com.br/dinheiro/previdencia-privada-pode-deixar-de-captar-r-130-bi-por-iof-diz-fenaprevi.html",
+              "fonte_label": "Viva",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "COMUNICAÇÃO",
+              "titulo": "Especialistas reforçam que comunicação da previdência apoiada em termos técnicos e associação exclusiva à aposentadoria afasta o público jovem",
+              "url": "https://cqcs.com.br/noticia/o-que-onze-vozes-do-setor-revelam-sobre-como-fazer-o-seguro-chegar-mais-longe/",
+              "texto": "O tema, debatido em painel da ENS, conecta-se diretamente à resistência de jovens ao seguro de vida identificada em pesquisas do setor — reforçando que o desafio de captação de público jovem é estrutural para Vida e Previdência simultaneamente.",
+              "fonte": "ENS",
+              "fonte_url": "https://cqcs.com.br/noticia/o-que-onze-vozes-do-setor-revelam-sobre-como-fazer-o-seguro-chegar-mais-longe/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "A confirmação do XII Fórum Fenaprevi para setembro chega em meio à perspectiva de nova mudança tributária no VGBL até o fim de 2026 (fim do IOF sobre seguros, previsto na EC 132/2023) — o que deve manter o setor em compasso de espera, mesmo com a Seguros Unimed e a Brasilprev seguindo em expansão de carteira e canais digitais.",
+          "oportunidade": "Usar o XII Fórum Fenaprevi de setembro como marco para relançar a comunicação do VGBL Unimed Coop, testando uma narrativa menos técnica e mais alinhada ao público jovem — capturando o mesmo público que hoje resiste tanto a Vida quanto a Previdência pelas mesmas razões de comunicação."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "AGRO",
+              "titulo": "Especialistas apontam que o seguro rural deve ganhar protagonismo no segundo semestre de 2026 diante do aumento dos riscos climáticos",
+              "url": "https://www.dossotoledo.com.br/post/seguros-rurais-devem-ganhar-protagonismo-no-segundo-semestre-de-2026-diante-do-aumento-dos-riscos-cl",
+              "texto": "Segundo advogados especializados no setor, fenômenos climáticos extremos elevam a imprevisibilidade da produção rural, e bancos e agentes financeiros passam a considerar a contratação do seguro como fator de análise para concessão de crédito rural.",
+              "fonte": "Especialistas em Direito Securitário",
+              "fonte_url": "https://www.dossotoledo.com.br/post/seguros-rurais-devem-ganhar-protagonismo-no-segundo-semestre-de-2026-diante-do-aumento-dos-riscos-cl",
+              "fonte_label": "Dosso Toledo Advogados",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PATRIMONIAL",
+              "titulo": "Reforma tributária sobre doação de imóveis impulsiona planejamento patrimonial e amplia espaço para seguros na sucessão de bens",
+              "url": "https://cqcs.com.br/noticia/reforma-tributaria-impulsiona-planejamento-patrimonial-e-amplia-espaco-para-seguros-na-sucessao-de-bens/",
+              "texto": "Mudanças em estudo sobre a tributação de doações levam famílias de maior patrimônio e empresas familiares a antecipar decisões sucessórias, ampliando o espaço para seguros como instrumento de proteção financeira e liquidez em processos de sucessão.",
+              "fonte": "Especialistas em Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/reforma-tributaria-impulsiona-planejamento-patrimonial-e-amplia-espaco-para-seguros-na-sucessao-de-bens/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep discute nova Resolução CNSP sobre seguros de danos em reunião de diretoria (29/jul), incluindo regras de formação e protocolo do contrato",
+              "url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+              "texto": "A minuta em análise disciplina, entre outros pontos, a representação do proponente pelo corretor na formação do contrato e a obrigatoriedade de a seguradora emitir protocolo com data e hora do recebimento da proposta.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "D&O",
+              "titulo": "Mercado de D&O segue em fase de prêmios em queda globalmente, mas sinais indicam que a redução de taxas pode estar perto do piso",
+              "url": "https://www.howdengroup.com/br-pt/noticias-e-insights/relatorio-directors-and-officers-2026",
+              "texto": "Relatório da Howden aponta que seguradoras já reajustam estratégias em resposta à redução de margens e à consolidação de carteiras, com riscos emergentes em litígios de IA e exposições cibernéticas pressionando o apetite de risco para 2026.",
+              "fonte": "Howden",
+              "fonte_url": "https://www.howdengroup.com/br-pt/noticias-e-insights/relatorio-directors-and-officers-2026",
+              "fonte_label": "Howden",
+              "data": "Jun/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "RESIDENCIAL",
+              "titulo": "Cooperativas de crédito seguem avançando sobre a distribuição de seguros residenciais, com o Sicredi por Yelum como referência mais recente",
+              "url": "https://cqcs.com.br/noticia/sicredi-lanca-novo-seguro-residencial-em-parceria-com-a-seguradora-yelum/",
+              "texto": "O produto, lançado em parceria com a Yelum (Grupo HDI), reforça a tese de que o espaço para crescimento em seguro residencial no Brasil segue amplo, com cooperativas de crédito se posicionando como novo canal de distribuição relevante.",
+              "fonte": "Sicredi · Yelum Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/sicredi-lanca-novo-seguro-residencial-em-parceria-com-a-seguradora-yelum/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "A combinação de riscos climáticos crescentes (seguro rural), mudanças tributárias em discussão (patrimonial/sucessório) e nova regulação de seguros de danos em análise pela Susep confirma que Ramos Elementares segue como o segmento de maior movimento regulatório e de produto da semana, mesmo sem repetição do movimento de consolidação já registrado com a aquisição da Fator pela Sompo.",
+          "oportunidade": "Avaliar Seguro Rural e produtos de proteção patrimonial-sucessória como linhas de diversificação para a carteira Elementares da Seguros Unimed, aproveitando tanto o aumento de risco climático quanto a discussão tributária sobre doação de imóveis que já está movimentando o mercado de seguros de vida e patrimoniais para famílias de maior renda."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "RESIDENCIAL",
+              "titulo": "Sicredi lança seguro residencial em parceria com a Yelum, do Grupo HDI",
+              "url": "https://revistaapolice.com.br/2026/07/sicredi-lanca-seguro-residencial-em-parceria-com-a-yelum/",
+              "texto": "O 'Sicredi por Yelum' amplia o portfólio de seguros da cooperativa de crédito, com indenização sem depreciação, cobertura para painéis solares e alagamento — mais uma cooperativa de crédito avançando sobre a distribuição de seguros.",
+              "fonte": "Sicredi · Yelum Seguros",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/sicredi-lanca-seguro-residencial-em-parceria-com-a-yelum/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Nova Resolução CNSP 493/2026 também disciplina cooperativas de corretores de seguros",
+              "url": "https://cqcs.com.br/noticia/veja-as-novas-regras-para-a-atuacao-dos-corretores-de-seguros/",
+              "texto": "A norma prevê que cooperativas de corretores de seguros só recebam registro se atenderem aos requisitos da Lei Federal 5.764/71, além da normatização do CNSP e da Susep — reforçando o arcabouço legal para o cooperativismo no mercado de corretagem.",
+              "fonte": "CNSP · Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/veja-as-novas-regras-para-a-atuacao-dos-corretores-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Sistema OCB e Susep seguem avançando na agenda pós-regulamentação das cooperativas de seguros",
+              "url": "https://mundocoop.com.br/acontece-no-setor/sistema-ocb-e-susep-definem-agenda-pos-regulamentacao-de-seguros/",
+              "texto": "As duas instituições continuam produzindo materiais informativos e avançando no acordo de cooperação para orientar a chegada das primeiras cooperativas seguradoras ao mercado.",
+              "fonte": "Sistema OCB · Susep",
+              "fonte_url": "https://mundocoop.com.br/acontece-no-setor/sistema-ocb-e-susep-definem-agenda-pos-regulamentacao-de-seguros/",
+              "fonte_label": "Mundo Coop",
+              "data": "Jul/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EMBEDDED",
+              "titulo": "Sicoob e Grupo HDI (Yelum) mantêm o 'Seguro Auto Financiado' via embedded insurance",
+              "url": "",
+              "texto": "A parceria segue como referência de embedded insurance no cooperativismo de crédito, embutindo proteção automotiva diretamente na jornada de financiamento do cooperado.",
+              "fonte": "Sicoob · Grupo HDI",
+              "fonte_url": "",
+              "fonte_label": "",
+              "data": "Jun/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SETOR",
+              "titulo": "AnuárioCoop 2025: cooperativismo brasileiro segue em expansão acelerada",
+              "url": "https://somoscooperativismo.coop.br/noticias-representacao/anuariocoop-2025-25-8-milhoes-de-brasileiros-escolhem-cooperar",
+              "texto": "O Anuário do Cooperativismo Brasileiro do Sistema OCB reforça que, no setor de saúde, a maioria das operadoras com nota máxima da ANS são cooperativas Unimed — ativo reputacional relevante diante da chegada de novas cooperativas seguradoras.",
+              "fonte": "Sistema OCB",
+              "fonte_url": "https://somoscooperativismo.coop.br/noticias-representacao/anuariocoop-2025-25-8-milhoes-de-brasileiros-escolhem-cooperar",
+              "fonte_label": "SomosCooperativismo",
+              "data": "Jul/2025"
+            }
+          ],
+          "implicacao": "O lançamento do Sicredi por Yelum é o sinal mais concreto até agora de que cooperativas de crédito estão avançando rapidamente sobre a distribuição de seguros — reforçado pela própria Resolução CNSP 493/2026, que já prevê regras específicas para cooperativas de corretores. A Seguros Unimed, como cooperativa já consolidada no mercado segurador, segue com vantagem de maturidade regulatória.",
+          "oportunidade": "Avaliar uma parceria de distribuição de seguros residenciais ou patrimoniais com cooperativas de crédito (Sicoob, Sicredi, Unicred), replicando o modelo de embedded insurance já validado pelo mercado, para capturar o gap de proteção residencial identificado tanto pela CNseg quanto pelo próprio Sicredi."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "SAÚDE MENTAL",
+              "titulo": "Saúde mental é o principal problema de saúde do Brasil para 52% da população",
+              "url": "https://exame.com/brasil/saude-mental-e-o-principal-problema-de-saude-do-brasil-para-52-da-populacao/",
+              "texto": "Segundo o <strong>Ipsos Health Service Report 2025</strong> (23.172 adultos em 30 países, 1.000 no Brasil), a saúde mental saltou de 18% para <strong>52%</strong> das preocupações de saúde dos brasileiros em 7 anos. O Brasil é o 3º país mais preocupado com bem-estar mental no ranking global. Afastamentos por transtornos mentais bateram recorde: 472.328 em 2024 (+67%), segundo o Ministério da Previdência.",
+              "fonte": "Ipsos",
+              "fonte_url": "https://exame.com/brasil/saude-mental-e-o-principal-problema-de-saude-do-brasil-para-52-da-populacao/",
+              "fonte_label": "Exame",
+              "data": "Out/2025"
+            },
+            {
+              "tag": "new",
+              "tag_label": "TENDÊNCIA",
+              "titulo": "10 tendências que vão moldar o consumo do brasileiro em 2026",
+              "url": "https://worldpanelbynumerator.com/insights/10-tendencias-que-vao-moldar-o-consumo-do-brasileiro-em-2026",
+              "texto": "Famílias menores, seniors já concentram <strong>16% do gasto em bens de consumo</strong> (crescendo 9%). Licenças médicas por ansiedade e depressão subiram <strong>68% entre 2023 e 2025</strong>. O consumidor navega por 8 canais em média e faz 24 compras de abastecimento por ano — 2 em cada 5 online via WhatsApp.",
+              "fonte": "Worldpanel by Numerator",
+              "fonte_url": "https://worldpanelbynumerator.com/insights/10-tendencias-que-vao-moldar-o-consumo-do-brasileiro-em-2026",
+              "fonte_label": "Worldpanel by Numerator",
+              "data": "Jan/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "IA/DIGITAL",
+              "titulo": "57% dos brasileiros já usam IA em alguma etapa da jornada de compra",
+              "url": "https://business.google.com/br/think/ai-excellence/journey-empowered-by-ai/",
+              "texto": "Pesquisa Google/Ipsos (2.750 brasileiros): <strong>57%</strong> usaram IA na jornada de compra no último ano; 71% dizem que ficou mais fácil e 80% mais rápido. 82% da população usa IA no dia a dia (90% da Geração Z). 13% já são heavy users que economizam até 5h/semana com agentes de IA na decisão de compra.",
+              "fonte": "Google / Ipsos",
+              "fonte_url": "https://business.google.com/br/think/ai-excellence/journey-empowered-by-ai/",
+              "fonte_label": "Re-Think with Google",
+              "data": "2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "PREVIDÊNCIA",
+              "titulo": "Pesquisa Fenaprevi-DataFolha: previdência não é mais produto \"de rico\" e brasileiro não confia no INSS",
+              "url": "https://fenaprevi.org.br/noticias/pesquisa-fenaprevi-datafolha-explora-como-o-brasileiro-se-planeja-e-se-protege-para-o-futuro-e-para-a-aposentadoria",
+              "texto": "<strong>50% de quem tem previdência privada é das classes C, D e E</strong>, desmistificando o produto como \"de elite\". Metade quer se aposentar até os 60, mas só 29% acredita que conseguirá. Entre os que contam com o INSS, <strong>65% não sabem quanto vão receber</strong>.",
+              "fonte": "Fenaprevi · DataFolha",
+              "fonte_url": "https://fenaprevi.org.br/noticias/pesquisa-fenaprevi-datafolha-explora-como-o-brasileiro-se-planeja-e-se-protege-para-o-futuro-e-para-a-aposentadoria",
+              "fonte_label": "Fenaprevi",
+              "data": "Nov/2024"
+            },
+            {
+              "tag": "new",
+              "tag_label": "GERAÇÕES",
+              "titulo": "Deloitte: Gerações Z e millennials priorizam estabilidade e bem-estar, e veem a IA como aliada",
+              "url": "https://www.deloitte.com/br/pt/about/press-room/gen-z-millennial-survey.html",
+              "texto": "No Brasil (804 entrevistados de ~23 mil globais), <strong>45% da Ger. Z e 36% dos millennials</strong> postergaram decisões como comprar casa ou formar família por insegurança econômica. Segurança financeira e saúde mental lideram as preocupações; quase 9 em cada 10 já usam IA no trabalho.",
+              "fonte": "Deloitte",
+              "fonte_url": "https://www.deloitte.com/br/pt/about/press-room/gen-z-millennial-survey.html",
+              "fonte_label": "Deloitte",
+              "data": "Jun/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DEMOGRAFIA",
+              "titulo": "Envelhecimento da população brasileira se acelera — 60+ deve chegar a 37,8% em 2070",
+              "url": "https://www12.senado.leg.br/noticias/infomaterias/2025/06/envelhecimento-da-populacao-impulsiona-novas-acoes-em-defesa-dos-idosos",
+              "texto": "A fatia de brasileiros com 60+ quase dobrou entre 2000 e 2023 (8,7% → 15,6%; 15,2 mi → 33 mi pessoas), segundo o IBGE. Projeção para 2070: <strong>37,8% da população (75,3 milhões)</strong>. Esperança de vida sobe de 76,4 anos (2023) para 83,9 anos (2070). Brasil já é a 6ª nação com mais idosos do mundo (ONU).",
+              "fonte": "IBGE",
+              "fonte_url": "https://www12.senado.leg.br/noticias/infomaterias/2025/06/envelhecimento-da-populacao-impulsiona-novas-acoes-em-defesa-dos-idosos",
+              "fonte_label": "Agência Senado",
+              "data": "Jun/2025"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "CONFIANÇA",
+              "titulo": "Pesquisa com 4,5 mil brasileiros mapeia como o consumidor constrói — e rompe — a confiança em marcas",
+              "url": "https://www.cartacapital.com.br/do-micro-ao-macro/confianca-consumidor-marcas-pesquisa/",
+              "texto": "98% dizem que a confiança influencia diretamente a decisão de compra; <strong>39% abandonam uma marca após uma única quebra dessa relação</strong>. As dimensões que mais pesam: excelência do produto (40%), reputação (23%), relacionamento e cuidado (20%) e propósito (17%).",
+              "fonte": "HSR (Building Trust Index)",
+              "fonte_url": "https://www.cartacapital.com.br/do-micro-ao-macro/confianca-consumidor-marcas-pesquisa/",
+              "fonte_label": "CartaCapital",
+              "data": "Mai/2026"
+            }
+          ],
+          "implicacao": "Três sinais de consumo se reforçam mutuamente: (1) <strong>saúde mental</strong> virou a principal preocupação de saúde do brasileiro (52%, Ipsos) — território ainda pouco explorado pelos planos de saúde tradicionais; (2) o consumidor já usa <strong>IA na jornada de compra</strong> (57%, Google/Ipsos) e espera jornadas mais rápidas e personalizadas — e o próprio setor segurador já reage, com 80% das seguradoras usando IA no atendimento (CNseg/EY); (3) o <strong>envelhecimento populacional</strong> (IBGE) e a mudança de perfil da previdência (Fenaprevi/DataFolha, 50% classes C/D/E) redesenham quem é o comprador de seguros de vida e previdência nos próximos anos.",
+          "oportunidade": "Cobertura ou benefícios ligados a <strong>saúde mental</strong> em Saúde e Vida atacam a maior dor do consumidor brasileiro hoje, com baixa oferta comparável no mercado. A confiança do modelo cooperativo (médico cooperado, relação de longo prazo) responde diretamente ao maior driver de decisão de compra apontado pela pesquisa HSR — <strong>relacionamento e cuidado</strong> — algo que bancassurance e insurtechs puramente digitais não replicam com a mesma credibilidade. E o público C/D/E identificado pela Fenaprevi como já consumidor de previdência é o mesmo perfil socioeconômico onde a base de 6,6 milhões de segurados da SU tem forte penetração via saúde."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Monitorar de perto a evolução da 'revisão técnica' da ANS, mesmo com a suspensão judicial e a negativa pública da agência",
+          "texto": "A ANS já promoveu nova Análise de Impacto Regulatório e pode levar o tema de volta à Diretoria Colegiada a qualquer momento. <strong>Preparar cenários de impacto para planos individuais e reforçar a comunicação institucional sobre a estabilidade regulatória da Seguros Unimed.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar as implicações da eventual venda da Amil para fundos internacionais sobre o mercado de saúde suplementar",
+          "texto": "A incerteza sobre o desfecho da negociação já reconfigura a análise de investidores sobre todo o setor. <strong>Mapear cenários de disputa por carteiras e corretores caso a operação avance ou seja descontinuada.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            },
+            {
+              "label": "Concorrência",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Reforçar cobertura de doenças graves e capital segurado nos produtos de Vida da Seguros Unimed",
+          "texto": "Icatu e BB Seguros/Brasilseg lançaram na mesma semana produtos ampliando capital segurado e cobertura por doenças graves. <strong>Avaliar gaps de portfólio frente a esses dois lançamentos concorrentes.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Vida",
+              "tipo": ""
+            },
+            {
+              "label": "Produto",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Usar o XII Fórum Fenaprevi (16/set) como vitrine para relançar a comunicação do VGBL Unimed Coop para o público jovem",
+          "texto": "O evento reúne 66 associadas da federação e deve concentrar o debate setorial de Vida e Previdência do segundo semestre. <strong>Preparar narrativa menos técnica para apresentar o produto no evento.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            },
+            {
+              "label": "Cooperativismo",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar Seguro Rural e produtos patrimoniais-sucessórios como novas linhas de diversificação em Elementares",
+          "texto": "O aumento de riscos climáticos e a discussão sobre tributação de doações de imóveis abrem espaço simultâneo para essas duas frentes. <strong>Estruturar oferta piloto aproveitando a base de cooperados rurais do Sistema Unimed.</strong>",
+          "tags": [
+            {
+              "label": "Longo prazo",
+              "tipo": "longo"
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Produto",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Bradesco Seguros leva o Circuito da Longevidade a Salvador, com etapa voltada à promoção da saúde e do envelhecimento ativo",
+                "url": "https://revistaapolice.com.br/2026/07/bradesco-seguros-leva-circuito-da-longevidade-a-salvador/",
+                "texto": "Após passar por São Paulo, Campinas, Brasília e Rio de Janeiro, o circuito segue para Recife e Porto Alegre — iniciativa que reforça o posicionamento de marca da companhia em bem-estar e longevidade.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/bradesco-seguros-leva-circuito-da-longevidade-a-salvador/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Vida e Previdência e Bradesco Saúde participam da 5ª edição do 'Trocando Ideias' da UCS",
+                "url": "https://cqcs.com.br/noticia/encontro-da-ucs-com-bradesco-seguros-destaca-novos-produtos-e-caminhos-para-ampliar-negocios/",
+                "texto": "Executivos das duas companhias apresentaram novidades de portfólio e estratégias de geração de negócios diretamente a corretores associados à União dos Corretores de Seguros.",
+                "fonte": "Bradesco Seguros · UCS",
+                "fonte_url": "https://cqcs.com.br/noticia/encontro-da-ucs-com-bradesco-seguros-destaca-novos-produtos-e-caminhos-para-ampliar-negocios/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "XP Seguridade passa a oferecer seguro viagem da SulAmérica em seu portfólio",
+                "url": "https://revistaapolice.com.br/2026/06/xp-seguridade-oferece-seguro-viagem-da-sulamerica-em-seu-portfolio/",
+                "texto": "Contratação 100% digital, disponível também para clientes Rico, reforça estratégia de proteção integrada à jornada do investidor.",
+                "fonte": "XP Seguridade · SulAmérica",
+                "fonte_url": "https://revistaapolice.com.br/2026/06/xp-seguridade-oferece-seguro-viagem-da-sulamerica-em-seu-portfolio/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jun/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Capital Aberto · B3: PSSA3",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "COMPETITIVO",
+                "titulo": "Porto Seguro segue em disputa acirrada com o Bradesco pela liderança em riscos patrimoniais e responsabilidade civil",
+                "url": "https://www.sonhoseguro.com.br/2026/07/porto-e-bradesco-disputam-lideranca-no-ranking-de-seguros-de-riscos-patrimoniais-e-responsabilidade-civil/",
+                "texto": "Levantamento do IRB+Inteligência mostra melhora de rentabilidade setorial e disputa acirrada entre os dez maiores grupos seguradores por posição competitiva.",
+                "fonte": "IRB+Inteligência",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/07/porto-e-bradesco-disputam-lideranca-no-ranking-de-seguros-de-riscos-patrimoniais-e-responsabilidade-civil/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Verticalizada · Capital Aberto B3: HAPV3",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "REESTRUTURAÇÃO",
+                "titulo": "Hapvida segue sob pressão competitiva e revisão de comando, avaliando venda de ativos considerados não estratégicos no Sul do país",
+                "url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+                "texto": "Bancos de investimento revisaram o ritmo esperado de recuperação da companhia diante da continuidade da retração da carteira de usuários e da pressão sobre custos assistenciais.",
+                "fonte": "Hapvida",
+                "fonte_url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+                "fonte_label": "ADVFN News",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRODUTO",
+                "titulo": "Icatu eleva capital segurado do seguro de vida individual para R$150 milhões e amplia idade máxima de contratação",
+                "url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+                "texto": "A companhia também passou a oferecer opções de contratação sem possibilidade de resgate e prepara nova modalidade de pagamento único, mirando clientes com estruturas patrimoniais mais sofisticadas.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Saúde Suplementar · Controle José Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Amil avalia venda de participação para Bain Capital ou Advent International em meio a incertezas regulatórias no setor",
+                "url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+                "texto": "As negociações ainda são tratadas como preliminares, mas já influenciam a análise de investidores e consultorias de fusões e aquisições sobre todo o setor de saúde suplementar.",
+                "fonte": "Amil",
+                "fonte_url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Capital Aberto · B3: CXSE3",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Caixa Seguridade amplia portfólio com seguros de proteção para transações financeiras e itens pessoais",
+                "url": "https://investidor10.com.br/acoes/cxse3/",
+                "texto": "A nova linha de produtos busca oferecer proteção específica para operações financeiras e bens pessoais, reforçando a diversificação de portfólio do grupo além dos ramos tradicionais.",
+                "fonte": "Caixa Seguridade",
+                "fonte_url": "https://investidor10.com.br/acoes/cxse3/",
+                "fonte_label": "Investidor10",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª",
+            "nome": "★ Seguros Unimed",
+            "tipo": "Cooperativa · Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Festival de Teatro Seguros Unimed chega à 3ª edição e expande atuação para Minas Gerais e Espírito Santo",
+                "url": "https://cqcs.com.br/noticia/festival-de-teatro-seguros-unimed-realiza-mais-de-100-apresentacoes-em-28-cidades-da-regiao-sudeste/",
+                "texto": "O circuito cultural, que reunirá mais de 100 apresentações em 28 cidades de três estados entre agosto e outubro, consolida a expansão interestadual do projeto e reforça o posicionamento de marca da companhia.",
+                "fonte": "Seguros Unimed",
+                "fonte_url": "https://cqcs.com.br/noticia/festival-de-teatro-seguros-unimed-realiza-mais-de-100-apresentacoes-em-28-cidades-da-regiao-sudeste/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Grupo Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRODUTO",
+                "titulo": "BB Seguros lança Seguro de Doenças Graves com benefício de mapeamento genético, via Brasilseg",
+                "url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+                "texto": "O produto, disponível em três modalidades a partir de R$38,90/mês, combina proteção financeira, prevenção e acesso a serviços de saúde, incluindo mapeamento genético no plano Total.",
+                "fonte": "BB Seguros · Brasilseg",
+                "fonte_url": "https://www.segs.com.br/seguros/452428-bb-seguros-lanca-seguro-de-doencas-graves-com-foco-em-protecao-financeira-e-prevencao/",
+                "fonte_label": "SEGS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Joint-venture · Grupo Zurich e Banco Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EXECUTIVOS",
+                "titulo": "Zurich nomeia Paulo Ricardo Costa, ex-HDI, para a Diretoria Executiva de Distribuição",
+                "url": "https://revistaapolice.com.br/2026/07/zurich-traz-novo-executivo-para-liderar-distribuicao/",
+                "texto": "O executivo assume em 3 de agosto e passa a liderar a estratégia de relacionamento com corretores e assessorias da Zurich no Brasil, sucedendo Marcio Benevides após 15 anos na companhia.",
+                "fonte": "Zurich Seguros",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/zurich-traz-novo-executivo-para-liderar-distribuicao/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "Cinco vetores dominam a semana entre os top 10: <strong>(1) disputa por clientes de alta renda em Vida</strong>, com Icatu e BB Seguros/Brasilseg lançando produtos de capital segurado mais alto e cobertura por doenças graves na mesma semana; <strong>(2) incerteza estratégica na Amil</strong>, que avalia vender participação para fundos internacionais em meio a rumores regulatórios da ANS; <strong>(3) reestruturação defensiva da Hapvida</strong>, que segue sob revisão de comando e avaliando venda de ativos no Sul; <strong>(4) troca de comando na distribuição da Zurich</strong>, reforçando a disputa por talentos entre seguradoras; e <strong>(5) fortalecimento de marca da Seguros Unimed</strong>, com a expansão interestadual do Festival de Teatro, mesmo sem lançamento de produto na semana."
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Amil avalia venda de participação para Bain Capital ou Advent em meio a incertezas regulatórias na saúde suplementar",
+                "url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+                "texto": "As negociações preliminares já influenciam a análise de investidores sobre todo o setor de saúde suplementar, num momento de maior incerteza regulatória da ANS.",
+                "fonte": "Amil",
+                "fonte_url": "https://cqcs.com.br/noticia/mudancas-em-estudo-para-a-saude-suplementar-colocam-em-risco-a-venda-da-amil-para-a-bain-capital/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "REESTRUTURAÇÃO",
+                "titulo": "Hapvida segue sob pressão competitiva e revisão de comando, avaliando venda de ativos não estratégicos no Sul",
+                "url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+                "texto": "Bancos revisaram o ritmo esperado de recuperação da companhia diante da continuidade da retração de carteira e da pressão sobre custos assistenciais.",
+                "fonte": "Hapvida",
+                "fonte_url": "https://br.advfn.com/jornal/2026/07/bancos-adiam-expectativa-de-recuperacao-da-operadora-de-saude-hapvida-apos-perder-91-mil-clientes",
+                "fonte_label": "ADVFN News",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "NPS",
+                "titulo": "Care Plus foca em atendimento humano e mantém NPS acima da média do setor",
+                "url": "https://revistakdea360.com.br/noticia/72922/na-contramao-do-mercado-care-plus-foca-no-atendimento-humano-e-alcanca-82-de-nps/amp",
+                "texto": "Mesmo em expansão de base, a Care Plus mantém atendimento humanizado combinado à tecnologia como diferencial — referência direta para o segmento premium.",
+                "fonte": "Care Plus",
+                "fonte_url": "https://revistakdea360.com.br/noticia/72922/na-contramao-do-mercado-care-plus-foca-no-atendimento-humano-e-alcanca-82-de-nps/amp",
+                "fonte_label": "Revista Kdea 360",
+                "data": "Jun/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "SUBSCRIÇÃO",
+                "titulo": "Omint mantém política restritiva de subscrição para MEI e exige permanência mínima em portabilidade",
+                "url": "",
+                "texto": "A operadora segue com critérios mais seletivos de subscrição no segmento premium, priorizando sustentabilidade da carteira frente a crescimento acelerado.",
+                "fonte": "Omint",
+                "fonte_url": "",
+                "fonte_label": "",
+                "data": "Jun/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Sami atualiza planos e reduz mensalidade em nova modalidade",
+                "url": "https://revistaapolice.com.br/2026/07/sami-atualiza-planos-e-reduz-mensalidade-em-nova-modalidade/",
+                "texto": "A healthtech adota a nomenclatura Bronze, Prata e Ouro e lança o Copar Flex, com mensalidades cerca de 20% menores — resposta à pressão por acessibilidade no segmento digital.",
+                "fonte": "Sami",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/sami-atualiza-planos-e-reduz-mensalidade-em-nova-modalidade/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "opp",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Uso de IA avança na saúde, mas Brasil enfrenta entraves de infraestrutura e governança",
+                "url": "https://revistaapolice.com.br/2026/07/uso-de-ia-avanca-na-saude-mas-brasil-enfrenta-entraves/",
+                "texto": "Pesquisa da Deloitte mostra que 85% das empresas do setor ampliaram investimentos em IA, mas a adoção em larga escala segue limitada por infraestrutura e qualificação profissional.",
+                "fonte": "Deloitte",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/uso-de-ia-avanca-na-saude-mas-brasil-enfrenta-entraves/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Hapvida mantém regra de não reajuste por idade a partir dos 59 anos em plano sênior, pressionando concorrentes do nicho",
+                "url": "https://tabelasaude.com/plano-de-saude-para-idosos/hapvida/",
+                "texto": "A prática amplia a régua de comparação para MedSênior e Prevent Sênior, especialistas do público 60+ que competem por diferenciação além do modelo verticalizado.",
+                "fonte": "Hapvida",
+                "fonte_url": "https://tabelasaude.com/plano-de-saude-para-idosos/hapvida/",
+                "fonte_label": "Tabela Saúde",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MODELO",
+                "titulo": "MedSênior e Prevent Sênior mantêm modelo verticalizado como estratégia central para o público idoso",
+                "url": "",
+                "texto": "As duas especialistas seguem apostando em rede própria e modelo verticalizado como resposta à pressão regulatória sobre reajuste do público sênior.",
+                "fonte": "MedSênior · Prevent Sênior",
+                "fonte_url": "",
+                "fonte_label": "",
+                "data": "Jun/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "MOBILIZAÇÃO",
+                "titulo": "Odontoprev se compromete a doar 500 planos odontológicos na campanha Julho Neon",
+                "url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+                "texto": "Líder em planos odontológicos na América Latina, a companhia participa da ação social que usa engajamento digital para ampliar acesso à saúde bucal.",
+                "fonte": "Odontoprev",
+                "fonte_url": "https://www.segs.com.br/seguros/452219-desafio-do-julho-neon-busca-seis-mil-sorrisos-para-ampliar-acesso-a-planos-odontologicos/amp",
+                "fonte_label": "SEGS",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "INTEGRAÇÃO",
+                "titulo": "BradSaúde mantém marca Odontoprev enquanto integra a operação odontológica à estrutura de saúde do grupo",
+                "url": "https://www.seudinheiro.com/2026/empresas/adeus-odpv3-ola-saud3-acionistas-dao-o-sim-para-uniao-entre-a-odontoprev-e-o-braco-de-saude-do-bradesco-bbdc4-ccgg/",
+                "texto": "A holding preserva a força de marca consolidada com corretores e clientes, avançando na integração operacional das marcas do grupo.",
+                "fonte": "BradSaúde · Odontoprev",
+                "fonte_url": "https://www.seudinheiro.com/2026/empresas/adeus-odpv3-ola-saud3-acionistas-dao-o-sim-para-uniao-entre-a-odontoprev-e-o-braco-de-saude-do-bradesco-bbdc4-ccgg/",
+                "fonte_label": "Seu Dinheiro",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CONCENTRAÇÃO",
+                "titulo": "Segmento odontológico premium segue concentrado em benefícios agregados a planos de saúde de alto padrão",
+                "url": "",
+                "texto": "Omint e CarePlus Odonto mantêm a odontologia como complemento de planos premium, sem grande movimento isolado de produto nesta janela.",
+                "fonte": "Omint · CarePlus",
+                "fonte_url": "",
+                "fonte_label": "",
+                "data": "Jun/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "MONITORAR",
+                "titulo": "Ausência de movimento competitivo relevante e isolado no odonto premium nesta janela",
+                "url": "",
+                "texto": "O nicho segue estável, com potencial de disrupção caso alguma operadora decida lançar produto odontológico premium autônomo.",
+                "fonte": "Segmento Premium",
+                "fonte_url": "",
+                "fonte_label": "",
+                "data": "Jun/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRODUTO",
+                "titulo": "Icatu eleva capital segurado do seguro de vida individual para R$150 milhões",
+                "url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+                "texto": "A companhia também ampliou a idade máxima de contratação para 80 anos e passou a oferecer opções sem possibilidade de resgate.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/icatu-eleva-capital-segurado-para-r-150-milhoes/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Vida e Previdência retoma road show nacional de relacionamento com corretores",
+                "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+                "texto": "A agenda passa por Cuiabá, Campinas, Rio de Janeiro, Salvador e Recife, reforçando o relacionamento direto com o canal.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+                "fonte_label": "CQCS",
+                "data": "Jun/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "EVENTO",
+                "titulo": "Fenaprevi confirma XII Fórum Nacional de Seguro de Vida e Previdência Privada para 16 de setembro",
+                "url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+                "texto": "O evento reúne as 66 associadas da federação para debater os principais temas estratégicos do segundo semestre em Vida e Previdência.",
+                "fonte": "Fenaprevi",
+                "fonte_url": "https://monitormercantil.com.br/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada/",
+                "fonte_label": "Monitor Mercantil",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "TRIBUTÁRIO",
+                "titulo": "Emenda Constitucional 132/2023 prevê extinção do IOF sobre seguros até dez/2026, o que pode alterar novamente a tributação do VGBL",
+                "url": "https://viva.com.br/dinheiro/previdencia-privada-pode-deixar-de-captar-r-130-bi-por-iof-diz-fenaprevi.html",
+                "texto": "A perspectiva de mudança no horizonte de 2026 mantém o setor de previdência aberta em compasso de espera regulatória.",
+                "fonte": "Fenaprevi",
+                "fonte_url": "https://viva.com.br/dinheiro/previdencia-privada-pode-deixar-de-captar-r-130-bi-por-iof-diz-fenaprevi.html",
+                "fonte_label": "Viva",
+                "data": "Jul/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Sompo anuncia acordo para adquirir a Fator Seguradora",
+                "url": "https://cqcs.com.br/noticia/sompo-anuncia-acordo-para-adquirir-a-fator-seguradora/",
+                "texto": "A aquisição amplia a presença da Sompo em Patrimonial, Garantia e Linhas Financeiras e representa consolidação direta entre dois players monitorados neste segmento pelo radar.",
+                "fonte": "Sompo · Fator Seguradora",
+                "fonte_url": "https://cqcs.com.br/noticia/sompo-anuncia-acordo-para-adquirir-a-fator-seguradora/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Susep discute nova Resolução CNSP sobre seguros de danos, incluindo regras de formação de contrato via corretor",
+                "url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+                "texto": "A minuta em análise pela diretoria (reunião de 29/jul) disciplina a representação do proponente pelo corretor e a obrigatoriedade de protocolo de recebimento da proposta pela seguradora.",
+                "fonte": "Susep",
+                "fonte_url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "MERCADO GLOBAL",
+                "titulo": "Relatório da Howden aponta que queda de prêmios em D&O pode estar perto do piso, com seguradoras reajustando estratégias",
+                "url": "https://www.howdengroup.com/br-pt/noticias-e-insights/relatorio-directors-and-officers-2026",
+                "texto": "Riscos emergentes como litígios ligados a IA e exposições cibernéticas pressionam o apetite de risco das seguradoras para 2026, mesmo com o mercado ainda favorável a contratantes.",
+                "fonte": "Howden",
+                "fonte_url": "https://www.howdengroup.com/br-pt/noticias-e-insights/relatorio-directors-and-officers-2026",
+                "fonte_label": "Howden",
+                "data": "Jun/2026"
+              },
+              {
+                "tag": "glob",
+                "tag_label": "GLOBAL",
+                "titulo": "Especulação de fusão entre Chubb e AIG nos EUA reacende debate sobre concentração de capacidade em D&O global",
+                "url": "https://cryptobriefing.com/chubb-aig-takeover-approach-insurance/",
+                "texto": "Ainda que negada por ambas as companhias, a especulação de uma fusão histórica entre dois dos maiores players de D&O do mundo chama atenção do mercado de resseguro que também abastece o Brasil.",
+                "fonte": "Chubb · AIG",
+                "fonte_url": "https://cryptobriefing.com/chubb-aig-takeover-approach-insurance/",
+                "fonte_label": "Crypto Briefing",
+                "data": "Jun/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "DIGITAL",
+                "titulo": "Evento da ENS discute atualizações no Seguro Empresarial Digital a partir da experiência de corretores e clientes",
+                "url": "https://cqcs.com.br/noticia/o-que-onze-vozes-do-setor-revelam-sobre-como-fazer-o-seguro-chegar-mais-longe/",
+                "texto": "Alexsandro Priuli detalhou, em painel da ENS, as atualizações no produto com base no feedback direto do canal, reforçando a tendência de digitalização em Empresarial.",
+                "fonte": "ENS",
+                "fonte_url": "https://cqcs.com.br/noticia/o-que-onze-vozes-do-setor-revelam-sobre-como-fazer-o-seguro-chegar-mais-longe/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "AGRO",
+                "titulo": "Estudo aponta que El Niño pode elevar produção de grãos, mas pressionar rentabilidade na América Latina",
+                "url": "https://cqcs.com.br/",
+                "texto": "O fenômeno climático deve favorecer volumes de colheita, mas a maior volatilidade de preços eleva a exposição a risco do agronegócio.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "RESIDENCIAL",
+                "titulo": "Sicredi lança seguro residencial em parceria com a Yelum (Grupo HDI)",
+                "url": "https://cqcs.com.br/noticia/sicredi-lanca-novo-seguro-residencial-em-parceria-com-a-seguradora-yelum/",
+                "texto": "Marcelo Fogaça, gerente de Seguros do Sicredi: 'Mais de 80% das residências ainda não contam com proteção securitária.' O produto inclui indenização sem depreciação e cobertura para painéis solares e alagamento.",
+                "fonte": "Sicredi · Yelum Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/sicredi-lanca-novo-seguro-residencial-em-parceria-com-a-seguradora-yelum/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "GAP DE PROTEÇÃO",
+                "titulo": "Levantamento da CNseg confirma baixa cobertura residencial em regiões de risco climático",
+                "url": "https://revistaapolice.com.br/2026/07/levantamento-aponta-baixa-cobertura-de-seguros-no-brasil/",
+                "texto": "O 'gap de proteção' residencial identificado pela CNseg é ao mesmo tempo desafio e oportunidade estrutural de expansão para todos os players do segmento.",
+                "fonte": "CNseg",
+                "fonte_url": "https://revistaapolice.com.br/2026/07/levantamento-aponta-baixa-cobertura-de-seguros-no-brasil/",
+                "fonte_label": "Revista Apólice",
+                "data": "Jul/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "att",
+            "emoji": "🔥",
+            "titulo": "Aquecido",
+            "texto": "Susep retomou, após 45 dias, a divulgação do Painel de Corretores: 142 mil registros ativos, sendo 79.888 pessoas físicas e 62.112 corretoras. Dado estrutural: número de corretoras-empresa vem caindo enquanto o de profissionais pessoa física se mantém estável.",
+            "url": "https://www.fenacor.org.br/noticias/susep-volta-a-divulgar-dados-sobre-corretores"
+          },
+          "disputa": {
+            "status": "bad",
+            "emoji": "⚡",
+            "titulo": "Intensa",
+            "texto": "Bradesco Seguros (Vida, Previdência e Saúde) e Grupo HDI intensificam agendas de relacionamento e incentivo ao canal; Icatu eleva capital segurado; BB Seguros lança produto com apelo a corretores de Vida.",
+            "url": "https://cqcs.com.br/noticia/encontro-da-ucs-com-bradesco-seguros-destaca-novos-produtos-e-caminhos-para-ampliar-negocios/"
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "📱",
+            "titulo": "Em Aceleração",
+            "texto": "24º Congresso Brasileiro de Corretores (27-29/ago, Rio) encerra inscrições nesta sexta (31/jul) com mais de 80 painéis sobre IA, regulação e diversificação de carteira; Susep prepara nova resolução sobre seguros de danos que afeta diretamente a formação do contrato pelo corretor.",
+            "url": "https://www.segs.com.br/seguros/452172-24-congresso-brasileiro-dos-corretores-de-seguros-inscricoes-terminam-em-sete-di/amp"
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "UCS · União dos Corretores de Seguros",
+            "tipo": "Entidade de Classe · Relacionamento com Seguradoras",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "UCS reúne Bradesco Vida e Previdência e Bradesco Saúde na 5ª edição do 'Trocando Ideias' de 2026",
+                "url": "https://cqcs.com.br/noticia/encontro-da-ucs-com-bradesco-seguros-destaca-novos-produtos-e-caminhos-para-ampliar-negocios/",
+                "texto": "O encontro reuniu corretores associados e executivos do Grupo Bradesco Seguros para apresentar novidades de portfólio e caminhos de geração de negócios.",
+                "fonte": "UCS · Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/encontro-da-ucs-com-bradesco-seguros-destaca-novos-produtos-e-caminhos-para-ampliar-negocios/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Fenacor",
+            "tipo": "Entidade Federativa · Congresso Nacional",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "24º Congresso Brasileiro dos Corretores de Seguros encerra inscrições nesta sexta (31/jul)",
+                "url": "https://www.segs.com.br/seguros/452172-24-congresso-brasileiro-dos-corretores-de-seguros-inscricoes-terminam-em-sete-di/amp",
+                "texto": "O evento, entre 27 e 29 de agosto no Rio de Janeiro, reunirá mais de 80 painéis sobre IA, regulação, transformação digital e diversificação de carteira para corretores.",
+                "fonte": "Fenacor",
+                "fonte_url": "https://www.segs.com.br/seguros/452172-24-congresso-brasileiro-dos-corretores-de-seguros-inscricoes-terminam-em-sete-di/amp",
+                "fonte_label": "SEGS",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Sincor-SP",
+            "tipo": "Sindicato Regional · Comissão Saúde e Odonto",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CAPACITAÇÃO",
+                "titulo": "Sincor-SP promove encontro sobre mercado odontológico em expansão como oportunidade para corretores",
+                "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+                "texto": "A Comissão de Saúde e Odonto do sindicato recebe a Odontoprev para apresentar o plano odontológico como porta de entrada para novos negócios do corretor.",
+                "fonte": "Sincor-SP",
+                "fonte_url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+                "fonte_label": "Revista Cobertura",
+                "data": "Jul/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "ENS",
+            "tipo": "Educação e Conteúdo · Fenacor",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CONTEÚDO",
+                "titulo": "ENS replica o Relatório Global de Seguros 2026 da Allianz para formação de corretores",
+                "url": "https://acontece.ens.edu.br/relatorio-global-de-seguros-2026-da-allianz-o-futuro-dos-seguros-em-um-mundo-em-fragmentacao/",
+                "texto": "Iniciativa de capacitação reforça o papel da ENS como hub de conteúdo estratégico para o canal.",
+                "fonte": "ENS",
+                "fonte_url": "https://acontece.ens.edu.br/relatorio-global-de-seguros-2026-da-allianz-o-futuro-dos-seguros-em-um-mundo-em-fragmentacao/",
+                "fonte_label": "ENS",
+                "data": "Jun/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Bradesco Vida e Previdência (canal)",
+            "tipo": "Relacionamento com Corretores",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ROAD SHOW",
+                "titulo": "Bradesco Vida e Previdência retoma road show nacional com corretores",
+                "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+                "texto": "Agenda passa por Cuiabá, Campinas, Rio de Janeiro, Salvador e Recife, reforçando relacionamento direto com o canal.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-promove-agenda-de-inovacao-e-relacionamento-com-corretores-em-diferentes-regioes-do-pais/",
+                "fonte_label": "CQCS",
+                "data": "Jun/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Grupo HDI",
+            "tipo": "Conglomerado Multimarcas · HDI, Yelum, Aliro",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "INCENTIVO",
+                "titulo": "Grupo HDI lança a campanha 'Conexão Mundo e Brasil 2026' com viagens à Itália e ao Nordeste para corretores",
+                "url": "https://cqcs.com.br/noticia/grupo-hdi-levara-corretores-para-a-italia-e-o-nordeste-brasileiro-com-a-campanha-conexao-mundo-e-brasil-2026/",
+                "texto": "A campanha, válida de julho a dezembro, reúne as marcas HDI, Yelum e Aliro e reforça o investimento contínuo do grupo em reconhecimento e relacionamento com o canal.",
+                "fonte": "Grupo HDI",
+                "fonte_url": "https://cqcs.com.br/noticia/grupo-hdi-levara-corretores-para-a-italia-e-o-nordeste-brasileiro-com-a-campanha-conexao-mundo-e-brasil-2026/",
+                "fonte_label": "CQCS",
+                "data": "Jul/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "hot",
+            "tag_label": "REGULAÇÃO",
+            "titulo": "Susep discute nova Resolução CNSP sobre seguros de danos, com regras específicas para atuação do corretor na formação do contrato",
+            "url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+            "texto": "A minuta prevê que o corretor possa representar o proponente na formação do contrato, com a seguradora obrigada a fornecer protocolo de recebimento da proposta com data e hora.",
+            "fonte": "Susep",
+            "fonte_url": "https://cqcs.com.br/noticia/susep-analisa-novas-regras-para-seguros-de-danos/",
+            "fonte_label": "CQCS",
+            "data": "Jul/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "ESTRUTURAL",
+            "titulo": "Especialista aponta mudança estrutural no mercado: mais corretores pessoa física, menos empresas corretoras",
+            "url": "https://www.novocorretornews.com.br/noticias/2026/07/29/1811/",
+            "texto": "Dados da Susep mostram que o número de corretores pessoa física permanece estável, próximo de 85 mil, enquanto a quantidade de empresas corretoras vem caindo — tendência que analistas associam tanto à depuração cadastral quanto a uma reorganização mais profunda da distribuição.",
+            "fonte": "Novo Corretor News",
+            "fonte_url": "https://www.novocorretornews.com.br/noticias/2026/07/29/1811/",
+            "fonte_label": "Novo Corretor News",
+            "data": "Jul/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "REGULAÇÃO",
+            "titulo": "Resolução CNSP 493/2026 também disciplina cooperativas de corretores de seguros",
+            "url": "https://cqcs.com.br/noticia/veja-as-novas-regras-para-a-atuacao-dos-corretores-de-seguros/",
+            "texto": "A norma prevê que cooperativas de corretores só recebam registro se atenderem aos requisitos da Lei Federal 5.764/71, além da normatização do CNSP e da Susep.",
+            "fonte": "CNSP · Susep",
+            "fonte_url": "https://cqcs.com.br/noticia/veja-as-novas-regras-para-a-atuacao-dos-corretores-de-seguros/",
+            "fonte_label": "CQCS",
+            "data": "Jul/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "AGENDA",
+            "titulo": "24º Congresso Brasileiro dos Corretores confirma sorteio de três automóveis 0km para corretores com registro ativo na Susep",
+            "url": "https://revistaapolice.com.br/2026/07/inscricoes-para-o-congresso-brasileiro-dos-corretores-terminam-nos-proximos-dias/",
+            "texto": "O congresso, entre 27 e 29 de agosto no Rio, prevê mais de 80 painéis sobre IA, inovação tecnológica, mudanças regulatórias e diversificação de carteira — inscrições encerram nesta sexta (31/jul).",
+            "fonte": "Fenacor",
+            "fonte_url": "https://revistaapolice.com.br/2026/07/inscricoes-para-o-congresso-brasileiro-dos-corretores-terminam-nos-proximos-dias/",
+            "fonte_label": "Revista Apólice",
+            "data": "Jul/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "É uma grande satisfação tê-los aqui — trabalhamos para o corretor de seguros e para que o mercado de seguros seja ainda melhor.",
+            "avatar": "AE",
+            "nome": "Augusto Esteves",
+            "cargo": "Presidente · UCS (União dos Corretores de Seguros)",
+            "contexto": "CQCS · Jul/2026"
+          },
+          {
+            "quote": "A ampliação do capital segurado reforça a capacidade da companhia de atender famílias, empresários e clientes com estruturas patrimoniais mais sofisticadas.",
+            "avatar": "IC",
+            "nome": "Icatu Seguros",
+            "cargo": "Comunicado oficial · Elevação de capital segurado em Vida",
+            "contexto": "Revista Apólice · Jul/2026"
+          },
+          {
+            "quote": "O diagnóstico de uma doença grave pode gerar impactos emocionais, familiares e financeiros — desenvolvemos uma solução que combina proteção financeira, prevenção e acesso a serviços de saúde.",
+            "avatar": "TR",
+            "nome": "Tatiene Rokkaku",
+            "cargo": "Superintendente Executiva de Produtos Vida · Brasilseg (BB Seguros)",
+            "contexto": "SEGS · Jul/2026"
+          }
+        ],
+        "oportunidade": "A retomada do Painel de Corretores pela Susep e a mudança estrutural identificada (mais profissionais pessoa física, menos empresas corretoras) reforçam que o canal está em reorganização silenciosa — momento oportuno para a Seguros Unimed intensificar relacionamento direto com corretores individuais, à frente da nova Resolução sobre seguros de danos e da reta final do 24º Congresso Brasileiro de Corretores em agosto."
+      }
+    },
+    {
       "id": "2026-07-24",
       "titulo": "Edição 24/Jul/2026",
       "data": "24 de julho de 2026",
