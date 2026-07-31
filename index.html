@@ -902,10 +902,6 @@ function renderGeral() {
           </div>
         </div>`).join('')}
       </div>
-    </div>
-    <div class="impl-box">
-      <div class="impl-title">⚡ Implicações para a Seguros Unimed — ${ed.titulo}</div>
-      <div class="impl-txt">${s.implicacao}</div>
     </div>`);
 }
 
@@ -940,15 +936,7 @@ function renderSeg(id) {
     <div class="sec-block">
       <div class="slabel">⚔️ Notícias dos Principais Concorrentes · ${nomes[id]}</div>
       <div class="nfeed">${concorrentesDoSegmento.map(x=>n(x)).join('')}</div>
-    </div>` : ''}
-    <div class="impl-box">
-      <div class="impl-title">⚡ Implicação para a Seguros Unimed · ${nomes[id]}</div>
-      <div class="impl-txt">${s.implicacao}</div>
-    </div>
-    <div class="opp-card">
-      <div class="opp-label">🚀 Oportunidade Estratégica</div>
-      <div class="opp-txt">${s.oportunidade}</div>
-    </div>`);
+    </div>` : ''}`);
 }
 
 function cb(rank,nome,tipo,noticias,su=false) {
@@ -1033,11 +1021,6 @@ function renderCorretores() {
           </div>
         </div>`).join('')}
       </div>
-    </div>
-
-    <div class="opp-card" style="margin-top:12px">
-      <div class="opp-label">🚀 Oportunidade Estratégica</div>
-      <div class="opp-txt">${cor.oportunidade}</div>
     </div>
   `);
 }
