@@ -844,9 +844,13 @@ function n(noticia, termoDest) {
   const url = noticia.url;
   const titulo = termoDest ? highlight(noticia.titulo, termoDest) : noticia.titulo;
   const texto  = termoDest ? highlight(noticia.texto,  termoDest) : noticia.texto;
-  const linkTitulo = url ? `<a href="${url}" target="_blank">${titulo}</a>` : titulo;
+  const tituloAttr = escAttr(noticia.titulo);
+  const fonteAttr = escAttr(noticia.fonte || noticia.fonte_label || '');
+  const linkTitulo = url
+    ? `<a href="${url}" target="_blank" onclick="trackNewsClick({titulo:'${tituloAttr}',fonte:'${fonteAttr}',tag:'${escAttr(noticia.tag_label||'')}',url:'${escAttr(url)}'})">${titulo}</a>`
+    : titulo;
   const metaFonte = noticia.fonte_url
-    ? `<a href="${noticia.fonte_url}" target="_blank">${noticia.fonte_label||noticia.fonte}</a>`
+    ? `<a href="${noticia.fonte_url}" target="_blank" onclick="trackNewsClick({titulo:'${tituloAttr}',fonte:'${fonteAttr}',tag:'${escAttr(noticia.tag_label||'')}',url:'${escAttr(noticia.fonte_url)}',tipo:'fonte'})">${noticia.fonte_label||noticia.fonte}</a>`
     : (noticia.fonte_label || noticia.fonte || '');
   return `<div class="ncard">
     <span class="ntag ${noticia.tag}">${noticia.tag_label}</span>
@@ -860,6 +864,31 @@ function n(noticia, termoDest) {
       </div>
     </div>
   </div>`;
+}
+
+// ─── GOOGLE ANALYTICS · TRACKING DE CLIQUES EM NOTÍCIAS ──────────────────────
+function escAttr(str) {
+  return String(str || '')
+    .replace(/<[^>]*>/g, '')
+    .replace(/\\/g, '\\\\')
+    .replace(/'/g, "\\'")
+    .replace(/"/g, '&quot;');
+}
+
+function trackNewsClick(info) {
+  try {
+    if (typeof gtag === 'function') {
+      gtag('event', 'news_click', {
+        news_title: info.titulo || '',
+        news_source: info.fonte || '',
+        news_tag: info.tag || '',
+        news_url: info.url || '',
+        news_link_type: info.tipo || 'titulo',
+        edition_id: (typeof edicaoAtual !== 'undefined' && edicaoAtual) ? edicaoAtual.id : '',
+        edition_titulo: (typeof edicaoAtual !== 'undefined' && edicaoAtual) ? edicaoAtual.titulo : ''
+      });
+    }
+  } catch (e) { /* não bloquear navegação por erro de tracking */ }
 }
 
 function highlight(txt, termo) {
@@ -1118,7 +1147,7 @@ function renderBusca() {
       <div class="search-drop-edicao">${noticia._edicao} · ${noticia.tag_label}</div>
       <div class="search-drop-titulo">
         ${noticia.url
-          ? `<a href="${noticia.url}" target="_blank" style="color:var(--text);text-decoration:none;font-weight:600" onmouseover="this.style.color='var(--azul-med)'" onmouseout="this.style.color='var(--text)'">${highlight(noticia.titulo.replace(/<[^>]*>/g,''), termoBusca)} <span style="color:var(--azul-med)">↗</span></a>`
+          ? `<a href="${noticia.url}" target="_blank" style="color:var(--text);text-decoration:none;font-weight:600" onmouseover="this.style.color='var(--azul-med)'" onmouseout="this.style.color='var(--text)'" onclick="trackNewsClick({titulo:'${escAttr(noticia.titulo)}',fonte:'${escAttr(noticia.fonte)}',tag:'${escAttr(noticia.tag_label||'')}',url:'${escAttr(noticia.url)}',tipo:'busca'})">${highlight(noticia.titulo.replace(/<[^>]*>/g,''), termoBusca)} <span style="color:var(--azul-med)">↗</span></a>`
           : `<span style="font-weight:600">${highlight(noticia.titulo.replace(/<[^>]*>/g,''), termoBusca)}</span>`
         }
       </div>
