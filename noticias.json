@@ -1,6 +1,1552 @@
 {
   "edicoes": [
     {
+      "id": "2026-08-21",
+      "titulo": "Edição 21/Ago/2026",
+      "data": "21 de agosto de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "att",
+          "emoji": "⚖️",
+          "titulo": "Consulta Pública",
+          "url": "https://cqcs.com.br/noticia/susep-recebe-ate-20-de-agosto-sugestoes-para-nova-regra-sobre-premios-de-resseguro-nao-pagos/",
+          "texto": "Encerra nesta quinta (20/ago) o prazo da consulta pública da Susep sobre o tratamento prudencial de prêmios de resseguro não pagos, enquanto a autarquia já abriu tomada de subsídios para o Plano de Regulação 2027 — sinal de que a reengenharia normativa do setor segue em ritmo contínuo, sem pausa entre um ciclo regulatório e o próximo."
+        },
+        "competitivo": {
+          "status": "att",
+          "emoji": "💰",
+          "titulo": "M&A em Aceleração",
+          "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+          "texto": "Fundos aceleram a negociação pela Amil (até R$ 15 bilhões) antes do período eleitoral, enquanto a Caixa Seguridade confirma que lançará produtos inéditos de vida resgatável e individual ainda em 2026 — dois movimentos que podem redesenhar a competição em Saúde e Vida nos próximos meses."
+        },
+        "sentimento": {
+          "status": "ok",
+          "emoji": "🧭",
+          "titulo": "Otimista",
+          "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+          "texto": "A primeira PMC Residencial do Sincor-SP mostrou 93% de aprovação às coberturas básicas entre 1.216 corretores ouvidos, e o Sinc Summit levou o debate sobre IA a Araçatuba — o canal segue confiante e em movimento, mesmo com apontamentos claros sobre assistência e aplicativos das seguradoras."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, e fundos aceleram negociação antes do período eleitoral",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "texto": "Bain Capital e Advent seguem em due diligence avançada pela operadora, com fundos buscando fechar o acordo antes de o calendário eleitoral de 2026 tornar o ambiente regulatório e político mais incerto para uma transação dessa magnitude.",
+              "fonte": "Amil",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep encerra nesta quinta consulta pública sobre resseguro e já abre tomada de subsídios para o Plano de Regulação 2027",
+              "url": "https://cqcs.com.br/noticia/susep-abre-tomada-de-subsidios-para-o-plano-de-regulacao-2027/",
+              "texto": "A autarquia recebe até 20/8 contribuições sobre o tratamento prudencial de prêmios de resseguro não pagos e, simultaneamente, convida mercado e sociedade a sugerir temas prioritários para a agenda normativa do próximo ano.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/susep-abre-tomada-de-subsidios-para-o-plano-de-regulacao-2027/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "ESTRATÉGIA",
+              "titulo": "Caixa Seguridade confirma que lançará seguro de vida resgatável e oferta individual ainda em 2026",
+              "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+              "texto": "O CEO Luiz Gustavo Portela anunciou a entrada em segmentos inéditos para a companhia até dezembro, enquanto o seguro prestamista, vinculado ao crédito, segue como principal desafio de crescimento a ser equacionado.",
+              "fonte": "Caixa Seguridade",
+              "fonte_url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+              "fonte_label": "BPMoney",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "RESULTADO",
+              "titulo": "Bradesco Vida Viva cresce 30,5% no semestre ao oferecer benefícios que o cliente usa em vida",
+              "url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+              "texto": "Telemedicina, apoio psicológico e nutricional, assistência pet e proteção de renda aproximam o seguro de vida da rotina do cliente e puxam a receita da Bradesco Vida e Previdência, que faturou R$ 23,2 bilhões no período.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+              "fonte_label": "Veja · CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "CONARH 2026 reúne Seguros Unimed, Bradsaúde e Odontoprev em São Paulo com foco em benefícios corporativos",
+              "url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "texto": "Entre 18 e 20 de agosto, o maior evento de gestão de pessoas do país virou vitrine comercial para operadoras de saúde e odonto, que disputam a atenção de quem decide os benefícios corporativos das empresas brasileiras.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "PMC Residencial do Sincor-SP aponta 93% de aprovação nas coberturas básicas, mas cobra mais das assistências e apps",
+              "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+              "texto": "A primeira edição do estudo, que ouviu 1.216 corretores, reforça o potencial do ramo — apenas 15% das residências brasileiras têm seguro — e aponta onde as seguradoras precisam evoluir para converter esse potencial em carteira.",
+              "fonte": "Sincor-SP",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PESSOAS",
+              "titulo": "Icatu Seguros anuncia André Oliva para liderar nova diretoria de Dados e Tecnologia",
+              "url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+              "texto": "O movimento reforça a estratégia tecnológica da seguradora, que já investiu mais de R$ 2 bilhões em tecnologia nos últimos cinco anos, sendo R$ 400 milhões só no último ano.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+              "fonte_label": "Revista Cobertura",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed cresce 5% e atinge R$ 170 milhões de faturamento em Minas Gerais",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "texto": "O avanço no Estado, puxado por odonto, vida, previdência e ramos elementares, reforça a leitura do presidente Helton Freitas de que a companhia penetra mais fundo justamente onde o Sistema Unimed é mais consolidado — um case de crescimento orgânico ligado à força da marca cooperativista.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "fonte_label": "Diário do Comércio · CQCS",
+              "data": "Ago/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "O gap de captação bruta estimado é de R$ 130 bilhões desde a tributação do VGBL — recursos que deixaram de financiar a longevidade dos brasileiros.",
+              "avatar": "EF",
+              "nome": "Edson Franco",
+              "cargo": "Presidente · Fenaprevi",
+              "contexto": "Café CVG-SP · Ago/2026"
+            },
+            {
+              "quote": "O seguro residencial é uma oportunidade enorme pelo potencial de crescimento e uma porta de entrada para ampliar o relacionamento com o cliente.",
+              "avatar": "FG",
+              "nome": "Francisco Galiza",
+              "cargo": "Economista, responsável técnico pela PMC · Sincor-SP",
+              "contexto": "PMC Residencial · Ago/2026"
+            },
+            {
+              "quote": "A Inteligência Artificial já está na rotina das empresas e das pessoas. O corretor pode usá-la para fortalecer o relacionamento e a confiança.",
+              "avatar": "BB",
+              "nome": "Boris Ber",
+              "cargo": "Presidente · Sincor-SP",
+              "contexto": "Sinc Summit Araçatuba · Ago/2026"
+            }
+          ],
+          "implicacao": "A semana confirma dois movimentos estruturais simultâneos: consolidação acelerada em Saúde (Amil, com fundos correndo contra o calendário eleitoral) e diversificação em Vida/Previdência (Caixa Seguridade entrando em vida resgatável, Bradesco crescendo com benefícios em vida). Para a Seguros Unimed, o desempenho em Minas Gerais confirma que a tese de crescimento via força regional do Sistema Unimed continua validada, enquanto a régua de experiência do corretor (PMC Residencial) sobe em todo o mercado."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "DADOS SETORIAIS",
+              "titulo": "Uso dos planos de saúde cresce quase o dobro da carteira de beneficiários e desafia sustentabilidade do setor",
+              "url": "https://cqcs.com.br/noticia/uso-dos-planos-de-saude-cresce-quase-o-dobro-da-carteira-e-desafia-sustentabilidade-do-setor/",
+              "texto": "Levantamento do IESS mostra que, entre 2019 e 2025, a produção assistencial avançou bem mais rápido que a base de beneficiários, elevando a média de procedimentos por segurado — pressão direta sobre custos que toda operadora, incluindo a SU, precisa equacionar.",
+              "fonte": "IESS",
+              "fonte_url": "https://cqcs.com.br/noticia/uso-dos-planos-de-saude-cresce-quase-o-dobro-da-carteira-e-desafia-sustentabilidade-do-setor/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Bradsaúde leva ao CONARH 2026 novo posicionamento para ampliar negócios em saúde corporativa",
+              "url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+              "texto": "Executivos da Bradesco Saúde e da Odontoprev participam do evento para reuniões comerciais diretas com decisores de RH, sinalizando disputa mais agressiva pela venda corporativa de saúde e odonto combinados.",
+              "fonte": "Bradesco Saúde",
+              "fonte_url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed participa do CONARH 2026 com palestra sobre saúde no trabalho e reforça sete premiações como \"Lugar Incrível para Trabalhar\"",
+              "url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "texto": "A companhia usa sua própria gestão de pessoas como vitrine para vender soluções corporativas de saúde física, mental e financeira — estratégia que reforça a marca institucional diante de decisores de RH em um momento turbulento para concorrentes de Saúde.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "RESULTADO",
+              "titulo": "SulAmérica chega a 6,1 milhões de beneficiários em Saúde e Odonto, com sinistralidade em queda",
+              "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+              "texto": "A receita líquida do 2T26 somou R$ 8,7 bilhões (+6,9% ano a ano) e a sinistralidade recuou para 78,9%, sinal de que a integração com a Rede D'Or começa a entregar ganhos de eficiência na maior concorrente direta da SU em Saúde.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Qualicorp e SulAmérica lançam novo portfólio de planos de saúde coletivos por adesão",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O anúncio, feito em live no canal da Qualicorp, aprofunda a parceria entre a maior administradora de benefícios do país e a SulAmérica no segmento por adesão — um dos canais de distribuição mais disputados da Saúde.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "M&A",
+              "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos correndo contra o calendário eleitoral",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "texto": "A aceleração da due diligence por Bain Capital e Advent reforça que 2026 pode ser o ano em que o mapa competitivo de Saúde muda de forma definitiva, com efeitos diretos sobre precificação e distribuição no segmento geral.",
+              "fonte": "Amil",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "O CONARH 2026 escancarou a disputa pela venda corporativa de saúde: Bradsaúde, Odontoprev e a própria Seguros Unimed miraram o mesmo público de decisores de RH na mesma semana. Ao mesmo tempo, o dado do IESS sobre uso crescente dos planos é um alerta estrutural de custo que vale para toda a indústria, SU incluída, e a evolução de SulAmérica/Rede D'Or mostra que consolidação com rede própria segue reduzindo sinistralidade de concorrentes diretos.",
+          "oportunidade": "Usar o CONARH como termômetro: a SU já testou sua própria cultura organizacional como vitrine comercial. O próximo passo é transformar isso em material de vendas replicável para o corretor corporativo — um case de \"saúde que a própria seguradora pratica\" difícil de copiar por concorrentes bancassurance."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "new",
+              "tag_label": "ANIVERSÁRIO",
+              "titulo": "Odontoprev completa 39 anos com \"Dia do Sorriso Voluntário\" simultâneo em cinco estados",
+              "url": "https://www.juventudebm.com/2026/08/de-forma-simultanea-odontoprev-promove.html",
+              "texto": "Mais de 120 colaboradores participam de ações sociais em São Paulo, Salvador, Fortaleza, Rio de Janeiro e Belo Horizonte — movimento de marca que reforça o vínculo institucional da maior operadora odontológica do país com a comunidade.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://www.juventudebm.com/2026/08/de-forma-simultanea-odontoprev-promove.html",
+              "fonte_label": "Juventude BM",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Odontoprev leva ao CONARH 2026 o \"Spa do Sorriso\" para reforçar presença na venda corporativa",
+              "url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+              "texto": "O CEO Elsen Carvalho participa pessoalmente do evento ao lado da diretoria da Bradesco Saúde, sinalizando que a venda casada saúde+odonto segue como principal estratégia comercial do grupo Bradesco/Odontoprev nas grandes empresas.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed participa do CONARH 2026 com portfólio integrado de saúde, odonto e bem-estar",
+              "url": "https://www.segs.com.br/seguros/453757-seguros-unimed-destaca-cuidado-com-colaboradores-e-inovacao-na-gestao-estrategica-de-rh/amp",
+              "texto": "A companhia leva ao maior evento de RH do país uma proposta que simplifica a rotina de equipes de Recursos Humanos, ao mesmo tempo em que reforça o Unimed Odonto como parte de um pacote de benefícios integrado.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://www.segs.com.br/seguros/453757-seguros-unimed-destaca-cuidado-com-colaboradores-e-inovacao-na-gestao-estrategica-de-rh/amp",
+              "fonte_label": "SEGS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "RESULTADO",
+              "titulo": "SulAmérica soma 6,1 milhões de beneficiários combinados em Saúde e Odonto, com sinistralidade em 78,9%",
+              "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+              "texto": "O avanço de 9,7% na base de beneficiários no último ano reforça a SulAmérica como concorrente relevante também no Odonto, em paralelo ao crescimento da Odontoprev, líder isolada do segmento no país.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "Qualicorp e SulAmérica lançam portfólio de planos coletivos por adesão que inclui odonto",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O lançamento amplia a disputa pelo canal de administradoras de benefícios, essencial para a distribuição de odonto em massa junto a entidades de classe e sindicatos.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "A Odontoprev usa sua data de aniversário e presença no CONARH para reforçar simultaneamente marca institucional e venda corporativa casada com saúde — um padrão que a Unimed Odonto replica em escala menor. A entrada de mais players (SulAmérica, Qualicorp) no canal de adesão mantém o odonto como o segmento mais disputado por volume de distribuição.",
+          "oportunidade": "Acelerar a ativação das 205 Unimeds regionais ainda não integradas ao Unimed Odonto usando o CONARH e eventos institucionais como vitrine replicável — cada nova cooperativa ativada é crescimento orgânico sem custo de aquisição de canal, no segmento onde a SU já detém o NPS nº 1 do Brasil."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "RESULTADO",
+              "titulo": "Bradesco Vida Viva cresce 30,5% no semestre ao vender benefícios que o segurado usa em vida",
+              "url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+              "texto": "Telemedicina, apoio psicológico, assistência pet e proteção de renda tornaram o produto mais atrativo, com a Bradesco Vida e Previdência faturando R$ 23,2 bilhões no período — modelo que redefine o discurso comercial do seguro de vida no país.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+              "fonte_label": "Veja · CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "COMPORTAMENTO",
+              "titulo": "Icatu: jovens mudam o mercado de seguro de vida ao priorizar proteção financeira em vida, não só em morte",
+              "url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+              "texto": "Entre a Geração Z, 88% optam por Invalidez Parcial por Acidente e 81% incluem Doenças Graves — uma mudança estrutural na forma como as novas gerações encaram o seguro de vida como instrumento de proteção, não só de sucessão.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PESSOAS",
+              "titulo": "Icatu Seguros anuncia André Oliva para nova diretoria de Dados e Tecnologia",
+              "url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+              "texto": "O reforço acompanha um investimento de R$ 2 bilhões em tecnologia nos últimos cinco anos — sinal de que a corrida por dados também vale para o seguro de vida individual de alto capital segurado.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+              "fonte_label": "Revista Cobertura",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Zurich confirma agenda de Vida no 24º Congresso Brasileiro dos Corretores, com CEO em painel sobre seguro de pessoas",
+              "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+              "texto": "Edson Franco, CEO da Zurich Brasil, participa de painel sobre longevidade e novas configurações familiares — reforçando o discurso de expansão da seguradora em Vida Individual e Vida PME junto ao canal corretor.",
+              "fonte": "Zurich",
+              "fonte_url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed cresce 5% em Minas Gerais, com Vida entre os motores do avanço",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "texto": "O crescimento consolidado de R$ 170 milhões no Estado reforça a leitura de que Vida é hoje o produto com maior espaço de expansão para a companhia fora do núcleo tradicional de Saúde.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "fonte_label": "Diário do Comércio · CQCS",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "Bradesco e Icatu convergem para o mesmo insight: o seguro de vida vende mais quando entrega valor em vida, não só na morte — telemedicina, doenças graves e proteção de renda substituem o discurso tradicional. A Zurich reforça essa agenda no canal corretor, e a SU tem em Vida o ramo com maior gap entre potencial de mercado e posição atual (14ª colocação).",
+          "oportunidade": "Estruturar um produto de Vida com componente de \"benefício em vida\" nos moldes do Vida Viva, aproveitando a rede própria de saúde do Sistema Unimed como diferencial de custo — nenhum concorrente bancassurance consegue oferecer telemedicina cooperativa com a mesma qualidade percebida."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "DADOS SETORIAIS",
+              "titulo": "Fenaprevi confirma gap de R$ 130 bilhões em captação desde a tributação do VGBL",
+              "url": "https://www.segs.com.br/seguros/452896-aportes-na-previdencia-privada-aberta-recuam-r-5-bilhoes-no-primeiro-semestre-de-2026",
+              "texto": "A captação bruta recuou 5,6% no primeiro semestre, para R$ 77,4 bilhões, mesmo com os ativos administrados batendo R$ 1,9 trilhão (14% do PIB) — o IOF sobre aportes segue sendo o principal entrave ao crescimento do setor.",
+              "fonte": "Fenaprevi",
+              "fonte_url": "https://www.segs.com.br/seguros/452896-aportes-na-previdencia-privada-aberta-recuam-r-5-bilhoes-no-primeiro-semestre-de-2026",
+              "fonte_label": "SEGS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Café CVG-SP recebe presidente da Fenaprevi para debater desafios e tendências de Vida e Previdência",
+              "url": "https://cqcs.com.br/noticia/cafe-cvg-sp-com-o-presidente-da-fenaprevi-abordara-seguros-de-vida-e-previdencia/",
+              "texto": "Edson Franco apresentou ao canal corretor do Rio o panorama pós-IOF do VGBL e reforçou o argumento institucional de que a tributação foi na contramão do incentivo à poupança de longo prazo.",
+              "fonte": "Fenaprevi",
+              "fonte_url": "https://cqcs.com.br/noticia/cafe-cvg-sp-com-o-presidente-da-fenaprevi-abordara-seguros-de-vida-e-previdencia/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "ESTRATÉGIA",
+              "titulo": "Caixa Seguridade planeja produtos inéditos que tangenciam previdência e vida resgatável até o fim de 2026",
+              "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+              "texto": "O movimento amplia a concorrência no espaço entre seguro de vida com componente de acumulação e previdência tradicional, justamente quando o VGBL perde força por causa do IOF.",
+              "fonte": "Caixa Seguridade",
+              "fonte_url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+              "fonte_label": "BPMoney",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Previdência é um dos motores do crescimento de 5% da Seguros Unimed em Minas Gerais",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "texto": "Mesmo em um ano de retração setorial por causa do IOF sobre o VGBL, a SU registra avanço no produto no Estado — um contraponto positivo à tendência nacional de queda na captação.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "fonte_label": "Diário do Comércio · CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Icatu amplia seguro de vida individual a até R$ 150 milhões de capital segurado, mirando sucessão patrimonial",
+              "url": "https://www.infomoney.com.br/minhas-financas/seguro-de-vida-de-ate-r-150-milhoes-icatu-anuncia-novidade-na-expert-xp/",
+              "texto": "O produto de altíssimo capital dialoga diretamente com o público de previdência e planejamento sucessório, área em que a Icatu reforça presença como alternativa independente aos grandes bancos.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://www.infomoney.com.br/minhas-financas/seguro-de-vida-de-ate-r-150-milhoes-icatu-anuncia-novidade-na-expert-xp/",
+              "fonte_label": "InfoMoney",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "O gap de R$ 130 bilhões em captação segue sendo a principal pauta institucional da Fenaprevi, com o setor buscando reverter o IOF via Congresso. Enquanto isso, Caixa Seguridade e Icatu miram justamente as bordas do produto (vida resgatável e altíssimo capital) para crescer apesar do cenário adverso — um caminho que a SU já sinaliza estar seguindo no Estado de Minas Gerais.",
+          "oportunidade": "Posicionar a Previdência como instrumento de garantia de crédito e planejamento sucessório — não apenas aposentadoria — aproveitando o momento em que o discurso tradicional do VGBL perdeu força por causa do IOF e o mercado busca ativamente um novo argumento de venda."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "RISCO",
+              "titulo": "Aumento da complexidade nas decisões empresariais eleva exposição de gestores e reforça importância do seguro D&O",
+              "url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+              "texto": "Mudanças regulatórias, deterioração financeira e operações societárias relevantes ampliam o risco pessoal de diretores e conselheiros — a Susep esclarece que o D&O pode, conforme as coberturas contratadas, proteger o patrimônio pessoal desses executivos.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LICITAÇÃO",
+              "titulo": "Telebras abre licitação para contratar apólice de D&O para conselho e diretoria executiva",
+              "url": "https://cqcs.com.br/noticia/telebras-faz-licitacao-para-contratar-seguro-do/",
+              "texto": "A abertura das propostas ocorre em 25/8 e reforça a demanda crescente de estatais e empresas públicas por cobertura de responsabilidade civil de administradores, um nicho ainda pouco explorado por seguradoras cooperativas.",
+              "fonte": "Telebras",
+              "fonte_url": "https://cqcs.com.br/noticia/telebras-faz-licitacao-para-contratar-seguro-do/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PESQUISA",
+              "titulo": "PMC Residencial do Sincor-SP aponta 93% de aprovação em coberturas básicas, mas cobra evolução de assistências",
+              "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+              "texto": "Entre 1.216 corretores ouvidos, a qualidade da assistência e dos aplicativos concentrou as piores avaliações — pontos de atenção diretos para qualquer seguradora que queira crescer no Residencial, incluindo a SU.",
+              "fonte": "Sincor-SP",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CLIMA",
+              "titulo": "Bradesco Seguros lança Radar BARE, monitoramento climático semanal para antecipar riscos patrimoniais",
+              "url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+              "texto": "A ferramenta pioneira no setor reúne análises semanais de previsão do tempo por região e respectiva classificação de risco, mirando eventos climáticos extremos que afetam diretamente o ramo Residencial e Empresarial.",
+              "fonte": "Bradesco Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Ramos Elementares aparece entre os motores do crescimento de 5% da Seguros Unimed em Minas Gerais",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "texto": "O avanço no Estado, ao lado de vida e previdência, reforça que os Ramos Elementares seguem como frente de diversificação relevante para a companhia fora do núcleo tradicional de Saúde.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+              "fonte_label": "Diário do Comércio · CQCS",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "D&O ganha destaque institucional simultâneo (explicativo da Susep e licitação da Telebras), sinalizando amadurecimento da demanda por responsabilidade de administradores no setor público e privado. Já no Residencial, a régua de exigência do corretor sobe (PMC Sincor-SP) na mesma semana em que Bradesco lança ferramenta proprietária de monitoramento climático — dois sinais de que assistência e prevenção viraram diferencial competitivo, não mais item acessório.",
+          "oportunidade": "Avaliar o desenvolvimento de um radar climático próprio ou parceria de dados para o Residencial e Empresarial da SU, respondendo tanto ao movimento do Bradesco quanto às lacunas de assistência apontadas pela PMC do Sincor-SP — uma janela clara para diferenciação via tecnologia de prevenção."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "new",
+              "tag_label": "PARCERIA",
+              "titulo": "Qualicorp e SulAmérica lançam portfólio inédito de planos coletivos por adesão",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O anúncio reforça o peso das administradoras de benefícios como canal de distribuição em massa, disputado por praticamente todas as grandes operadoras de saúde do país.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "24º Congresso Brasileiro dos Corretores se aproxima (27-29/ago), e seguradoras já anunciam agenda no ExpoRio",
+              "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+              "texto": "Zurich confirma estande com foco em Auto, Vida Individual, Vida PME e Residencial, com sorteio de veículos entre corretores — sinal de que grandes seguradoras tratam o canal corretor como prioridade estratégica de curto prazo.",
+              "fonte": "Fenacor",
+              "fonte_url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Sinc Summit leva Inteligência Artificial e novas oportunidades a corretores da região de Araçatuba",
+              "url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+              "texto": "O evento itinerante do Sincor-SP já passou por Piracicaba, São José do Rio Preto e Santos, levando debate sobre IA, tecnologia e planejamento comercial ao interior paulista.",
+              "fonte": "Sincor-SP",
+              "fonte_url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+              "fonte_label": "Sincor-SP",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Bradesco Seguros amplia condições especiais para corretores no Mês da Construção Civil",
+              "url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+              "texto": "Campanha com até 15% de desconto e parcelamento em 10 vezes sem juros mira novos negócios e renovações no Seguro para Equipamentos de Construção Civil, ampliando as oportunidades comerciais do canal.",
+              "fonte": "Bradesco Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "CONARH 2026 reforça o corretor corporativo como canal prioritário de venda de benefícios integrados",
+              "url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "texto": "A presença da Seguros Unimed no evento, ao lado de concorrentes, mostra que o canal de venda para RH corporativo segue como a principal porta de entrada para pacotes combinados de saúde, odonto, vida e previdência.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "A semana confirma que canal segue sendo campo de batalha ativo: administradoras de benefícios (Qualicorp), eventos itinerantes de capacitação (Sinc Summit) e o Congresso Nacional de Corretores concentram os investimentos comerciais das seguradoras nas próximas semanas.",
+          "oportunidade": "Aproveitar a proximidade do 24º Congresso Brasileiro dos Corretores (27-29/ago) para estruturar uma presença mais assertiva da SU no evento, com foco no diferencial cooperativista médico-corretor ainda pouco explorado pela concorrência."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "SUSTENTABILIDADE",
+              "titulo": "Uso dos planos de saúde cresce quase o dobro da carteira de beneficiários, segundo o IESS",
+              "url": "https://cqcs.com.br/noticia/uso-dos-planos-de-saude-cresce-quase-o-dobro-da-carteira-e-desafia-sustentabilidade-do-setor/",
+              "texto": "A produção assistencial avançou 23,2% entre 2019 e 2025, contra 11,8% de crescimento da base de beneficiários — uma tendência estrutural de aumento de custo que nenhuma operadora do país escapa de enfrentar.",
+              "fonte": "IESS",
+              "fonte_url": "https://cqcs.com.br/noticia/uso-dos-planos-de-saude-cresce-quase-o-dobro-da-carteira-e-desafia-sustentabilidade-do-setor/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CLIMA",
+              "titulo": "Bradesco Seguros e Grupo Bradesco Seguros discutem seguro como instrumento de resiliência climática municipal",
+              "url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-destaca-integracao-entre-ciencia-e-seguros-para-ampliar-resiliencia-climatica-dos-municipios/",
+              "texto": "Na São Paulo Climate Week, a companhia debateu o papel do seguro no financiamento da adaptação climática de municípios, dando continuidade a discussões iniciadas na London Climate Action Week 2026.",
+              "fonte": "Bradesco Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-destaca-integracao-entre-ciencia-e-seguros-para-ampliar-resiliencia-climatica-dos-municipios/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "COMPORTAMENTO",
+              "titulo": "Icatu: jovens redefinem o seguro de vida como instrumento de proteção em vida, não apenas em morte",
+              "url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+              "texto": "Millennials e Geração Z priorizam coberturas de invalidez e doenças graves, reforçando uma tendência geracional que deve moldar o desenho de produtos de vida na próxima década.",
+              "fonte": "Icatu Seguros",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Sinc Summit leva debate sobre Inteligência Artificial aplicada à corretagem ao interior de São Paulo",
+              "url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+              "texto": "O evento itinerante do Sincor-SP reforça que a adoção de IA na venda e no relacionamento com o cliente já deixou de ser tema distante para se tornar prioridade prática das corretoras regionais.",
+              "fonte": "Sincor-SP",
+              "fonte_url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+              "fonte_label": "Sincor-SP",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "GOVERNANÇA",
+              "titulo": "Complexidade regulatória crescente eleva demanda por seguro D&O em estatais e empresas privadas",
+              "url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+              "texto": "A licitação da Telebras e o material explicativo da Susep na mesma semana reforçam que a governança corporativa virou motor de demanda por linhas financeiras, tendência que deve se acelerar com a Nova Lei de Seguros.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "M&A",
+              "titulo": "Consolidação em Saúde se acelera com Amil e Prudential Brasil simultaneamente em processos de venda",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "texto": "O calendário eleitoral de 2026 virou fator de pressão para o fechamento de negócios bilionários no setor, reforçando 2026 como o ano da reconfiguração acionária de grandes operadoras de saúde e seguradoras de vida.",
+              "fonte": "Amil",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+              "fonte_label": "CQCS",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Programa Cuidando de Perto completa dez anos como referência de eficiência operacional em navegação clínica",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-programa-cuidando-de-perto/",
+              "texto": "A parceria com a healthtech Nilo elevou em 76,8% a captação de beneficiários no programa, um case que a companhia pode usar como prova de conceito diante da pressão de custo assistencial que atinge todo o setor.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-programa-cuidando-de-perto/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "As grandes tendências da semana — pressão de custo assistencial, geração mais jovem redefinindo o seguro de vida, IA na distribuição, governança corporativa e consolidação acelerada em Saúde — convergem para um mercado que já não compete só em preço, mas em eficiência operacional e experiência digital. O case Cuidando de Perto da SU é evidência direta de que o Sistema Unimed já vem investindo nessa direção há uma década."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Definir postura frente à consolidação acelerada em Saúde (Amil/Bain-Advent) antes do fechamento do negócio",
+          "texto": "Fundos correm contra o calendário eleitoral para fechar a venda da Amil por até R$ 15 bilhões. <strong>Qualquer mudança de controle nesse porte redesenha o mapa competitivo de Saúde — a SU precisa antecipar cenários de reação de preço e rede.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            },
+            {
+              "label": "Competitivo",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Estruturar produto de Vida com componente de \"benefício em vida\" nos moldes do Bradesco Vida Viva",
+          "texto": "O produto cresce 30,5% no semestre ao entregar telemedicina, apoio psicológico e assistência pet. <strong>A SU tem rede própria de saúde cooperativa como diferencial de custo que nenhum bancassurance replica com a mesma qualidade percebida.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Vida",
+              "tipo": ""
+            },
+            {
+              "label": "Produto",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar radar climático próprio para Residencial e Empresarial, respondendo ao Radar BARE do Bradesco",
+          "texto": "A PMC Residencial do Sincor-SP já aponta assistência e prevenção como pontos fracos das seguradoras. <strong>Uma ferramenta proprietária de monitoramento climático seria diferencial direto de experiência para o corretor e o segurado.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Tecnologia",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Preparar presença institucional mais assertiva no 24º Congresso Brasileiro dos Corretores (27-29/ago, Rio)",
+          "texto": "Zurich, Porto e outras seguradoras já confirmaram agenda robusta no ExpoRio. <strong>É a maior vitrine do ano para o canal corretor — a SU precisa levar o diferencial cooperativista médico-corretor de forma explícita.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            },
+            {
+              "label": "Evento",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Monitorar impacto do gap de R$ 130 bilhões em captação de Previdência sobre o discurso comercial do produto",
+          "texto": "Fenaprevi confirma que o IOF sobre o VGBL segue interrompendo a trajetória de crescimento do setor. <strong>Reposicionar Previdência como garantia de crédito e sucessão patrimonial pode reativar interesse sem depender de reversão tributária.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            },
+            {
+              "label": "Discurso Comercial",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Bradesco Vida Viva cresce 30,5% no semestre com benefícios em vida (telemedicina, pet, renda)",
+                "url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+                "texto": "A Bradesco Vida e Previdência faturou R$ 23,2 bilhões no período, com o produto se consolidando como o principal motor de crescimento em Vida do grupo.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-cresce-com-seguro-de-vida-que-oferece-beneficios-em-vida/",
+                "fonte_label": "Veja · CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Bradesco Seguros lança Radar BARE, monitoramento climático semanal pioneiro no setor",
+                "url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+                "texto": "A ferramenta antecipa cenários de intempéries por região, reforçando a estratégia de prevenção de riscos em Residencial e Empresarial.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "RESULTADO",
+                "titulo": "SulAmérica chega a 6,1 milhões de beneficiários em Saúde e Odonto, com sinistralidade em queda para 78,9%",
+                "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "texto": "Receita líquida de R$ 8,7 bilhões no 2T26 (+6,9%) confirma ganhos de eficiência pós-integração com a Rede D'Or.",
+                "fonte": "SulAmérica",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Seguradora multiproduto · Itaú Unibanco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PATROCÍNIO",
+                "titulo": "Porto anuncia patrocínio ao Parque do Ibirapuera, em São Paulo",
+                "url": "https://cqcs.com.br/noticia/ultimos-dias-grupo-bradesco-seguros-abre-inscricoes-para-o-segundo-ciclo-do-programa-de-estagio-2026-com-115-vagas-em-dez-cidades/",
+                "texto": "A ação reforça a estratégia de marca institucional da companhia em espaços públicos de grande visibilidade na capital paulista.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Operadora verticalizada · Rede própria",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "COMPETITIVO",
+                "titulo": "Rivais ganham espaço e Hapvida volta a perder beneficiários em planos de saúde, aponta Santander",
+                "url": "https://forbes.com.br/forbes-money/2026/07/hapvida-perde-clientes-planos/",
+                "texto": "BradSaúde, Amil e Porto Saúde avançam enquanto a Hapvida segue pressionada pela disputa por preço, produto e canal de venda.",
+                "fonte": "Hapvida",
+                "fonte_url": "https://forbes.com.br/forbes-money/2026/07/hapvida-perde-clientes-planos/",
+                "fonte_label": "Forbes Brasil",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Seguradora independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PESSOAS",
+                "titulo": "Icatu Seguros anuncia André Oliva para liderar nova diretoria de Dados e Tecnologia",
+                "url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+                "texto": "O movimento acompanha um investimento de R$ 2 bilhões em tecnologia nos últimos cinco anos.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://www.revistacobertura.com.br/noticias/executivos-cia/icatu-seguros-anuncia-andre-oliva-para-liderar-a-nova-diretoria-de-dados/",
+                "fonte_label": "Revista Cobertura",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "COMPORTAMENTO",
+                "titulo": "Icatu: jovens priorizam proteção financeira em vida na hora de contratar seguro de vida",
+                "url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+                "texto": "Millennials e Geração Z priorizam invalidez e doenças graves, reformulando o desenho comercial de produtos de vida.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/08/icatu-jovens-mudam-o-mercado-de-seguro-de-vida-ao-priorizar-protecao-financeira-em-vida/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Operadora de saúde · Controle Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos acelerando negociação antes das eleições",
+                "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+                "texto": "Bain Capital e Advent seguem em due diligence avançada, com o calendário eleitoral de 2026 pressionando o fechamento do negócio.",
+                "fonte": "Amil",
+                "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Bancassurance · Caixa Econômica Federal",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Caixa Seguridade confirma que lançará seguro de vida resgatável e oferta individual até o fim de 2026",
+                "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "texto": "CEO Luiz Gustavo Portela anuncia entrada em segmentos inéditos, enquanto o prestamista segue como desafio de crescimento.",
+                "fonte": "Caixa Seguridade",
+                "fonte_url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "fonte_label": "BPMoney",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª ★",
+            "nome": "Seguros Unimed",
+            "tipo": "Braço segurador do Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "DESTAQUE SU",
+                "titulo": "Seguros Unimed cresce 5% e atinge R$ 170 milhões de faturamento em Minas Gerais",
+                "url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+                "texto": "Avanço puxado por odonto, vida, previdência e ramos elementares reforça a tese de crescimento regional via força do Sistema Unimed.",
+                "fonte": "Seguros Unimed",
+                "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-cresce-5-e-atinge-r-170-milhoes-de-faturamento-em-minas-gerais/",
+                "fonte_label": "Diário do Comércio · CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "opp",
+                "tag_label": "EVENTO",
+                "titulo": "Seguros Unimed participa do CONARH 2026 com portfólio integrado de saúde, odonto e bem-estar",
+                "url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+                "texto": "A companhia usa sua própria gestão de pessoas como vitrine comercial diante de decisores de RH no maior evento do setor.",
+                "fonte": "Seguros Unimed",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/seguros-unimed-leva-solucoes-ao-conarh-2026/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "MERCADO DE CAPITAIS",
+                "titulo": "BB Seguridade segue entre os papéis mais resilientes da Bolsa em 2026, mesmo após rebaixamentos de recomendação",
+                "url": "https://guiadoinvestidor.com.br/mercado/bb-seguridade-bbse3-caixa-seguridade-cxse3-e-porto-pssa3-ainda-podem-subir-mais/",
+                "texto": "Analistas seguem cautelosos com o crescimento de lucros diante de juros elevados e desaceleração da atividade econômica projetada para 2027.",
+                "fonte": "BB Seguridade",
+                "fonte_url": "https://guiadoinvestidor.com.br/mercado/bb-seguridade-bbse3-caixa-seguridade-cxse3-e-porto-pssa3-ainda-podem-subir-mais/",
+                "fonte_label": "Guia do Investidor",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Bancassurance · Zurich + Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Zurich confirma agenda robusta no 24º Congresso Brasileiro dos Corretores (27-29/ago, ExpoRio)",
+                "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "texto": "CEO Edson Franco participa de painel sobre seguro de pessoas, com foco em Auto, Vida Individual, Vida PME e Residencial.",
+                "fonte": "Zurich",
+                "fonte_url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "A semana confirma dois eixos competitivos simultâneos: consolidação em Saúde (Amil acelerando venda antes das eleições, Hapvida seguindo pressionada) e diversificação de produto em Vida/Previdência (Bradesco com o Vida Viva, Caixa Seguridade entrando em vida resgatável, Icatu ampliando capital segurado e reforçando dados). A SulAmérica confirma que a integração com a Rede D'Or já reduz sinistralidade, tornando-a concorrente ainda mais eficiente em Saúde e Odonto. Para a Seguros Unimed, o crescimento em Minas Gerais e a presença ativa no CONARH mostram que a companhia segue competitiva nas mesmas frentes em que os grandes grupos investem pesado."
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos acelerando negociação antes das eleições",
+                "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+                "texto": "Bain Capital e Advent seguem em due diligence avançada, processo que pode redesenhar o mapa competitivo da Saúde geral em 2026.",
+                "fonte": "Amil",
+                "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "RESULTADO",
+                "titulo": "SulAmérica chega a 6,1 milhões de beneficiários com sinistralidade em queda para 78,9%",
+                "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "texto": "Receita líquida de R$ 8,7 bilhões no 2T26 confirma ganhos de eficiência pós-integração com a Rede D'Or.",
+                "fonte": "SulAmérica",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PATROCÍNIO",
+                "titulo": "Omint Saúde patrocina evento La Misión Brasil e reforça compromisso com promoção da saúde",
+                "url": "https://cqcs.com.br/",
+                "texto": "A iniciativa reforça o posicionamento institucional da Omint em ações ligadas a bem-estar e promoção da saúde no segmento premium.",
+                "fonte": "Omint",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Segmento premium segue mirando diferenciação por experiência e rede diferenciada frente ao avanço de operadoras digitais",
+                "url": "https://cqcs.com.br/",
+                "texto": "Care Plus e Omint mantêm foco em atendimento personalizado como resposta à pressão de custo que atinge o restante do mercado de Saúde.",
+                "fonte": "Care Plus",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "INVESTIMENTO",
+                "titulo": "Sami capta R$ 60 milhões em nova rodada, reforçando disputa entre healthtechs de saúde digital",
+                "url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
+                "texto": "O aporte chega em meio à consolidação do modelo de atenção primária digital adotado por Alice e Sami, que disputam espaço no segmento de PMEs.",
+                "fonte": "Sami",
+                "fonte_url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
+                "fonte_label": "Saúde Digital News",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Debate sobre IA aplicada à saúde ganha força entre healthtechs, com foco em gerar valor para todo o ecossistema",
+                "url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
+                "texto": "Executivos do setor defendem que a IA só cria vantagem competitiva real quando beneficia paciente, operadora e prestador simultaneamente.",
+                "fonte": "Doctoralia",
+                "fonte_url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
+                "fonte_label": "Saúde Digital News",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MERCADO",
+                "titulo": "Segmento sênior segue como aposta estratégica diante do envelhecimento populacional brasileiro",
+                "url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-abre-inscricoes-para-os-premios-da-longevidade-2026-e-anuncia-juri-de-especialistas/",
+                "texto": "Prevent Sênior e MedSênior seguem como referências de modelo assistencial dedicado à terceira idade, tema que ganha ainda mais peso institucional com os Prêmios da Longevidade do Bradesco.",
+                "fonte": "Prevent Sênior",
+                "fonte_url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-abre-inscricoes-para-os-premios-da-longevidade-2026-e-anuncia-juri-de-especialistas/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "INSTITUCIONAL",
+                "titulo": "Grupo Bradesco Seguros abre inscrições para os Prêmios da Longevidade 2026, com júri de especialistas em envelhecimento",
+                "url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-abre-inscricoes-para-os-premios-da-longevidade-2026-e-anuncia-juri-de-especialistas/",
+                "texto": "A iniciativa reforça a longevidade como agenda estratégica transversal, com efeitos diretos sobre o desenho de produtos para o público sênior.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/grupo-bradesco-seguros-abre-inscricoes-para-os-premios-da-longevidade-2026-e-anuncia-juri-de-especialistas/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ANIVERSÁRIO",
+                "titulo": "Odontoprev completa 39 anos com \"Dia do Sorriso Voluntário\" simultâneo em cinco estados",
+                "url": "https://www.juventudebm.com/2026/08/de-forma-simultanea-odontoprev-promove.html",
+                "texto": "Mais de 120 colaboradores participam de ações sociais, reforçando o vínculo institucional da maior operadora odontológica do país.",
+                "fonte": "Odontoprev",
+                "fonte_url": "https://www.juventudebm.com/2026/08/de-forma-simultanea-odontoprev-promove.html",
+                "fonte_label": "Juventude BM",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Qualicorp e SulAmérica lançam portfólio de planos coletivos por adesão que inclui odonto",
+                "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "texto": "O lançamento amplia a disputa pelo canal de administradoras de benefícios, essencial para a distribuição de odonto em massa.",
+                "fonte": "Qualicorp · SulAmérica",
+                "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint Odonto",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MERCADO",
+                "titulo": "Segmento odonto premium segue com foco em rede credenciada diferenciada e atendimento personalizado",
+                "url": "https://cqcs.com.br/",
+                "texto": "Omint Odonto e CarePlus Odonto mantêm proposta de valor voltada a experiência e conveniência, distante da guerra de preço do segmento massificado.",
+                "fonte": "Omint Odonto",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "TENDÊNCIA",
+                "titulo": "Operadoras premium acompanham a tendência de cross-sell entre saúde e odonto observada no mercado geral",
+                "url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+                "texto": "A venda casada saúde+odonto, já praticada por grandes grupos no CONARH 2026, começa a influenciar também o posicionamento comercial do segmento premium.",
+                "fonte": "CarePlus Odonto",
+                "fonte_url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Icatu amplia seguro de vida individual a até R$ 150 milhões, mirando sucessão patrimonial",
+                "url": "https://www.infomoney.com.br/minhas-financas/seguro-de-vida-de-ate-r-150-milhoes-icatu-anuncia-novidade-na-expert-xp/",
+                "texto": "O maior capital segurado do mercado brasileiro mira empresários e famílias com grandes patrimônios em busca de liquidez sucessória.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://www.infomoney.com.br/minhas-financas/seguro-de-vida-de-ate-r-150-milhoes-icatu-anuncia-novidade-na-expert-xp/",
+                "fonte_label": "InfoMoney",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "M&A",
+                "titulo": "Venda da Prudential Brasil avança, com Icatu, Zurich e MetLife entre as favoritas na disputa",
+                "url": "https://timesbrasil.com.br/empresas-e-negocios/veja-quem-sao-as-empresas-apontadas-como-compradoras-da-prudential/",
+                "texto": "A operação, avaliada em cerca de US$ 2 bilhões pela matriz americana, segue movimentando bastidores do mercado de Vida no país.",
+                "fonte": "Prudential Brasil",
+                "fonte_url": "https://timesbrasil.com.br/empresas-e-negocios/veja-quem-sao-as-empresas-apontadas-como-compradoras-da-prudential/",
+                "fonte_label": "Times Brasil · CNBC",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "DADOS SETORIAIS",
+                "titulo": "Fenaprevi confirma gap de R$ 130 bilhões em captação desde a tributação do VGBL",
+                "url": "https://www.segs.com.br/seguros/452896-aportes-na-previdencia-privada-aberta-recuam-r-5-bilhoes-no-primeiro-semestre-de-2026",
+                "texto": "Captação bruta recua 5,6% no semestre, mesmo com ativos administrados batendo R$ 1,9 trilhão — pressão que afeta todos os players do segmento.",
+                "fonte": "Fenaprevi",
+                "fonte_url": "https://www.segs.com.br/seguros/452896-aportes-na-previdencia-privada-aberta-recuam-r-5-bilhoes-no-primeiro-semestre-de-2026",
+                "fonte_label": "SEGS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Caixa Seguridade planeja produtos que tangenciam vida resgatável e previdência até o fim de 2026",
+                "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "texto": "O movimento amplia a concorrência justamente quando o VGBL perde força por causa do IOF sobre aportes.",
+                "fonte": "Caixa Seguridade",
+                "fonte_url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "fonte_label": "BPMoney",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MERCADO",
+                "titulo": "Seguro de Responsabilidade Civil segue ganhando relevância diante do aumento de litígios empresariais",
+                "url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+                "texto": "O mesmo ambiente regulatório que eleva a demanda por D&O também impulsiona a procura por RC Geral entre empresas de diferentes portes.",
+                "fonte": "Susep",
+                "fonte_url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Seguradoras de RC intensificam oferta para pequenas e médias empresas em diferentes setores",
+                "url": "https://cqcs.com.br/noticia/seguradoras-tem-produtos-para-meis-e-donos-de-pequenas-empresas/",
+                "texto": "Produtos com coberturas de responsabilidade civil operações vêm sendo agregados a pacotes empresariais voltados a MEIs e pequenos negócios.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/seguradoras-tem-produtos-para-meis-e-donos-de-pequenas-empresas/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "RISCO",
+                "titulo": "Decisões empresariais elevam exposição de gestores e reforçam importância do seguro D&O",
+                "url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+                "texto": "A Susep esclarece que o D&O pode proteger o patrimônio pessoal de administradores diante de mudanças regulatórias e operações societárias relevantes.",
+                "fonte": "Susep",
+                "fonte_url": "https://cqcs.com.br/noticia/decisoes-empresariais-elevam-exposicao-de-gestores-e-reforcam-importancia-do-seguro-do/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "LICITAÇÃO",
+                "titulo": "Telebras abre licitação para contratar apólice de D&O para conselho e diretoria executiva",
+                "url": "https://cqcs.com.br/noticia/telebras-faz-licitacao-para-contratar-seguro-do/",
+                "texto": "A abertura das propostas em 25/8 reforça a demanda crescente de estatais por cobertura de responsabilidade civil de administradores.",
+                "fonte": "Telebras",
+                "fonte_url": "https://cqcs.com.br/noticia/telebras-faz-licitacao-para-contratar-seguro-do/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Seguros amplia condições especiais para corretores no Mês da Construção Civil",
+                "url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+                "texto": "Campanha com até 15% de desconto mira novos negócios e renovações no Seguro para Equipamentos de Construção Civil.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Bradesco Seguros apresenta evoluções no Seguro Empresarial em videocast dedicado a corretores",
+                "url": "https://cqcs.com.br/noticia/bradesco-segurosapresenta-novidades-no-seguro-empresarial-em-novo-episodio-do-videocast-com-voce-corretor/",
+                "texto": "Novas coberturas para roubo, mercadorias refrigeradas e cláusula de bullying em escolas ampliam os argumentos de venda do produto.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-segurosapresenta-novidades-no-seguro-empresarial-em-novo-episodio-do-videocast-com-voce-corretor/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PESQUISA",
+                "titulo": "PMC Residencial do Sincor-SP aponta 93% de aprovação em coberturas básicas, mas cobra evolução das assistências",
+                "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+                "texto": "Entre 1.216 corretores ouvidos, assistência e aplicativos concentraram as piores avaliações, com apenas 15% das residências brasileiras seguradas.",
+                "fonte": "Sincor-SP",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Bradesco Seguros lança Radar BARE, monitoramento climático semanal para antecipar riscos residenciais",
+                "url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+                "texto": "A ferramenta pioneira reforça a agenda de prevenção como diferencial competitivo no ramo Residencial.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-lanca-informativo-meteorologico-para-antecipar-cenarios-de-intemperies-e-apoiar-a-prevencao-de-riscos/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "att",
+            "emoji": "🔥",
+            "titulo": "Aquecido",
+            "texto": "PMC Residencial do Sincor-SP ouve 1.216 corretores; Sinc Summit percorre o interior paulista com foco em IA e capacitação, reforçando o vigor do canal às vésperas do 24º Congresso Brasileiro dos Corretores.",
+            "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/"
+          },
+          "disputa": {
+            "status": "att",
+            "emoji": "⚡",
+            "titulo": "Intensa",
+            "texto": "Bradesco amplia condições especiais para corretores no Mês da Construção Civil; Zurich confirma agenda robusta no Congresso Brasileiro dos Corretores com sorteio de veículos entre profissionais pessoa física.",
+            "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/"
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "📱",
+            "titulo": "Em Aceleração",
+            "texto": "Sinc Summit leva Inteligência Artificial ao corretor do interior de São Paulo, enquanto a Susep reforça a agenda de governança e responsabilidade civil como nova fronteira de produto para o canal.",
+            "url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/"
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "Fenacor",
+            "tipo": "Entidade Federativa · Congresso Nacional",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "EVENTO",
+                "titulo": "24º Congresso Brasileiro dos Corretores de Seguros se aproxima, de 27 a 29 de agosto no Rio de Janeiro",
+                "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "texto": "Sob o tema \"A nova era da distribuição de seguros no Brasil\", o evento no ExpoRio já reúne confirmações de agenda de grandes seguradoras como a Zurich.",
+                "fonte": "Fenacor",
+                "fonte_url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Sincor-SP",
+            "tipo": "Sindicato dos Corretores · São Paulo",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PESQUISA",
+                "titulo": "Sincor-SP apresenta primeira edição da PMC Residencial com 93% de aprovação em coberturas básicas",
+                "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+                "texto": "O levantamento com 1.216 corretores aponta assistência e aplicativos como principais pontos de atenção das seguradoras no ramo Residencial.",
+                "fonte": "Sincor-SP",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Sinc Summit leva Inteligência Artificial e novas oportunidades a corretores da região de Araçatuba",
+                "url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+                "texto": "O evento itinerante do Sincor-SP já passou por Piracicaba, São José do Rio Preto e Santos, levando debate sobre IA ao interior paulista.",
+                "fonte": "Sincor-SP",
+                "fonte_url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+                "fonte_label": "Sincor-SP",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Fenaprevi",
+            "tipo": "Federação Nacional de Previdência Privada e Vida",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Café CVG-SP recebe presidente da Fenaprevi para debater desafios e tendências de Vida e Previdência",
+                "url": "https://cqcs.com.br/noticia/cafe-cvg-sp-com-o-presidente-da-fenaprevi-abordara-seguros-de-vida-e-previdencia/",
+                "texto": "Edson Franco reforçou ao canal corretor do Rio o panorama pós-IOF do VGBL e o gap de R$ 130 bilhões em captação do setor.",
+                "fonte": "Fenaprevi",
+                "fonte_url": "https://cqcs.com.br/noticia/cafe-cvg-sp-com-o-presidente-da-fenaprevi-abordara-seguros-de-vida-e-previdencia/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Qualicorp",
+            "tipo": "Administradora de Benefícios",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Qualicorp e SulAmérica lançam novo portfólio de planos de saúde coletivos por adesão",
+                "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "texto": "O anúncio aprofunda a parceria entre a maior administradora de benefícios do país e a SulAmérica no segmento por adesão.",
+                "fonte": "Qualicorp",
+                "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Zurich",
+            "tipo": "Seguradora · Agenda de canal corretor",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Zurich destaca proximidade com corretores e portfólio de produtos no 24º Congresso Brasileiro dos Corretores",
+                "url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "texto": "A companhia leva estande com foco em Auto, Vida Individual, Vida PME e Residencial, além de sorteio de veículos entre corretores.",
+                "fonte": "Zurich",
+                "fonte_url": "https://cqcs.com.br/noticia/zurich-destaca-proximidade-com-corretores-e-portfolio-de-produtos-no-24o-congresso-brasileiro-dos-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Bradesco Seguros",
+            "tipo": "Seguradora · Programas de canal",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Seguros amplia condições especiais para corretores no Mês da Construção Civil",
+                "url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+                "texto": "Campanha com até 15% de desconto e parcelamento em 10 vezes sem juros amplia oportunidades comerciais do canal em agosto.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-amplia-oportunidades-para-corretores-com-condicoes-especiais/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "new",
+            "tag_label": "PESQUISA",
+            "titulo": "PMC Residencial: 93% dos corretores aprovam coberturas básicas, mas cobram evolução de assistências e apps",
+            "url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+            "texto": "Levantamento do Sincor-SP com 1.216 corretores é o primeiro benchmark direto de qualidade percebida no ramo Residencial no Brasil.",
+            "fonte": "Sincor-SP",
+            "fonte_url": "https://revistaapolice.com.br/2026/08/coberturas-basicas-tem-93-de-avaliacao-positiva-no-seguro-residencial/",
+            "fonte_label": "Revista Apólice",
+            "data": "Ago/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "MERCADO",
+            "titulo": "Setor de seguros cresce e abre espaço para expansão de corretoras, segundo dados da Susep",
+            "url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
+            "texto": "O avanço da arrecadação nos primeiros meses de 2026 sustenta a expansão contínua do número de corretoras no país.",
+            "fonte": "Susep",
+            "fonte_url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
+            "fonte_label": "Revista Apólice",
+            "data": "Ago/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "TECNOLOGIA",
+            "titulo": "IA vira pauta prática nos eventos regionais de capacitação de corretores",
+            "url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+            "texto": "O Sinc Summit reforça que a adoção de Inteligência Artificial já é prioridade concreta para corretoras do interior paulista.",
+            "fonte": "Sincor-SP",
+            "fonte_url": "https://sincor.org.br/sinc-summit-leva-inteligencia-artificial-e-novas-oportunidades-aos-corretores-da-regiao-de-aracatuba/",
+            "fonte_label": "Sincor-SP",
+            "data": "Ago/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "CANAL",
+            "titulo": "Susep registra mais de mil novos corretores em três meses, reforçando ritmo de crescimento do canal",
+            "url": "https://cqcs.com.br/noticia/mais-de-mil-corretores-de-seguros-foram-registrados-em-apenas-3-meses/",
+            "texto": "A média de 12 registros por dia entre maio e julho confirma que a atratividade da profissão segue em alta às vésperas do Congresso Nacional dos Corretores.",
+            "fonte": "Susep",
+            "fonte_url": "https://cqcs.com.br/noticia/mais-de-mil-corretores-de-seguros-foram-registrados-em-apenas-3-meses/",
+            "fonte_label": "CQCS",
+            "data": "Ago/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "O corretor tem que falar da cultura da proteção, dos serviços e também do preço.",
+            "avatar": "FG",
+            "nome": "Francisco Galiza",
+            "cargo": "Economista, responsável técnico pela PMC · Sincor-SP",
+            "contexto": "Programa Comentário Econômico, GR TV · Ago/2026"
+          },
+          {
+            "quote": "Além de sermos corretores, somos também consumidores — ver essa realidade em números é essencial.",
+            "avatar": "IK",
+            "nome": "Ivan Kurihara",
+            "cargo": "Coordenador da Comissão de Riscos Patrimoniais · Sincor-SP",
+            "contexto": "PMC Residencial · Ago/2026"
+          },
+          {
+            "quote": "A Inteligência Artificial deixou de ser algo distante e já está presente na rotina das empresas e das pessoas.",
+            "avatar": "BB",
+            "nome": "Boris Ber",
+            "cargo": "Presidente · Sincor-SP",
+            "contexto": "Sinc Summit Araçatuba · Ago/2026"
+          }
+        ],
+        "oportunidade": "Programa de parceria <strong>corretor-médico Unimed</strong> para indicação e venda conjunta de Vida, Odonto e Saúde — inédito no mercado e de baixo custo de implementação, especialmente relevante diante do avanço tecnológico (IA) e da régua de exigência que a PMC Residencial acaba de estabelecer para o restante do setor."
+      }
+    },
+    {
       "id": "2026-08-14",
       "titulo": "Edição 14/Ago/2026",
       "data": "14 de agosto de 2026",
