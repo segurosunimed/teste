@@ -16,7 +16,7 @@
           "status": "att",
           "emoji": "💰",
           "titulo": "M&A em Aceleração",
-          "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+          "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
           "texto": "Fundos aceleram a negociação pela Amil (até R$ 15 bilhões) antes do período eleitoral, enquanto a Caixa Seguridade confirma que lançará produtos inéditos de vida resgatável e individual ainda em 2026 — dois movimentos que podem redesenhar a competição em Saúde e Vida nos próximos meses."
         },
         "sentimento": {
@@ -34,10 +34,10 @@
               "tag": "hot",
               "tag_label": "M&A",
               "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, e fundos aceleram negociação antes do período eleitoral",
-              "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "texto": "Bain Capital e Advent seguem em due diligence avançada pela operadora, com fundos buscando fechar o acordo antes de o calendário eleitoral de 2026 tornar o ambiente regulatório e político mais incerto para uma transação dessa magnitude.",
               "fonte": "Amil",
-              "fonte_url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "fonte_label": "CQCS",
               "data": "Ago/2026"
             },
@@ -192,23 +192,23 @@
             },
             {
               "tag": "new",
-              "tag_label": "MERCADO",
-              "titulo": "Seguros de danos e pessoas somam R$ 93,69 bilhões até maio de 2026, alta de 6,37%, segundo a Susep",
-              "url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
-              "texto": "O crescimento nominal do setor nos cinco primeiros meses do ano, puxado por vida e auto, reforça o pano de fundo macro favorável em que operadoras de Saúde disputam espaço no CONARH 2026 e em outras frentes comerciais.",
-              "fonte": "Susep",
-              "fonte_url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
-              "fonte_label": "Revista Apólice",
+              "tag_label": "PRODUTO",
+              "titulo": "Qualicorp e SulAmérica lançam novo portfólio de planos de saúde coletivos por adesão",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O anúncio, feito em live no canal da Qualicorp, aprofunda a parceria entre a maior administradora de benefícios do país e a SulAmérica no segmento por adesão — um dos canais de distribuição mais disputados da Saúde.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "fonte_label": "CQCS",
               "data": "Ago/2026"
             },
             {
               "tag": "wtf",
               "tag_label": "M&A",
               "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos correndo contra o calendário eleitoral",
-              "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "texto": "A aceleração da due diligence por Bain Capital e Advent reforça que 2026 pode ser o ano em que o mapa competitivo de Saúde muda de forma definitiva, com efeitos diretos sobre precificação e distribuição no segmento geral.",
               "fonte": "Amil",
-              "fonte_url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "fonte_label": "CQCS",
               "data": "Ago/2026"
             }
@@ -264,12 +264,12 @@
             },
             {
               "tag": "new",
-              "tag_label": "EVENTO",
-              "titulo": "Estande da Bradsaúde no CONARH reúne Odontoprev, Bradesco Saúde e Universeg em proposta integrada de cuidado",
-              "url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
-              "texto": "O \"Spa do Sorriso\" da Odontoprev e o espaço de bem-estar da Bradesco Vida e Previdência dividem o mesmo estande, reforçando a estratégia de venda casada de saúde e odonto para decisores de RH.",
-              "fonte": "Bradsaúde",
-              "fonte_url": "https://cqcs.com.br/noticia/bradsaude-leva-ao-conarh-2026-um-novo-posicionamento-para-ampliar-negocios-em-saude-corporativa/",
+              "tag_label": "CANAL",
+              "titulo": "Qualicorp e SulAmérica lançam portfólio de planos coletivos por adesão que inclui odonto",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O lançamento amplia a disputa pelo canal de administradoras de benefícios, essencial para a distribuição de odonto em massa junto a entidades de classe e sindicatos.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
               "fonte_label": "CQCS",
               "data": "Ago/2026"
             }
@@ -464,13 +464,13 @@
           "noticias": [
             {
               "tag": "new",
-              "tag_label": "MERCADO",
-              "titulo": "Setor de seguros cresce e abre espaço para expansão de redes de corretoras pelo Brasil",
-              "url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
-              "texto": "Com o seguro de vida avançando 10,51% e o auto batendo R$ 25,41 bilhões nos cinco primeiros meses do ano, redes de corretoras como a Seguralta miram cidades fora dos grandes centros como nova fronteira de crescimento.",
-              "fonte": "Susep",
-              "fonte_url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
-              "fonte_label": "Revista Apólice",
+              "tag_label": "PARCERIA",
+              "titulo": "Qualicorp e SulAmérica lançam portfólio inédito de planos coletivos por adesão",
+              "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "texto": "O anúncio reforça o peso das administradoras de benefícios como canal de distribuição em massa, disputado por praticamente todas as grandes operadoras de saúde do país.",
+              "fonte": "Qualicorp · SulAmérica",
+              "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+              "fonte_label": "CQCS",
               "data": "Ago/2026"
             },
             {
@@ -582,10 +582,10 @@
               "tag": "new",
               "tag_label": "M&A",
               "titulo": "Consolidação em Saúde se acelera com Amil e Prudential Brasil simultaneamente em processos de venda",
-              "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "texto": "O calendário eleitoral de 2026 virou fator de pressão para o fechamento de negócios bilionários no setor, reforçando 2026 como o ano da reconfiguração acionária de grandes operadoras de saúde e seguradoras de vida.",
               "fonte": "Amil",
-              "fonte_url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
               "fonte_label": "CQCS",
               "data": "Ago/2026"
             },
@@ -593,10 +593,10 @@
               "tag": "opp",
               "tag_label": "DESTAQUE SU",
               "titulo": "Programa Cuidando de Perto completa dez anos como referência de eficiência operacional em navegação clínica",
-              "url": "https://revistaapolice.com.br/2026/07/seguros-unimed-amplia-programa-cuidando-de-perto/",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-programa-cuidando-de-perto/",
               "texto": "A parceria com a healthtech Nilo elevou em 76,8% a captação de beneficiários no programa, um case que a companhia pode usar como prova de conceito diante da pressão de custo assistencial que atinge todo o setor.",
               "fonte": "Seguros Unimed",
-              "fonte_url": "https://revistaapolice.com.br/2026/07/seguros-unimed-amplia-programa-cuidando-de-perto/",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-programa-cuidando-de-perto/",
               "fonte_label": "Revista Apólice",
               "data": "Ago/2026"
             }
@@ -757,10 +757,10 @@
                 "tag": "new",
                 "tag_label": "PATROCÍNIO",
                 "titulo": "Porto anuncia patrocínio ao Parque do Ibirapuera, em São Paulo",
-                "url": "https://revistaapolice.com.br/2026/08/porto-anuncia-patrocinio-ao-parque-do-ibirapuera-em-sao-paulo/",
+                "url": "https://cqcs.com.br/noticia/ultimos-dias-grupo-bradesco-seguros-abre-inscricoes-para-o-segundo-ciclo-do-programa-de-estagio-2026-com-115-vagas-em-dez-cidades/",
                 "texto": "A ação reforça a estratégia de marca institucional da companhia em espaços públicos de grande visibilidade na capital paulista.",
                 "fonte": "Porto Seguro",
-                "fonte_url": "https://revistaapolice.com.br/2026/08/porto-anuncia-patrocinio-ao-parque-do-ibirapuera-em-sao-paulo/",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/setor-cresce-e-abre-espaco-para-expansao-de-corretoras/",
                 "fonte_label": "Revista Apólice",
                 "data": "Ago/2026"
               }
@@ -825,10 +825,10 @@
                 "tag": "hot",
                 "tag_label": "M&A",
                 "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos acelerando negociação antes das eleições",
-                "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+                "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
                 "texto": "Bain Capital e Advent seguem em due diligence avançada, com o calendário eleitoral de 2026 pressionando o fechamento do negócio.",
                 "fonte": "Amil",
-                "fonte_url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+                "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
                 "fonte_label": "CQCS",
                 "data": "Ago/2026"
               }
@@ -939,10 +939,10 @@
                 "tag": "hot",
                 "tag_label": "M&A",
                 "titulo": "Venda da Amil pode movimentar até R$ 15 bilhões, com fundos acelerando negociação antes das eleições",
-                "url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+                "url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
                 "texto": "Bain Capital e Advent seguem em due diligence avançada, processo que pode redesenhar o mapa competitivo da Saúde geral em 2026.",
                 "fonte": "Amil",
-                "fonte_url": "https://cqcs.com.br/noticia/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes/",
+                "fonte_url": "https://cqcs.com.br/tv/cqcs-agora/venda-da-amil-pode-movimentar-ate-r-15-bilhoes-e-fundos-aceleram-negociacao-antes-das-eleicoes-2/",
                 "fonte_label": "CQCS",
                 "data": "Ago/2026"
               },
@@ -997,11 +997,11 @@
             "noticias": [
               {
                 "tag": "new",
-                "tag_label": "TECNOLOGIA",
-                "titulo": "Doctoralia defende que retorno da IA em saúde depende de gerar valor para toda a cadeia de atendimento",
+                "tag_label": "INVESTIMENTO",
+                "titulo": "Sami capta R$ 60 milhões em nova rodada, reforçando disputa entre healthtechs de saúde digital",
                 "url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
-                "texto": "Pedro Prado, CFO da Doctoralia, argumenta que o desafio das healthtechs deixou de ser lançar funcionalidades e passou a ser encaixar IA na jornada do paciente, do grande hospital à pequena clínica.",
-                "fonte": "Doctoralia",
+                "texto": "O aporte chega em meio à consolidação do modelo de atenção primária digital adotado por Alice e Sami, que disputam espaço no segmento de PMEs.",
+                "fonte": "Sami",
                 "fonte_url": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/",
                 "fonte_label": "Saúde Digital News",
                 "data": "Ago/2026"
@@ -1078,13 +1078,13 @@
               },
               {
                 "tag": "new",
-                "tag_label": "RESULTADO",
-                "titulo": "SulAmérica encerra o trimestre com 2,9 milhões de beneficiários em Odonto, alta de 16,1%",
-                "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
-                "texto": "O avanço reflete o fortalecimento da atuação regional da companhia e o crescimento contínuo no segmento de pequenas e médias empresas, reforçando a SulAmérica como concorrente relevante também no Odonto.",
-                "fonte": "SulAmérica",
-                "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
-                "fonte_label": "Revista Apólice",
+                "tag_label": "CANAL",
+                "titulo": "Qualicorp e SulAmérica lançam portfólio de planos coletivos por adesão que inclui odonto",
+                "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "texto": "O lançamento amplia a disputa pelo canal de administradoras de benefícios, essencial para a distribuição de odonto em massa.",
+                "fonte": "Qualicorp · SulAmérica",
+                "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "fonte_label": "CQCS",
                 "data": "Ago/2026"
               }
             ]
@@ -1421,17 +1421,17 @@
           },
           {
             "rank": "",
-            "nome": "Susep",
-            "tipo": "Regulador · Registro de Corretores",
+            "nome": "Qualicorp",
+            "tipo": "Administradora de Benefícios",
             "noticias": [
               {
                 "tag": "new",
-                "tag_label": "DADOS",
-                "titulo": "Mais de mil corretores de seguros foram registrados em apenas três meses, segundo a Susep",
-                "url": "https://cqcs.com.br/noticia/mais-de-mil-corretores-de-seguros-foram-registrados-em-apenas-3-meses/",
-                "texto": "Entre maio e julho, 1.086 corretores (pessoas físicas ou jurídicas) foram registrados, média de 12 por dia, elevando o total de registros ativos a 149.694 profissionais em todo o país.",
-                "fonte": "Susep",
-                "fonte_url": "https://cqcs.com.br/noticia/mais-de-mil-corretores-de-seguros-foram-registrados-em-apenas-3-meses/",
+                "tag_label": "PRODUTO",
+                "titulo": "Qualicorp e SulAmérica lançam novo portfólio de planos de saúde coletivos por adesão",
+                "url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
+                "texto": "O anúncio aprofunda a parceria entre a maior administradora de benefícios do país e a SulAmérica no segmento por adesão.",
+                "fonte": "Qualicorp",
+                "fonte_url": "https://www.cqcs.com.br/noticia/qualicorp-e-sulamerica-apresentam-novo-portfolio-de-planos-de-saude-coletivos-por-adesao/",
                 "fonte_label": "CQCS",
                 "data": "Ago/2026"
               }
