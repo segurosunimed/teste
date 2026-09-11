@@ -1,6 +1,1756 @@
 {
   "edicoes": [
     {
+      "id": "2026-09-11",
+      "titulo": "Edição 11/Set/2026",
+      "data": "11 de setembro de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "alerta",
+          "emoji": "⚖️",
+          "titulo": "Fiscalização Ativa",
+          "url": "https://cqcs.com.br/noticia/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+          "texto": "A Susep suspendeu cautelarmente as operações da Facta Seguradora, afastou um diretor, suspendeu o registro da corretora do grupo e determinou restituição em dobro a consumidores sem prova de anuência — incluindo apólices emitidas em nome de menores. Na mesma reunião, o Conselho Diretor analisou novas cautelares e homologou em definitivo as duas seguradoras do IRB(Re)."
+        },
+        "competitivo": {
+          "status": "att",
+          "emoji": "⚡",
+          "titulo": "Convergência Saúde–Vida",
+          "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+          "texto": "A SulAmérica passou a defender publicamente a integração entre Saúde e Vida como nova fronteira comercial do setor, enquanto Porto Saúde levou novidades ao canal e a Bradesco Vida e Previdência lançou ferramenta de IA exclusiva para corretores. O multiproduto integrado, que é a tese natural da Seguros Unimed, virou discurso dos concorrentes."
+        },
+        "sentimento": {
+          "status": "ok",
+          "emoji": "🧭",
+          "titulo": "Favorável",
+          "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+          "texto": "Duas boas notícias estruturais: o STF fixou, em repercussão geral, que os rendimentos das aplicações das reservas técnicas ficam fora da base de PIS/Cofins, aliviando a carga tributária de seguradoras e entidades de previdência; e a Seguros Unimed subiu trinta posições no Global 500 da ICMIF, reforçando a resiliência do modelo cooperativo."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "STF fixa que rendimentos das reservas técnicas ficam fora da base de PIS/Cofins de seguradoras e previdência",
+              "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+              "texto": "No julgamento do RE 1.479.774, com repercussão geral (Tema 1.309), o Plenário decidiu por maioria que as receitas de aplicações financeiras das reservas técnicas <strong>não compõem o faturamento das seguradoras e entidades de previdência privada</strong>, por decorrerem de recursos compulsórios e indisponíveis. A tese se aplica aos demais processos semelhantes em tramitação.",
+              "fonte": "STF",
+              "fonte_url": "https://conjur.com.br/2026-set-02/stf-afasta-pis-cofins-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras/",
+              "fonte_label": "STF · ConJur · Sincor-SP",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep suspende as operações da Facta Seguradora, afasta diretor e suspende o registro da corretora do grupo",
+              "url": "https://cqcs.com.br/noticia/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+              "texto": "A fiscalização apontou indícios de irregularidades na comercialização, incluindo <strong>falhas na comprovação do consentimento do consumidor e apólices emitidas em desacordo com a regulamentação, inclusive envolvendo menores de idade</strong>. A decisão determinou restituição em dobro e comunicação a toda a base de segurados para contestação de contratações não reconhecidas.",
+              "fonte": "Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+              "fonte_label": "Susep · CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed sobe trinta posições no Global 500 da ICMIF e se mantém como segunda cooperativa seguradora da América Latina",
+              "url": "https://revistaapolice.com.br/2026/09/seguros-unimed-avanca-30-posicoes-em-ranking-global/",
+              "texto": "O relatório da International Cooperative and Mutual Insurance Federation, que mapeia as maiores seguradoras cooperativas e mútuas do mundo, registrou <strong>o avanço mais expressivo da companhia na série</strong>. O presidente Helton Freitas atribuiu o resultado a uma década de foco em eficiência de gestão e diversificação de portfólio entre Saúde, Elementares, Odonto, Vida e Previdência.",
+              "fonte": "Seguros Unimed · ICMIF",
+              "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-sobe-30-posicoes-no-ranking-global-da-icmif-e-consolida-trajetoria-de-crescimento-estruturado/",
+              "fonte_label": "Revista Apólice · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "MERCADO",
+              "titulo": "IRB(Re) recebe homologação definitiva da Susep e inicia a operação de duas novas seguradoras",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "As autorizações publicadas no Diário Oficial permitem o início das operações de empresas voltadas a <strong>grandes riscos e a vida</strong>. Uma resseguradora tradicional descendo para a ponta de seguro direto redesenha a cadeia de capacidade em ramos corporativos e de pessoas.",
+              "fonte": "IRB(Re) · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/irbre-recebe-aval-da-susep-e-inicia-operacao-de-duas-seguradoras/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CONCORRENTE",
+              "titulo": "SulAmérica defende a integração entre Saúde e Vida como nova fronteira do mercado segurador",
+              "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "texto": "A companhia passou a tratar a combinação dos dois segmentos como <strong>oportunidade comercial estruturada para o corretor</strong>, e não como venda cruzada oportunista. É o discurso multiproduto integrado sendo apropriado por um concorrente direto em saúde.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Sistema Unimed ocupa 35 das 50 posições no ranking de operadoras de saúde do Valor 1000",
+              "url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+              "texto": "O desempenho é puxado por cooperativas médicas e pela Seguros Unimed, que também figura no recorte financeiro da publicação entre as maiores de previdência e vida. <strong>Domínio quase total da lista reforça a capilaridade como ativo competitivo estrutural</strong> do modelo cooperativo.",
+              "fonte": "Sistema Unimed · Valor 1000",
+              "fonte_url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+              "fonte_label": "Saúde Digital News",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "FRAUDE",
+              "titulo": "Corregedoria de São Paulo investiga mudança de classificação em morte ligada a apólice de grande valor",
+              "url": "https://cqcs.com.br/noticia/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi/",
+              "texto": "Áudios indicam que sócios do empresário morto <strong>tinham conhecimento prévio da alteração de suicídio para homicídio</strong> no registro da ocorrência, mudança que afeta diretamente a cobertura. O sócio nega irregularidades e a corregedoria da polícia apura o caso.",
+              "fonte": "Corregedoria da Polícia de SP",
+              "fonte_url": "https://cqcs.com.br/noticia/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Diretoria da Susep analisa novas cautelares e cadastra resseguradoras dos Estados Unidos e da China",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "Na mesma reunião em que decidiu sobre a Facta, o colegiado tratou de <strong>novas medidas cautelares e regras para o mercado</strong> e ampliou o cadastro de resseguradores estrangeiros. Combinação de rigor sancionador com abertura de capacidade externa.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "A nossa evolução no ranking reflete a seriedade do trabalho.",
+              "avatar": "HF",
+              "nome": "Helton Freitas",
+              "cargo": "Presidente · Seguros Unimed",
+              "contexto": "Avanço de trinta posições no Global 500 da ICMIF · Set/2026"
+            },
+            {
+              "quote": "O modelo cooperativista nos permite entender de perto a realidade de cada município.",
+              "avatar": "OA",
+              "nome": "Omar Abujamra Junior",
+              "cargo": "Presidente · Unimed do Brasil",
+              "contexto": "Sistema Unimed no ranking de operadoras do Valor 1000 · Set/2026"
+            },
+            {
+              "quote": "Compulsória e indisponível.",
+              "avatar": "AM",
+              "nome": "André Mendonça",
+              "cargo": "Ministro · Supremo Tribunal Federal",
+              "contexto": "Sobre a natureza das reservas técnicas, no julgamento do Tema 1.309 · Set/2026"
+            },
+            {
+              "quote": "Todas as empresas estão utilizando inteligência artificial.",
+              "avatar": "RS",
+              "nome": "Ricardo Salama",
+              "cargo": "Executivo · Transunion",
+              "contexto": "Sobre dados como diferencial em venda e prevenção à fraude · Set/2026"
+            }
+          ],
+          "implicacao": "A semana entregou duas notícias estruturais em direções opostas e uma vitrine institucional para a companhia. A primeira é tributária e positiva: ao fixar que os rendimentos das reservas técnicas não integram a base de PIS/Cofins, o STF criou <strong>tese de repercussão geral que vale para seguradoras e entidades de previdência</strong>, com efeito direto sobre apuração histórica e sobre a transição para a CBS. É trabalho de área fiscal e jurídica para ontem. A segunda é sancionadora: a suspensão cautelar da Facta mostrou uma Susep disposta a <strong>parar operação, afastar diretor, suspender registro de corretora e impor restituição em dobro na mesma decisão</strong> — e o gatilho foi consentimento do consumidor, não solvência. Somada ao precedente da Generali, a leitura é clara: a autarquia está fiscalizando a qualidade da originação, não apenas o balanço. No plano competitivo, a SulAmérica começou a vender integração Saúde e Vida como fronteira do mercado, que é precisamente a tese que a SU tem por natureza e comunica pouco. E, do lado institucional, o avanço no Global 500 da ICMIF e o domínio do Sistema Unimed no Valor 1000 dão à companhia, na mesma semana, dois ativos de reputação prontos para virar argumento de canal."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRENTE",
+              "titulo": "SulAmérica posiciona a integração entre Saúde e Vida como nova fronteira do mercado segurador",
+              "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "texto": "A companhia passou a tratar a combinação dos segmentos como <strong>oportunidade estruturada de carteira para o corretor</strong>, com narrativa de proteção integrada da pessoa. Uma seguradora de saúde sem rede própria adotando o discurso multiproduto ataca justamente o diferencial natural da SU.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Sistema Unimed ocupa 35 das 50 posições no ranking de operadoras de saúde do Valor 1000",
+              "url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+              "texto": "O resultado é puxado por cooperativas médicas e pela Seguros Unimed, e reafirma a <strong>capilaridade municipal como barreira competitiva</strong> em um setor onde os concorrentes nacionais dependem de rede credenciada contratada.",
+              "fonte": "Sistema Unimed · Valor 1000",
+              "fonte_url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+              "fonte_label": "Saúde Digital News",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CONCORRENTE",
+              "titulo": "Porto Saúde leva novidades de produto e oportunidades ao canal corretor",
+              "url": "https://cqcs.com.br/noticia/porto-saude-revela-novidades-e-oportunidades-para-corretores/",
+              "texto": "A companhia manteve o ritmo de comunicação com o canal iniciado no congresso e anunciou a primeira Blue Run noturna no Ibirapuera para o fim do mês. <strong>Produto, incentivo e marca sendo trabalhados como pacote único em saúde</strong> — modelo que a SU ainda opera de forma fragmentada.",
+              "fonte": "Porto Saúde",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CUSTO",
+              "titulo": "Saúde corporativa entra na agenda dos CFOs à medida que o benefício ganha peso relevante na folha",
+              "url": "https://revistaapolice.com.br/2026/08/saude-corporativa-entra-na-agenda-de-cfos-com-beneficio-representando-ate-20-da-folha/",
+              "texto": "O tema deixa o RH e passa a ser discutido na diretoria financeira, o que muda o interlocutor e o argumento da venda. <strong>Previsibilidade de reajuste e controle de sinistralidade valem mais que desconto</strong> para quem responde pelo orçamento.",
+              "fonte": "Mercado Segurador",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/saude-corporativa-entra-na-agenda-de-cfos-com-beneficio-representando-ate-20-da-folha/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "JUDICIALIZAÇÃO",
+              "titulo": "Saúde suplementar segue registrando mais novas ações judiciais do que o SUS, segundo o CNJ",
+              "url": "https://futurodasaude.com.br/saude-suplementar-judicializacao-utrapassa-sus/",
+              "texto": "Pedidos de tratamento médico-hospitalar respondem pela maior parte das demandas, seguidos de reajustes e questões contratuais. <strong>A inversão de uma série histórica que vinha desde 2020</strong> transforma qualidade do processo de autorização em item de resultado.",
+              "fonte": "CNJ · Fonajus",
+              "fonte_url": "https://futurodasaude.com.br/saude-suplementar-judicializacao-utrapassa-sus/",
+              "fonte_label": "Futuro da Saúde",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "ANS mantém o ritmo de alienação compulsória de carteiras de operadoras com fragilidade econômico-financeira",
+              "url": "https://cqcs.com.br/noticia/ans-determina-alienacao-de-carteiras-e-suspende-vendas-de-duas-operadoras/",
+              "texto": "O padrão de resoluções operacionais com <strong>prazo de trinta dias para transferência e suspensão imediata de vendas</strong> segue produzindo carteiras órfãs em praças regionais a cada poucas semanas. Janela recorrente de captação para quem tem rede local.",
+              "fonte": "ANS",
+              "fonte_url": "https://cqcs.com.br/noticia/ans-determina-alienacao-de-carteiras-e-suspende-vendas-de-duas-operadoras/",
+              "fonte_label": "ANS · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "Diversificação de produtos e redes mantém a venda de plano de saúde como atividade de alta exigência técnica",
+              "url": "https://revistaapolice.com.br/2026/08/24o-congresso-venda-de-planos-de-saude-exige-corretor-mais-qualificado/",
+              "texto": "A qualificação do corretor em regras de reajuste, segmentação e rede virou <strong>condição de acesso ao produto</strong>, não diferencial. Quem forma o canal define o que ele consegue defender na renovação.",
+              "fonte": "Fenacor",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/24o-congresso-venda-de-planos-de-saude-exige-corretor-mais-qualificado/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            }
+          ],
+          "implicacao": "A notícia competitiva da semana em saúde não é de produto, é de narrativa. A SulAmérica passou a defender publicamente que <strong>a integração entre Saúde e Vida é a nova fronteira do mercado</strong> — exatamente a tese que a Seguros Unimed encarna por estrutura, e não por estratégia de comunicação. Quando um concorrente sem rede própria assume esse discurso, ele transforma em posicionamento aquilo que para a SU é apenas fato operacional. Na mesma semana, o Sistema Unimed apareceu ocupando a maior parte do ranking de operadoras do Valor 1000, o que dá à companhia a prova material que o concorrente ainda precisa construir. O ponto de atenção é que <strong>a Porto vem trabalhando produto, incentivo e marca em saúde como pacote único</strong>, enquanto a SU opera essas frentes separadamente. E, no pano de fundo, dois vetores de custo seguem pressionando: a judicialização acima do SUS e a entrada da saúde corporativa na agenda dos CFOs, que muda o interlocutor da venda de RH para diretoria financeira.",
+          "oportunidade": "O avanço no Valor 1000 e no ranking da ICMIF dão à SU, na mesma semana, <strong>dois ativos de reputação prontos para virar material de canal</strong> — e o momento é oportuno justamente porque a SulAmérica acaba de lançar a narrativa de integração Saúde e Vida. Responder com um pitch único de proteção integrada sob governança cooperativa, ancorado em ranking e em NPS, é mais barato que disputar preço. A segunda frente é adaptar o discurso comercial ao novo interlocutor: com a saúde corporativa entrando na pauta do CFO, <strong>previsibilidade de reajuste, controle de sinistralidade e dado auditável de coordenação de cuidado</strong> passam a ser os argumentos que fecham contrato. A terceira permanece sendo a captação de carteiras em alienação determinada pela ANS, que exige processo pronto e resposta em dias."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRENTE",
+              "titulo": "Odontoprev segue com a campanha de 39 anos construída sobre depoimentos de beneficiários, dentistas e corretores",
+              "url": "https://revistaapolice.com.br/2026/09/odontoprev-celebra-39-anos-com-nova-campanha/",
+              "texto": "A ação digital em três fases entre agosto e outubro usa <strong>relato de canal e de prestador como prova social</strong>, sob o conceito de que a melhor parte da história da companhia é a do próprio cliente. Matéria-prima idêntica à que sustenta a liderança de NPS da SU.",
+              "fonte": "Odontoprev",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/odontoprev-celebra-39-anos-com-nova-campanha/",
+              "fonte_label": "Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CONCORRENTE",
+              "titulo": "Integração de saúde e vida no discurso das grandes seguradoras tende a arrastar o odonto para o mesmo pacote",
+              "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "texto": "Se a fronteira comercial passa a ser proteção integrada da pessoa, <strong>o odonto deixa de ser produto avulso de ticket baixo e vira porta de entrada do bundle</strong>. Movimento que favorece quem tem os quatro produtos sob a mesma governança.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Saneamento da ANS segue concentrando o mercado odontológico em operadoras com escala e solidez financeira",
+              "url": "https://cqcs.com.br/noticia/ans-determina-alienacao-de-carteiras-e-suspende-vendas-de-duas-operadoras/",
+              "texto": "A determinação de alienação de carteira e suspensão de vendas por anormalidades econômico-financeiras já atingiu operadoras exclusivamente odontológicas. <strong>Ticket baixo e margem apertada tornam o segmento especialmente sensível</strong> ao novo modelo de fiscalização.",
+              "fonte": "ANS",
+              "fonte_url": "https://cqcs.com.br/noticia/ans-determina-alienacao-de-carteiras-e-suspende-vendas-de-duas-operadoras/",
+              "fonte_label": "ANS · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "Bradsaúde mantém saúde e odonto integrados em portfólio único de benefícios corporativos",
+              "url": "https://revistaapolice.com.br/2026/08/bradsaude-leva-portfolio-de-saude-corporativa-ao-conarh-2026/",
+              "texto": "Soluções de saúde, odontologia, prevenção e bem-estar na mesma prateleira de RH. <strong>O bundling corporativo é o principal vetor de crescimento do odonto</strong> e a integração pelo lado do concorrente reduz a vantagem da venda combinada cooperativa.",
+              "fonte": "Bradsaúde",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/bradsaude-leva-portfolio-de-saude-corporativa-ao-conarh-2026/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Sinog segue pressionando por régua regulatória própria para odontologia na agenda da ANS",
+              "url": "https://revistaapolice.com.br/2026/05/congresso-sinog-regulacao-e-crescimento-dominam-debates/",
+              "texto": "Acreditação, indicadores assistenciais e modelos de remuneração são os pontos em disputa. <strong>Régua própria beneficia quem já tem indicador assistencial auditável</strong> e penaliza operadora que compete apenas por preço.",
+              "fonte": "Sinog",
+              "fonte_url": "https://revistaapolice.com.br/2026/05/congresso-sinog-regulacao-e-crescimento-dominam-debates/",
+              "fonte_label": "Revista Apólice",
+              "data": "Mai/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "Coletivo empresarial permanece como principal via de acesso à odontologia suplementar",
+              "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "texto": "O ambiente corporativo segue como motor da expansão, inclusive no alto padrão. Reforça a tese de <strong>entrada por benefício de RH e crescimento por adesão familiar</strong>, e não por venda individual avulsa.",
+              "fonte": "IESS · Sinog",
+              "fonte_url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+              "fonte_label": "Revista Cobertura",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "O odonto da semana é lido melhor de fora para dentro. Quando a SulAmérica define a integração entre Saúde e Vida como a nova fronteira comercial, ela desenha um pacote de proteção da pessoa no qual <strong>o odonto deixa de ser produto avulso de ticket baixo e passa a ser porta de entrada de um bundle</strong>. Isso favorece estruturalmente quem tem saúde, odonto, vida e previdência sob a mesma governança — que é a configuração da Seguros Unimed e de pouquíssimos concorrentes. Em paralelo, a Odontoprev segue transformando em campanha aquilo que a SU tem em pesquisa: depoimento de dentista, corretor e beneficiário como prova de vínculo. E o saneamento da ANS continua retirando operadoras odontológicas frágeis do mercado, o que concentra o segmento e abre portabilidades de conversão rápida.",
+          "oportunidade": "A oportunidade central é <strong>assumir o bundle antes que ele vire propriedade discursiva do concorrente</strong>: com a SulAmérica anunciando integração Saúde e Vida, a SU precisa comunicar que já opera os quatro produtos sob governança única e rede cooperativa — e o odonto é a peça de menor atrito para iniciar a conversa com uma empresa que ainda não é cliente de saúde. A segunda frente permanece sendo converter a liderança de NPS em <strong>ativo de comunicação e de captação de canal</strong>, usando depoimento de dentista cooperado como a Odontoprev faz. A terceira é capturar portabilidade odontológica nas praças onde a ANS determina alienação de carteira, produto de ticket baixo e conversão rápida, ideal para ativar corretor novo antes de levá-lo a saúde."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "Decisão do STF sobre reservas técnicas alcança diretamente as carteiras de vida e de previdência",
+              "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+              "texto": "A tese fixada no Tema 1.309 exclui as receitas de aplicações das reservas técnicas da base de PIS/Cofins de <strong>seguradoras e entidades de previdência privada</strong>. Como vida e previdência concentram os maiores volumes de provisão do setor, o efeito relativo é maior nesses segmentos.",
+              "fonte": "STF",
+              "fonte_url": "https://conjur.com.br/2026-set-02/stf-afasta-pis-cofins-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras/",
+              "fonte_label": "STF · ConJur",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep suspende a Facta Seguradora por falhas de consentimento em apólices, inclusive de menores",
+              "url": "https://cqcs.com.br/noticia/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+              "texto": "A companhia atuava com forte presença em <strong>seguro consignado</strong>, produto de massa distribuído por canais vinculados a crédito. A decisão determinou restituição em dobro onde não houver prova de anuência e comunicação a toda a base para contestação.",
+              "fonte": "Susep",
+              "fonte_url": "https://finsidersbrasil.com.br/regulamentacao/susep-suspende-operacoes-da-facta-e-registro-de-corretora-por-irregularidades/",
+              "fonte_label": "Susep · CQCS · Finsiders",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CONCORRENTE",
+              "titulo": "MAG Seguros lidera ranking de reputação do Reclame Aqui entre as empresas de seguro de vida",
+              "url": "https://cqcs.com.br/noticia/mag-seguros-lidera-ranking-do-reclame-aqui-entre-as-empresas-de-seguro-de-vida-e-e-indicada-ao-premio-de-2026/",
+              "texto": "A companhia foi indicada ao prêmio de 2026 da plataforma. <strong>Reputação de atendimento vira argumento competitivo em vida individual</strong>, produto em que a decisão de compra depende de confiança e não de comparação técnica.",
+              "fonte": "MAG Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/mag-seguros-lidera-ranking-do-reclame-aqui-entre-as-empresas-de-seguro-de-vida-e-e-indicada-ao-premio-de-2026/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "FRAUDE",
+              "titulo": "Investigação sobre mudança de classificação em morte ligada a apólice de grande valor expõe risco de sinistro em vida",
+              "url": "https://cqcs.com.br/noticia/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi/",
+              "texto": "A apuração da corregedoria paulista envolve <strong>alteração do registro de suicídio para homicídio</strong>, distinção que determina a própria existência da cobertura em boa parte dos contratos. Caso que reforça a importância de perícia e governança de sinistro em apólices de alto valor.",
+              "fonte": "Corregedoria da Polícia de SP",
+              "fonte_url": "https://cqcs.com.br/noticia/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "Novas seguradoras do IRB(Re) entram em operação com foco em grandes riscos e em vida",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "A homologação definitiva da Susep permite o início imediato das atividades. <strong>Um grupo com origem em resseguro entrando em vida amplia a capacidade disponível</strong> e adiciona mais um competidor num segmento já em processo de consolidação.",
+              "fonte": "IRB(Re) · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/irbre-recebe-aval-da-susep-e-inicia-operacao-de-duas-seguradoras/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "XII Fórum Nacional de Seguro de Vida e Previdência Privada acontece em 16 de setembro",
+              "url": "https://cqcs.com.br/evento/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada-2/",
+              "texto": "O encontro tradicional do segmento ocorre na semana seguinte ao simpósio do CSP-MG e antecede a convenção da Aconseg Centro-Oeste. <strong>Ciclo denso de eventos de vida e previdência no mês</strong>, com palco disponível para discurso consultivo.",
+              "fonte": "CVG · Mercado Segurador",
+              "fonte_url": "https://cqcs.com.br/evento/xii-forum-nacional-de-seguro-de-vida-e-previdencia-privada-2/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Vida teve, nesta semana, um ganho e um alerta. O ganho é tributário: a tese do STF sobre reservas técnicas <strong>beneficia proporcionalmente mais os segmentos de maior provisão</strong>, que são vida e previdência, e exige revisão de apuração histórica antes da transição para a CBS. O alerta é de conduta de distribuição. A Susep suspendeu a Facta por falhas de consentimento em produto de massa ligado a consignado, com determinação de restituição em dobro e comunicação a toda a base — <strong>o segundo precedente em poucas semanas em que a autarquia pune a originação e não o balanço</strong>. Qualquer estrutura de vida distribuída por canal vinculado a crédito, folha ou parceiro de varejo precisa ter trilha de consentimento auditável. No plano competitivo, o IRB(Re) entra em vida com capacidade nova, a MAG capitaliza reputação de atendimento e o processo pela Prudential segue em curso — três frentes simultâneas num segmento onde a SU é 14ª.",
+          "oportunidade": "A prioridade imediata é de casa: <strong>auditar a trilha de consentimento e a documentação de anuência</strong> em todos os produtos de vida distribuídos por canais vinculados a folha, crédito ou parceiro — o precedente da Facta mostra que a punição vem antes da conclusão do processo sancionador e atinge também o registro da corretora envolvida. Do lado comercial, a tese do STF abre espaço para revisão de apuração de PIS/Cofins de períodos anteriores, tema de área fiscal com prazo finito diante da CBS. E o calendário de eventos do mês — Fórum Nacional de Vida e Previdência, Aconseg Centro-Oeste — é a janela mais barata do trimestre para <strong>levar o pitch de risco do empregador e de proteção integrada ao corretor de pessoas</strong>."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "STF exclui os rendimentos das reservas técnicas de entidades de previdência da base de PIS/Cofins",
+              "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+              "texto": "A tese fixada no Tema 1.309 vale para <strong>seguradoras e entidades de previdência privada</strong>, por entender que as reservas são compulsórias e indisponíveis e que sua aplicação não constitui atividade empresarial típica. Decisão aplicável aos demais processos em tramitação.",
+              "fonte": "STF",
+              "fonte_url": "https://conjur.com.br/2026-set-02/stf-afasta-pis-cofins-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras/",
+              "fonte_label": "STF · ConJur · Sincor-SP",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "4ª Regulation Week debate os impactos da reforma tributária em seguros e previdência",
+              "url": "https://www.migalhas.com.br/quentes/462600/fgv-direito-rio-promove-a-4-edicao-da-regulation-week",
+              "texto": "O painel realizado em São Paulo tratou da <strong>interpretação jurídica e da implementação prática da reforma</strong> nos dois mercados. Somada à decisão do STF, a semana concentrou os dois principais vetores tributários do segmento.",
+              "fonte": "FGV Direito Rio",
+              "fonte_url": "https://direitorio.fgv.br/eventos/regulation-week-4th-edition-0",
+              "fonte_label": "FGV · Migalhas",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CONCORRENTE",
+              "titulo": "Bradesco Vida e Previdência apresenta ferramenta de inteligência artificial exclusiva para corretores",
+              "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+              "texto": "Lançada no Conexão PREV, a solução leva IA para dentro da rotina comercial do canal em previdência. <strong>É o segundo movimento do grupo em poucas semanas colocando ferramenta proprietária na mão do corretor</strong>, depois do modelo com suporte humano em seguros.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/conexao-prev-bradesco-vida-e-previdencia-apresenta-nova-ia-para-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "Discussão sobre a vantagem relativa do PGBL segue aberta após a nova tributação das altas rendas",
+              "url": "https://cqcs.com.br/noticia/o-pgbl-perdeu-a-vantagem-com-a-nova-tributacao-das-altas-rendas/",
+              "texto": "A pergunta persiste porque o PGBL era a rota de defesa da carteira diante do IOF sobre aportes elevados em VGBL. <strong>Terceira mudança de regra fiscal em pouco mais de um ano</strong> — o argumento de venda precisa deixar de ser tributário.",
+              "fonte": "Mercado Segurador",
+              "fonte_url": "https://cqcs.com.br/noticia/o-pgbl-perdeu-a-vantagem-com-a-nova-tributacao-das-altas-rendas/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Icatu mantém a distribuição de previdência dentro do aplicativo do PagBank",
+              "url": "https://revistaapolice.com.br/2026/08/pagbank-e-icatu-seguros-fazem-parceria-para-distribuir-previdencia/",
+              "texto": "Canal digital de massa <strong>sem intermediação de corretor</strong> no produto de maior prazo e recorrência da indústria. A régua de conveniência que o cliente passa a esperar sobe para todo o segmento.",
+              "fonte": "Icatu Seguros · PagBank",
+              "fonte_url": "https://revistaapolice.com.br/2026/08/pagbank-e-icatu-seguros-fazem-parceria-para-distribuir-previdencia/",
+              "fonte_label": "Revista Apólice",
+              "data": "Ago/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "SulAmérica mantém presença via fundo espelho distribuído pela CAIXA Vida e Previdência",
+              "url": "https://revistaapolice.com.br/2026/07/caixa-vida-e-previdencia-lanca-primeiro-fundo-espelho-de-credito-privado/",
+              "texto": "O arranjo coloca a gestão da companhia dentro do canal do banco estatal, sem custo próprio de aquisição. <strong>Modelo de gestão terceirizada em canal de terceiro</strong> que a InvestCoop poderia replicar.",
+              "fonte": "SulAmérica",
+              "fonte_url": "https://revistaapolice.com.br/2026/07/caixa-vida-e-previdencia-lanca-primeiro-fundo-espelho-de-credito-privado/",
+              "fonte_label": "Revista Apólice",
+              "data": "Jul/2026"
+            }
+          ],
+          "implicacao": "A semana foi inteiramente tributária em previdência, e pela primeira vez em sentido favorável. A tese do STF sobre reservas técnicas <strong>atinge proporcionalmente mais o segmento de maior volume de provisão do setor</strong>, e chegou na mesma semana em que a Regulation Week discutiu a implementação prática da reforma tributária em seguros e previdência. Somando-se à discussão ainda aberta sobre a vantagem do PGBL após a tributação das altas rendas, o quadro é de <strong>três frentes fiscais simultâneas — decisão judicial, reforma e regra de dedução</strong> — e a conclusão prática é sempre a mesma: o argumento de venda da previdência não pode continuar ancorado em benefício fiscal, porque o benefício fiscal deixou de ser estável. Do lado do canal, o Bradesco colocou IA proprietária na mão do corretor de previdência, repetindo em poucas semanas o movimento já feito em seguros.",
+          "oportunidade": "A ação mais concreta é fiscal e tem prazo: <strong>revisar a apuração de PIS/Cofins dos exercícios anteriores à luz do Tema 1.309</strong>, considerando que a janela útil se fecha com a transição para a CBS. É trabalho de jurídico e controladoria, com retorno direto em caixa. No comercial, a recomendação se repete e se reforça: reposicionar o discurso de <strong>eficiência tributária para previsibilidade de renda e proteção da família</strong>, imune a mudança de alíquota e mais aderente ao público cooperado. E, diante do Bradesco entregando IA ao corretor de previdência, vale avaliar que camada mínima de ferramenta a SU consegue oferecer ao canal cooperativo antes que a conveniência vire barreira de entrada."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "PRODUTO",
+              "titulo": "AXA lança solução completa de seguros para data centers no Brasil",
+              "url": "https://revistaapolice.com.br/2026/09/axa-lanca-solucao-completa-de-seguros-para-data-centers/",
+              "texto": "A oferta chega no momento em que a infraestrutura de processamento se expande no país e combina <strong>risco patrimonial, interrupção de operação e exposição cibernética no mesmo ativo</strong>. Nova fronteira de elementares corporativos com ticket alto e concorrência ainda restrita.",
+              "fonte": "AXA",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/axa-lanca-solucao-completa-de-seguros-para-data-centers/",
+              "fonte_label": "Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "MERCADO",
+              "titulo": "IRB(Re) inicia operação de seguradora voltada a grandes riscos após homologação da Susep",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "A entrada de um grupo com origem em resseguro na ponta de seguro direto <strong>amplia a capacidade disponível em riscos corporativos complexos</strong> e adiciona um competidor com conhecimento técnico de subscrição em patrimonial e engenharia.",
+              "fonte": "IRB(Re) · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/irbre-recebe-aval-da-susep-e-inicia-operacao-de-duas-seguradoras/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "INFRAESTRUTURA",
+              "titulo": "Seguro Garantia ganha força em obras públicas e exige atenção técnica do corretor",
+              "url": "https://cqcs.com.br/noticia/seguro-garantia-ganha-forca-em-obras-publicas-e-exige-atencao-dos-corretores/",
+              "texto": "O avanço dos investimentos em infraestrutura recoloca o ramo como <strong>instrumento de viabilização contratual, não apenas exigência de edital</strong>. Modalidade de entrada em elementares corporativos sem disputar auto.",
+              "fonte": "Mercado Segurador",
+              "fonte_url": "https://cqcs.com.br/noticia/seguro-garantia-ganha-forca-em-obras-publicas-e-exige-atencao-dos-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "ANSP Fórum segue desdobrando os efeitos da Lei 15.040/2024 nas linhas de responsabilidade civil",
+              "url": "https://cqcs.com.br/noticia/akad-seguros-participa-de-ansp-forum-sobre-impactos-da-nova-lei-de-seguros-em-responsabilidade-civil/",
+              "texto": "O debate entre AIG, Aon, Akad, Chubb e Swiss Re sobre <strong>RCG, D&amp;O, E&amp;O, Ambiental e Cyber</strong> é o processo prático de definição de wording e regime de sinistro nessas carteiras. Padrão em formação agora.",
+              "fonte": "ANSP · Chubb",
+              "fonte_url": "https://www.segs.com.br/seguros/454064-ansp-forum-debate-impactos-da-nova-lei-de-seguros-na-responsabilidade-civil",
+              "fonte_label": "CQCS · Segs",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "ANTT mantém a fiscalização integrada dos seguros obrigatórios de cargas via RNTRC",
+              "url": "https://revistaapolice.com.br/2026/09/antt-reforca-fiscalizacao-dos-seguros-obrigatorios-de-cargas/",
+              "texto": "A verificação automática de <strong>RCTR-C, RC-DC e RC-V no registro do transportador</strong> transforma cobertura obrigatória em conversa de compliance. Demanda gerada por base de dados pública, sem esforço de funil comercial.",
+              "fonte": "ANTT",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/antt-reforca-fiscalizacao-dos-seguros-obrigatorios-de-cargas/",
+              "fonte_label": "Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "SUBSCRIÇÃO",
+              "titulo": "Instrumentação de ativos industriais amplia o dado de subscrição e cria exposição cibernética",
+              "url": "https://revistaapolice.com.br/2026/09/tecnologia-muda-avaliacao-de-riscos-na-mineracao-diz-gallagher/",
+              "texto": "Drones, sensores e gêmeos digitais melhoram a precificação e, ao mesmo tempo, <strong>transformam risco patrimonial em risco de sistema</strong>. Convergência que o lançamento da AXA para data centers materializa em produto.",
+              "fonte": "Gallagher",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/tecnologia-muda-avaliacao-de-riscos-na-mineracao-diz-gallagher/",
+              "fonte_label": "Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PREVENÇÃO",
+              "titulo": "Prevenção de sinistro entra no debate do setor como proposta de valor, e não como redução de custo",
+              "url": "https://cqcs.com.br/coluna/e-se-o-melhor-sinistro-for-aquele-que-nunca-acontece/",
+              "texto": "A tese em circulação no mercado é que <strong>o melhor sinistro é o que não acontece</strong>, deslocando a discussão de indenização para gestão de risco. Leitura aplicável a patrimonial, empresarial e, por extensão, a saúde.",
+              "fonte": "Mercado Segurador",
+              "fonte_url": "https://cqcs.com.br/coluna/e-se-o-melhor-sinistro-for-aquele-que-nunca-acontece/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Elementares consolidou nesta semana uma fronteira que vinha se desenhando: <strong>data center como classe de risco própria</strong>. O lançamento da AXA de uma solução completa para esses ativos junta, num só produto, patrimonial, interrupção de operação e cyber — exatamente a convergência que a leitura sobre instrumentação industrial vinha antecipando. É ticket alto, concorrência restrita e demanda em expansão no país. Em paralelo, o IRB(Re) entra em grandes riscos com capacidade e conhecimento técnico de subscrição, o que <strong>amplia a oferta em riscos corporativos complexos</strong> e pressiona preço na ponta empresarial. O terceiro vetor segue regulatório e é o mais acionável para a SU: a Lei 15.040/2024 continua sendo traduzida em wording nas linhas de responsabilidade civil, e a fiscalização automatizada da ANTT em cargas mostra o modelo de demanda gerada por obrigação legal cruzada com base de dados pública.",
+          "oportunidade": "A janela de RC Profissional médica e D&amp;O cooperativo continua aberta e continua sendo a mais alinhada ao ativo da companhia — <strong>acesso direto a centenas de cooperativas e à maior base de médicos cooperados do país</strong>, público natural de medmal hoje atendido por monolines e players internacionais. Estruturar dentro da janela de interpretação da nova lei evita herdar cláusula de terceiro. A segunda oportunidade é de rede própria: com data center virando classe de risco e hospitais cada vez mais instrumentados, <strong>a exposição cyber e patrimonial da rede assistencial do Sistema Unimed é um risco a subscrever, não apenas a suportar</strong>. A terceira é usar obrigação legal fiscalizada como porta de entrada em elementares corporativos, seguindo o modelo que a ANTT acaba de aplicar em cargas."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "CONSOLIDAÇÃO",
+              "titulo": "Alper Seguros incorpora nova carteira e amplia a atuação nacional",
+              "url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+              "texto": "A operação reforça a estratégia de crescimento por aquisição de carteiras e corretoras regionais que vem redesenhando o mapa da corretagem brasileira. <strong>Consolidação por compra reduz o número de interlocutores independentes no canal</strong> e eleva o poder de negociação das corretoras nacionais.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Bradesco Vida e Previdência apresenta ferramenta de IA exclusiva para corretores no Conexão PREV",
+              "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+              "texto": "É o segundo movimento do grupo em poucas semanas entregando <strong>ferramenta proprietária à rotina comercial do canal</strong>, depois do modelo de IA com suporte humano lançado em seguros. Fidelização por dependência operacional.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/conexao-prev-bradesco-vida-e-previdencia-apresenta-nova-ia-para-corretores/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "BENCHMARK",
+              "titulo": "Corretora do Grupo Belz conquista o primeiro lugar no GPTW Saúde Brasil",
+              "url": "https://cqcs.com.br/noticia/corretora-do-grupo-belz-conquista-1o-lugar-no-gptw-saude-brasil/",
+              "texto": "Reconhecimento de ambiente de trabalho numa corretora especializada em saúde. <strong>Retenção de talento comercial virou variável competitiva no canal</strong>, num mercado em que consultor formado em saúde é escasso e disputado.",
+              "fonte": "Grupo Belz",
+              "fonte_url": "https://cqcs.com.br/noticia/corretora-do-grupo-belz-conquista-1o-lugar-no-gptw-saude-brasil/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGIONAL",
+              "titulo": "Mapfre reforça a conexão com corretores de Rondônia e Acre em fórum regional",
+              "url": "https://cqcs.com.br/noticia/mapfre-reforca-conexao-com-corretores-de-rondonia-e-acre-durante-forum-regional-do-setor/",
+              "texto": "A companhia mantém a estratégia de presença em praças fora do eixo Sul-Sudeste, onde <strong>a disputa por corretor independente é menos saturada e o custo de relacionamento é menor</strong>. Território natural de força do Sistema Unimed.",
+              "fonte": "Mapfre",
+              "fonte_url": "https://cqcs.com.br/noticia/mapfre-reforca-conexao-com-corretores-de-rondonia-e-acre-durante-forum-regional-do-setor/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Aconseg Centro-Oeste realiza sua 3ª Convenção e concentra assessorias da região",
+              "url": "https://cqcs.com.br/evento/3o-convencao-aconseg-centro-oeste/",
+              "texto": "O encontro de 17 de setembro segue o ciclo de convenções de redes e assessorias do segundo semestre. <strong>As assessorias são o canal de acesso mais barato ao corretor pulverizado do interior</strong>.",
+              "fonte": "Aconseg Centro-Oeste",
+              "fonte_url": "https://cqcs.com.br/evento/3o-convencao-aconseg-centro-oeste/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "ESTRUTURA",
+              "titulo": "WTW mantém Affinity, rede de corretores parceiros e PME reunidos em vertical única de canais",
+              "url": "https://revistaapolice.com.br/2026/09/wtw-reune-affinity-corretores-e-pmes-em-nova-area/",
+              "texto": "A estrutura liderada por Felipe Barranco segue como o principal benchmark de <strong>canal tratado como unidade de negócio</strong>, e não como área comercial, entre as corretoras globais no Brasil.",
+              "fonte": "WTW · Willis",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/08/wtw-anuncia-estrutura-de-canais-e-parcerias-estrategicas/",
+              "fonte_label": "Revista Apólice · Sonho Seguro",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Duas forças operam sobre o canal ao mesmo tempo e puxam em direções opostas. De um lado, a <strong>consolidação por aquisição</strong>: a Alper segue incorporando carteiras e ampliando atuação nacional, movimento que reduz o número de corretoras independentes e concentra poder de negociação. De outro, a <strong>disputa por ferramenta</strong>: o Bradesco entregou, em poucas semanas, IA proprietária a corretores de seguros e agora de previdência. As duas convergem para o mesmo efeito — o corretor independente pequeno fica espremido entre ser comprado e depender da infraestrutura de uma seguradora grande. É exatamente nesse espaço que o canal cooperativo da Seguros Unimed tem vantagem estrutural e entrega tecnológica insuficiente. Vale registrar também que a Mapfre segue investindo relacionamento em Rondônia e Acre: <strong>praças fora do eixo, onde o custo de captação é menor e a presença Unimed é histórica</strong>.",
+          "oportunidade": "A leitura da semana aponta para uma escolha que não pode ser adiada: se o corretor independente está sendo comprado por consolidadoras ou capturado por ferramenta de seguradora grande, a SU precisa decidir <strong>o que oferece de infraestrutura ao corretor cooperativo antes que ele escolha um dos dois caminhos</strong>. O mínimo viável é cotação multiproduto em uma tela, régua de renovação automatizada e material consultivo pronto de risco do empregador. A segunda frente é geográfica: enquanto a Mapfre investe relacionamento em Rondônia e Acre, <strong>a SU tem cooperativa instalada nessas mesmas praças e não converte presença assistencial em presença comercial</strong>. E o ciclo de convenções de assessorias do segundo semestre — Aconseg Centro-Oeste em setembro, Lojacorr em outubro — é o caminho mais barato para chegar ao corretor pulverizado do interior."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "GOVERNANÇA",
+              "titulo": "Susep desloca a fiscalização para a qualidade da originação e pune consentimento, não apenas solvência",
+              "url": "https://cqcs.com.br/noticia/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+              "texto": "A cautelar contra a Facta atingiu seguradora, corretora e diretor na mesma decisão, com determinação de <strong>restituição em dobro onde não houver prova de anuência do consumidor</strong>. Segundo precedente em poucas semanas em que o gatilho é desenho de operação e não balanço.",
+              "fonte": "Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+              "fonte_label": "Susep · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "Tese do STF sobre reservas técnicas redefine o conceito de faturamento aplicável ao setor",
+              "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+              "texto": "Ao separar receita de atividade empresarial típica de rendimento de recurso compulsório e indisponível, o tribunal <strong>estabelece critério que tende a ser invocado em outras discussões tributárias do setor financeiro</strong>. Efeito que se estende à transição para a CBS.",
+              "fonte": "STF",
+              "fonte_url": "https://conjur.com.br/2026-set-02/stf-afasta-pis-cofins-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras/",
+              "fonte_label": "STF · ConJur",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "DADOS",
+              "titulo": "Dado estruturado e IA passam a ser tratados como ferramenta simultânea de venda e de prevenção à fraude",
+              "url": "https://revistaapolice.com.br/2026/09/transunion-mostra-que-dados-ajudam-seguradoras-a-vender-melhor-e-combater-fraudes/",
+              "texto": "A leitura é que a adoção de IA deixou de ser diferencial e que <strong>a diferenciação migrou para a qualidade e a organização do dado</strong> que alimenta os modelos. Mesma tecnologia, resultados distintos conforme a base.",
+              "fonte": "Transunion",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/transunion-mostra-que-dados-ajudam-seguradoras-a-vender-melhor-e-combater-fraudes/",
+              "fonte_label": "Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PREVENÇÃO",
+              "titulo": "Prevenção passa a ser discutida como proposta de valor do seguro, e não como corte de custo",
+              "url": "https://cqcs.com.br/coluna/e-se-o-melhor-sinistro-for-aquele-que-nunca-acontece/",
+              "texto": "A tese de que <strong>o melhor sinistro é o que nunca acontece</strong> desloca o produto de indenização para gestão de risco. Convergente com o modelo de atenção primária e coordenação de cuidado da saúde suplementar.",
+              "fonte": "Mercado Segurador",
+              "fonte_url": "https://cqcs.com.br/coluna/e-se-o-melhor-sinistro-for-aquele-que-nunca-acontece/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "INDENIZAÇÃO",
+              "titulo": "Setor debate novos caminhos da indenização como fator de percepção de valor do seguro",
+              "url": "https://cqcs.com.br/noticia/roda-de-conversa-do-cqcs-inovacao-2026-debate-novos-caminhos-da-indenizacao-no-mercado-de-seguros/",
+              "texto": "A roda de conversa do CQCS Inovação reúne Allianz, Bradesco Auto/Re e Grupo HDI para discutir como <strong>a experiência de sinistro define a percepção de valor</strong> de todo o produto. Momento de verdade tratado como ativo de marca.",
+              "fonte": "CQCS Inovação",
+              "fonte_url": "https://cqcs.com.br/noticia/roda-de-conversa-do-cqcs-inovacao-2026-debate-novos-caminhos-da-indenizacao-no-mercado-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CARTEIRA",
+              "titulo": "Estudo recoloca a diversificação de carteira como fator central de resiliência das seguradoras",
+              "url": "https://cqcs.com.br/coluna/na-ponta-do-lapis/estudo-mostra-importancia-da-diversificacao-de-carteira/",
+              "texto": "A análise reforça que <strong>concentração em poucos ramos aumenta a volatilidade do resultado</strong> em ciclos adversos. Argumento estrutural a favor de companhias multiproduto.",
+              "fonte": "Ratings de Seguros",
+              "fonte_url": "https://cqcs.com.br/coluna/na-ponta-do-lapis/estudo-mostra-importancia-da-diversificacao-de-carteira/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CAPACIDADE",
+              "titulo": "Entrada de grupos de resseguro na ponta de seguro direto amplia a capacidade técnica disponível",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "Com a homologação definitiva da Susep, duas novas seguradoras do IRB(Re) iniciam operação em grandes riscos e vida. <strong>Movimento que encurta a cadeia entre capacidade e cliente final</strong> em carteiras complexas.",
+              "fonte": "IRB(Re) · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/irbre-recebe-aval-da-susep-e-inicia-operacao-de-duas-seguradoras/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep amplia o cadastro de resseguradoras estrangeiras enquanto endurece o lado sancionador",
+              "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "texto": "O colegiado cadastrou resseguradores dos Estados Unidos e da China na mesma reunião em que analisou novas cautelares. <strong>Abertura de capacidade externa combinada com rigor de conduta interno</strong> define o tom regulatório do semestre.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "A tendência dominante da semana é a consolidação de um novo padrão de supervisão. Com a cautelar contra a Facta, a Susep confirmou que <strong>fiscaliza a qualidade da originação — consentimento, registro, governança de intermediação — e não apenas a solidez do balanço</strong>, e que a punição pode atingir seguradora, corretora e administrador na mesma decisão, antes de qualquer conclusão sancionadora. Somado ao precedente da Generali, o recado é de responsabilidade sobre a cadeia inteira de distribuição. Em paralelo, o STF entregou ao setor um critério conceitual relevante ao separar receita de atividade típica de rendimento de recurso compulsório — <strong>distinção que tende a reaparecer em outras disputas tributárias</strong> e na transição para a CBS. No plano técnico, três leituras convergem: dado estruturado como verdadeiro diferencial da IA, prevenção tratada como proposta de valor e não como corte de custo, e diversificação de carteira recolocada como fator de resiliência — três teses que descrevem, sem citar, o modelo de uma seguradora multiproduto com base assistencial própria."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Auditar a trilha de consentimento e a documentação de anuência em todos os produtos distribuídos por canais vinculados",
+          "texto": "A Susep suspendeu a Facta, afastou diretor e suspendeu o registro da corretora do grupo por falhas de comprovação de consentimento, incluindo apólices envolvendo menores, com determinação de restituição em dobro. <strong>É o segundo precedente em poucas semanas punindo a originação antes da conclusão do processo sancionador. Qualquer produto da SU distribuído via folha, crédito, varejo ou parceiro precisa de trilha auditável hoje.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Compliance",
+              "tipo": ""
+            },
+            {
+              "label": "Distribuição",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Revisar a apuração histórica de PIS/Cofins à luz do Tema 1.309 antes da transição para a CBS",
+          "texto": "O STF fixou que os rendimentos das aplicações das reservas técnicas não integram a base de PIS/Cofins de seguradoras e entidades de previdência, com tese aplicável aos demais processos. <strong>A janela útil para revisar exercícios anteriores é finita e se fecha com a entrada da CBS — trabalho de jurídico e controladoria com retorno direto em caixa.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Tributário",
+              "tipo": ""
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Ocupar o discurso de proteção integrada antes que ele vire propriedade da SulAmérica",
+          "texto": "A concorrente passou a defender publicamente a integração entre Saúde e Vida como nova fronteira do mercado — tese que a SU encarna por estrutura e comunica pouco. <strong>Com o avanço no Global 500 da ICMIF e o domínio do Sistema Unimed no Valor 1000 na mesma semana, a companhia tem prova material que o concorrente ainda precisa construir. Falta transformar isso em pitch de canal.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Multiproduto",
+              "tipo": ""
+            },
+            {
+              "label": "Marca",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Estruturar RC Profissional médica e D&O cooperativo dentro da janela de interpretação da Lei 15.040/2024",
+          "texto": "O padrão de wording e de regime de sinistro das linhas de responsabilidade está sendo definido agora, em fóruns que reúnem AIG, Aon, Akad, Chubb e Swiss Re. <strong>A SU tem acesso à maior base de médicos cooperados do país, público natural de medmal hoje atendido por monolines. Entrar depois da consolidação do padrão significa herdar cláusula de terceiro.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Definir a camada mínima de ferramenta oferecida ao corretor cooperativo diante da consolidação do canal",
+          "texto": "A Alper segue incorporando carteiras e o Bradesco entregou IA proprietária a corretores de seguros e agora de previdência. O corretor independente pequeno está sendo comprado ou capturado por infraestrutura de seguradora grande. <strong>A SU tem o canal proprietário mais difícil de replicar do mercado e a camada tecnológica menos desenvolvida sobre ele.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            },
+            {
+              "label": "Tecnologia",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar a exposição cyber e patrimonial da rede assistencial própria como risco a subscrever, não apenas a suportar",
+          "texto": "A AXA lançou solução completa para data centers e a instrumentação de ativos industriais vem transformando risco patrimonial em risco de sistema. <strong>Hospitais, centros de diagnóstico e estruturas de dados do Sistema Unimed compõem uma carteira de risco que hoje a companhia carrega sem precificar — e que outros já começaram a transformar em produto.</strong>",
+          "tags": [
+            {
+              "label": "Longo prazo",
+              "tipo": "longo"
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Cyber",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Bradesco Vida e Previdência apresenta ferramenta de IA exclusiva para corretores no Conexão PREV",
+                "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+                "texto": "Segundo movimento do grupo em poucas semanas entregando <strong>ferramenta proprietária à rotina comercial do canal</strong>, depois do modelo de IA com suporte humano lançado em seguros. Fidelização por dependência operacional.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/conexao-prev-bradesco-vida-e-previdencia-apresenta-nova-ia-para-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Seguros reúne corretores na Expointer e reforça a atuação no agronegócio",
+                "url": "https://cqcs.com.br/noticia/bradesco-seguros-reune-corretores-na-expointer-e-reforca-atuacao-no-agronegocio/",
+                "texto": "A presença na maior feira agropecuária do Sul combina relacionamento de canal com <strong>posicionamento em um ramo de expansão e baixa penetração</strong>. Agenda regional que complementa a ofensiva em PME.",
+                "fonte": "Bradesco Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/bradesco-seguros-reune-corretores-na-expointer-e-reforca-atuacao-no-agronegocio/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "SulAmérica defende a integração entre Saúde e Vida como nova fronteira do mercado segurador",
+                "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+                "texto": "A companhia passou a tratar a combinação dos segmentos como <strong>oportunidade comercial estruturada para o corretor</strong>, com narrativa de proteção integrada da pessoa. É a tese multiproduto sendo apropriada por um concorrente direto em saúde.",
+                "fonte": "SulAmérica",
+                "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "RESULTADO",
+                "titulo": "Integração com a Rede D'Or segue sustentando ganho de eficiência assistencial",
+                "url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "texto": "A verticalização parcial via ecossistema hospitalar continua sendo o principal vetor de controle de custo da companhia. <strong>Seguradora sem rede própria usando rede parceira</strong> é o modelo mais próximo da lógica cooperativa.",
+                "fonte": "SulAmérica",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/sulamerica-chega-a-61-milhoes-de-beneficiarios/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Seguradora multiproduto · Itaú Unibanco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CANAL",
+                "titulo": "Porto Saúde leva novidades de produto e oportunidades ao canal corretor",
+                "url": "https://cqcs.com.br/noticia/porto-saude-revela-novidades-e-oportunidades-para-corretores/",
+                "texto": "A companhia mantém o ritmo de comunicação com o canal iniciado no congresso, tratando saúde como <strong>carteira recorrente a ser construída pelo corretor</strong> e não como produto de venda pontual.",
+                "fonte": "Porto Saúde",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-saude-revela-novidades-e-oportunidades-para-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Porto Saúde realiza a primeira Blue Run noturna no Ibirapuera",
+                "url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+                "texto": "Ativação de marca em saúde combinando esporte, bem-estar e experiência de cliente. <strong>Produto, incentivo de canal e marca trabalhados como pacote único</strong> no mesmo segmento.",
+                "fonte": "Porto Saúde",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Operadora verticalizada · Rede própria",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "FINANCEIRO",
+                "titulo": "Hapvida segue em ciclo de redução de dívida bruta com recompra de debêntures com deságio",
+                "url": "https://financenews.com.br/2026/08/mercados-nesta-quarta-minerio-petroleo-noticia-do-bradesco-hapvida-caixa-seguridade-taesa-e-de-outras-companhias/",
+                "texto": "A gestão de passivo permanece como frente prioritária, em paralelo à pressão sobre retenção de beneficiários. <strong>Operadora verticalizada em desalavancagem tende a competir menos por preço e mais por rede.</strong>",
+                "fonte": "Hapvida",
+                "fonte_url": "https://financenews.com.br/2026/08/mercados-nesta-quarta-minerio-petroleo-noticia-do-bradesco-hapvida-caixa-seguridade-taesa-e-de-outras-companhias/",
+                "fonte_label": "Finance News",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Seguradora independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Icatu segue no processo competitivo pela Prudential Brasil, assessorada pelo Itaú BBA",
+                "url": "https://cqcs.com.br/noticia/avanca-a-venda-da-prudential-no-brasil/",
+                "texto": "A disputa envolve ainda <strong>CNP, MetLife e Tokio Marine</strong>. Vencer significaria salto imediato de escala em Vida e Previdência para o maior player independente do segmento.",
+                "fonte": "Icatu Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/avanca-a-venda-da-prudential-no-brasil/",
+                "fonte_label": "O Globo · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Icatu mantém distribuição de previdência dentro do aplicativo do PagBank",
+                "url": "https://revistaapolice.com.br/2026/08/pagbank-e-icatu-seguros-fazem-parceria-para-distribuir-previdencia/",
+                "texto": "Canal digital de massa <strong>sem intermediação de corretor</strong> no produto de maior prazo da indústria. Escala digital somada a apetite de aquisição forma o perfil mais agressivo do segmento.",
+                "fonte": "Icatu Seguros · PagBank",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/pagbank-e-icatu-seguros-fazem-parceria-para-distribuir-previdencia/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Operadora de saúde · Controle Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Preço segue travando a negociação de 100% da Amil com Bain e Advent, e o impasse já afeta a operação",
+                "url": "https://cqcs.com.br/noticia/negociacao-da-amil-com-fundos-americanos-comeca-a-afetar-rotina-da-operadora-e-venda-pode-ter-desfecho-em-breve/",
+                "texto": "O controlador resiste a abrir mão do controle enquanto os fundos buscam a totalidade da companhia. Relatos de mercado indicam <strong>hospitais postergando acordos e negócios em suspenso</strong> à espera do desfecho.",
+                "fonte": "Amil",
+                "fonte_url": "https://cqcs.com.br/noticia/negociacao-da-amil-com-fundos-americanos-comeca-a-afetar-rotina-da-operadora-e-venda-pode-ter-desfecho-em-breve/",
+                "fonte_label": "Valor Econômico · CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Bancassurance · Caixa Econômica Federal",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Caixa Seguridade prepara entrada em vida resgatável e oferta individual até o fim de 2026",
+                "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "texto": "Ampliação de portfólio para <strong>produtos de acumulação e oferta individual</strong>, com o prestamista seguindo como desafio. Bancassurance em vida resgatável amplia a concorrência por poupança de longo prazo.",
+                "fonte": "Caixa Seguridade",
+                "fonte_url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "fonte_label": "BPMoney",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª",
+            "nome": "★ Seguros Unimed",
+            "tipo": "Braço segurador do Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "RECONHECIMENTO",
+                "titulo": "Seguros Unimed sobe trinta posições no Global 500 da ICMIF e mantém a 2ª posição entre as cooperativas seguradoras da América Latina",
+                "url": "https://revistaapolice.com.br/2026/09/seguros-unimed-avanca-30-posicoes-em-ranking-global/",
+                "texto": "O levantamento da International Cooperative and Mutual Insurance Federation registra o <strong>avanço mais expressivo da companhia na série</strong>, atribuído por Helton Freitas a uma década de foco em eficiência de gestão e diversificação entre Saúde, Elementares, Odonto, Vida e Previdência.",
+                "fonte": "Seguros Unimed · ICMIF",
+                "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-sobe-30-posicoes-no-ranking-global-da-icmif-e-consolida-trajetoria-de-crescimento-estruturado/",
+                "fonte_label": "Revista Apólice · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "opp",
+                "tag_label": "RECONHECIMENTO",
+                "titulo": "Sistema Unimed ocupa 35 das 50 posições no ranking de operadoras de saúde do Valor 1000",
+                "url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+                "texto": "O desempenho é puxado por cooperativas médicas e pela Seguros Unimed, que também figura no recorte financeiro da publicação entre as maiores de previdência e vida. <strong>Capilaridade municipal como barreira competitiva estrutural.</strong>",
+                "fonte": "Sistema Unimed · Valor 1000",
+                "fonte_url": "https://saudedigitalnews.com.br/10/09/2026/sistema-unimed-tem-35-operadoras-entre-os-50-maiores-planos-de-saude-no-ranking-valor-1000/",
+                "fonte_label": "Saúde Digital News",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "RESULTADO",
+                "titulo": "Brasilprev mantém avanço de arrecadação e consolida posição em ativos sob gestão",
+                "url": "https://revistaapolice.com.br/2026/08/brasilprev-arrecada-r-249-bi-no-semestre-alta-de-69/",
+                "texto": "O braço de previdência segue como principal motor de resultado do bancassurance do Banco do Brasil. <strong>Escala em previdência aberta é a barreira de entrada mais alta do segmento.</strong>",
+                "fonte": "BB Seguros · Brasilprev",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/brasilprev-arrecada-r-249-bi-no-semestre-alta-de-69/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Bancassurance · Zurich + Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "GESTÃO",
+                "titulo": "Zurich promove Carlos Eduardo Silva a diretor de Parcerias",
+                "url": "https://revistaapolice.com.br/2026/09/zurich-promove-executivo-para-diretor-de-parcerias/",
+                "texto": "A promoção fecha o ciclo de reorganização da área de distribuição iniciado com a saída do executivo anterior. <strong>Parcerias como diretoria própria sinaliza aposta em canais além do corretor tradicional</strong>, coerente com a estrutura de bancassurance.",
+                "fonte": "Zurich Seguros",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/zurich-promove-executivo-para-diretor-de-parcerias/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Zurich mantém com a AACD a campanha de ampliação de proteção além do patrimônio",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/zurich-e-aacd-lancam-campanha-novos-caminhos-para-ampliar-protecao-alem-do-patrimonio/",
+                "texto": "A iniciativa associa a marca a <strong>proteção da pessoa e não apenas do bem</strong>, aproximando a companhia do território de vida e saúde. Reposicionamento de narrativa em seguradora historicamente patrimonial.",
+                "fonte": "Zurich Seguros · AACD",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/zurich-e-aacd-lancam-campanha-novos-caminhos-para-ampliar-protecao-alem-do-patrimonio/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "A leitura competitiva da semana tem um eixo claro e desconfortável: <strong>os concorrentes começaram a falar a língua da Seguros Unimed</strong>. A SulAmérica defendeu publicamente a integração entre Saúde e Vida como nova fronteira do mercado; a Porto trabalhou produto, incentivo de canal e marca em saúde como pacote único; e o Bradesco entregou IA proprietária a corretores de seguros e agora de previdência, completando a cobertura do canal em multiproduto. São três formas diferentes de construir aquilo que a SU já tem por estrutura — proteção integrada sob governança única — mas que os concorrentes estão transformando em narrativa e ferramenta. Do lado da SU, a semana rendeu <strong>dois reconhecimentos de peso na mesma data</strong>: o avanço de trinta posições no Global 500 da ICMIF e o domínio do Sistema Unimed no ranking de operadoras do Valor 1000. São ativos de reputação que o concorrente não consegue replicar e que ainda não viraram argumento comercial. No pano de fundo, os dois grandes ativos em negociação seguem parados no mesmo ponto — Prudential em processo competitivo e Amil travada em preço — e a Zurich fechou a reorganização de distribuição criando uma diretoria de Parcerias, sinal de que a disputa por canais não tradicionais ganhou estrutura formal."
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "SulAmérica posiciona a integração entre Saúde e Vida como nova fronteira do mercado",
+                "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+                "texto": "A combinação dos segmentos passa a ser vendida ao corretor como carteira estruturada, e não como venda cruzada oportunista.",
+                "fonte": "SulAmérica",
+                "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CANAL",
+                "titulo": "Porto Saúde leva novidades de produto e oportunidades ao canal e ativa marca com a Blue Run",
+                "url": "https://cqcs.com.br/noticia/porto-saude-revela-novidades-e-oportunidades-para-corretores/",
+                "texto": "Produto, incentivo de canal e marca trabalhados como pacote único em saúde, mantendo o ritmo iniciado no congresso.",
+                "fonte": "Porto Saúde",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+                "fonte_label": "CQCS · Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CUSTO",
+                "titulo": "Saúde corporativa entra na agenda dos CFOs à medida que o benefício ganha peso na folha",
+                "url": "https://revistaapolice.com.br/2026/08/saude-corporativa-entra-na-agenda-de-cfos-com-beneficio-representando-ate-20-da-folha/",
+                "texto": "O tema sai do RH e chega à diretoria financeira, mudando o interlocutor e o argumento — previsibilidade vale mais que desconto no alto padrão.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/saude-corporativa-entra-na-agenda-de-cfos-com-beneficio-representando-ate-20-da-folha/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "BENCHMARK",
+                "titulo": "Howden reforça que os desafios da saúde corporativa premium se repetem em mercados maduros",
+                "url": "https://revistaapolice.com.br/2026/08/howden-aponta-que-desafios-da-saude-corporativa-sao-os-mesmos-no-mundo-inteiro/",
+                "texto": "Pressão de custo assistencial e gestão de sinistralidade em contratos empresariais seguem o mesmo roteiro dentro e fora do Brasil.",
+                "fonte": "Howden",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/howden-aponta-que-desafios-da-saude-corporativa-sao-os-mesmos-no-mundo-inteiro/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Healthtechs mantêm foco em saúde corporativa como caminho de escala",
+                "url": "https://revistaapolice.com.br/2026/08/custos-e-judicializacao-pressionam-planos-de-saude/",
+                "texto": "Com custo e judicialização pressionando todo o setor, atenção primária coordenada passa a ser vendida como controle de sinistralidade, não como experiência.",
+                "fonte": "Alice · Sami",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/custos-e-judicializacao-pressionam-planos-de-saude/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Avanço da IA agêntica nas incumbentes reduz a vantagem tecnológica do pitch digital",
+                "url": "https://cqcs.com.br/noticia/ia-agentica-avanca-no-setor-e-muda-papel-de-corretores-e-subscritores/",
+                "texto": "Com agentes decidindo dentro de parâmetros definidos em subscrição e sinistro nas seguradoras tradicionais, a diferenciação das healthtechs volta a depender de modelo assistencial.",
+                "fonte": "NTT DATA",
+                "fonte_url": "https://cqcs.com.br/noticia/ia-agentica-avanca-no-setor-e-muda-papel-de-corretores-e-subscritores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "COMPETITIVO",
+                "titulo": "MedSênior acelera sobre a base da Prevent Sênior com modelo híbrido de rede",
+                "url": "https://neofeed.com.br/negocios/puxada-pelo-tropeco-da-prevent-senior-medsenior-quer-dobrar-de-tamanho/en/",
+                "texto": "A operadora capixaba aposta em rede credenciada combinada com estrutura própria, contrastando com o modelo totalmente verticalizado da concorrente.",
+                "fonte": "MedSênior",
+                "fonte_url": "https://neofeed.com.br/negocios/puxada-pelo-tropeco-da-prevent-senior-medsenior-quer-dobrar-de-tamanho/en/",
+                "fonte_label": "NeoFeed",
+                "data": "Jul/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PESSOAS",
+                "titulo": "Leve Saúde traz Soraya Barelli para liderar área médica e gestão assistencial",
+                "url": "https://revistaapolice.com.br/2026/08/leve-saude-anuncia-soraya-barelli-como-diretora-executiva/",
+                "texto": "Movimento de profissionalização da governança clínica num nicho onde coordenação de cuidado define diretamente a sinistralidade.",
+                "fonte": "Leve Saúde",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/leve-saude-anuncia-soraya-barelli-como-diretora-executiva/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "MARCA",
+                "titulo": "Odontoprev segue com a campanha de 39 anos centrada em beneficiários, dentistas e corretores",
+                "url": "https://revistaapolice.com.br/2026/09/odontoprev-celebra-39-anos-com-nova-campanha/",
+                "texto": "Depoimento de canal e de prestador usado como prova social em ação digital dividida em três fases entre agosto e outubro.",
+                "fonte": "Odontoprev",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/odontoprev-celebra-39-anos-com-nova-campanha/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Bradsaúde mantém saúde e odonto integrados em portfólio único de benefícios corporativos",
+                "url": "https://revistaapolice.com.br/2026/08/bradsaude-leva-portfolio-de-saude-corporativa-ao-conarh-2026/",
+                "texto": "Soluções de saúde, odontologia, prevenção e bem-estar na mesma prateleira de RH, reduzindo a vantagem da venda combinada cooperativa.",
+                "fonte": "Bradsaúde",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/bradsaude-leva-portfolio-de-saude-corporativa-ao-conarh-2026/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint Odonto",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Sinog pressiona por régua regulatória própria para odontologia na agenda 2026-2028 da ANS",
+                "url": "https://revistaapolice.com.br/2026/05/congresso-sinog-regulacao-e-crescimento-dominam-debates/",
+                "texto": "Acreditação, indicadores assistenciais e modelos de remuneração são os três pontos em disputa com a agência.",
+                "fonte": "Sinog",
+                "fonte_url": "https://revistaapolice.com.br/2026/05/congresso-sinog-regulacao-e-crescimento-dominam-debates/",
+                "fonte_label": "Revista Apólice",
+                "data": "Mai/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MERCADO",
+                "titulo": "Coletivo empresarial segue como motor da expansão da odontologia suplementar",
+                "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+                "texto": "Dados de acompanhamento do IESS reforçam o ambiente corporativo como principal via de acesso ao produto, inclusive no alto padrão.",
+                "fonte": "IESS · Sinog",
+                "fonte_url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/mercado-odontologico-em-expansao-abre-novas-oportunidades-para-corretores-de-seguros/",
+                "fonte_label": "Revista Cobertura",
+                "data": "Jul/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "REPUTAÇÃO",
+                "titulo": "MAG Seguros lidera ranking de reputação do Reclame Aqui entre as seguradoras de vida",
+                "url": "https://cqcs.com.br/noticia/mag-seguros-lidera-ranking-do-reclame-aqui-entre-as-empresas-de-seguro-de-vida-e-e-indicada-ao-premio-de-2026/",
+                "texto": "Indicada ao prêmio de 2026 da plataforma, a companhia transforma atendimento em argumento competitivo num produto decidido por confiança.",
+                "fonte": "MAG Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/mag-seguros-lidera-ranking-do-reclame-aqui-entre-as-empresas-de-seguro-de-vida-e-e-indicada-ao-premio-de-2026/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "M&A",
+                "titulo": "MetLife, Icatu e Tokio Marine seguem no processo competitivo pela Prudential Brasil",
+                "url": "https://cqcs.com.br/noticia/avanca-a-venda-da-prudential-no-brasil/",
+                "texto": "Três dos sete players monitorados em Vida estão envolvidos na mesma disputa, cujo desfecho reorganiza o ranking do segmento.",
+                "fonte": "Prudential",
+                "fonte_url": "https://cqcs.com.br/noticia/avanca-a-venda-da-prudential-no-brasil/",
+                "fonte_label": "O Globo · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "TRIBUTÁRIO",
+                "titulo": "STF exclui rendimentos das reservas técnicas de entidades de previdência da base de PIS/Cofins",
+                "url": "https://noticias.stf.jus.br/postsnoticias/pis-cofins-nao-incidem-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras-decide-stf/",
+                "texto": "Tese de repercussão geral aplicável a todo o segmento, com efeito proporcionalmente maior em carteiras de grande volume de provisão.",
+                "fonte": "STF",
+                "fonte_url": "https://conjur.com.br/2026-set-02/stf-afasta-pis-cofins-sobre-rendimentos-de-reservas-tecnicas-de-seguradoras/",
+                "fonte_label": "STF · ConJur",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "Bradesco Vida e Previdência entrega ferramenta de IA exclusiva ao corretor de previdência",
+                "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+                "texto": "Ferramenta proprietária na rotina do canal em previdência, repetindo em poucas semanas o movimento feito em seguros.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/conexao-prev-bradesco-vida-e-previdencia-apresenta-nova-ia-para-corretores/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Akad segue no debate sobre os efeitos da Lei 15.040/2024 em RC Geral e linhas de responsabilidade",
+                "url": "https://cqcs.com.br/noticia/akad-seguros-participa-de-ansp-forum-sobre-impactos-da-nova-lei-de-seguros-em-responsabilidade-civil/",
+                "texto": "A monoline integra o painel com AIG, Aon, Chubb e Swiss Re que define prática de wording e sinistro nas carteiras de responsabilidade.",
+                "fonte": "Akad Seguros · ANSP",
+                "fonte_url": "https://cqcs.com.br/noticia/akad-seguros-participa-de-ansp-forum-sobre-impactos-da-nova-lei-de-seguros-em-responsabilidade-civil/",
+                "fonte_label": "CQCS · Segs",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "NOVO RISCO",
+                "titulo": "Exposições geradas por IA seguem como categoria de responsabilidade sem produto correspondente no Brasil",
+                "url": "https://cqcs.com.br/noticia/ia-ja-cria-novos-riscos-para-empresas-e-abre-oportunidades-para-o-mercado-de-seguros/",
+                "texto": "O risco existe, é invisível para muitas empresas e ainda não tem apólice desenhada, agravado pelo uso de ferramentas fora da estratégia corporativa.",
+                "fonte": "TRINCA",
+                "fonte_url": "https://cqcs.com.br/noticia/ia-ja-cria-novos-riscos-para-empresas-e-abre-oportunidades-para-o-mercado-de-seguros/",
+                "fonte_label": "CQCS",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "GOVERNANÇA",
+                "titulo": "Cautelar da Susep contra seguradora e diretor eleva a régua de exposição de administradores",
+                "url": "https://cqcs.com.br/noticia/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+                "texto": "Suspensão de operação, afastamento de diretor e suspensão de registro de corretora na mesma decisão criam exposição de conduta relevante para D&O.",
+                "fonte": "Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/susep-adota-medida-cautelar-contra-a-facta-seguradora/",
+                "fonte_label": "Susep · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "AIG, Chubb e Swiss Re seguem definindo no ANSP Fórum a prática da Lei 15.040/2024 nas financial lines",
+                "url": "https://www.segs.com.br/seguros/454064-ansp-forum-debate-impactos-da-nova-lei-de-seguros-na-responsabilidade-civil",
+                "texto": "O painel sobre D&O, E&O, Ambiental e Cyber é onde o wording e o regime de sinistro dessas carteiras estão sendo formados.",
+                "fonte": "AIG · Chubb · ANSP",
+                "fonte_url": "https://www.segs.com.br/seguros/454064-ansp-forum-debate-impactos-da-nova-lei-de-seguros-na-responsabilidade-civil",
+                "fonte_label": "Segs · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRODUTO",
+                "titulo": "AXA lança solução completa de seguros para data centers no Brasil",
+                "url": "https://revistaapolice.com.br/2026/09/axa-lanca-solucao-completa-de-seguros-para-data-centers/",
+                "texto": "Patrimonial, interrupção de operação e exposição cibernética reunidos no mesmo ativo, em fronteira de ticket alto e concorrência restrita.",
+                "fonte": "AXA",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/axa-lanca-solucao-completa-de-seguros-para-data-centers/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CAPACIDADE",
+                "titulo": "IRB(Re) inicia operação de seguradora voltada a grandes riscos após homologação da Susep",
+                "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+                "texto": "Grupo com origem em resseguro descendo à ponta de seguro direto amplia a capacidade disponível em riscos corporativos complexos.",
+                "fonte": "IRB(Re) · Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/irbre-recebe-aval-da-susep-e-inicia-operacao-de-duas-seguradoras/",
+                "fonte_label": "CQCS · Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CRESCIMENTO",
+                "titulo": "Residencial da Mapfre segue crescendo com personalização e serviços de conveniência",
+                "url": "https://revistaapolice.com.br/2026/08/seguro-residencial-da-mapfre-cresce-50-em-belo-horizonte/",
+                "texto": "A companhia atribui o avanço aos dois pontos que o canal aponta como fragilidade do mercado: falta de personalização e ausência de serviço.",
+                "fonte": "Mapfre",
+                "fonte_url": "https://revistaapolice.com.br/2026/08/seguro-residencial-da-mapfre-cresce-50-em-belo-horizonte/",
+                "fonte_label": "Revista Apólice",
+                "data": "Ago/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "GESTÃO",
+                "titulo": "Allianz estrutura área de Novos Produtos com superintendência dedicada",
+                "url": "https://cqcs.com.br/noticia/allianz-seguros-anuncia-superintendentepara-liderar-novos-produtos/",
+                "texto": "Estrutura dedicada a desenvolvimento de produto sinaliza intenção de ampliar portfólio além de auto e residencial tradicional.",
+                "fonte": "Allianz Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/allianz-seguros-anuncia-superintendentepara-liderar-novos-produtos/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "att",
+            "emoji": "🔄",
+            "titulo": "Consolidando",
+            "url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+            "texto": "A Alper incorporou nova carteira e ampliou a atuação nacional, reforçando o ciclo de aquisição de corretoras e carteiras regionais que vem reduzindo o número de interlocutores independentes no canal. Em paralelo, a agenda de convenções de assessorias do segundo semestre se adensa com a Aconseg Centro-Oeste."
+          },
+          "disputa": {
+            "status": "alerta",
+            "emoji": "⚡",
+            "titulo": "Acirrada",
+            "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+            "texto": "O Bradesco entregou ferramenta de IA exclusiva ao corretor de previdência, completando em poucas semanas a cobertura do canal em seguros e em pessoas. A SulAmérica passou a vender integração Saúde e Vida como carteira estruturada, a Porto trabalhou produto e marca em saúde e a Mapfre foi a Rondônia e Acre atrás de corretor regional."
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "📱",
+            "titulo": "Em Aceleração",
+            "url": "https://revistaapolice.com.br/2026/09/transunion-mostra-que-dados-ajudam-seguradoras-a-vender-melhor-e-combater-fraudes/",
+            "texto": "A leitura que ganhou força é que a adoção de inteligência artificial deixou de ser diferencial competitivo e que a diferenciação migrou para a qualidade e a organização do dado que alimenta os modelos — tanto para vender melhor quanto para prevenir fraude."
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "Alper Seguros",
+            "tipo": "Corretora Nacional · Consolidadora",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CONSOLIDAÇÃO",
+                "titulo": "Alper Seguros incorpora nova carteira e amplia a atuação nacional",
+                "url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+                "texto": "A operação reforça a estratégia de crescimento por aquisição de carteiras e corretoras regionais. <strong>Cada incorporação reduz o número de corretoras independentes disponíveis</strong> e eleva o poder de negociação das consolidadoras frente às seguradoras.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PRESENÇA",
+                "titulo": "Alper amplia presença em feiras e encontros setoriais de logística e negócios",
+                "url": "https://cqcs.com.br/galeria/alper-seguros-marca-presenca-no-tns-summit/",
+                "texto": "A corretora marcou presença na LogVale e no TNS Summit, mantendo <strong>agenda de originação corporativa em setores específicos</strong> em paralelo ao crescimento por aquisição.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/galeria/alper-seguros-marca-presenca-no-tns-summit/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "WTW · Willis",
+            "tipo": "Corretora Global · Canais e Parcerias Estratégicas",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ESTRUTURA",
+                "titulo": "Willis mantém Affinity, rede de corretores parceiros e PME em vertical única de canais",
+                "url": "https://revistaapolice.com.br/2026/09/wtw-reune-affinity-corretores-e-pmes-em-nova-area/",
+                "texto": "A estrutura liderada por Felipe Barranco segue como principal benchmark de <strong>canal tratado como unidade de negócio</strong> entre as corretoras globais no Brasil.",
+                "fonte": "WTW · Willis",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/wtw-reune-affinity-corretores-e-pmes-em-nova-area/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Operação de Affinity da WTW é tratada como pilar de receita para o próximo ciclo",
+                "url": "https://www.sonhoseguro.com.br/2026/08/wtw-anuncia-estrutura-de-canais-e-parcerias-estrategicas/",
+                "texto": "Worksite, bancassurance, retail e automotivo operando sob a mesma governança, com <strong>projeção de peso relevante na receita da consultoria</strong>.",
+                "fonte": "WTW · Willis",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/08/wtw-anuncia-estrutura-de-canais-e-parcerias-estrategicas/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Grupo Belz",
+            "tipo": "Corretora Especializada · Saúde e Benefícios",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "BENCHMARK",
+                "titulo": "Corretora do Grupo Belz conquista o primeiro lugar no GPTW Saúde Brasil",
+                "url": "https://cqcs.com.br/noticia/corretora-do-grupo-belz-conquista-1o-lugar-no-gptw-saude-brasil/",
+                "texto": "Reconhecimento de ambiente de trabalho numa corretora especializada em saúde. <strong>Retenção de consultor formado em saúde virou variável competitiva</strong> num mercado onde esse perfil é escasso e disputado.",
+                "fonte": "Grupo Belz",
+                "fonte_url": "https://cqcs.com.br/noticia/corretora-do-grupo-belz-conquista-1o-lugar-no-gptw-saude-brasil/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Aconseg Centro-Oeste",
+            "tipo": "Associação de Assessorias · Centro-Oeste",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Aconseg Centro-Oeste realiza sua 3ª Convenção e concentra as assessorias da região",
+                "url": "https://cqcs.com.br/evento/3o-convencao-aconseg-centro-oeste/",
+                "texto": "O encontro de 17 de setembro reúne assessorias que funcionam como <strong>o canal de acesso mais barato ao corretor pulverizado do interior</strong>, em região de forte presença do Sistema Unimed.",
+                "fonte": "Aconseg Centro-Oeste",
+                "fonte_url": "https://cqcs.com.br/evento/3o-convencao-aconseg-centro-oeste/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Lojacorr",
+            "tipo": "Rede de Corretoras · Franquias",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Lojacorr mantém a 8ª Convenção Nacional marcada para 15 e 16 de outubro",
+                "url": "https://revistaapolice.com.br/2026/09/lojacorr-anuncia-palestrantes-da-8a-convencao-nacional/",
+                "texto": "As convenções de redes seguem como <strong>principal vitrine de captação de corretor independente</strong> no segundo semestre, com programação voltada a gestão e diversificação de carteira.",
+                "fonte": "Lojacorr",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/lojacorr-anuncia-palestrantes-da-8a-convencao-nacional/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Fenacor",
+            "tipo": "Entidade Federativa · Congresso Nacional",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "INSTITUCIONAL",
+                "titulo": "Fenacor promove com CNseg e ENS a 9ª edição do Prêmio de Jornalismo em Seguros",
+                "url": "https://revistaapolice.com.br/2026/09/premio-de-jornalismo-em-seguros-abre-inscricoes-para-9a-edicao/",
+                "texto": "O concurso com seis categorias e premiação de Jornalista do Ano mantém a federação <strong>no centro da agenda de comunicação do setor</strong> no pós-congresso.",
+                "fonte": "Fenacor · CNseg · ENS",
+                "fonte_url": "https://cqcs.com.br/noticia/abertas-as-inscricoes-para-o-9o-premio-de-jornalismo-em-seguros/",
+                "fonte_label": "Revista Apólice · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Escola de Negócios e Seguros (ENS)",
+            "tipo": "Instituição de Ensino · Formação de Canal",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "EDUCAÇÃO",
+                "titulo": "IRB(Re) e PUC-Rio lançam pós-graduação para formar profissionais do mercado de seguros",
+                "url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+                "texto": "Uma resseguradora entrando em formação acadêmica formal sinaliza que <strong>a escassez de profissional técnico virou gargalo de crescimento</strong> do setor, e não apenas do canal.",
+                "fonte": "IRB(Re) · PUC-Rio",
+                "fonte_url": "https://cqcs.com.br/noticia/seguradoras-do-irbre-recebem-homologacao-definitiva-da-susep/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "EDUCAÇÃO",
+                "titulo": "ENS mantém o ciclo de atualizações regulatórias em seguro e resseguro e a agenda internacional de imersões",
+                "url": "https://legismap.com.br/conteudos/artigos-e-noticias/ens-5-palestra-do-ciclo-de-atualizacoes-regulatorias-em-seguro-e-resseguro-2-set",
+                "texto": "Formação continuada segue sendo <strong>o principal instrumento de fidelização de canal do setor</strong>, com foco atual na Lei 15.040 aplicada a danos, responsabilidade civil e grandes riscos.",
+                "fonte": "ENS",
+                "fonte_url": "https://legismap.com.br/conteudos/artigos-e-noticias/ens-5-palestra-do-ciclo-de-atualizacoes-regulatorias-em-seguro-e-resseguro-2-set",
+                "fonte_label": "ENS · LegisMap",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "hot",
+            "tag_label": "TECNOLOGIA",
+            "titulo": "Bradesco completa a cobertura do canal entregando IA proprietária em seguros e em previdência",
+            "url": "https://cqcs.com.br/noticia/bradesco-vida-e-previdencia-apresenta-ferramenta-exclusiva-para-corretores/",
+            "texto": "Em poucas semanas o grupo colocou ferramenta na rotina do corretor de seguros e agora do corretor de previdência. <strong>Quem entrega produtividade define o que o canal oferta primeiro</strong> — é fidelização por dependência operacional, não por comissão.",
+            "fonte": "Bradesco Vida e Previdência",
+            "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/conexao-prev-bradesco-vida-e-previdencia-apresenta-nova-ia-para-corretores/",
+            "fonte_label": "CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "hot",
+            "tag_label": "NARRATIVA",
+            "titulo": "SulAmérica transforma integração Saúde e Vida em proposta comercial estruturada para o corretor",
+            "url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+            "texto": "O concorrente converteu em narrativa de canal aquilo que a SU tem por estrutura. <strong>Benchmark de comunicação, não de produto</strong>: a tese multiproduto sendo vendida como oportunidade de carteira, com roteiro pronto para o corretor.",
+            "fonte": "SulAmérica",
+            "fonte_url": "https://cqcs.com.br/noticia/sulamerica-une-saudee-vida-e-ve-novas-oportunidades-para-corretores/",
+            "fonte_label": "CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "att",
+            "tag_label": "CONSOLIDAÇÃO",
+            "titulo": "Alper cresce por incorporação de carteiras e reduz o número de interlocutores independentes",
+            "url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+            "texto": "O modelo de consolidação por aquisição segue avançando. <strong>Para a seguradora, cada aquisição significa negociar com um interlocutor maior e mais exigente</strong> no lugar de várias corretoras regionais.",
+            "fonte": "Alper Seguros",
+            "fonte_url": "https://cqcs.com.br/noticia/alper-seguros-incorpora-carteira-de-r-70-milhoes-e-amplia-atuacao-nacional/",
+            "fonte_label": "CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "MARCA",
+            "titulo": "Porto Saúde combina produto, incentivo de canal e ativação de marca no mesmo segmento",
+            "url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+            "texto": "Novidades ao corretor e a primeira Blue Run noturna no Ibirapuera na mesma semana. <strong>Saúde tratada como marca de consumo, e não apenas como benefício corporativo.</strong>",
+            "fonte": "Porto Saúde",
+            "fonte_url": "https://revistaapolice.com.br/2026/09/porto-saude-realiza-primeira-blue-run-noturna-no-ibirapuera/",
+            "fonte_label": "Revista Apólice",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "DADOS",
+            "titulo": "Transunion posiciona a qualidade do dado como o verdadeiro diferencial da IA em venda e antifraude",
+            "url": "https://revistaapolice.com.br/2026/09/transunion-mostra-que-dados-ajudam-seguradoras-a-vender-melhor-e-combater-fraudes/",
+            "texto": "Com todo o mercado adotando inteligência artificial, <strong>a diferenciação migra da ferramenta para a base que a alimenta</strong>. Leitura direta para quem tem dado assistencial próprio e pouco estruturado.",
+            "fonte": "Transunion",
+            "fonte_url": "https://revistaapolice.com.br/2026/09/transunion-mostra-que-dados-ajudam-seguradoras-a-vender-melhor-e-combater-fraudes/",
+            "fonte_label": "Revista Apólice",
+            "data": "Set/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "E se o melhor sinistro for aquele que nunca acontece?",
+            "avatar": "RH",
+            "nome": "Rodrigo Herzog",
+            "cargo": "Colunista · Tech, Sinistro e Gestão",
+            "contexto": "Sobre prevenção como proposta de valor do seguro · Set/2026"
+          },
+          {
+            "quote": "Estudo mostra importância da diversificação de carteira.",
+            "avatar": "FG",
+            "nome": "Francisco Galiza",
+            "cargo": "Ratings de Seguros · Colunista",
+            "contexto": "Análise sobre concentração de ramos e volatilidade de resultado · Set/2026"
+          },
+          {
+            "quote": "A distribuição de seguros está passando por uma transformação importante.",
+            "avatar": "FB",
+            "nome": "Felipe Barranco",
+            "cargo": "Diretor de Canais e Parcerias Estratégicas · WTW",
+            "contexto": "Criação da vertical de Canais e Parcerias Estratégicas da Willis · Set/2026"
+          },
+          {
+            "quote": "O corretor tem que se ressignificar, ampliar sua atuação e diversificar seu portfólio.",
+            "avatar": "AV",
+            "nome": "Armando Vergilio",
+            "cargo": "Presidente · Fenacor",
+            "contexto": "Abertura do 24º Congresso Brasileiro dos Corretores · Ago/2026"
+          }
+        ],
+        "oportunidade": "O canal está sendo comprimido por dois lados ao mesmo tempo. De cima, a <strong>consolidação por aquisição</strong> — a Alper segue incorporando carteiras e ampliando a atuação nacional, reduzindo o número de corretoras independentes e elevando a exigência de quem sobra. De baixo, a <strong>captura por ferramenta</strong> — o Bradesco completou em poucas semanas a entrega de IA proprietária ao corretor de seguros e ao de previdência. O corretor independente pequeno terá que escolher entre ser comprado ou operar dentro da infraestrutura de uma seguradora grande, e essa escolha acontece nos próximos trimestres. A Seguros Unimed tem o canal proprietário mais difícil de replicar do mercado — cooperativas com vínculo, folha e recorrência — e a camada tecnológica menos desenvolvida sobre ele. O mínimo viável para disputar essa escolha é <strong>cotação multiproduto em uma tela, régua de renovação automatizada e material consultivo pronto de risco do empregador e de proteção integrada</strong>. Em paralelo, há uma frente geográfica subaproveitada: enquanto a Mapfre investe relacionamento em Rondônia e Acre e as assessorias do Centro-Oeste se reúnem em convenção, a SU tem cooperativa instalada nessas mesmas praças e não converte presença assistencial em presença comercial."
+      }
+    },
+    {
       "id": "2026-09-04",
       "titulo": "Edição 04/Set/2026",
       "data": "4 de setembro de 2026",
