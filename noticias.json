@@ -1,6 +1,1734 @@
 {
   "edicoes": [
     {
+      "id": "2026-09-25",
+      "titulo": "Edição 25/Set/2026",
+      "data": "25 de setembro de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "alerta",
+          "emoji": "⚖️",
+          "titulo": "Marco Legal em Disputa",
+          "url": "https://cqcs.com.br/noticia/mais-um-projeto-altera-regras-para-protecao-patrimonial-mutualista/",
+          "texto": "A regulamentação da proteção patrimonial mutualista voltou ao Congresso: novo projeto de lei complementar ataca a figura das administradoras criada pela <strong>LC 213/2025</strong>, alegando que a exigência interfere na autogestão das associações. Na mesma semana, a Susep criou grupo de trabalho para seguros de infraestrutura e o STJ marcou seminário sobre o novo Marco Legal dos Seguros. O arcabouço que o setor considerava fechado voltou a ser negociável."
+        },
+        "competitivo": {
+          "status": "att",
+          "emoji": "⚡",
+          "titulo": "Ofensiva no Corporativo",
+          "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+          "texto": "A Porto lançou o <strong>Worksite Auto para Empresas</strong>, levando seguro para dentro da folha de benefícios corporativa, e a Akad ampliou a atuação em Riscos Diversos com produto novo. A Mapfre retomou a liderança regional na América Latina. O movimento comum é claro: os concorrentes estão entrando pela porta do RH e do contrato empresarial — o mesmo terreno onde a SU tem base instalada."
+        },
+        "sentimento": {
+          "status": "att",
+          "emoji": "🧭",
+          "titulo": "Macro em Revisão",
+          "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+          "texto": "A Fazenda cortou a projeção de crescimento do PIB de 2026 de 2,3% para 2%, com IPCA estimado em 4,9%. Juros altos seguem pressionando o consumo de seguros pelas famílias e comprimindo produtos de acumulação, enquanto sustentam o resultado financeiro das operadoras. <strong>O setor está ganhando em aplicação financeira o que perde em operação</strong>."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Novo projeto de lei complementar reabre a regulamentação da proteção patrimonial mutualista",
+              "url": "https://cqcs.com.br/noticia/mais-um-projeto-altera-regras-para-protecao-patrimonial-mutualista/",
+              "texto": "O deputado Coronel Meira (PL/PE) apresentou proposta que estabelece nova regulamentação para o setor, criticando diretamente a figura das administradoras criada pela LC 213/2025 sob o argumento de que <strong>a obrigatoriedade de administradora externa interfere no núcleo da autogestão</strong> das associações. É a segunda investida legislativa contra o desenho aprovado no início de 2025.",
+              "fonte": "Câmara dos Deputados",
+              "fonte_url": "https://cqcs.com.br/noticia/mais-um-projeto-altera-regras-para-protecao-patrimonial-mutualista/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "INFRAESTRUTURA",
+              "titulo": "Susep cria grupo de trabalho para propor aperfeiçoamentos nos seguros de infraestrutura",
+              "url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+              "texto": "A Portaria Susep nº 8.588/2026 constituiu GT consultivo reunindo órgãos públicos, reguladores, setor produtivo, mercado segurador e instituições financeiras, com <strong>prazo de até 60 dias e primeiro encontro em 2 de outubro</strong>, sob coordenação do superintendente Alessandro Octaviani. Garantia, Riscos de Engenharia, resseguro e financiamento de projetos estão na pauta.",
+              "fonte": "Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+              "fonte_label": "Susep · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "MACRO",
+              "titulo": "Fazenda reduz projeção do PIB de 2026 para 2% e mantém alerta sobre juros no consumo de seguros",
+              "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "texto": "O Boletim Macrofiscal de setembro cortou a estimativa de crescimento de 2,3% para 2% e reduziu o IPCA projetado de 5,1% para 4,9%, com a revisão concentrada em serviços e indústria. <strong>Juro alto sustenta o resultado financeiro das seguradoras e, ao mesmo tempo, sufoca a demanda por proteção nas famílias e nas PMEs.</strong>",
+              "fonte": "Ministério da Fazenda · SPE",
+              "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "fonte_label": "Fazenda · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "FISCALIZAÇÃO",
+              "titulo": "ANS coloca quatro operadoras sob regimes especiais em dois dias",
+              "url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "texto": "Entre 22 e 23 de setembro a Diretoria Colegiada publicou quatro Resoluções Operacionais impondo <strong>liquidação extrajudicial, direção fiscal, alienação compulsória de carteira e portabilidade especial de carências</strong>. A concentração de atos no mesmo intervalo indica endurecimento do monitoramento prudencial sobre operadoras de menor porte.",
+              "fonte": "ANS",
+              "fonte_url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "fonte_label": "ANS · Diário Oficial",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "JURÍDICO",
+              "titulo": "STJ recebe em outubro seminário sobre os impactos do novo Marco Legal dos Seguros",
+              "url": "https://cqcs.com.br/noticia/stj-reune-ministros-e-setor-de-seguros-para-discutir-novo-marco-legal/",
+              "texto": "O 9º Seminário Jurídico de Seguros ocorre em 15 de outubro em Brasília, com coordenação acadêmica do presidente do tribunal, ministro Luis Felipe Salomão, e debates sobre a aplicação da nova legislação e <strong>a transição para o novo marco regulatório e seus efeitos sobre os contratos</strong>. É onde a jurisprudência da Lei 15.040 começa a se formar.",
+              "fonte": "STJ · CNseg",
+              "fonte_url": "https://cqcs.com.br/evento/9o-seminario-juridico-de-seguros-cnseg/",
+              "fonte_label": "STJ · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Mapfre retoma a liderança entre os maiores grupos seguradores da América Latina",
+              "url": "https://cqcs.com.br/noticia/mapfre-retoma-a-lideranca-entre-os-maiores-grupos-seguradores-da-america-latina/",
+              "texto": "O estudo do Mapfre Economics recolocou o grupo no primeiro lugar regional, mantendo a primeira posição em Não Vida. O Brasil segue como o <strong>maior mercado segurador da América Latina</strong>, com quase um terço dos prêmios da região. A companhia é também uma das quatro finalistas na disputa pela Prudential brasileira.",
+              "fonte": "Mapfre Economics",
+              "fonte_url": "https://cqcs.com.br/noticia/mapfre-retoma-a-lideranca-entre-os-maiores-grupos-seguradores-da-america-latina/",
+              "fonte_label": "Mapfre · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Porto lança Worksite Auto para Empresas e leva seguro de automóvel para dentro do pacote corporativo",
+              "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "texto": "A novidade é voltada a organizações que querem oferecer a solução aos colaboradores, ampliando o espaço do corretor no mercado corporativo. <strong>Worksite é a estratégia de usar a folha da empresa como canal de distribuição de produto de varejo</strong> — exatamente o terreno onde a SU tem base instalada em saúde e odonto.",
+              "fonte": "Porto Seguro",
+              "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "fonte_label": "Porto · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "EFICIÊNCIA",
+              "titulo": "Alper aponta economia de R$ 24,8 milhões em saúde corporativa com uso de telemedicina",
+              "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "texto": "A corretora divulgou o resultado da adoção de atendimento digital nas carteiras de saúde que administra em 2025. <strong>Quando a corretora passa a mostrar redução de custo assistencial como entregável, ela deixa de ser intermediária e vira gestora do sinistro do cliente</strong> — e negocia com a operadora de outra posição.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "fonte_label": "Alper · CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "A obrigatoriedade de administradora externa interfere no núcleo da autogestão.",
+              "avatar": "CM",
+              "nome": "Coronel Meira",
+              "cargo": "Deputado Federal · PL/PE",
+              "contexto": "Justificativa do projeto que rediscute a proteção patrimonial mutualista · Set/2026"
+            },
+            {
+              "quote": "O Brasil reúne escala, diversificação e capacidade de atuar em diferentes frentes do negócio.",
+              "avatar": "FN",
+              "nome": "Felipe Nascimento",
+              "cargo": "CEO · Mapfre Brasil",
+              "contexto": "Sobre a posição do país na estratégia regional da companhia · Set/2026"
+            },
+            {
+              "quote": "A questão não é o quão poderoso será o próximo grande furacão, mas o que ele encontrará ao chegar à costa.",
+              "avatar": "BG",
+              "nome": "Balz Grollimund",
+              "cargo": "Head de Riscos de Catástrofes · Swiss Re",
+              "contexto": "Estudo do centenário do Grande Furacão de Miami · Set/2026"
+            },
+            {
+              "quote": "O modelo cooperativista nos permite entender de perto a realidade de cada município.",
+              "avatar": "OA",
+              "nome": "Omar Abujamra Junior",
+              "cargo": "Presidente · Unimed do Brasil",
+              "contexto": "Sobre o domínio do Sistema Unimed no ranking Valor 1000 · Set/2026"
+            }
+          ],
+          "implicacao": "A semana tem um fio condutor incômodo: <strong>o que parecia regulatoriamente fechado voltou a ser negociável</strong>. Um novo projeto de lei complementar ataca o desenho das administradoras da LC 213/2025, o STJ convoca o setor para discutir a transição do Marco Legal, e a Susep abre um GT de infraestrutura com prazo curto. Para uma companhia cooperativa, a disputa sobre mutualismo é especialmente relevante: o argumento da autogestão levantado no projeto é o mesmo vocabulário que sustenta o modelo Unimed, mas usado para afrouxar supervisão — e afrouxamento no mutualismo informal significa concorrência desregulada no mesmo público. Do lado competitivo, o movimento dos grandes é consistente: <strong>Porto entrando pela folha corporativa com Worksite, Akad ampliando linhas e Mapfre retomando a liderança regional</strong>. E a Alper mostrou o que o canal está aprendendo a fazer: apresentar redução de custo assistencial como entregável próprio, o que muda o poder de barganha do corretor sobre a operadora. No pano de fundo macro, a Fazenda cortou o PIB para 2%: resultado financeiro alto compensando operação apertada não é estratégia, é trégua."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "FISCALIZAÇÃO",
+              "titulo": "Quatro operadoras sob regimes especiais da ANS em 48 horas sinalizam endurecimento prudencial",
+              "url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "texto": "Liquidação extrajudicial, direção fiscal, alienação compulsória de carteira e portabilidade especial de carências foram publicadas entre 22 e 23 de setembro. <strong>Cada alienação compulsória coloca carteira em movimento no mercado</strong> — e cada portabilidade especial abre janela de captação para quem estiver preparado na praça.",
+              "fonte": "ANS",
+              "fonte_url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "fonte_label": "ANS · Diário Oficial",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "MARGEM",
+              "titulo": "Setor fecha o semestre com lucro menor e sinistralidade em 81,9%, sustentado por resultado financeiro recorde",
+              "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+              "texto": "As receitas somaram R$ 206,3 bilhões e o lucro líquido, R$ 12,1 bilhões, abaixo do mesmo período de 2025. O resultado operacional agregado ficou em R$ 5,6 bilhões, enquanto o <strong>resultado financeiro do segundo trimestre foi o maior da série histórica</strong>. A operação está sendo carregada pelo juro, não pela gestão assistencial.",
+              "fonte": "ANS",
+              "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+              "fonte_label": "ANS · CQCS · Sincor-SP",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Sistema Unimed ocupa 35 das 50 maiores operadoras do país no ranking Valor 1000",
+              "url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "texto": "Trinta e quatro cooperativas médicas e a Seguros Unimed respondem por 70% da lista, com a companhia figurando também entre as maiores em previdência e vida. <strong>Nenhum concorrente tem capilaridade comparável</strong> — o desafio permanece converter presença territorial em oferta integrada e não em 35 operações desconectadas.",
+              "fonte": "Valor 1000 · Unimed do Brasil",
+              "fonte_url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "fonte_label": "Valor Econômico · SEGS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CUSTO",
+              "titulo": "Telemedicina aparece como alavanca concreta de redução de custo assistencial em carteiras corporativas",
+              "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "texto": "A Alper divulgou economia de R$ 24,8 milhões em 2025 nas carteiras de saúde que administra com uso de atendimento digital. <strong>A corretora está assumindo a gestão do sinistro do cliente</strong> — e, ao fazê-lo, desloca parte do valor que a operadora capturava pela coordenação de cuidado.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "fonte_label": "Alper · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "DEMANDA",
+              "titulo": "Corte da projeção de PIB pressiona a base de emprego formal que sustenta o plano coletivo empresarial",
+              "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "texto": "A revisão da Fazenda concentrou-se em serviços e indústria, setores que respondem pela maior parte da geração de vínculos formais. <strong>Saúde suplementar cresce com carteira assinada</strong>: desaceleração em serviços é o indicador antecedente mais direto de estagnação de vidas em 2027.",
+              "fonte": "Ministério da Fazenda · SPE",
+              "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "fonte_label": "Fazenda · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "COBERTURA",
+              "titulo": "Base de beneficiários e taxa de cobertura seguem estáveis e confirmam mercado sem expansão orgânica",
+              "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "texto": "Os dados gerais da ANS mantêm a cobertura de assistência médica em torno de um quarto da população. <strong>Sem novos entrantes no sistema, todo ganho de carteira é perda de um concorrente</strong> — e o custo de aquisição sobe na mesma proporção em que a disputa se acirra.",
+              "fonte": "ANS",
+              "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "fonte_label": "ANS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Debate do setor coloca IA e inclusão no centro da agenda de liderança em saúde e benefícios",
+              "url": "https://cqcs.com.br/noticia/ia-e-diversidade-liderancas-do-mercado-discutem-como-tornar-o-seguro-mais-inclusivo-no-dive-in-festival-2026/",
+              "texto": "O Dive In Festival reuniu lideranças para discutir como tornar o seguro mais inclusivo em um ambiente de decisões cada vez mais automatizadas. <strong>Modelo que decide autorização assistencial sem governança de viés é passivo regulatório esperando acontecer</strong> — e a ANS já demonstrou disposição para fiscalizar negativa de cobertura.",
+              "fonte": "Dive In Festival",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/dive-in-festival-2026-discute-como-ampliar-oportunidades-e-desenvolver-talentos/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Três leituras se sobrepõem. A primeira é <strong>prudencial</strong>: quatro regimes especiais em dois dias mostram que a ANS está agindo sobre operadoras subescaladas, e cada alienação compulsória ou portabilidade especial coloca carteira em movimento numa praça específica. A segunda é de <strong>qualidade de resultado</strong>: o setor fechou o semestre com lucro carregado pelo maior resultado financeiro da série histórica, enquanto a operação entregou margem apertada e sinistralidade em alta. Isso é sustentável enquanto o juro estiver alto — e a Fazenda acaba de sinalizar um ciclo econômico mais fraco. A terceira é <strong>competitiva</strong>: o Valor 1000 confirma que o Sistema Unimed domina a lista das maiores operadoras, capilaridade que nenhum concorrente replica.",
+          "oportunidade": "As portabilidades especiais e alienações compulsórias abrem <strong>janelas locais de captação com prazo curto</strong>: beneficiários de operadora em regime especial precisam de destino, e a decisão é tomada em semanas, na praça, com rede como critério principal. É exatamente o cenário em que a cooperativa local ganha do concorrente nacional. A condição é ter o time comercial regional avisado e com régua de subscrição definida antes de a carteira aparecer no mercado — e não depois."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "CANAL",
+              "titulo": "Worksite corporativo avança como formato de distribuição e redefine a disputa pelo pacote de benefícios",
+              "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "texto": "O lançamento do Worksite Auto para Empresas pela Porto mostra o caminho: usar a folha da empresa como canal para produtos de varejo. <strong>Odonto é historicamente o produto de entrada nesse pacote</strong> — e passa a dividir espaço com ofertas que antes não disputavam o mesmo orçamento de RH.",
+              "fonte": "Porto Seguro",
+              "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "fonte_label": "Porto · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CUSTO",
+              "titulo": "Gestão ativa de custo assistencial pelo corretor chega também à conversa sobre benefícios odontológicos",
+              "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "texto": "Com corretoras apresentando economia mensurada em saúde corporativa, o RH passa a cobrar o mesmo tipo de evidência nos demais itens do pacote. <strong>Odonto deixa de ser vendido por preço e passa a ser cobrado por indicador de uso e prevenção</strong>.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "fonte_label": "Alper · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "DEMANDA",
+              "titulo": "Revisão para baixo do PIB atinge diretamente o motor do odontológico, que é o contrato coletivo empresarial",
+              "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "texto": "A maior parte do crescimento do segmento vem da adesão corporativa, atrelada à geração de emprego formal em serviços — justamente o setor que puxou a revisão da Fazenda para baixo. <strong>Menos contratação formal significa menos vidas novas em odonto em 2027</strong>.",
+              "fonte": "Ministério da Fazenda · SPE",
+              "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "fonte_label": "Fazenda · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "Cobertura odontológica segue muito abaixo da médica e mantém o maior espaço relativo de expansão do setor",
+              "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "texto": "Os dados gerais da ANS mostram a distância persistente entre a taxa de cobertura de assistência médica e a do exclusivamente odontológico. <strong>O espaço existe; o que não existe é canal barato para ocupá-lo fora do contrato empresarial</strong>.",
+              "fonte": "ANS",
+              "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "fonte_label": "ANS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DIFERENCIAL SU",
+              "titulo": "Presença do Sistema Unimed no topo do ranking de operadoras reforça a base natural de cross-sell em Odonto",
+              "url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "texto": "Com 35 das 50 maiores operadoras do país, o Sistema tem acesso direto a milhões de vínculos de saúde em praças onde já é a marca preferida. <strong>Cada beneficiário de saúde sem plano odontológico da própria marca é receita deixada para o concorrente</strong>.",
+              "fonte": "Valor 1000 · Unimed do Brasil",
+              "fonte_url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "fonte_label": "Valor Econômico · SEGS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "SUPERVISÃO",
+              "titulo": "Endurecimento prudencial da ANS alcança também operadoras exclusivamente odontológicas de menor porte",
+              "url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "texto": "Os regimes especiais publicados nesta semana reforçam a disposição da agência de intervir em entes subescalados. <strong>No odontológico, onde a margem por vida é pequena e a escala é decisiva, a pressão prudencial é vetor direto de consolidação</strong>.",
+              "fonte": "ANS",
+              "fonte_url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+              "fonte_label": "ANS · Diário Oficial",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "O odontológico continua preso à mesma equação: espaço de mercado grande, canal caro. O que mudou nesta semana é que a disputa pelo <strong>orçamento de benefícios do RH ficou mais concorrida</strong> — com o worksite trazendo produtos de varejo para dentro da folha e com corretoras cobrando espaço ao apresentar economia mensurada em saúde. Ao mesmo tempo, a revisão do PIB ataca o motor do segmento, que é o emprego formal em serviços. Para a SU, isso significa que defender a carteira odontológica em 2027 depende menos de preço e mais de estar integrada à conversa de saúde da mesma empresa.",
+          "oportunidade": "A oportunidade mais barata segue sendo interna: <strong>converter beneficiários de saúde do Sistema Unimed que ainda não têm o produto odontológico da marca</strong>. Com o Sistema ocupando 35 das 50 maiores posições do ranking de operadoras, a base existe e o custo de aquisição é quase nulo comparado à disputa no mercado aberto. O gatilho operacional é a renovação do contrato de saúde — momento em que o RH já está com a planilha aberta."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Porto leva seguro para dentro da folha corporativa com o Worksite Auto para Empresas",
+              "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "texto": "O formato usa a empresa como canal para oferecer produto ao colaborador, ampliando o espaço do corretor no mercado corporativo. <strong>É o mesmo mecanismo que sustenta o seguro de vida em grupo</strong> — e agora ele passa a carregar também produtos de varejo, disputando atenção e desconto em folha.",
+              "fonte": "Porto Seguro",
+              "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "fonte_label": "Porto · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "EDUCAÇÃO",
+              "titulo": "Bradesco Vida e Previdência lança guia sobre proteção e planejamento em encontro com o canal",
+              "url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+              "texto": "A terceira edição do Café ConVida marcou o lançamento do material voltado a apoiar a conversa de proteção e planejamento financeiro. <strong>Conteúdo proprietário na mão do corretor é a forma mais barata de padronizar o discurso de venda do canal</strong> em favor de quem o produziu.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+              "fonte_label": "Bradesco · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Vida Universal segue travado na Receita Federal apesar da etapa regulatória concluída na Susep",
+              "url": "https://www.sonhoseguro.com.br/2026/09/fazenda-alerta-para-riscos-na-expansao-dos-seguros-e-susep-preve-avanco-do-vida-universal-ate-dezembro/",
+              "texto": "A autarquia considera fechada a regulação de Susep e CNSP e projeta desfecho tributário até dezembro, sem garantia de prazo. <strong>Enquanto a régua fiscal não sai, quem já tem carteira de Vida individual constrói o discurso comercial que vai migrar para o produto novo</strong> no dia em que ele for liberado.",
+              "fonte": "Susep",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/fazenda-alerta-para-riscos-na-expansao-dos-seguros-e-susep-preve-avanco-do-vida-universal-ate-dezembro/",
+              "fonte_label": "Susep · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "MACRO",
+              "titulo": "Juro alto e PIB revisado para baixo pressionam a venda de proteção de pessoas nas famílias e nas PMEs",
+              "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "texto": "A Fazenda cortou a projeção de crescimento para 2% mantendo alerta explícito sobre o efeito dos juros no consumo de seguros. <strong>Vida é produto de renda discricionária</strong>: em orçamento apertado, é o primeiro benefício a sair e o último a voltar.",
+              "fonte": "Ministério da Fazenda · SPE",
+              "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "fonte_label": "Fazenda · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Permanência no trabalho depois da aposentadoria vira tema de produto e de comunicação do setor",
+              "url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+              "texto": "A discussão sobre por que cada vez mais brasileiros seguem trabalhando após a aposentadoria reposiciona a conversa de proteção. <strong>O gatilho de venda deixa de ser a morte e passa a ser a continuidade de renda</strong> — reenquadramento que amplia bastante o público endereçável de Vida.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed figura no Valor 1000 entre as maiores empresas de previdência e vida",
+              "url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "texto": "Além do domínio do Sistema no ranking de operadoras de saúde, a companhia aparece também no recorte financeiro da publicação. <strong>É a prova de que a diversificação de portfólio saiu do discurso</strong> — e o próximo passo é converter essa posição em participação de mercado em Vida, onde a SU ainda ocupa a 14ª colocação.",
+              "fonte": "Valor 1000 · Unimed do Brasil",
+              "fonte_url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+              "fonte_label": "Valor Econômico · SEGS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Vida vive um paradoxo de curto prazo. O <strong>ambiente macro joga contra</strong>: PIB revisado para baixo e juro alto comprimem renda discricionária, que é exatamente de onde sai o prêmio de proteção pessoal. Mas o <strong>ambiente competitivo joga a favor de quem tem base corporativa</strong>: o worksite está transformando a folha da empresa em canal, e quem já conversa com o RH tem vantagem estrutural sobre quem precisa comprar esse acesso. Enquanto isso, o Vida Universal segue parado na Receita, o que dá ao mercado uma janela rara de preparação sem pressão de lançamento.",
+          "oportunidade": "O reenquadramento mais promissor da semana é o de <strong>continuidade de renda</strong> no lugar de cobertura por morte: ele conversa diretamente com o público cooperado — profissionais de saúde que seguem produtivos além da idade de aposentadoria e têm renda acima da média. Combinado ao worksite corporativo e à jornada de cotação digital já lançada, dá para atacar dois públicos com a mesma infraestrutura: o colaborador da empresa cliente e o próprio cooperado."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "wtf",
+              "tag_label": "CAPTAÇÃO",
+              "titulo": "IOF sobre VGBL segue drenando a previdência aberta e mantém a captação líquida deprimida",
+              "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+              "texto": "A tributação sobre aportes elevados provocou queda histórica na captação líquida do setor, e o volume aplicado no primeiro semestre de 2026 ficou abaixo do mesmo período anterior. A FenaPrevi estima que <strong>cerca de R$ 130 bilhões deixaram de ser direcionados ao segmento</strong> entre 2025 e 2026.",
+              "fonte": "FenaPrevi · Valor 1000",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+              "fonte_label": "Valor Econômico · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "ARRECADAÇÃO",
+              "titulo": "Arrecadação do mercado supervisionado recua até julho pressionada justamente pela previdência",
+              "url": "https://www.sonhoseguro.com.br/2026/09/arrecadacao-do-setor-de-seguros-recua-1-ate-julho-para-r-24496-bi-pressionada-pela-previdencia/",
+              "texto": "O setor acumulou queda real no período, com os produtos de acumulação puxando o resultado para baixo enquanto danos e pessoas seguraram a média. <strong>Previdência deixou de ser o motor de volume do mercado segurador brasileiro</strong> e virou o seu principal lastro negativo.",
+              "fonte": "Susep",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/arrecadacao-do-setor-de-seguros-recua-1-ate-julho-para-r-24496-bi-pressionada-pela-previdencia/",
+              "fonte_label": "Susep · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "PERFIL",
+              "titulo": "Rejuvenescimento da base muda o desenho de produto em previdência e vida",
+              "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+              "texto": "Dados do setor mostram avanço expressivo das faixas mais jovens na carteira de previdência e queda da idade média dos segurados de vida. <strong>Cliente mais jovem entra com ticket menor, horizonte mais longo e exigência digital muito maior</strong> — o que muda custo de servir e desenho de jornada.",
+              "fonte": "Valor 1000",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+              "fonte_label": "Valor Econômico · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Definição tributária do Vida Universal continua pendente na Receita e mantém o segmento em compasso de espera",
+              "url": "https://www.sonhoseguro.com.br/2026/09/fazenda-alerta-para-riscos-na-expansao-dos-seguros-e-susep-preve-avanco-do-vida-universal-ate-dezembro/",
+              "texto": "A Susep considera concluída a etapa regulatória e projeta desfecho até dezembro, envolvendo também a FenaPrevi e a Secretaria de Reformas Econômicas. <strong>O produto pode redesenhar a fronteira entre acumulação e proteção</strong> — ou nascer neutralizado, dependendo exclusivamente da régua fiscal.",
+              "fonte": "Susep",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/fazenda-alerta-para-riscos-na-expansao-dos-seguros-e-susep-preve-avanco-do-vida-universal-ate-dezembro/",
+              "fonte_label": "Susep · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Permanência no mercado de trabalho após a aposentadoria vira argumento central de previdência complementar",
+              "url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+              "texto": "O aumento do número de brasileiros que seguem trabalhando depois de se aposentar expõe a insuficiência da renda previdenciária pública. <strong>É o argumento comercial mais concreto disponível para o segmento</strong> e segue subutilizado pelo canal de corretagem.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CANAL",
+              "titulo": "Grandes grupos ampliam material e eventos proprietários para capturar o corretor de previdência",
+              "url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+              "texto": "O lançamento de guia sobre proteção e planejamento em encontro com o canal é parte de um movimento consistente de fornecer conteúdo, ferramenta e formação ao corretor. <strong>Em previdência, quem domina a linguagem de planejamento financeiro domina a recomendação</strong>.",
+              "fonte": "Bradesco Vida e Previdência",
+              "fonte_url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+              "fonte_label": "Bradesco · CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Previdência aberta segue sendo o segmento mais danificado do mercado segurador brasileiro, e por razão inteiramente tributária. A captação líquida continua deprimida pelo IOF sobre VGBL, e a arrecadação total do mercado recua puxada por esse componente. Duas coisas merecem atenção da SU. Primeiro, o <strong>rejuvenescimento da base</strong>: quem está entrando agora é mais jovem, com ticket menor e exigência digital maior, o que muda custo de servir. Segundo, o <strong>argumento da longevidade</strong> — a constatação de que o brasileiro segue trabalhando depois de aposentado é a narrativa mais persuasiva disponível, e conversa diretamente com o público cooperado.",
+          "oportunidade": "Com a tributação do VGBL deixando de existir em 2027 e o Vida Universal ainda travado na Receita, 2026 é uma <strong>janela de preparação, não de captação</strong>. O uso mais rentável do período é estruturar a oferta para o público cooperado — profissional de saúde, renda estável, vínculo forte com a marca e cobertura previdenciária privada baixa — e desenhar a jornada digital que o cliente mais jovem já exige, para chegar pronto quando a captação destravar."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Susep constitui GT de seguros de infraestrutura com prazo curto e agenda ampla",
+              "url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+              "texto": "A Portaria 8.588/2026 criou grupo consultivo com até 60 dias de trabalho, primeiro encontro em 2 de outubro e pauta cobrindo Garantia, Riscos de Engenharia, resseguro e financiamento de projetos. <strong>Quem estiver na sala define o desenho regulatório de uma das poucas frentes de crescimento estrutural do setor</strong>.",
+              "fonte": "Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+              "fonte_label": "Susep · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Akad amplia atuação em Riscos Diversos e lança novo seguro",
+              "url": "https://cqcs.com.br/noticia/akad-amplia-atuacaoem-riscos-diversos-e-lanca-novo-seguro/",
+              "texto": "A companhia segue expandindo linhas especializadas em um mercado em que a disputa por risco corporativo está sendo feita por estruturas ágeis, e não apenas pelas grandes incumbentes. <strong>Riscos Diversos é a porta de entrada mais barata para carteiras corporativas de nicho</strong>.",
+              "fonte": "Akad Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/akad-amplia-atuacaoem-riscos-diversos-e-lanca-novo-seguro/",
+              "fonte_label": "Akad · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CLIMA",
+              "titulo": "Allianz detalha cobertura para alagamentos no residencial diante do aumento de chuvas intensas",
+              "url": "https://cqcs.com.br/noticia/chuvas-intensas-allianz-detalha-cobertura-para-alagamentos-no-seguro-residencial/",
+              "texto": "A comunicação sobre o que está e o que não está coberto em evento climático virou tema comercial recorrente. <strong>Clareza contratual em cobertura climática é hoje fator de decisão de compra e de litígio</strong>, especialmente em produto massificado com baixa penetração.",
+              "fonte": "Allianz",
+              "fonte_url": "https://cqcs.com.br/noticia/chuvas-intensas-allianz-detalha-cobertura-para-alagamentos-no-seguro-residencial/",
+              "fonte_label": "Allianz · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "CATÁSTROFE",
+              "titulo": "Swiss Re estima perdas seguradas acima de US$ 300 bilhões em repetição do Grande Furacão de Miami",
+              "url": "https://revistaapolice.com.br/2026/09/furacao-na-florida-pode-gerar-perdas-de-us-300-bi/",
+              "texto": "O estudo do centenário mostra que um século de crescimento populacional e concentração de ativos transformou a exposição da Flórida: um evento de categoria 5 hoje custaria ordem de grandeza superior ao equivalente histórico. <strong>O que determina o custo de uma catástrofe não é só a intensidade, é o que ela encontra pela frente</strong>.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://www.segs.com.br/seguros/455775-swiss-re-estima-perdas-seguradas-de-us-300-bilhoes-em-novo-grande-furacao-na-florida/amp",
+              "fonte_label": "Swiss Re · Revista Apólice · SEGS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "SUBSCRIÇÃO",
+              "titulo": "Swiss Re aponta em Monte Carlo aumento de complexidade na subscrição com data centers e responsabilidade civil",
+              "url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+              "texto": "A resseguradora destacou catástrofes naturais, expansão de data centers, responsabilidade civil e tensões geopolíticas entre as exposições que mudam o cálculo de capacidade. O instituto estima que <strong>a infraestrutura de IA pode gerar cerca de US$ 91 bilhões em prêmios comerciais até 2030</strong>, com concentração de risco inédita.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "PATRIMONIAL",
+              "titulo": "Revisão do PIB e juro alto pressionam a demanda empresarial por proteção patrimonial",
+              "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "texto": "Com crescimento projetado em 2% e custo de capital elevado, decisões de investimento e de ampliação de cobertura são adiadas. <strong>Seguro empresarial é despesa cortável no curto prazo</strong>, o que torna a retenção de carteira mais difícil que a conquista.",
+              "fonte": "Ministério da Fazenda · SPE",
+              "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+              "fonte_label": "Fazenda · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "MERCADO",
+              "titulo": "Novos riscos mantêm a tese de expansão de Elementares intacta mesmo com participação do setor no PIB em queda",
+              "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+              "texto": "Clima, cyber, data centers, infraestrutura e transição energética multiplicam exposições num país subsegurado, enquanto a participação do setor na economia deve ficar abaixo de 6% do PIB em 2026. <strong>O paradoxo é que a oportunidade aparece quando a capacidade de investimento do setor está mais restrita</strong>.",
+              "fonte": "CNseg · Valor 1000",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+              "fonte_label": "CNseg · Valor Econômico · Sonho Seguro",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "Elementares é a única frente do portfólio em que a agenda regulatória desta semana é <strong>construtiva em vez de restritiva</strong>: o GT de infraestrutura da Susep trata de Garantia, Riscos de Engenharia e resseguro com prazo de 60 dias, o que significa recomendações ainda em 2026. Em paralelo, o discurso técnico global convergiu em Monte Carlo para o mesmo diagnóstico — a complexidade de subscrição aumentou porque as exposições ficaram mais concentradas, não apenas maiores. O estudo do centenário do furacão de Miami é a ilustração perfeita: o risco não mudou tanto quanto mudou o que está no caminho dele.",
+          "oportunidade": "Duas frentes concretas. A primeira é <strong>institucional</strong>: acompanhar de perto o GT de infraestrutura, porque Garantia e Riscos de Engenharia são exatamente as linhas em que uma seguradora com lastro cooperativo e relacionamento com o setor público regional pode entrar sem competir de frente com as líderes. A segunda é <strong>patrimonial própria</strong>: a lógica de exposição concentrada que a Swiss Re descreve para data centers vale igualmente para a rede assistencial do Sistema Unimed — hospitais, clínicas e centrais de dados que a SU conhece por dentro e que concorrente externo precifica no escuro."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "POSICIONAMENTO",
+              "titulo": "Corretora passa a apresentar redução de custo assistencial como entregável próprio",
+              "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "texto": "Ao divulgar economia de R$ 24,8 milhões em carteiras de saúde corporativa com telemedicina, a Alper desloca a conversa de comissão para resultado. <strong>Corretora que mostra indicador de sinistro negocia com a operadora de outra posição</strong> — e fideliza o cliente pelo dado, não pelo preço.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+              "fonte_label": "Alper · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CORPORATIVO",
+              "titulo": "Worksite amplia o espaço do corretor dentro da empresa e muda o que ele precisa saber vender",
+              "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "texto": "O novo formato leva produto de varejo para a folha corporativa, abrindo frente comercial dentro de contas que o corretor já atende por benefícios. <strong>Quem domina a relação com o RH passa a poder vender muito além do pacote tradicional</strong>.",
+              "fonte": "Porto Seguro",
+              "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "fonte_label": "Porto · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "RELACIONAMENTO",
+              "titulo": "UCS recebe o Grupo HDI em encontro voltado a oportunidades de negócio com corretores",
+              "url": "https://cqcs.com.br/noticia/ucs-recebe-grupo-hdi-no-6o-trocando-ideias-para-discutir-oportunidades-de-negocios/",
+              "texto": "A sexta edição do Trocando Ideias manteve o formato de aproximação direta entre seguradora e base associativa de corretores. <strong>Encontro de entidade é canal de baixo custo e alta conversão</strong> para seguradora que quer entrar em carteira regional sem disputar por comissão.",
+              "fonte": "UCS · Grupo HDI",
+              "fonte_url": "https://cqcs.com.br/noticia/ucs-recebe-grupo-hdi-no-6o-trocando-ideias-para-discutir-oportunidades-de-negocios/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "ASSESSORIAS",
+              "titulo": "Aconseg-SP promove encontro com a Tokio Marine e reforça o papel das assessorias na distribuição",
+              "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+              "texto": "A agenda de aproximação entre seguradoras e assessorias segue intensa no segundo semestre. <strong>A assessoria é o intermediário do intermediário</strong>: quem a conquista alcança dezenas de corretoras com um único acordo comercial.",
+              "fonte": "Aconseg-SP · Tokio Marine",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "INCENTIVO",
+              "titulo": "Campanha de incentivo da Zurich em automóvel entra na reta final com prazo em 30 de setembro",
+              "url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+              "texto": "A ação combina ganho para o corretor e desconto para o cliente, com encerramento no fim do mês. <strong>Campanha de curta duração é a ferramenta clássica para deslocar volume de canal no fechamento de trimestre</strong> — e o ruído comercial que ela gera afeta todas as seguradoras que disputam o mesmo corretor.",
+              "fonte": "Zurich",
+              "fonte_url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+              "fonte_label": "Zurich · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "OPERAÇÃO",
+              "titulo": "Consulta de status de boleto ganha tração como solução para o atrito de cobrança no canal",
+              "url": "https://cqcs.com.br/noticia/consulta-de-status-de-boleto-da-nuclea-agiliza-o-acompanhamento-de-pagamentos-pelas-seguradoras/",
+              "texto": "A ferramenta permite acompanhar pagamentos de forma mais ágil pelas seguradoras, reduzindo um dos pontos de fricção mais recorrentes entre corretor, cliente e companhia. <strong>Problema de cobrança é a principal causa de cancelamento evitável</strong> em carteira massificada.",
+              "fonte": "Núclea",
+              "fonte_url": "https://cqcs.com.br/noticia/consulta-de-status-de-boleto-da-nuclea-agiliza-o-acompanhamento-de-pagamentos-pelas-seguradoras/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "O canal está mudando de eixo de valor. A notícia mais significativa da semana não é campanha nem convenção: é a corretora apresentando <strong>redução de custo assistencial como entregável próprio</strong>. Quando o intermediário passa a mostrar indicador de sinistro ao cliente, ele deixa de ser comparável por comissão e passa a ser comparável por resultado — o que muda o poder de barganha na renovação, contra a operadora. Em paralelo, o worksite amplia o que o corretor pode vender dentro da mesma conta corporativa, e a agenda de assessorias segue sendo a via de escala mais barata para quem quer capilaridade regional sem construir rede própria.",
+          "oportunidade": "A SU tem uma vantagem que quase nenhuma seguradora consegue replicar: acesso a <strong>dado assistencial real</strong> da carteira, por cooperativa e por praça. Se a corretora está se diferenciando ao mostrar economia de custo ao cliente, a companhia que lhe entregar esse dado de forma estruturada — indicadores de uso, prevenção e desfecho por contrato — vira parceira indispensável, não fornecedora substituível. É uma alavanca de fidelização de canal que não passa por comissão e que os concorrentes nacionais têm muito mais dificuldade de montar."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Marco regulatório do mutualismo volta a ser disputado no Congresso um ano após a LC 213",
+              "url": "https://cqcs.com.br/noticia/mais-um-projeto-altera-regras-para-protecao-patrimonial-mutualista/",
+              "texto": "O novo projeto ataca a exigência de administradora externa alegando interferência na autogestão das associações. <strong>A estabilidade regulatória que o setor considerava conquistada em 2025 provou-se reversível</strong> — e o vocabulário do mutualismo virou campo de disputa política.",
+              "fonte": "Câmara dos Deputados",
+              "fonte_url": "https://cqcs.com.br/noticia/mais-um-projeto-altera-regras-para-protecao-patrimonial-mutualista/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "JURISPRUDÊNCIA",
+              "titulo": "Transição do novo Marco Legal dos Seguros entra na pauta do Superior Tribunal de Justiça",
+              "url": "https://cqcs.com.br/noticia/stj-reune-ministros-e-setor-de-seguros-para-discutir-novo-marco-legal/",
+              "texto": "O seminário de outubro no STJ discutirá aplicação da nova legislação e efeitos sobre os contratos, com coordenação acadêmica do presidente do tribunal. <strong>A segurança jurídica do novo marco será construída na jurisprudência, não no texto da lei</strong>.",
+              "fonte": "STJ · CNseg",
+              "fonte_url": "https://cqcs.com.br/evento/9o-seminario-juridico-de-seguros-cnseg/",
+              "fonte_label": "STJ · CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CATÁSTROFE",
+              "titulo": "Exposição concentrada substitui intensidade do evento como principal variável de perda segurada",
+              "url": "https://revistaapolice.com.br/2026/09/furacao-na-florida-pode-gerar-perdas-de-us-300-bi/",
+              "texto": "O estudo do centenário do furacão de Miami mostra que um século de adensamento populacional e valorização de ativos multiplicou o custo potencial do mesmo fenômeno. <strong>Gestão de acumulação vira mais importante que previsão meteorológica</strong> na subscrição patrimonial.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/furacao-na-florida-pode-gerar-perdas-de-us-300-bi/",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "IA",
+              "titulo": "Infraestrutura de inteligência artificial vira simultaneamente nova fronteira de prêmio e nova fonte de acumulação de risco",
+              "url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+              "texto": "A expansão de data centers pode gerar cerca de US$ 91 bilhões em prêmios comerciais até 2030, mas concentra valores, dependência energética e cadeias tecnológicas em poucos pontos geográficos. <strong>É crescimento e risco sistêmico no mesmo ativo</strong>.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "GOVERNANÇA",
+              "titulo": "Uso de IA em sinistro entra na pauta de liderança com a discussão de julgamento humano e automação",
+              "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+              "texto": "O debate sobre IA e intuição na regulação de sinistros mostra que o setor saiu da fase de prova de conceito. <strong>Definir onde a máquina decide e onde o humano decide é escolha de governança</strong>, com consequência direta em litígio e reputação.",
+              "fonte": "Sompo Seguros",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "INCLUSÃO",
+              "titulo": "Discussão sobre IA e diversidade coloca viés algorítmico na agenda executiva do setor",
+              "url": "https://cqcs.com.br/noticia/ia-e-diversidade-liderancas-do-mercado-discutem-como-tornar-o-seguro-mais-inclusivo-no-dive-in-festival-2026/",
+              "texto": "Lideranças debateram como tornar o seguro mais inclusivo em um ambiente de decisões automatizadas. <strong>Modelo de subscrição ou de autorização que reproduz viés é risco regulatório, não apenas reputacional</strong>, num setor já sob escrutínio por negativa de cobertura.",
+              "fonte": "Dive In Festival",
+              "fonte_url": "https://cqcs.com.br/noticia/ia-e-diversidade-liderancas-do-mercado-discutem-como-tornar-o-seguro-mais-inclusivo-no-dive-in-festival-2026/",
+              "fonte_label": "CQCS",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "MACRO",
+              "titulo": "Setor segurador entra em 2027 com participação no PIB em queda e demanda comprimida por juros",
+              "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+              "texto": "A projeção é de participação abaixo de 6% do PIB em 2026, primeira vez desde o início da pandemia, enquanto novas exposições multiplicam a demanda potencial. <strong>O descompasso entre necessidade de proteção e capacidade de compra é o problema estrutural do mercado brasileiro</strong>.",
+              "fonte": "CNseg · Valor 1000",
+              "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+              "fonte_label": "CNseg · Valor Econômico · Sonho Seguro",
+              "data": "Set/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Worksite consolida a folha corporativa como canal de distribuição de produtos de varejo",
+              "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "texto": "Levar seguro de automóvel para dentro do pacote oferecido pela empresa ao colaborador é o mesmo mecanismo do seguro de vida em grupo aplicado a outras linhas. <strong>Quem já tem relação com o RH ganha um canal de baixo custo de aquisição sem precisar construí-lo</strong>.",
+              "fonte": "Porto Seguro",
+              "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+              "fonte_label": "Porto · CQCS",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "A tendência da semana é a <strong>reabertura</strong>. Depois de um ciclo em que o setor tratou o arcabouço regulatório como assentado — LC 213 para o mutualismo, Lei 15.040 para o contrato de seguro —, tanto o Congresso quanto o Judiciário voltaram a mexer nas peças. Isso tem consequência prática: planejamento estratégico que assume regra estável como premissa precisa de cenário alternativo. No plano técnico, a convergência global é a de que <strong>o problema de subscrição virou de acumulação, não de frequência</strong>: seja na Flórida, seja em data centers, o que define a perda é a concentração do que está exposto. E, no plano comercial, o worksite confirma que a folha corporativa é o canal de menor custo de aquisição disponível no Brasil — vantagem de quem já está dentro da empresa."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Acompanhar e posicionar-se sobre o projeto que rediscute a regulamentação da proteção patrimonial mutualista",
+          "texto": "A nova proposta ataca a figura da administradora criada pela LC 213/2025 usando o argumento da autogestão. <strong>É o mesmo vocabulário que sustenta o modelo cooperativo, mas aplicado para afrouxar supervisão — e afrouxamento no mutualismo informal significa concorrência desregulada disputando o mesmo público de baixa renda que a SU quer alcançar.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            },
+            {
+              "label": "Cooperativismo",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Ativar rotina comercial regional para as janelas abertas pelos regimes especiais aplicados pela ANS",
+          "texto": "Quatro operadoras entraram em regime especial em 48 horas, incluindo alienação compulsória de carteira e portabilidade especial de carências. <strong>Essas janelas duram semanas, são decididas localmente e têm rede como critério principal — cenário em que a cooperativa vence o concorrente nacional, desde que o time da praça saiba antes e tenha régua de subscrição definida.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            },
+            {
+              "label": "Competitivo",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Definir resposta ao avanço do worksite corporativo antes que ele ocupe o orçamento de benefícios das contas da SU",
+          "texto": "A Porto levou seguro de automóvel para dentro da folha da empresa, disputando espaço e desconto no mesmo pacote em que saúde e odonto já estão. <strong>A companhia tem a relação com o RH que os concorrentes estão comprando agora; deixar esse canal aberto é entregar acesso privilegiado a quem ainda não o tem.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Benefícios",
+              "tipo": ""
+            },
+            {
+              "label": "Distribuição",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Estruturar entrega de dado assistencial aos corretores parceiros como alavanca de fidelização de canal",
+          "texto": "A Alper mostrou economia de R$ 24,8 milhões em saúde corporativa e transformou indicador de sinistro em argumento comercial próprio. <strong>A SU tem o dado assistencial real por cooperativa e por praça; entregá-lo estruturado ao corretor parceiro cria dependência que não passa por comissão e que concorrente nacional tem muito mais dificuldade de replicar.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            },
+            {
+              "label": "Dados",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Buscar assento e influência no grupo de trabalho de seguros de infraestrutura da Susep",
+          "texto": "O GT criado pela Portaria 8.588/2026 tem prazo de 60 dias, começa em 2 de outubro e trata de Garantia, Riscos de Engenharia, resseguro e financiamento de projetos. <strong>São exatamente as linhas em que uma seguradora com lastro cooperativo e relacionamento regional pode entrar sem competir de frente com as líderes — e o desenho sai antes do fim do ano.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Reenquadrar a oferta de Vida e Previdência para o cooperado em torno de continuidade de renda, não de cobertura por morte",
+          "texto": "A permanência no trabalho após a aposentadoria virou tema central do debate setorial e a base de previdência está rejuvenescendo. <strong>O profissional de saúde cooperado tem renda estável, produtividade além da idade de aposentadoria e baixa cobertura previdenciária privada — é o público mais alinhado ao modelo e o menos disputado pelos bancos.</strong>",
+          "tags": [
+            {
+              "label": "Longo prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Vida",
+              "tipo": ""
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CANAL",
+                "titulo": "Bradesco Vida e Previdência lança guia de proteção e planejamento em encontro com corretores",
+                "url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+                "texto": "A terceira edição do Café ConVida marcou o lançamento do material de apoio à conversa consultiva com o cliente. <strong>O grupo mantém a estratégia de entregar conteúdo e ferramenta proprietários ao canal</strong>, padronizando o discurso de venda em favor do próprio portfólio.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+                "fonte_label": "Bradesco · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "MERCADO",
+                "titulo": "Grupo mantém liderança em volume total enquanto o setor entra em ciclo macro mais fraco",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+                "texto": "Com a projeção de participação do setor abaixo de 6% do PIB em 2026, a escala do maior grupo segurador do país vira vantagem defensiva. <strong>Em ciclo de compressão, quem tem base diversificada absorve queda em um ramo com desempenho de outro</strong>.",
+                "fonte": "CNseg · Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-novos-riscos-abrem-espaco-para-expansao-dos-seguros/",
+                "fonte_label": "CNseg · Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "SAÚDE",
+                "titulo": "Companhia opera em ciclo de margem apertada com sinistralidade setorial em 81,9%",
+                "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+                "texto": "Os dados do primeiro semestre mostram lucro do setor sustentado por resultado financeiro recorde, com a operação entregando pouco. <strong>Para uma operadora sem verticalização, o aperto assistencial é absorvido em rede e em reajuste</strong> — e isso pressiona a retenção da carteira ganha nos últimos meses.",
+                "fonte": "ANS",
+                "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+                "fonte_label": "ANS · Sincor-SP",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "BENEFÍCIOS",
+                "titulo": "Disputa pelo pacote corporativo se acirra com a entrada de novos formatos na folha das empresas",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "O avanço do worksite traz produtos de varejo para dentro do orçamento de benefícios em que saúde é o item dominante. <strong>Quem lidera o contrato de saúde da empresa perde espaço de negociação quando outros produtos entram disputando o mesmo desconto em folha</strong>.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Seguradora multiproduto · Itaú Unibanco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRODUTO",
+                "titulo": "Porto lança Worksite Auto para Empresas e abre nova frente de distribuição corporativa",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "A solução é voltada a organizações que querem oferecer seguro de automóvel aos colaboradores, ampliando o espaço do corretor no mercado corporativo. <strong>É a transposição do mecanismo do seguro de vida em grupo para o varejo</strong>, usando a folha como canal de aquisição barato.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "MARCA",
+                "titulo": "Porto é reconhecida no Prêmio CONAREC 2026 na categoria Seguros Auto",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-e-reconhecida-no-premio-conarec-2026-na-categoria-seguros-auto/",
+                "texto": "O reconhecimento em premiação de relacionamento com o consumidor reforça a associação da marca a experiência de atendimento. <strong>Em auto, onde o produto é comparável por preço, a marca é o que sustenta prêmio acima da média</strong> — e alimenta o ecossistema completo do grupo.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-e-reconhecida-no-premio-conarec-2026-na-categoria-seguros-auto/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Operadora verticalizada · Rede própria",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "PRUDENCIAL",
+                "titulo": "Endurecimento da ANS sobre operadoras eleva a régua num momento de margem setorial comprimida",
+                "url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+                "texto": "Quatro regimes especiais em dois dias reforçam o monitoramento prudencial no mesmo semestre em que a sinistralidade do setor subiu. <strong>Para o maior verticalizado do país, em plano de recuperação de rentabilidade e desalavancagem, o ambiente de supervisão mais rígido reduz margem de manobra</strong>.",
+                "fonte": "ANS",
+                "fonte_url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+                "fonte_label": "ANS · Diário Oficial",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Seguradora independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "SEGMENTO",
+                "titulo": "Previdência aberta segue deprimida pelo IOF e mantém pressão sobre as seguradoras independentes de pessoas",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "texto": "A captação líquida continua muito abaixo do nível pré-tributação e o volume aplicado no semestre recuou. <strong>Quem depende de acumulação sem rede bancária própria sente primeiro</strong> — e precisa compensar com produto de risco e com canal independente.",
+                "fonte": "FenaPrevi · Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "fonte_label": "Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "OPORTUNIDADE",
+                "titulo": "Rejuvenescimento da base de previdência abre espaço para quem tiver jornada digital pronta",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "texto": "Dados do setor mostram avanço das faixas mais jovens na carteira e queda da idade média dos segurados de vida. <strong>Cliente jovem com ticket menor só é rentável com custo de servir digital</strong> — vantagem estrutural de companhias nativas em plataforma.",
+                "fonte": "Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "fonte_label": "Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Operadora de saúde · Controle Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "SETOR",
+                "titulo": "Operadoras médico-hospitalares fecham o semestre com lucro carregado por aplicação financeira",
+                "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+                "texto": "As aplicações das operadoras médico-hospitalares somaram R$ 142,4 bilhões ao fim de junho e o resultado financeiro do trimestre foi o maior da série. <strong>Margem operacional fraca compensada por juro alto é posição frágil</strong> num cenário de PIB revisado para baixo.",
+                "fonte": "ANS",
+                "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+                "fonte_label": "ANS · Sincor-SP",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Bancassurance · Caixa Econômica Federal",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Bancassurance segue como o modelo menos exposto ao aperto de demanda em produtos de pessoas",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "texto": "Enquanto a previdência aberta sofre com o IOF, os grupos com rede bancária própria mantêm acesso de baixo custo à base de correntistas e conseguem migrar oferta entre produtos. <strong>O ativo decisivo continua sendo o canal, não o produto</strong>.",
+                "fonte": "Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "fonte_label": "Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª",
+            "nome": "★ Seguros Unimed",
+            "tipo": "Braço segurador do Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "POSICIONAMENTO",
+                "titulo": "Sistema Unimed ocupa 35 das 50 maiores operadoras do Valor 1000 e a SU aparece também no recorte de previdência e vida",
+                "url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+                "texto": "Trinta e quatro cooperativas médicas mais a Seguros Unimed respondem por 70% do ranking de operadoras de saúde, e a companhia figura ainda entre as maiores em previdência e vida. <strong>A diversificação de portfólio saiu do discurso; falta convertê-la em participação de mercado nos segmentos onde a SU ainda é média.</strong>",
+                "fonte": "Valor 1000 · Unimed do Brasil",
+                "fonte_url": "https://www.segs.com.br/seguros/455372-unimed-domina-ranking-dos-maiores-planos-de-saude-com-35-operadoras-entre-as-50-primeiras/amp",
+                "fonte_label": "Valor Econômico · SEGS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "AGENDA",
+                "titulo": "Companhia segue expandindo a jornada digital de cotação enquanto o mercado migra para canal corporativo",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "Com o worksite trazendo produtos de varejo para dentro da folha das empresas, a base de contas corporativas da SU em saúde e odonto ganha valor estratégico. <strong>A jornada de cotação já lançada é a ferramenta; o que falta é a rotina comercial que a conecta à carteira instalada.</strong>",
+                "fonte": "Porto Seguro · análise SU",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "MERCADO",
+                "titulo": "Arrecadação do mercado supervisionado recua até julho puxada pela previdência",
+                "url": "https://www.sonhoseguro.com.br/2026/09/arrecadacao-do-setor-de-seguros-recua-1-ate-julho-para-r-24496-bi-pressionada-pela-previdencia/",
+                "texto": "O recuo real do período reflete a desaceleração dos produtos de acumulação, núcleo do modelo dos grandes grupos de bancassurance. <strong>Volume de VGBL deixou de ser o motor confiável de receita</strong>, e a recomposição tende a vir de prestamista e de seguros de danos.",
+                "fonte": "Susep",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/arrecadacao-do-setor-de-seguros-recua-1-ate-julho-para-r-24496-bi-pressionada-pela-previdencia/",
+                "fonte_label": "Susep · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Bancassurance · Zurich + Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CANAL",
+                "titulo": "Campanha de incentivo em automóvel da Zurich entra na reta final com prazo em 30 de setembro",
+                "url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+                "texto": "A ação combina ganho para o corretor e desconto para o cliente no fechamento do trimestre. <strong>Campanha curta e agressiva desloca volume de canal e obriga todas as concorrentes que disputam o mesmo corretor a reagir</strong>.",
+                "fonte": "Zurich",
+                "fonte_url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+                "fonte_label": "Zurich · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "REPUTAÇÃO",
+                "titulo": "Zurich abre edital nacional para apoiar projetos sociais via leis de incentivo fiscal",
+                "url": "https://www.sonhoseguro.com.br/2026/09/zurich-abre-edital-nacional-para-apoiar-projetos-sociais-via-leis-de-incentivo-fiscal/",
+                "texto": "O programa avalia qualidade técnica, capacidade de mensurar resultados e potencial de participação dos colaboradores. <strong>Investimento social estruturado com métrica é o formato que a nova régua de divulgação em padrão IFRS vai exigir</strong> — e a companhia está construindo o histórico antes da norma.",
+                "fonte": "Zurich",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/zurich-abre-edital-nacional-para-apoiar-projetos-sociais-via-leis-de-incentivo-fiscal/",
+                "fonte_label": "Zurich · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "A leitura competitiva da semana gira em torno de um movimento só: <strong>os concorrentes estão entrando pela folha da empresa</strong>. O Worksite Auto para Empresas da Porto leva produto de varejo para dentro do orçamento de benefícios — o mesmo orçamento em que saúde e odonto da Seguros Unimed já estão instalados —, e a Akad amplia linhas corporativas em Riscos Diversos. O Bradesco segue na estratégia de armar o canal com conteúdo proprietário, a Zurich fecha o trimestre com campanha agressiva de incentivo, e a Mapfre retomou a liderança regional na América Latina enquanto disputa a Prudential brasileira. Do outro lado do balcão, a Alper fez o movimento mais relevante do trimestre para o canal: apresentou <strong>redução de custo assistencial como entregável próprio</strong>, saindo da lógica de comissão para a de resultado. E a ANS, em 48 horas, colocou quatro operadoras sob regimes especiais, movimentando carteiras em praças específicas. A conclusão para a Seguros Unimed é que a vantagem que ela tem hoje — relação instalada com o RH e dado assistencial real — está sendo comprada por concorrentes que não a possuem. <strong>É um ativo que se defende usando, não guardando.</strong>"
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRUDENCIAL",
+                "titulo": "Quatro operadoras em regime especial da ANS colocam carteiras em movimento em praças específicas",
+                "url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+                "texto": "Alienação compulsória de carteira e portabilidade especial de carências geram migração forçada de beneficiários em prazo curto. <strong>A disputa por essas vidas é local e decidida por rede credenciada</strong>, não por campanha nacional.",
+                "fonte": "ANS",
+                "fonte_url": "https://drfinancas.com/blog/operadora-regime-especial-ans-recebimento-medico/",
+                "fonte_label": "ANS · Diário Oficial",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "MARGEM",
+                "titulo": "Lucro do setor no semestre é sustentado por resultado financeiro recorde, não por operação",
+                "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+                "texto": "As receitas somaram R$ 206,3 bilhões com resultado operacional agregado de apenas R$ 5,6 bilhões e sinistralidade em 81,9%. <strong>Todas as grandes estão com a mesma fragilidade: dependência de juro alto para fechar o resultado</strong>.",
+                "fonte": "ANS",
+                "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+                "fonte_label": "ANS · Sincor-SP",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "CUSTO",
+                "titulo": "Aperto assistencial atinge com mais força o produto de alto padrão, mais exposto a livre escolha e reembolso",
+                "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+                "texto": "Com sinistralidade setorial em alta e resultado operacional apertado, o segmento executivo tende a reajustar acima da média. <strong>Reajuste elevado em produto premium não gera cancelamento: gera migração para categoria inferior dentro da mesma empresa</strong>.",
+                "fonte": "ANS",
+                "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+                "fonte_label": "ANS · Sincor-SP",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "BENEFÍCIOS",
+                "titulo": "Entrada de novos produtos na folha corporativa disputa o orçamento que sustenta o plano executivo",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "O worksite traz para o pacote de benefícios itens que antes não competiam pelo mesmo desconto em folha. <strong>Em empresa com orçamento fechado, cada produto novo no pacote pressiona a categoria mais cara do plano de saúde</strong>.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "MODELO",
+                "titulo": "Telemedicina aparece com economia mensurada e valida a tese central das operadoras digitais",
+                "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "texto": "A economia de R$ 24,8 milhões divulgada pela Alper em carteiras corporativas prova que atendimento digital reduz custo quando integrado à jornada. <strong>O problema é que o benefício está sendo capturado pela corretora, não pela operadora que opera o modelo</strong>.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "fonte_label": "Alper · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "GOVERNANÇA",
+                "titulo": "Uso de IA em decisão assistencial entra na agenda de governança e viés das lideranças do setor",
+                "url": "https://cqcs.com.br/noticia/ia-e-diversidade-liderancas-do-mercado-discutem-como-tornar-o-seguro-mais-inclusivo-no-dive-in-festival-2026/",
+                "texto": "O debate sobre inclusão em ambiente automatizado alcança diretamente quem opera autorização e triagem por algoritmo. <strong>Para operadora nativa digital, governança de modelo deixou de ser diferencial técnico e virou requisito de licença social</strong>.",
+                "fonte": "Dive In Festival",
+                "fonte_url": "https://cqcs.com.br/noticia/ia-e-diversidade-liderancas-do-mercado-discutem-como-tornar-o-seguro-mais-inclusivo-no-dive-in-festival-2026/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "LONGEVIDADE",
+                "titulo": "Permanência no trabalho após a aposentadoria redefine o perfil do beneficiário sênior",
+                "url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+                "texto": "O aumento do número de brasileiros economicamente ativos após a idade de aposentadoria muda o público do produto sênior: mais renda, mais exigência e mais tempo de permanência na carteira. <strong>O desafio é precificar longevidade com utilização crescente</strong>.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/noticia/aposentadoria-nao-e-mais-ponto-final-por-que-cada-vez-mais-brasileiros-continuam-trabalhando/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "MARGEM",
+                "titulo": "Alta de sinistralidade pesa proporcionalmente mais nas carteiras de maior faixa etária",
+                "url": "https://cqcs.com.br/noticia/saude-suplementar-faturou-mais-de-r-206-bilhoes-ate-junho/",
+                "texto": "Com a sinistralidade agregada em 81,9% e resultado operacional apertado, produtos de utilização intensiva absorvem primeiro a pressão. <strong>Carteira sênior só fecha conta com coordenação de cuidado ativa, nunca com rede aberta</strong>.",
+                "fonte": "ANS",
+                "fonte_url": "https://sincor.org.br/ans-divulga-dados-economico-financeiros-do-1-semestre-de-2026/",
+                "fonte_label": "ANS · Sincor-SP",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CANAL",
+                "titulo": "Worksite corporativo amplia a concorrência pelo orçamento de benefícios em que o odontológico está alojado",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "Produtos de varejo passam a disputar espaço e desconto na folha da empresa. <strong>Odonto é o item mais facilmente substituível do pacote quando entra concorrência nova pelo mesmo orçamento</strong>.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "EVIDÊNCIA",
+                "titulo": "RH passa a exigir indicador de resultado também nos benefícios de menor ticket",
+                "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "texto": "Com corretoras apresentando economia mensurada em saúde, a régua de justificativa sobe para todo o pacote. <strong>Operadora odontológica sem dado de prevenção e uso para mostrar entra na renovação sem argumento além do preço</strong>.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "fonte_label": "Alper · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint Odonto",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "POSICIONAMENTO",
+                "titulo": "Produto odontológico de alto padrão depende de percepção imediata de rede e experiência",
+                "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+                "texto": "Com o crescimento do segmento concentrado em contratos coletivos empresariais, o alto padrão fica restrito a nichos corporativos. <strong>Em produto de uso frequente, cada atendimento é um teste de renovação</strong> e não há tempo de maturação para construir percepção.",
+                "fonte": "ANS",
+                "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+                "fonte_label": "ANS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "ORÇAMENTO",
+                "titulo": "Revisão macro para baixo pressiona primeiro os itens premium do pacote de benefícios",
+                "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+                "texto": "Com PIB projetado em 2% e custo de capital alto, empresas revisam o pacote pela margem. <strong>O benefício de alto padrão com baixo valor percebido é o primeiro candidato a downgrade</strong> na renovação.",
+                "fonte": "Ministério da Fazenda · SPE",
+                "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+                "fonte_label": "Fazenda · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Worksite transpõe para o varejo o mecanismo que sustenta o seguro de vida em grupo",
+                "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "texto": "A folha da empresa como canal de aquisição é a base histórica do Vida em Grupo, agora usada para outros produtos. <strong>O canal deixa de ser exclusivo do seguro de pessoas e passa a ser disputado</strong>, encarecendo o acesso de quem chega depois.",
+                "fonte": "Porto Seguro",
+                "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+                "fonte_label": "Porto · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CANAL",
+                "titulo": "Grandes grupos aceleram a entrega de conteúdo e ferramenta proprietários ao corretor de Vida",
+                "url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+                "texto": "O lançamento de guia de proteção e planejamento em encontro com o canal segue a lógica de padronizar a conversa consultiva. <strong>Quem escreve o material define quais produtos aparecem como solução</strong> na recomendação do corretor.",
+                "fonte": "Bradesco Vida e Previdência",
+                "fonte_url": "https://cqcs.com.br/noticia/3a-edicao-do-cafe-convida-2026-da-bradesco-vida-e-previdencia-marca-lancamento-do-guia-sobre-protecao-e-planejamento/",
+                "fonte_label": "Bradesco · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "CAPTAÇÃO",
+                "titulo": "IOF sobre VGBL mantém a captação líquida da previdência aberta em patamar historicamente baixo",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "texto": "A FenaPrevi estima que cerca de R$ 130 bilhões deixaram de entrar no segmento entre 2025 e 2026. <strong>Todos os players independentes estão disputando um bolo que encolheu por decisão tributária, não por preferência de cliente</strong>.",
+                "fonte": "FenaPrevi · Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "fonte_label": "Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "PERFIL",
+                "titulo": "Base de previdência rejuvenesce e desloca a disputa para custo de servir e jornada digital",
+                "url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "texto": "As faixas mais jovens ganharam participação relevante na carteira e a idade média dos segurados de vida caiu. <strong>Ticket menor com horizonte mais longo só fecha conta com operação digital enxuta</strong>.",
+                "fonte": "Valor 1000",
+                "fonte_url": "https://www.sonhoseguro.com.br/2026/09/valor-1000-previdencia-e-seguros-chegam-a-2027-em-momentos-distintos/",
+                "fonte_label": "Valor Econômico · Sonho Seguro",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "GT de infraestrutura da Susep trata de Garantia e Riscos de Engenharia com prazo de 60 dias",
+                "url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+                "texto": "O grupo consultivo criado pela Portaria 8.588/2026 começa em 2 de outubro reunindo reguladores, setor produtivo e mercado. <strong>Linhas de responsabilidade ligadas a projetos de infraestrutura serão as primeiras afetadas pelas recomendações</strong>.",
+                "fonte": "Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/susep-cria-grupo-para-discutir-papel-dos-seguros-em-projetos-de-infraestrutura/",
+                "fonte_label": "Susep · Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "MERCADO",
+                "titulo": "Ampliação de linhas especializadas confirma que a disputa corporativa está sendo feita por estruturas ágeis",
+                "url": "https://cqcs.com.br/noticia/akad-amplia-atuacaoem-riscos-diversos-e-lanca-novo-seguro/",
+                "texto": "A Akad ampliou atuação em Riscos Diversos com produto novo, seguindo o padrão de entrada por nicho. <strong>Em responsabilidade profissional, conhecimento do setor segurado vale mais que tamanho de balanço</strong>.",
+                "fonte": "Akad Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/akad-amplia-atuacaoem-riscos-diversos-e-lanca-novo-seguro/",
+                "fonte_label": "Akad · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "JURÍDICO",
+                "titulo": "Transição do novo Marco Legal dos Seguros entra na pauta do STJ e redefine risco de administradores",
+                "url": "https://cqcs.com.br/noticia/stj-reune-ministros-e-setor-de-seguros-para-discutir-novo-marco-legal/",
+                "texto": "O seminário de outubro discutirá aplicação da nova legislação e efeitos sobre contratos, com coordenação do presidente do tribunal. <strong>Jurisprudência em formação sobre dever de informação e recusa de cobertura é o principal vetor de sinistro em D&O</strong>.",
+                "fonte": "STJ · CNseg",
+                "fonte_url": "https://cqcs.com.br/noticia/stj-reune-ministros-e-setor-de-seguros-para-discutir-novo-marco-legal/",
+                "fonte_label": "STJ · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "GOVERNANÇA",
+                "titulo": "Automação de decisão eleva a superfície de responsabilização de diretores e conselheiros",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+                "texto": "O debate sobre IA e julgamento humano em sinistros expõe a questão de quem responde pela decisão do algoritmo. <strong>Falha de governança de modelo é ato de gestão</strong>, e ato de gestão é exatamente o que D&O cobre.",
+                "fonte": "Sompo Seguros",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "SUBSCRIÇÃO",
+                "titulo": "Swiss Re aponta aumento de complexidade na subscrição com concentração de ativos e data centers",
+                "url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+                "texto": "Catástrofes naturais, infraestrutura de IA, responsabilidade civil e geopolítica foram destacadas em Monte Carlo como as exposições que mudam o cálculo de capacidade. <strong>Acumulação, e não frequência, virou o problema central do risco empresarial</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/swiss-re-ve-aumento-da-complexidade-na-subscricao-de-riscos/",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "DEMANDA",
+                "titulo": "PIB revisado para baixo e juro alto adiam decisões empresariais de ampliação de cobertura",
+                "url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+                "texto": "A revisão da Fazenda concentrou-se em serviços e indústria, base da demanda por seguro empresarial. <strong>Em aperto de caixa, revisão de apólice vira corte de cobertura antes de virar troca de seguradora</strong>.",
+                "fonte": "Ministério da Fazenda · SPE",
+                "fonte_url": "https://cqcs.com.br/noticia/governo-reduz-projecao-do-pib-e-mantem-alerta-sobre-impacto-dos-juros-no-consumo-de-seguros/",
+                "fonte_label": "Fazenda · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CLIMA",
+                "titulo": "Allianz detalha cobertura de alagamento no residencial em meio ao aumento de chuvas intensas",
+                "url": "https://cqcs.com.br/noticia/chuvas-intensas-allianz-detalha-cobertura-para-alagamentos-no-seguro-residencial/",
+                "texto": "A comunicação explícita sobre o que está coberto em evento climático virou instrumento comercial e de prevenção de litígio. <strong>Em produto massificado, ambiguidade contratual sobre evento climático é passivo garantido</strong>.",
+                "fonte": "Allianz",
+                "fonte_url": "https://cqcs.com.br/noticia/chuvas-intensas-allianz-detalha-cobertura-para-alagamentos-no-seguro-residencial/",
+                "fonte_label": "Allianz · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "EXPOSIÇÃO",
+                "titulo": "Estudo da Swiss Re mostra que concentração de ativos, e não intensidade do evento, define a perda residencial",
+                "url": "https://revistaapolice.com.br/2026/09/furacao-na-florida-pode-gerar-perdas-de-us-300-bi/",
+                "texto": "A modelagem do centenário do Grande Furacão de Miami indica perdas seguradas de ordem muito superior ao equivalente histórico, pelo adensamento populacional e patrimonial. <strong>A lição vale para as capitais brasileiras expostas a alagamento e deslizamento</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/furacao-na-florida-pode-gerar-perdas-de-us-300-bi/",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "ok",
+            "emoji": "📈",
+            "titulo": "Propositiva",
+            "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+            "texto": "O canal deu um passo qualitativo nesta semana: a Alper divulgou economia de R$ 24,8 milhões em carteiras de saúde corporativa com uso de telemedicina, apresentando redução de custo assistencial como entregável próprio. Em paralelo, a agenda de relacionamento seguiu cheia, com a UCS recebendo o Grupo HDI e a Aconseg-SP promovendo encontro com a Tokio Marine."
+          },
+          "disputa": {
+            "status": "alerta",
+            "emoji": "⚡",
+            "titulo": "Pelo Corporativo",
+            "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+            "texto": "O lançamento do Worksite Auto para Empresas pela Porto amplia o que o corretor pode vender dentro de contas que já atende por benefícios, e a campanha de incentivo da Zurich em automóvel fecha o trimestre disputando volume do mesmo canal. A conta corporativa virou o campo de batalha, e o corretor de benefícios ganhou poder de decisão sobre produtos que antes não passavam por ele."
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "📱",
+            "titulo": "Do Atrito Operacional",
+            "url": "https://cqcs.com.br/noticia/consulta-de-status-de-boleto-da-nuclea-agiliza-o-acompanhamento-de-pagamentos-pelas-seguradoras/",
+            "texto": "A frente digital da semana foi menos glamourosa e mais útil: soluções de consulta de status de boleto ganhando tração para reduzir o atrito de cobrança entre corretor, cliente e seguradora. Problema de pagamento é a causa mais comum de cancelamento evitável em carteira massificada, e resolvê-lo vale mais para o corretor do que qualquer ferramenta de cotação nova."
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "Alper Seguros",
+            "tipo": "Corretora Nacional · Consolidadora",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "RESULTADO",
+                "titulo": "Alper apresenta economia de R$ 24,8 milhões em saúde corporativa com telemedicina",
+                "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "texto": "A corretora divulgou o resultado da adoção de atendimento digital nas carteiras que administra em 2025. <strong>Ao entregar indicador de custo assistencial, a corretora deixa de ser comparável por comissão e passa a ser comparável por resultado</strong> — e renegocia com a operadora de outra posição.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+                "fonte_label": "Alper · CQCS",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Alper mantém agenda de patrocínio e relacionamento em circuitos corporativos de alto padrão",
+                "url": "https://cqcs.com.br/noticia/alper-fortalece-parceria-historica-e-marca-presenca-no-36o-jhsf-indoor-horse-jumping-brazil/",
+                "texto": "A presença em evento de projeção junto ao público de alta renda acompanha o crescimento por aquisição da consolidadora. <strong>Consolidadora que constrói marca própria reduz a dependência do nome da seguradora na conversa com o cliente final</strong>.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/alper-fortalece-parceria-historica-e-marca-presenca-no-36o-jhsf-indoor-horse-jumping-brazil/",
+                "fonte_label": "Alper · CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Lockton Brasil",
+            "tipo": "Corretora Global · Benefícios e People Solutions",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "BENEFÍCIOS",
+                "titulo": "Liderança de People Solutions da Lockton ocupa espaço no debate estratégico do setor",
+                "url": "https://cqcs.com.br/noticia/eduardo-kolmar-diretor-executivo-e-lider-de-people-solution-da-lockton-brasil-esta-confirmado-no-painel-de-lideres-do-cqcs-inovacao-2026/",
+                "texto": "A corretora global reforça presença na agenda de lideranças com foco em soluções para pessoas e benefícios. <strong>Corretagem global vem migrando de intermediação para consultoria de gestão de população</strong> — território que disputa valor diretamente com a operadora.",
+                "fonte": "Lockton Brasil",
+                "fonte_url": "https://cqcs.com.br/noticia/eduardo-kolmar-diretor-executivo-e-lider-de-people-solution-da-lockton-brasil-esta-confirmado-no-painel-de-lideres-do-cqcs-inovacao-2026/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Wiz Co · BRB Seguros",
+            "tipo": "Plataforma de Canais · Parcerias de Distribuição",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Liderança da Wiz Co e da BRB Seguros integra a agenda estratégica do setor",
+                "url": "https://cqcs.com.br/noticia/marcus-vinicius-de-oliveira-presidente-do-conselho-de-administracao-da-wiz-co-e-diretor-presidente-da-brb-seguros-participa-do-painel-de-lideres-do-cqcs-inovacao-2026/",
+                "texto": "O grupo continua entre os principais operadores de canais e parcerias de distribuição no país. <strong>O modelo de monetizar canal de terceiros é a alternativa mais viável a construir rede própria</strong> num mercado em que o custo de aquisição não para de subir.",
+                "fonte": "Wiz Co · BRB Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/marcus-vinicius-de-oliveira-presidente-do-conselho-de-administracao-da-wiz-co-e-diretor-presidente-da-brb-seguros-participa-do-painel-de-lideres-do-cqcs-inovacao-2026/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "UCS · União dos Corretores de Seguros",
+            "tipo": "Entidade de Corretores · Base Associativa",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "RELACIONAMENTO",
+                "titulo": "UCS recebe o Grupo HDI em encontro sobre oportunidades de negócio com a base associada",
+                "url": "https://cqcs.com.br/noticia/ucs-recebe-grupo-hdi-no-6o-trocando-ideias-para-discutir-oportunidades-de-negocios/",
+                "texto": "A sexta edição do Trocando Ideias manteve o formato de contato direto entre seguradora e corretores associados. <strong>Entidade regional é o caminho mais barato para uma seguradora alcançar dezenas de corretoras de uma vez</strong>.",
+                "fonte": "UCS · Grupo HDI",
+                "fonte_url": "https://cqcs.com.br/noticia/ucs-recebe-grupo-hdi-no-6o-trocando-ideias-para-discutir-oportunidades-de-negocios/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Aconseg-SP",
+            "tipo": "Associação de Assessorias · São Paulo",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ASSESSORIAS",
+                "titulo": "Aconseg-SP promove encontro com a Tokio Marine e fortalece a parceria com assessorias",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+                "texto": "A agenda de aproximação entre seguradoras e assessorias segue intensa no segundo semestre. <strong>A assessoria é o intermediário do intermediário</strong>: um único acordo comercial alcança a carteira de dezenas de corretoras independentes.",
+                "fonte": "Aconseg-SP · Tokio Marine",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "CVG-RJ",
+            "tipo": "Clube de Vida em Grupo · Rio de Janeiro",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "FORMAÇÃO",
+                "titulo": "CVG-RJ firma parceria para ampliar acesso de corretores associados ao principal evento de inovação do setor",
+                "url": "https://cqcs.com.br/noticia/parceria-entre-cvg-rj-e-cqcs-inovacao-2026-garante-meia-entrada-para-corretores-associados-da-entidade/",
+                "texto": "A entidade garantiu condição especial de participação para seus associados, reforçando a pauta de tecnologia como caminho de desenvolvimento profissional. <strong>Entidade que entrega acesso e atualização ao associado retém filiação melhor do que entidade que só representa</strong>.",
+                "fonte": "CVG-RJ",
+                "fonte_url": "https://cqcs.com.br/noticia/parceria-entre-cvg-rj-e-cqcs-inovacao-2026-garante-meia-entrada-para-corretores-associados-da-entidade/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Sompo Seguros",
+            "tipo": "Seguradora · Relacionamento com o Canal",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "SINISTRO",
+                "titulo": "Sompo debate no Conarec o equilíbrio entre inteligência artificial e julgamento humano na regulação de sinistros",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+                "texto": "A discussão trata de onde a automação agrega velocidade e onde o julgamento humano continua indispensável. <strong>Sinistro é o único momento em que o segurado testa a promessa comprada</strong> — e é ali que o corretor ganha ou perde o cliente.",
+                "fonte": "Sompo Seguros",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/sompo-participa-do-conarec-e-debateuso-de-ia-e-intuicao-nos-sinistros/",
+                "fonte_label": "CQCS",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "hot",
+            "tag_label": "RESULTADO",
+            "titulo": "Corretora passa a vender redução de custo assistencial, não intermediação",
+            "url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+            "texto": "A economia de R$ 24,8 milhões divulgada pela Alper em carteiras corporativas de saúde muda o enquadramento da conversa com o cliente. <strong>Seguradora que fornecer ao corretor o dado que sustenta esse argumento vira parceira indispensável</strong>; a que não fornecer vira fornecedora substituível.",
+            "fonte": "Alper Seguros",
+            "fonte_url": "https://cqcs.com.br/noticia/eficiencia-digital-alper-seguros-evita-r-248-milhoes-em-custos-na-saude-corporativa-com-telemedicina-em-2025/",
+            "fonte_label": "Alper · CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "att",
+            "tag_label": "CORPORATIVO",
+            "titulo": "Worksite amplia o que o corretor de benefícios pode vender dentro da mesma conta",
+            "url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+            "texto": "Produtos de varejo passam a ser oferecidos via folha da empresa, abrindo receita adicional sem custo de prospecção. <strong>Quem já tem a conta de benefícios ganha a oferta mais barata do mercado</strong> — e quem não tem precisa comprar esse acesso.",
+            "fonte": "Porto Seguro",
+            "fonte_url": "https://cqcs.com.br/noticia/porto-seguro-lanca-novidade-e-amplia-oportunidades-para-corretores-no-mercado-corporativo/",
+            "fonte_label": "Porto · CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "ESCALA",
+            "titulo": "Assessorias seguem como a via mais eficiente para alcançar carteira pulverizada",
+            "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+            "texto": "Encontros entre seguradoras e associações de assessorias mantêm ritmo alto no segundo semestre. <strong>Um acordo com assessoria substitui dezenas de negociações individuais com corretoras</strong>, ao custo de perder o contato direto com o ponto de venda.",
+            "fonte": "Aconseg-SP · Tokio Marine",
+            "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/aconseg-sp-promove-encontro-com-tokio-marine-e-fortalece-parceria-com-assessorias/",
+            "fonte_label": "CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "att",
+            "tag_label": "OPERAÇÃO",
+            "titulo": "Redução do atrito de cobrança vale mais para o corretor do que ferramenta de cotação nova",
+            "url": "https://cqcs.com.br/noticia/consulta-de-status-de-boleto-da-nuclea-agiliza-o-acompanhamento-de-pagamentos-pelas-seguradoras/",
+            "texto": "Soluções de consulta de status de boleto ganham espaço por resolver um problema recorrente entre corretor, cliente e seguradora. <strong>Cancelamento por falha de pagamento é perda de carteira sem disputa competitiva</strong> — e é evitável.",
+            "fonte": "Núclea",
+            "fonte_url": "https://cqcs.com.br/noticia/consulta-de-status-de-boleto-da-nuclea-agiliza-o-acompanhamento-de-pagamentos-pelas-seguradoras/",
+            "fonte_label": "CQCS",
+            "data": "Set/2026"
+          },
+          {
+            "tag": "wtf",
+            "tag_label": "INCENTIVO",
+            "titulo": "Campanhas curtas de fim de trimestre continuam deslocando volume e distorcendo a recomendação do canal",
+            "url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+            "texto": "A campanha de automóvel da Zurich encerra em 30 de setembro combinando ganho para o corretor e desconto para o cliente. <strong>Incentivo de curto prazo compra volume, não lealdade</strong> — e obriga toda concorrente que disputa o mesmo corretor a reagir no mesmo prazo.",
+            "fonte": "Zurich",
+            "fonte_url": "https://cqcs.com.br/noticia/campanha-arrancada-zurich-automovel-entra-nos-ultimos-dias-com-incentivos-para-corretores-e-descontos-para-clientes/",
+            "fonte_label": "Zurich · CQCS",
+            "data": "Set/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "A obrigatoriedade de administradora externa interfere no núcleo da autogestão.",
+            "avatar": "CM",
+            "nome": "Coronel Meira",
+            "cargo": "Deputado Federal · PL/PE",
+            "contexto": "Sobre o projeto que rediscute a proteção patrimonial mutualista · Set/2026"
+          },
+          {
+            "quote": "O desenvolvimento do mercado de seguros passa, obrigatoriamente, pela tecnologia.",
+            "avatar": "SM",
+            "nome": "Sonia Marra",
+            "cargo": "Presidente · CVG-RJ",
+            "contexto": "Sobre a agenda de inovação e formação do canal · Set/2026"
+          },
+          {
+            "quote": "O Brasil reúne escala, diversificação e capacidade de atuar em diferentes frentes.",
+            "avatar": "FN",
+            "nome": "Felipe Nascimento",
+            "cargo": "CEO · Mapfre Brasil",
+            "contexto": "Sobre a posição brasileira na estratégia regional da companhia · Set/2026"
+          },
+          {
+            "quote": "A questão não é o quão poderoso será o próximo furacão, mas o que ele encontrará ao chegar.",
+            "avatar": "BG",
+            "nome": "Balz Grollimund",
+            "cargo": "Head de Riscos de Catástrofes · Swiss Re",
+            "contexto": "Sobre concentração de ativos e perdas seguradas · Set/2026"
+          }
+        ],
+        "oportunidade": "A semana deixou claro onde o canal está buscando valor: <strong>sair da comissão e entrar no resultado</strong>. A Alper mostrou economia mensurada de custo assistencial como entregável próprio, o worksite ampliou o que o corretor de benefícios pode vender dentro da mesma conta, e as assessorias seguem sendo a via mais barata de escala. Para a Seguros Unimed, a leitura é objetiva e acionável: a companhia possui o insumo que dá sustentação a esse novo argumento comercial — <strong>dado assistencial real por cooperativa e por praça</strong>, com indicadores de uso, prevenção e desfecho. Entregá-lo de forma estruturada ao corretor parceiro cria uma dependência operacional que não passa por preço, é difícil de replicar por concorrente nacional sem rede própria e transforma o canal cooperativo — já de baixa rotatividade — em força comercial ativa. É a alavanca de canal mais barata disponível no portfólio hoje."
+      }
+    },
+    {
       "id": "2026-09-18",
       "titulo": "Edição 18/Set/2026",
       "data": "18 de setembro de 2026",
