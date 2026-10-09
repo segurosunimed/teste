@@ -1,6 +1,1723 @@
 {
   "edicoes": [
     {
+      "id": "2026-10-09",
+      "titulo": "Edição 09/Out/2026",
+      "data": "09 de outubro de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "alerta",
+          "emoji": "⚖️",
+          "titulo": "STF no Centro",
+          "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+          "texto": "O julgamento da <strong>ADC 90</strong>, sobre reajuste por faixa etária à luz do Estatuto da Pessoa Idosa, foi encerrado no mérito com três correntes de voto e encaminhado ao núcleo de conciliação do Supremo, com prazo de 60 dias. O setor estima impacto máximo de desembolso na casa das dezenas de bilhões. Em paralelo, a Resolução CNSP 493 reescreve o registro do corretor e revoga 13 resoluções antigas a partir de janeiro de 2027."
+        },
+        "competitivo": {
+          "status": "alerta",
+          "emoji": "⚡",
+          "titulo": "Prudential em Leilão",
+          "url": "https://cqcs.com.br/noticia/prudential-entra-no-radar-de-seguradoras-em-operacao-de-us-3-bilhoes/",
+          "texto": "As operações da Prudential no Brasil e no México entraram no radar de grandes grupos seguradores em transação que pode alcançar <strong>US$ 3 bilhões</strong>, com a CNP entre os interessados e também mirando a Coface. A venda deixou de ser uma disputa local e virou operação regional — o comprador chega ao Brasil com escala em Vida de alta renda já montada."
+        },
+        "sentimento": {
+          "status": "att",
+          "emoji": "🧭",
+          "titulo": "Mês do Corretor",
+          "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+          "texto": "Outubro trouxe o setor inteiro para a agenda do canal: campanhas de incentivo da Akad e da Seguros Unimed, treinamentos da Allianz em São Paulo, encontros da Tokio no Rio e ações de marca da AXA. <strong>O Dia do Corretor virou o principal vetor comercial do trimestre</strong> — e a disputa por atenção do canal está no pico do ano."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "JUDICIÁRIO",
+              "titulo": "STF encerra mérito da ADC 90 sobre reajuste por idade e encaminha o caso à conciliação",
+              "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+              "texto": "O plenário concluiu as manifestações de mérito com <strong>três teses distintas entre os dez magistrados votantes</strong> e remeteu a controvérsia ao núcleo de solução consensual do tribunal, com prazo de 60 dias. A disputa gira em torno do artigo 15 do Estatuto da Pessoa Idosa e define se o preço pode subir por faixa etária em contratos antigos — e quanto precisa ser ressarcido.",
+              "fonte": "STF",
+              "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+              "fonte_label": "STF · Diário do Comércio",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Operações da Prudential no Brasil e no México entram no radar em transação que pode chegar a US$ 3 bilhões",
+              "url": "https://cqcs.com.br/noticia/prudential-entra-no-radar-de-seguradoras-em-operacao-de-us-3-bilhoes/",
+              "texto": "O que começou como disputa pela operação brasileira virou uma <strong>transação regional</strong>, com grandes grupos seguradores avaliando o conjunto. A CNP aparece entre os interessados, mirando simultaneamente a Coface. O comprador herda carteira de alta renda, força de vendas própria e marca em dois dos maiores mercados da América Latina.",
+              "fonte": "Pipeline",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-destaque/bateu-e-deu-perda-total-entenda-o-que-muda-no-seguro-de-eletricos-cnp-mira-coface-e-prudential/",
+              "fonte_label": "Pipeline · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Resolução CNSP 493 reescreve o registro do corretor e revoga 13 resoluções antigas",
+              "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "texto": "A norma autoriza a Susep a cancelar de ofício o registro do corretor que permanecer <strong>180 dias suspenso sem se manifestar</strong> e trata da devolução de prêmio e do cancelamento de apólice, inclusive em liquidação extrajudicial. Entra em vigor em janeiro de 2027 e consolida num texto único o que estava disperso em mais de uma década de resoluções.",
+              "fonte": "CNSP · Susep",
+              "fonte_url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "fonte_label": "CNSP · Correio Braziliense",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "POLÍTICA",
+              "titulo": "Planos de governo dos pré-candidatos entram no radar do setor segurador",
+              "url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "texto": "A análise comparativa das propostas de Lula e Flávio Bolsonaro mapeia os pontos que podem alterar tributação, regulação e desenho de produto no mercado de seguros. <strong>Ano eleitoral congela agenda regulatória estruturante e antecipa decisões de custo</strong> — e o setor já está lendo os programas como cenário de planejamento.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "MERCADO",
+              "titulo": "Setor segurador pagou R$ 150,3 bilhões em indenizações, benefícios, resgates e sorteios até julho",
+              "url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+              "texto": "O volume devolvido à sociedade no acumulado do ano reforça o argumento de relevância econômica do setor em um momento de disputa política sobre tributação. <strong>Pagamento é o único indicador que converte a promessa do seguro em evidência verificável</strong> — e é dele que o setor precisa quando a conversa vira política pública.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+              "fonte_label": "Susep · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed lança campanha Acelera com bonificação adicional de 30% em Vida Individual e Vida em Grupo",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+              "texto": "Válida até 30 de outubro, a ação aproveita o calendário do Dia do Corretor e vem acompanhada de treinamentos e de uma plataforma com materiais de prospecção — conteúdo para redes sociais, WhatsApp, e-mail marketing e apresentações de produto. <strong>É a peça que faltava ao lado das ferramentas digitais já lançadas: incentivo e apoio de rotina na mesma conversa.</strong>",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+              "fonte_label": "Seguros Unimed · CQCS · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Swiss Re aponta disputa crescente por clientes de Vida com previdência mais individualizada e canais concentrados",
+              "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "texto": "O estudo sigma 4/2026 mostra que a transferência da responsabilidade pelo planejamento da aposentadoria para o indivíduo está mudando a distribuição de seguros de pessoas, com <strong>concentração de intermediários e avanço da inteligência artificial</strong>. Para a seguradora, o relacionamento com quem já atende o consumidor em fase de planejamento financeiro ganha peso decisivo.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "MUTUALISMO",
+              "titulo": "ENS promove debate sobre contratos de proteção patrimonial mutualista e seguros",
+              "url": "https://cqcs.com.br/noticia/ens-promove-debate-sobre-contratos-de-protecao-patrimonial-mutualista-e-seguros/",
+              "texto": "A discussão técnica ocorre semanas depois de um novo projeto de lei complementar reabrir a regulamentação do setor no Congresso. <strong>A fronteira jurídica entre contrato de seguro e contrato mutualista voltou a ser objeto de disputa</strong>, e o enquadramento que prevalecer define quem compete com quem e sob qual régua.",
+              "fonte": "ENS",
+              "fonte_url": "https://cqcs.com.br/noticia/ens-promove-debate-sobre-contratos-de-protecao-patrimonial-mutualista-e-seguros/",
+              "fonte_label": "ENS · CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "A indenização é o coração do negócio.",
+              "avatar": "GD",
+              "nome": "Gustavo Doria",
+              "cargo": "Fundador · CQCS",
+              "contexto": "Roda de Conversa sobre percepção de valor do seguro · Out/2026"
+            },
+            {
+              "quote": "A seguradora é quem decide quais riscos quer assumir; o resseguro compartilha parte dessa exposição.",
+              "avatar": "FB",
+              "nome": "Fenaber",
+              "cargo": "Federação Nacional das Empresas de Resseguros",
+              "contexto": "Sobre capacidade diante de projetos de infraestrutura e agronegócio · Out/2026"
+            },
+            {
+              "quote": "Queremos que o corretor sinta o cuidado e a parceria em todas as pontas da sua rotina.",
+              "avatar": "RA",
+              "nome": "Rodrigo Aguiar",
+              "cargo": "Superintendente Comercial e de Produtos · Seguros Unimed",
+              "contexto": "Sobre a estratégia de relacionamento com o canal no Dia do Corretor · Out/2026"
+            },
+            {
+              "quote": "A saúde suplementar atravessa um momento decisivo de transformações profundas no Brasil.",
+              "avatar": "JM",
+              "nome": "João Paulo Moreira de Mello",
+              "cargo": "Presidente · CSP-MG",
+              "contexto": "Sobre o Seminário Saúde Suplementar em Belo Horizonte · Out/2026"
+            }
+          ],
+          "implicacao": "A semana tem um eixo dominante e ele é <strong>jurídico</strong>. O STF encerrou o mérito da ADC 90 com três correntes de voto e mandou o caso para conciliação, com prazo de 60 dias: está em jogo a validade do reajuste por faixa etária em contratos antigos e o volume de ressarcimento associado. É o tipo de decisão que não muda a operação do próximo trimestre, mas muda a modelagem de carteira da próxima década — e vale igualmente para cooperativa e para seguradora. Em paralelo, a Resolução CNSP 493 reescreve o registro do corretor para janeiro de 2027. No plano competitivo, a <strong>Prudential virou operação regional</strong>: Brasil e México no mesmo pacote, com valor potencial de US$ 3 bilhões e a CNP entre os interessados. Quem comprar entra em Vida de alta renda com escala instantânea. E outubro trouxe o setor inteiro para a agenda do canal — a SU entrou com a campanha Acelera e uma plataforma de apoio à prospecção, que é exatamente a peça que faltava ao lado das ferramentas digitais lançadas nas últimas semanas."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "JUDICIÁRIO",
+              "titulo": "STF conclui mérito da ADC 90 sobre reajuste por faixa etária e remete o caso à conciliação",
+              "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+              "texto": "Os dez ministros votantes dividiram-se em três teses e o caso seguiu para o núcleo de solução consensual, com prazo de 60 dias. <strong>A controvérsia é se o artigo 15 do Estatuto da Pessoa Idosa impede o aumento por idade e qual o passivo de restituição</strong> — a maior incerteza contábil aberta sobre o setor hoje.",
+              "fonte": "STF",
+              "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+              "fonte_label": "STF · Diário do Comércio",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Seminário reúne FenaSaúde e ANS para discutir mudanças regulatórias, telemedicina e novos modelos de assistência",
+              "url": "https://cqcs.com.br/noticia/csp-mg-promove-seminario-para-debater-desafios-e-tendencias-da-saude-suplementar/",
+              "texto": "O encontro de 21 de outubro em Belo Horizonte reúne a diretoria de Regulação Assistencial da FenaSaúde, a diretoria-adjunta da ANS e lideranças de SindSeg e Sincor. <strong>É nesses fóruns técnicos que se formam os consensos que depois viram norma</strong>, e a pauta de modelos alternativos de assistência está no centro.",
+              "fonte": "CSP-MG · FenaSaúde · ANS",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/csp-mg-realiza-seminario-sobre-saude-suplementar/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Debate setorial recoloca o envelhecimento como oportunidade e como pressão simultânea sobre a carteira",
+              "url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "texto": "A análise trata o aumento da expectativa de vida como conquista social que exige redesenho de produto e de cuidado. <strong>O mesmo vetor que amplia o mercado de proteção é o que pressiona a sinistralidade assistencial</strong> — e a resposta não é preço, é coordenação.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Inteligência artificial avança na jornada do sinistro com foco em velocidade de regulação",
+              "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+              "texto": "Soluções de análise automatizada de dano e documentação prometem encurtar o ciclo entre aviso e pagamento. <strong>Em saúde, o equivalente é a autorização assistencial</strong>: o tempo de resposta é o que o beneficiário efetivamente percebe como qualidade do plano.",
+              "fonte": "Solera",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "EXPERIÊNCIA",
+              "titulo": "Executivos defendem que tecnologia melhore processo sem substituir a relação humana no momento da indenização",
+              "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "texto": "O debate reuniu representantes de seguradoras e insurtechs sobre como comunicação e atendimento influenciam a percepção de valor. <strong>Clareza sobre o que foi contratado faz diferença justamente quando o cliente mais precisa</strong> — e é aí que se decide renovação e reclamação.",
+              "fonte": "Revista Apólice · CQCS",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "COBERTURA",
+              "titulo": "Base de beneficiários segue estável e mantém o mercado em disputa por carteira já existente",
+              "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "texto": "Os dados gerais da ANS mantêm a taxa de cobertura de assistência médica em torno de um quarto da população. <strong>Sem entrada líquida de novos beneficiários, o crescimento de um é necessariamente a perda de outro</strong> — e o custo de aquisição sobe na mesma proporção.",
+              "fonte": "ANS",
+              "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "fonte_label": "ANS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Campanha Acelera e plataforma de apoio reforçam a relação da Seguros Unimed com o canal no mês do corretor",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+              "texto": "Além da bonificação adicional em Vida, a companhia disponibiliza materiais de prospecção, treinamentos e soluções digitais aos parceiros. <strong>Canal bem equipado em Vida é o mesmo canal que conversa com o RH sobre saúde</strong> — e é por essa porta que a oferta integrada se materializa.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+              "fonte_label": "Seguros Unimed · Revista Apólice",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "O ponto da semana é de <strong>risco jurídico estrutural</strong>. A ADC 90 define se o reajuste por faixa etária sobrevive em contratos antigos e qual o passivo de restituição, e o STF encerrou o mérito dividido em três teses antes de mandar o caso para conciliação. Qualquer desenlace muda a modelagem atuarial de carteiras de longa duração — e cooperativa não está fora disso. Enquanto a definição não vem, a agenda prática segue sendo a de sempre, mas com o relógio correndo: coordenação de cuidado para absorver o efeito da longevidade e velocidade de resposta assistencial como atributo percebido de qualidade. O debate desta semana sobre tecnologia e atendimento humano é exatamente isso aplicado ao momento em que o cliente testa a promessa.",
+          "oportunidade": "Enquanto o Judiciário define o passivo, a alavanca disponível é a <strong>operacional</strong>: reduzir o tempo entre solicitação e autorização assistencial é a melhoria mais perceptível que uma operadora pode entregar sem mexer em preço. O Sistema Unimed tem a vantagem de poder testar isso por cooperativa, em escala real, antes de generalizar. Vale também ocupar os fóruns técnicos que reúnem ANS e FenaSaúde: a pauta de modelos alternativos de assistência é onde o modelo cooperativo tem o argumento mais forte e a menor presença relativa."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "JUDICIÁRIO",
+              "titulo": "Discussão sobre reajuste por faixa etária no STF alcança a lógica contratual de todos os produtos de longa duração",
+              "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+              "texto": "A controvérsia sobre o artigo 15 do Estatuto da Pessoa Idosa trata da legitimidade de variação de preço por idade. <strong>Produtos com tabela etária, incluindo o odontológico, dependem do mesmo princípio atuarial</strong> que está sendo discutido — e o desfecho define o desenho contratual futuro.",
+              "fonte": "STF",
+              "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+              "fonte_label": "STF · Diário do Comércio",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "MERCADO",
+              "titulo": "Distância entre cobertura médica e odontológica segue sendo o maior espaço relativo do setor",
+              "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "texto": "Os dados gerais da ANS mantêm a cobertura odontológica muito abaixo da de assistência médica. <strong>O espaço continua existindo; o gargalo continua sendo canal barato fora do contrato coletivo empresarial</strong>, onde quem decide é o RH.",
+              "fonte": "ANS",
+              "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+              "fonte_label": "ANS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CANAL",
+              "titulo": "Mês do corretor concentra campanhas e incentivos e reorganiza a prioridade comercial do canal",
+              "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "texto": "Companhias lançaram ações de produção com prêmios relevantes, válidas até o fim do ano e computando renovações. <strong>Quando o canal é inundado por incentivo, produto de ticket baixo como o odontológico perde espaço na agenda do corretor</strong> — a menos que esteja embutido na mesma venda.",
+              "fonte": "Akad Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "fonte_label": "Akad · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Seminário com FenaSaúde e ANS discute mudanças regulatórias que alcançam todas as modalidades",
+              "url": "https://cqcs.com.br/noticia/csp-mg-promove-seminario-para-debater-desafios-e-tendencias-da-saude-suplementar/",
+              "texto": "A pauta inclui regulação, telemedicina e modelos alternativos de assistência, com participação da diretoria da agência. <strong>Mudança de regra de contratação e transparência atinge primeiro quem vende por adesão</strong>, modalidade relevante no odontológico.",
+              "fonte": "CSP-MG · FenaSaúde · ANS",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/csp-mg-realiza-seminario-sobre-saude-suplementar/",
+              "fonte_label": "CQCS · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Apoio estruturado de prospecção ao corretor cria a via natural de venda casada de Odonto",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+              "texto": "A plataforma disponibilizada pela companhia reúne materiais para redes sociais, WhatsApp, e-mail marketing e apresentações de produto. <strong>Odonto é o produto que mais depende de estar dentro de outra conversa comercial</strong> — e material pronto é o que permite ao corretor incluí-lo sem esforço adicional.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+              "fonte_label": "Seguros Unimed · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EXPERIÊNCIA",
+              "titulo": "Percepção de valor no momento do uso ganha centralidade no debate do setor",
+              "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "texto": "A discussão sobre clareza contratual e atendimento no momento da indenização vale integralmente para produtos de uso frequente. <strong>Em odonto, cada atendimento é um teste de renovação</strong>, e não há tempo de maturação para recuperar percepção perdida.",
+              "fonte": "Revista Apólice · CQCS",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Duas pressões se somam no odontológico nesta semana. A primeira é <strong>jurídica e de fundo</strong>: a disputa sobre variação de preço por faixa etária no STF toca o princípio atuarial que sustenta qualquer produto de longa duração com tabela etária. A segunda é de <strong>atenção do canal</strong>: outubro encheu a agenda do corretor de campanhas de incentivo em produtos de ticket maior, e o odontológico só sobrevive a esse ruído quando está embutido em outra venda. A conclusão prática é a mesma das últimas edições, agora com urgência maior: Odonto defende-se por integração, não por preço.",
+          "oportunidade": "A plataforma de materiais de prospecção que a SU disponibilizou ao canal é a alavanca mais direta disponível: <strong>material pronto é o que permite ao corretor incluir Odonto numa conversa que ele já ia ter sobre Saúde ou Vida</strong>. Com a campanha Acelera trazendo o canal para a plataforma por causa do incentivo em Vida, há uma janela de atenção aberta até 30 de outubro para colocar a peça de Odonto no mesmo kit — custo marginal próximo de zero e aproveitamento de um tráfego que já vai existir."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Prudential entra em transação regional de até US$ 3 bilhões envolvendo Brasil e México",
+              "url": "https://cqcs.com.br/noticia/prudential-entra-no-radar-de-seguradoras-em-operacao-de-us-3-bilhoes/",
+              "texto": "O conjunto das operações latino-americanas passou a ser avaliado por grandes grupos seguradores, com a CNP entre os interessados. <strong>Quem comprar entra em Vida de alta renda com carteira, força de vendas e marca já montadas em dois mercados</strong> — exatamente a posição que leva anos para construir organicamente.",
+              "fonte": "Pipeline",
+              "fonte_url": "https://cqcs.com.br/tv/cqcs-destaque/bateu-e-deu-perda-total-entenda-o-que-muda-no-seguro-de-eletricos-cnp-mira-coface-e-prudential/",
+              "fonte_label": "Pipeline · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Swiss Re aponta que a individualização da aposentadoria está redesenhando a distribuição de Vida",
+              "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "texto": "O sigma 4/2026 analisa como a transferência de responsabilidade do planejamento previdenciário para o indivíduo, a <strong>concentração de intermediários e o avanço da IA</strong> mudam a relação entre consumidor, seguradora e canal. O relacionamento com quem já atende o cliente em fase de planejamento financeiro vira ativo decisivo.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Campanha Acelera oferece bonificação adicional de 30% de agenciamento em Vida Individual e Vida em Grupo",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+              "texto": "Válida até 30 de outubro, a ação aproveita o calendário do Dia do Corretor e combina incentivo com treinamento e materiais de prospecção. <strong>Incentivo concentrado em Vida é a forma mais direta de deslocar a prioridade de um canal que historicamente vende saúde primeiro</strong>.",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+              "fonte_label": "Seguros Unimed · CQCS · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CANAL",
+              "titulo": "Mês do corretor concentra campanhas de produção com premiação relevante em todo o mercado",
+              "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "texto": "Companhias lançaram ações que convertem produção em prêmios elevados, válidas até dezembro e considerando renovações. <strong>Outubro virou o pico anual de disputa pela atenção do canal</strong> — e quem não estiver na mesa com incentivo próprio sai da conversa por omissão.",
+              "fonte": "Akad Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "fonte_label": "Akad · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Debate setorial trata o aumento da expectativa de vida como redesenho obrigatório de produto",
+              "url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "texto": "A leitura é de que viver mais é conquista social que exige produtos capazes de acompanhar o segurado por mais tempo e com mais eventos. <strong>Cobertura que só paga na morte perde aderência quando o cliente espera usar o benefício em vida</strong>.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "TÉCNICA",
+              "titulo": "Discussão atuarial volta à pauta pública em meio à disputa sobre variação de preço por idade",
+              "url": "https://cqcs.com.br/coluna/ciencia-atuarial-transformando-o-risco-em-protecao/a-matematica-por-tras-da-industria-de-seguros/",
+              "texto": "A análise sobre os fundamentos matemáticos da precificação de risco ganha relevância justamente quando o Judiciário discute os limites da tabela etária. <strong>Quando o fundamento técnico do produto vira objeto de litígio, explicá-lo bem deixa de ser tema acadêmico</strong>.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/ciencia-atuarial-transformando-o-risco-em-protecao/a-matematica-por-tras-da-industria-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Vida segue como o segmento mais dinâmico do mercado, e a semana trouxe duas leituras complementares. A primeira é <strong>estrutural</strong>: o estudo da Swiss Re mostra que a individualização da aposentadoria desloca a distribuição para quem já conversa com o cliente sobre planejamento financeiro — e que a concentração de intermediários encarece esse acesso. A segunda é <strong>de curto prazo</strong>: a disputa pela Prudential virou transação regional de até US$ 3 bilhões, o que significa que o comprador chegará ao Brasil com escala pronta em alta renda. A SU, 14ª no segmento, tem o ativo que os compradores estão pagando caro para obter — acesso direto a um público de renda e vínculo — e entrou em outubro com incentivo concentrado exatamente aí.",
+          "oportunidade": "A campanha Acelera cria uma janela curta e aproveitável: até 30 de outubro, há <strong>incentivo financeiro para que o canal cooperativo priorize Vida</strong>, que é historicamente o produto que ele vende por último. O ganho duradouro, porém, não está no volume do mês — está em usar essa janela para instalar rotina: o corretor que cotar Vida empresarial agora pela plataforma tende a repetir depois que o incentivo acabar. Vale medir quantos parceiros fazem a primeira cotação de Vida na campanha, e não apenas o prêmio emitido."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "TENDÊNCIA",
+              "titulo": "Swiss Re aponta transferência da responsabilidade previdenciária para o indivíduo como vetor global",
+              "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "texto": "O estudo sigma 4/2026 trata a mudança nos sistemas previdenciários como motor de redesenho da distribuição de produtos de proteção financeira. <strong>Quanto menos o Estado e o empregador garantem renda na aposentadoria, mais a conversa de acumulação vira venda consultiva individual</strong>.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "MERCADO",
+              "titulo": "Setor pagou R$ 150,3 bilhões em indenizações, benefícios, resgates e sorteios até julho",
+              "url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+              "texto": "O volume inclui resgates e benefícios dos produtos de acumulação, que seguem elevados em relação às contribuições. <strong>Resgate alto com captação deprimida é a assinatura do efeito tributário</strong> sobre a previdência aberta neste ciclo.",
+              "fonte": "Susep",
+              "fonte_url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+              "fonte_label": "Susep · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "POLÍTICA",
+              "titulo": "Programas dos pré-candidatos entram no radar do setor e trazem tributação de volta à pauta",
+              "url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "texto": "A comparação das propostas mapeia pontos que podem alterar tributação e regulação de produtos financeiros e securitários. <strong>Para um segmento cuja retração tem causa exclusivamente tributária, o ciclo eleitoral é a variável mais relevante do próximo ano</strong>.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Debate sobre viver mais recoloca a insuficiência da renda previdenciária no centro da conversa",
+              "url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "texto": "A leitura setorial trata o aumento da expectativa de vida como conquista que exige planejamento financeiro de horizonte mais longo. <strong>É o argumento comercial mais concreto disponível para previdência complementar</strong> e segue subutilizado pelo canal independente.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CANAL",
+              "titulo": "Concentração de intermediários muda o custo de acesso ao cliente de acumulação",
+              "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "texto": "O estudo da Swiss Re destaca que a consolidação de distribuidores altera a relação de força entre seguradora e canal. <strong>Quanto mais concentrado o intermediário, maior o poder de barganha dele sobre quem fabrica o produto</strong> — e menor a margem de quem não tem canal próprio.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "TÉCNICA",
+              "titulo": "Fundamentos atuariais voltam à discussão pública em meio ao litígio sobre variação por idade",
+              "url": "https://cqcs.com.br/coluna/ciencia-atuarial-transformando-o-risco-em-protecao/a-matematica-por-tras-da-industria-de-seguros/",
+              "texto": "A análise sobre a matemática por trás da precificação ganha relevância quando o Judiciário discute os limites da tabela etária. <strong>Produtos de longa duração dependem de previsibilidade atuarial</strong>, e incerteza jurídica sobre ela encarece a reserva.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/ciencia-atuarial-transformando-o-risco-em-protecao/a-matematica-por-tras-da-industria-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Previdência entra em outubro com duas incertezas sobrepostas. A de <strong>curto prazo</strong> é tributária e agora também eleitoral: o IOF deixa de existir em 2027, mas a agenda fiscal do próximo governo é variável aberta, e o setor já começou a ler os programas como cenário. A de <strong>longo prazo</strong> é estrutural e global: o estudo da Swiss Re mostra que a responsabilidade pela renda na aposentadoria está migrando para o indivíduo em praticamente todos os mercados, o que aumenta a demanda potencial ao mesmo tempo em que concentra o poder nos intermediários que já fazem a conversa de planejamento financeiro.",
+          "oportunidade": "A conclusão prática não muda: <strong>2026 é janela de preparação, não de captação</strong>. O que a leitura da Swiss Re acrescenta é um alerta de canal — se a distribuição se concentra, quem não tiver acesso próprio ao cliente paga caro por ele depois. A SU tem esse acesso pela via cooperativa e pela relação assistencial com o profissional de saúde, público com renda, horizonte longo e baixa cobertura previdenciária privada. Instalar a conversa de longevidade nesse canal agora é mais barato do que comprá-la em 2027."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "RESSEGURO",
+              "titulo": "Cessões ao resseguro somam R$ 15,27 bilhões no semestre e crescem 2,7%",
+              "url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+              "texto": "O levantamento da Fenaber, a partir de dados da Susep, considera todos os ramos, incluindo Pessoas. A entidade associa a demanda à necessidade de absorver riscos de projetos de <strong>infraestrutura, energia e agronegócio</strong> — e lembra que capacidade disponível é condição para acompanhar operações maiores e mais complexas.",
+              "fonte": "Fenaber · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+              "fonte_label": "Fenaber · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Consulta pública sobre resseguro e retrocessão segue aberta e mexe na oferta preferencial ao mercado local",
+              "url": "https://revistaapolice.com.br/2026/09/susep-propoe-novas-regras-para-operacoes-de-resseguro/",
+              "texto": "O Edital 07/2026 atualiza a Circular 683/2022, adequando procedimentos à Lei 15.040/2024, à LC 213/2025 e à Resolução CNSP 494/2026, e regulamenta a <strong>formação do contrato de resseguro pelo silêncio do ressegurador</strong>. É a norma que define quanto risco uma seguradora de porte médio consegue assumir.",
+              "fonte": "Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/09/susep-propoe-novas-regras-para-operacoes-de-resseguro/",
+              "fonte_label": "Susep · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CRÉDITO",
+              "titulo": "Custo da inadimplência impulsiona a demanda por seguro de crédito no mercado empresarial",
+              "url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+              "texto": "A deterioração do comportamento de pagamento no ambiente corporativo está puxando a procura por proteção de recebíveis. <strong>Seguro de crédito é a linha que mais reage a aperto de juros e desaceleração</strong> — e é uma das poucas que crescem quando o resto do mercado empresarial encolhe.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "VAREJO",
+              "titulo": "Garantia estendida avança com a sazonalidade do varejo no Dia das Crianças",
+              "url": "https://cqcs.com.br/noticia/dia-das-criancas-deve-movimentar-r-927-bilhoes-no-varejo-garantia-estendida-cresce-83/",
+              "texto": "O produto cresce acompanhando o movimento de vendas no varejo em datas comemorativas. <strong>Garantia estendida é o seguro embarcado de maior penetração no Brasil</strong> e o melhor laboratório disponível para entender venda de proteção no ponto de consumo.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/dia-das-criancas-deve-movimentar-r-927-bilhoes-no-varejo-garantia-estendida-cresce-83/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "EMPRESARIAL",
+              "titulo": "Análise setorial mapeia a evolução recente do seguro empresarial e seus vetores de crescimento",
+              "url": "https://cqcs.com.br/coluna/evolucao-do-seguro-empresarial/",
+              "texto": "O acompanhamento mostra como a linha vem se comportando em um ciclo de juro alto e investimento contido. <strong>Seguro empresarial é despesa cortável no curto prazo</strong>, o que torna a retenção mais difícil que a conquista e valoriza quem tem relação instalada.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/coluna/evolucao-do-seguro-empresarial/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "TECNOLOGIA",
+              "titulo": "Inteligência artificial entra na regulação de sinistro com promessa de encurtar o ciclo de indenização",
+              "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+              "texto": "Ferramentas de análise automatizada de dano e documentação são apresentadas como forma de acelerar a jornada do sinistro. <strong>Em massificados, tempo de regulação é o principal determinante de satisfação e de custo administrativo</strong> ao mesmo tempo.",
+              "fonte": "Solera",
+              "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "ECOSSISTEMA",
+              "titulo": "Prestadores de rastreamento ampliam ofertas conjuntas e reforçam a cadeia de prevenção",
+              "url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+              "texto": "Parcerias que combinam telemetria e serviços de mobilidade ampliam o vínculo com o cliente além da apólice. <strong>Quem controla o dispositivo e o dado de uso ganha vantagem de precificação</strong> sobre quem só vende cobertura.",
+              "fonte": "Ituran · Sem Parar",
+              "fonte_url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Elementares traz nesta semana a confirmação de que a <strong>capacidade de resseguro é o verdadeiro limitador</strong> do segmento no Brasil. As cessões cresceram no semestre e a entidade do setor é explícita: sem capacidade disponível, não há como acompanhar projetos de infraestrutura, energia e agronegócio cada vez maiores. Isso conecta diretamente com a consulta pública ainda aberta sobre resseguro e retrocessão, que trata da oferta preferencial ao mercado local e da formação de contrato pelo silêncio do ressegurador — temas técnicos com efeito direto no apetite de quem não é líder. No plano comercial, a linha que mais reage ao ciclo é o seguro de crédito, puxado pela inadimplência corporativa.",
+          "oportunidade": "Duas leituras acionáveis. A primeira é de <strong>capacidade</strong>: a consulta de resseguro ainda aberta define o teto prático de subscrição da SU nas linhas que ela quer expandir — vale contribuir, não apenas acompanhar. A segunda é de <strong>produto</strong>: o seguro de crédito está crescendo por deterioração de recebíveis empresariais, e a cadeia do Sistema Unimed tem exposição relevante a recebíveis de prestadores e de contratos coletivos. É carteira que a companhia entende por dentro e que concorrente externo precifica no escuro."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Resolução CNSP 493 reescreve o registro do corretor e consolida 13 resoluções revogadas",
+              "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "texto": "A Susep poderá cancelar de ofício o registro do profissional suspenso que ficar <strong>180 dias sem se manifestar</strong>, e a norma trata também de devolução de prêmio e comissão em caso de cancelamento de apólice e liquidação da seguradora. Entra em vigor em janeiro de 2027 e exige revisão de cadastro e de processo em toda a rede.",
+              "fonte": "CNSP · Susep",
+              "fonte_url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "fonte_label": "CNSP · Correio Braziliense",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "wtf",
+              "tag_label": "TRIBUTÁRIO",
+              "titulo": "Prazo para corretoras do Simples definirem a opção de recolhimento entra na reta final",
+              "url": "https://cqcs.com.br/noticia/simplescorretores-tem-menos-de-uma-semana-para-fazer-opcoes/",
+              "texto": "A escolha define como IBS e CBS serão recolhidos a partir de 2027, com janela de ajuste ainda aberta. <strong>Corretora que não decidir permanece no modelo unificado por inércia</strong> — e a correção, embora possível, tem data para acabar.",
+              "fonte": "Fenacor",
+              "fonte_url": "https://cqcs.com.br/noticia/simplescorretores-tem-menos-de-uma-semana-para-fazer-opcoes/",
+              "fonte_label": "Fenacor · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "INCENTIVO",
+              "titulo": "Campanhas de produção com premiação elevada marcam o mês do corretor em todo o mercado",
+              "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "texto": "Ações válidas até dezembro, computando renovações, convertem produção em prêmios de valor relevante. <strong>Outubro é o pico anual de disputa pela atenção do canal</strong> — e seguradora sem incentivo próprio sai da conversa por omissão, não por mérito.",
+              "fonte": "Akad Seguros",
+              "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+              "fonte_label": "Akad · CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed combina bonificação de 30% em Vida, treinamentos e plataforma de prospecção",
+              "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+              "texto": "A campanha Acelera vale até 30 de outubro e vem acompanhada de materiais para redes sociais, WhatsApp, e-mail marketing, newsletters, folders e apresentações de produto. <strong>É o pacote completo que faltava: incentivo, capacitação e apoio de rotina na mesma conversa com o parceiro.</strong>",
+              "fonte": "Seguros Unimed",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+              "fonte_label": "Seguros Unimed · CQCS · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "FORMAÇÃO",
+              "titulo": "Entidades ampliam oferta de capacitação gratuita a corretores no último trimestre",
+              "url": "https://cqcs.com.br/noticia/aconseg-rj-patrocina-inscricoes-gratuitas-para-o-quarto-curso-de-2026-da-universidade-aconseg-uac/",
+              "texto": "Patrocínios que viabilizam inscrições gratuitas em cursos profissionais seguem como instrumento de retenção associativa. <strong>Onde há déficit de preparo técnico declarado pelo próprio canal, formação vira ativo de fidelização</strong> para quem a oferece.",
+              "fonte": "Aconseg-RJ",
+              "fonte_url": "https://cqcs.com.br/noticia/aconseg-rj-patrocina-inscricoes-gratuitas-para-o-quarto-curso-de-2026-da-universidade-aconseg-uac/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "RELACIONAMENTO",
+              "titulo": "Seguradoras ocupam a agenda do Dia do Corretor com treinamentos, encontros regionais e ações de marca",
+              "url": "https://cqcs.com.br/galeria/treinamento-capaz-da-allianz-em-sao-paulo/",
+              "texto": "Treinamentos em São Paulo, encontros com centenas de profissionais no Rio e ativações de patrocínio esportivo marcaram a semana. <strong>Presença física concentrada em outubro define a lembrança de marca que o corretor leva para a renovação de janeiro</strong>.",
+              "fonte": "Allianz · Tokio Marine · AXA",
+              "fonte_url": "https://cqcs.com.br/galeria/corretor-tokio-pj-reune-150-profissionais-no-rio/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Outubro é o mês em que o canal recebe tudo ao mesmo tempo, e esta semana confirmou o padrão: campanhas de incentivo com premiação alta, treinamentos presenciais, encontros regionais e ativações de marca. Mas há um item muito mais relevante por baixo do ruído: a <strong>Resolução CNSP 493</strong> reescreve as regras de registro, revoga treze resoluções e passa a valer em janeiro de 2027, autorizando o cancelamento de ofício do registro suspenso por 180 dias sem manifestação. Somada à decisão tributária do Simples que vence agora, são duas mudanças estruturais com data marcada sobre as quais a maior parte das corretoras pequenas não está informada — e explicar isso vale mais do que qualquer campanha.",
+          "oportunidade": "A SU chegou ao mês do corretor com o pacote certo — incentivo em Vida, treinamento e material de prospecção — e isso resolve a disputa de curto prazo. O diferencial de médio prazo, porém, está no que ninguém está oferecendo: <strong>orientação prática sobre a CNSP 493 e sobre a opção tributária do Simples</strong>. São duas mudanças com prazo definido que atingem diretamente o cadastro e o caixa da corretora parceira. Seguradora que entra nessa conversa deixa de ser fornecedora e vira referência — e, dentro de um canal cooperativo cativo, essa posição é muito mais difícil de ser disputada por quem só tem campanha."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "JUDICIÁRIO",
+              "titulo": "Conciliação no STF vira o caminho para resolver passivos setoriais de grande escala",
+              "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+              "texto": "Depois de encerrar o mérito da ADC 90 com três teses distintas, o plenário encaminhou a controvérsia ao núcleo de solução consensual com prazo de 60 dias. <strong>O Judiciário está preferindo acordo a tese vinculante em disputas com impacto econômico sistêmico</strong> — o que muda a estratégia jurídica do setor.",
+              "fonte": "STF",
+              "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+              "fonte_label": "STF · Diário do Comércio",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Consolidação normativa avança e substitui décadas de resoluções dispersas por textos únicos",
+              "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "texto": "A CNSP 493 revoga treze resoluções e artigos de uma décima quarta, reorganizando as regras de registro de corretor em um só documento. <strong>Consolidação normativa reduz ambiguidade, mas aumenta o custo de transição</strong> para quem opera com processo informal.",
+              "fonte": "CNSP · Susep",
+              "fonte_url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+              "fonte_label": "CNSP · Correio Braziliense",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "DISTRIBUIÇÃO",
+              "titulo": "Concentração de intermediários e individualização da aposentadoria redesenham a venda de proteção",
+              "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "texto": "O sigma 4/2026 da Swiss Re aponta que a transferência da responsabilidade previdenciária ao indivíduo amplia a importância de bancos, consultores e distribuidores já presentes na conversa de planejamento. <strong>Quem detém a relação define o produto que será recomendado</strong>.",
+              "fonte": "Swiss Re Institute",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+              "fonte_label": "Swiss Re · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "IA",
+              "titulo": "Inteligência artificial avança na jornada do sinistro sem substituir o julgamento humano",
+              "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "texto": "Executivos de grandes seguradoras defenderam que a tecnologia melhore processo e comunicação, mantendo a relação humana no momento da indenização. <strong>A fronteira entre o que a máquina decide e o que a pessoa decide virou escolha de governança</strong>, com consequência direta em litígio e reputação.",
+              "fonte": "Revista Apólice · CQCS",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "POLÍTICA",
+              "titulo": "Ciclo eleitoral entra no planejamento do setor com leitura comparada dos programas de governo",
+              "url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "texto": "O mapeamento das propostas identifica pontos capazes de alterar tributação, regulação e desenho de produto. <strong>Ano eleitoral congela agenda estruturante e transfere decisões relevantes para 2027</strong> — o que torna a janela regulatória atual mais valiosa.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/lula-x-flavio-bolsonaro-o-que-os-planos-de-governo-propoem-que-pode-impactar-o-mercado-de-seguros/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CAPACIDADE",
+              "titulo": "Resseguro consolida-se como o limitador real da expansão em riscos de grande porte",
+              "url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+              "texto": "A Fenaber associa o crescimento das cessões à necessidade de absorver riscos de infraestrutura, energia e agronegócio. <strong>Sem capacidade disponível, a ambição de crescer em grandes riscos é discurso</strong> — e a regra de oferta preferencial define quanto fica no mercado local.",
+              "fonte": "Fenaber · Susep",
+              "fonte_url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+              "fonte_label": "Fenaber · Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "CRÉDITO",
+              "titulo": "Inadimplência corporativa reposiciona o seguro de crédito como linha anticíclica",
+              "url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+              "texto": "A deterioração do comportamento de pagamento empresarial impulsiona a procura por proteção de recebíveis. <strong>É uma das poucas linhas que crescem quando o ambiente de negócios piora</strong>, o que a torna hedge natural de carteiras expostas ao ciclo.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "TALENTO",
+              "titulo": "Ecossistema de inovação e programas de aceleração aproximam startups da operação das corretoras",
+              "url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+              "texto": "Grandes corretoras passaram a operar programas próprios de aceleração, incorporando soluções diretamente à sua operação. <strong>O intermediário está deixando de consumir tecnologia do fabricante e começando a produzir a sua</strong> — o que muda a dependência em relação à seguradora.",
+              "fonte": "Alper Seguros",
+              "fonte_url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "A tendência da semana é a do <strong>risco que se resolve fora da norma</strong>. O STF encerrou o mérito da ADC 90 dividido em três teses e mandou o caso para conciliação: em disputas de impacto sistêmico, acordo está virando preferência sobre tese vinculante, e isso muda a estratégia jurídica de quem tem passivo de longa duração. Em paralelo, a consolidação normativa avança — a CNSP 493 substitui treze resoluções por um texto único —, o ciclo eleitoral congela a agenda estruturante até 2027 e o estudo da Swiss Re mostra que o poder na cadeia está migrando para quem detém a relação com o cliente. O fio que une tudo: <strong>previsibilidade está escasseando, e quem tem relação direta com o segurado absorve melhor a incerteza</strong>."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Modelar o impacto dos cenários da ADC 90 sobre carteiras de longa duração antes do fim do prazo de conciliação",
+          "texto": "O STF encerrou o mérito com três teses distintas e remeteu o caso ao núcleo de solução consensual, com prazo de 60 dias. <strong>Está em jogo a validade do reajuste por faixa etária em contratos antigos e o volume de ressarcimento associado — é a maior incerteza contábil aberta sobre o setor, e vale igualmente para operação cooperativa.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            },
+            {
+              "label": "Jurídico",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Usar a janela da campanha Acelera para instalar rotina de cotação de Vida no canal cooperativo",
+          "texto": "A bonificação adicional de 30% em Vida Individual e Vida em Grupo vale até 30 de outubro e vem com treinamento e material de prospecção. <strong>O ganho que importa não é o prêmio do mês: é quantos parceiros fazem a primeira cotação de Vida pela plataforma e repetem depois que o incentivo acabar — medir isso é mais útil que medir emissão.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Vida",
+              "tipo": ""
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Orientar a rede parceira sobre a Resolução CNSP 493 e sobre o prazo da opção tributária do Simples",
+          "texto": "A CNSP 493 revoga treze resoluções, reescreve as regras de registro e autoriza o cancelamento de ofício após 180 dias de suspensão sem manifestação, valendo a partir de janeiro de 2027; a opção de IBS e CBS está na reta final. <strong>São duas mudanças com data marcada sobre as quais a maior parte das corretoras pequenas não está informada — e ninguém no mercado está ocupando essa conversa.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Contribuir com a consulta pública de resseguro antes do encerramento do prazo",
+          "texto": "O Edital 07/2026 trata da oferta preferencial ao mercado local, da comprovação de insuficiência de capacidade e da formação do contrato pelo silêncio do ressegurador. <strong>Capacidade de resseguro é o teto prático de subscrição de quem não é líder — e é justamente nas linhas de Elementares que a SU quer crescer que esse teto decide o apetite possível.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar seguro de crédito ancorado nos recebíveis da própria cadeia do Sistema Unimed",
+          "texto": "A inadimplência corporativa está impulsionando a demanda por proteção de recebíveis, numa das poucas linhas que crescem quando o ambiente de negócios piora. <strong>A cadeia Unimed tem exposição relevante a recebíveis de prestadores e de contratos coletivos — carteira que a companhia conhece por dentro e que concorrente externo precifica no escuro.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            },
+            {
+              "label": "Cross-sell",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Preparar a oferta de acumulação para um cenário de distribuição mais concentrada",
+          "texto": "O estudo da Swiss Re mostra que a individualização da aposentadoria amplia a demanda ao mesmo tempo em que concentra o poder nos intermediários que já conversam com o cliente sobre planejamento financeiro. <strong>A SU tem acesso próprio a um público de renda e vínculo pela via cooperativa e assistencial; instalar a conversa de longevidade nesse canal agora custa menos do que comprar acesso em 2027.</strong>",
+          "tags": [
+            {
+              "label": "Longo prazo",
+              "tipo": ""
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            },
+            {
+              "label": "Distribuição",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "Grupo está entre as operadoras diretamente alcançadas pela discussão de reajuste por faixa etária no STF",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A controvérsia da ADC 90 atinge contratos individuais antigos vinculados a termos firmados com a reguladora, nos quais o grupo é parte relevante. <strong>Para quem tem carteira legada grande, o desfecho da conciliação é item de balanço</strong>, não apenas de contencioso.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "EXPERIÊNCIA",
+                "titulo": "Executivos do grupo defendem equilíbrio entre tecnologia e atendimento humano no momento do sinistro",
+                "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "texto": "A companhia participou do debate sobre como comunicação e clareza contratual influenciam a percepção de valor do seguro. <strong>Grupo com volume de sinistros alto ganha mais com padronização de processo do que qualquer concorrente menor</strong> — e perde mais quando ela falha.",
+                "fonte": "Revista Apólice · CQCS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "Companhia figura entre as operadoras com carteira legada exposta à decisão da ADC 90",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A disputa sobre variação de preço por idade alcança contratos individuais antigos vinculados a termos de compromisso com a reguladora. <strong>Operadora sem verticalização tem menos alavancas para absorver um passivo de restituição</strong> do que um grupo com rede própria.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "SETOR",
+                "titulo": "Agenda regulatória da saúde suplementar segue densa com FenaSaúde e ANS em debate público",
+                "url": "https://cqcs.com.br/noticia/csp-mg-promove-seminario-para-debater-desafios-e-tendencias-da-saude-suplementar/",
+                "texto": "O seminário de outubro reúne regulação assistencial e diretoria da agência para tratar de telemedicina e modelos alternativos de assistência. <strong>Entidade que ocupa a cadeira de representação define a pauta antes que ela vire norma</strong>.",
+                "fonte": "CSP-MG · FenaSaúde · ANS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/csp-mg-realiza-seminario-sobre-saude-suplementar/",
+                "fonte_label": "CQCS · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Seguradora multiproduto · Itaú Unibanco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "CANAL",
+                "titulo": "Mês do corretor concentra campanhas e ações de relacionamento em todo o mercado",
+                "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "texto": "O calendário de outubro trouxe incentivos de produção com premiação elevada e forte presença física das seguradoras junto ao canal. <strong>Grupo com portfólio amplo transforma campanha única em venda cruzada de várias linhas</strong> — vantagem que o monoproduto não replica.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "ECOSSISTEMA",
+                "titulo": "Parcerias de mobilidade e telemetria ampliam o vínculo com o cliente para além da apólice",
+                "url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+                "texto": "Ofertas combinadas de rastreamento e serviços de mobilidade estendem o relacionamento ao uso cotidiano do veículo. <strong>É o mesmo princípio do ecossistema completo que sustenta a retenção do grupo em Auto</strong>.",
+                "fonte": "Ituran · Sem Parar",
+                "fonte_url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Operadora verticalizada · Rede própria",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "Decisão sobre reajuste por faixa etária adiciona incerteza a um grupo em plano de recuperação de rentabilidade",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A conciliação aberta no STF mantém em aberto o passivo potencial de restituição do setor. <strong>Para quem está executando desalavancagem, incerteza contábil de grande escala encarece capital e reduz margem de manobra</strong>.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Seguradora independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Estudo global aponta concentração de intermediários como novo risco para seguradoras independentes de pessoas",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O sigma 4/2026 da Swiss Re mostra que a consolidação de distribuidores altera a relação de força entre fabricante e canal. <strong>Quem não tem canal próprio paga mais caro pelo acesso ao cliente</strong> — exposição direta de quem opera só por canal aberto.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "MÊS DO CORRETOR",
+                "titulo": "Companhias de pessoas intensificam ações de incentivo e relacionamento em outubro",
+                "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "texto": "O calendário do Dia do Corretor concentra campanhas de produção em todo o mercado. <strong>Seguradora especializada em pessoas depende mais do canal independente</strong> e sente mais a inflação de incentivo que o período provoca.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Operadora de saúde · Controle Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "Operadora está entre as alcançadas pela discussão sobre reajuste de contratos antigos no STF",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A ADC 90 trata de contratos individuais firmados antes da lei de 1998 e vinculados a termos de compromisso com a reguladora. <strong>Carteira legada é ativo de baixa rotatividade e, agora, de passivo jurídico incerto</strong>.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Bancassurance · Caixa Econômica Federal",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Bancassurance ganha relevância num cenário de concentração de intermediários",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O estudo da Swiss Re aponta que a relação com quem já atende o consumidor em planejamento financeiro vira ativo decisivo. <strong>Rede bancária própria é a forma mais concentrada e barata de acesso que existe no mercado brasileiro</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª",
+            "nome": "★ Seguros Unimed",
+            "tipo": "Braço segurador do Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "CANAL",
+                "titulo": "Seguros Unimed lança campanha Acelera com bonificação adicional de 30% em Vida Individual e Vida em Grupo",
+                "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+                "texto": "Válida até 30 de outubro, a ação aproveita o calendário do Dia do Corretor e vem acompanhada de treinamentos e de plataforma com materiais de comunicação e prospecção. <strong>É incentivo, capacitação e apoio de rotina entregues juntos — o pacote que faltava ao lado das ferramentas digitais lançadas nas últimas semanas.</strong>",
+                "fonte": "Seguros Unimed",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+                "fonte_label": "Seguros Unimed · CQCS · Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Companhia estrutura apoio de prospecção e reforça o relacionamento com o canal cooperativo",
+                "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+                "texto": "A plataforma disponibilizada reúne conteúdos para redes sociais, materiais para WhatsApp, e-mail marketing, newsletters, folders e apresentações de produto. <strong>Canal cativo com material pronto é a estrutura de distribuição mais barata disponível no mercado</strong> — e é o ativo que os concorrentes estão comprando com treinamento e campanha.",
+                "fonte": "Seguros Unimed",
+                "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+                "fonte_label": "Seguros Unimed · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "MERCADO",
+                "titulo": "Setor pagou R$ 150,3 bilhões em indenizações, benefícios, resgates e sorteios até julho",
+                "url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+                "texto": "O volume inclui resgates de produtos de acumulação, núcleo dos modelos de bancassurance. <strong>Resgate elevado com captação deprimida mantém a pressão sobre quem depende de VGBL para volume</strong> até o fim da tributação em 2027.",
+                "fonte": "Susep",
+                "fonte_url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+                "fonte_label": "Susep · CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Bancassurance · Zurich + Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "SEGMENTO",
+                "titulo": "Swiss Re aponta disputa crescente por clientes de Vida com previdência mais individualizada",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O estudo destaca a importância do relacionamento com bancos e distribuidores que já atendem consumidores em fase de planejamento financeiro. <strong>Modelo que combina marca global de seguro com rede bancária nacional é o desenho que o estudo descreve como vencedor</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CANAL",
+                "titulo": "Mês do corretor concentra ações de marca e relacionamento com o canal independente",
+                "url": "https://cqcs.com.br/galeria/axa-no-brasil-realiza-acoes-com-o-liverpool-em-comemoracao-ao-dia-do-corretor/",
+                "texto": "Ativações de patrocínio e eventos regionais marcaram a agenda de outubro em todo o mercado. <strong>Para quem cresce por bancassurance, presença no canal independente é diversificação, não dependência</strong> — o que torna a disputa menos custosa.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://cqcs.com.br/galeria/axa-no-brasil-realiza-acoes-com-o-liverpool-em-comemoracao-ao-dia-do-corretor/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "A semana tem um fato que iguala todo mundo e um que separa. O que iguala é o <strong>STF</strong>: o mérito da ADC 90 foi encerrado com três teses distintas e o caso seguiu para conciliação com prazo de 60 dias. Bradesco Saúde, SulAmérica, Amil e as demais operadoras com carteira individual legada estão expostas ao mesmo passivo potencial, e a cooperativa não está fora disso. É o tipo de incerteza que não se resolve com execução comercial. O que separa é a <strong>Prudential</strong>: a transação virou regional, somando Brasil e México num pacote de até US$ 3 bilhões, com a CNP entre os interessados. Quem comprar entra em Vida de alta renda com escala instantânea em dois mercados — e a Seguros Unimed, 14ª no segmento, vai encontrar um concorrente reforçado exatamente onde tem a maior lacuna. No pano de fundo, o estudo da Swiss Re entrega o diagnóstico que organiza os dois: com a aposentadoria individualizada e os intermediários cada vez mais concentrados, <strong>o poder migra para quem detém a relação direta com o cliente</strong>. É exatamente o que a SU tem pela via cooperativa e assistencial — e é o que a campanha Acelera, com incentivo, treinamento e material de prospecção, finalmente começou a instrumentalizar."
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "ADC 90 vai à conciliação no STF e mantém aberto o passivo de reajuste por faixa etária",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "O plenário encerrou o mérito dividido em três teses e remeteu a controvérsia ao núcleo de solução consensual. <strong>Todas as grandes operadoras com carteira individual legada compartilham a mesma exposição</strong>, e o desfecho é de balanço, não de contencioso rotineiro.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "FenaSaúde e ANS levam telemedicina e modelos alternativos de assistência ao debate público",
+                "url": "https://cqcs.com.br/noticia/csp-mg-promove-seminario-para-debater-desafios-e-tendencias-da-saude-suplementar/",
+                "texto": "O seminário de outubro reúne a diretoria de Regulação Assistencial da federação e a diretoria-adjunta da agência. <strong>A disputa por qual modelo assistencial será reconhecido como padrão começa nesses fóruns</strong>, antes da norma.",
+                "fonte": "CSP-MG · FenaSaúde · ANS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/csp-mg-realiza-seminario-sobre-saude-suplementar/",
+                "fonte_label": "CQCS · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "EXPERIÊNCIA",
+                "titulo": "Clareza contratual e atendimento no sinistro ganham centralidade no debate executivo",
+                "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "texto": "O setor discutiu como comunicação e tecnologia influenciam a percepção de valor no momento da indenização. <strong>No segmento executivo, onde o preço é justificado pela experiência, falha de atendimento é perda direta de argumento</strong>.",
+                "fonte": "Revista Apólice · CQCS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "Incerteza sobre variação por faixa etária pesa mais em carteiras de ticket alto e idade avançada",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A discussão da ADC 90 trata exatamente da legitimidade do aumento por idade. <strong>Produto premium concentra beneficiários de faixa etária mais alta e mensalidade elevada</strong> — é onde o passivo potencial por beneficiário é maior.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "TECNOLOGIA",
+                "titulo": "IA entra na jornada do sinistro com promessa de encurtar o ciclo entre aviso e resolução",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+                "texto": "Ferramentas de análise automatizada são apresentadas como forma de acelerar a regulação. <strong>O equivalente assistencial é o tempo de autorização</strong>, e é nele que a operadora nativa digital precisa provar vantagem real.",
+                "fonte": "Solera",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/solera-apresenta-qapter-e-usa-ia-para-transformar-a-jornada-do-sinistro/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "GOVERNANÇA",
+                "titulo": "Debate executivo fixa a fronteira entre decisão automatizada e julgamento humano",
+                "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "texto": "Executivos defenderam que a tecnologia melhore processo sem substituir a relação humana no momento crítico. <strong>Para quem decide autorização por algoritmo, definir onde a máquina para é escolha de governança com consequência regulatória</strong>.",
+                "fonte": "Revista Apólice · CQCS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "JUDICIÁRIO",
+                "titulo": "ADC 90 decide o futuro da variação de preço por idade e atinge diretamente a carteira sênior",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "A controvérsia gira em torno do artigo do Estatuto da Pessoa Idosa que proíbe discriminação e aumento por idade. <strong>Se a variação etária cair, o produto sênior precisa ser inteiramente reprecificado</strong> — e o efeito atinge quem opera esse nicho de forma dedicada.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "LONGEVIDADE",
+                "titulo": "Debate setorial trata o envelhecimento como redesenho obrigatório de produto e de cuidado",
+                "url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+                "texto": "A leitura é de que viver mais exige produtos que acompanhem o segurado por mais tempo e com mais eventos. <strong>Em carteira sênior, coordenação ativa de cuidado é a única variável que a operadora controla</strong> quando preço vira tema jurídico.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/coluna/mercado-fomento/viver-mais-e-uma-das-grandes-conquistas-da-sociedade/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ATENÇÃO",
+                "titulo": "Mês do corretor desloca a prioridade comercial do canal para produtos de ticket maior",
+                "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "texto": "Campanhas de produção com premiação elevada concentram a agenda de outubro em todo o mercado. <strong>Odonto só sobrevive ao ruído de incentivo quando está embutido na mesma venda</strong> de saúde ou vida.",
+                "fonte": "Akad Seguros",
+                "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+                "fonte_label": "Akad · CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Agenda da ANS em debate público alcança contratação e transparência em todas as modalidades",
+                "url": "https://cqcs.com.br/noticia/csp-mg-promove-seminario-para-debater-desafios-e-tendencias-da-saude-suplementar/",
+                "texto": "O seminário com FenaSaúde e diretoria da agência trata de mudanças regulatórias amplas. <strong>Alteração de regra de contratação atinge primeiro o coletivo por adesão</strong>, modalidade relevante no odontológico.",
+                "fonte": "CSP-MG · FenaSaúde · ANS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/csp-mg-realiza-seminario-sobre-saude-suplementar/",
+                "fonte_label": "CQCS · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint Odonto",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "EXPERIÊNCIA",
+                "titulo": "Percepção de valor no uso define a renovação em produto de utilização frequente",
+                "url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "texto": "A discussão sobre clareza contratual e atendimento vale integralmente para produtos usados o ano inteiro. <strong>Em odonto premium, cada atendimento é um teste de renovação</strong> e não há tempo de maturação para corrigir percepção.",
+                "fonte": "Revista Apólice · CQCS",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/tecnologia-avanca-mas-atendimento-humano-segue-essencial",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "MERCADO",
+                "titulo": "Alto padrão odontológico segue restrito a nichos corporativos com cultura de benefício diferenciado",
+                "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+                "texto": "Com o crescimento concentrado no coletivo empresarial, o produto premium depende de contas com orçamento específico. <strong>É mercado pequeno, disputado por serviço e muito sensível a revisão de pacote</strong>.",
+                "fonte": "ANS",
+                "fonte_url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais",
+                "fonte_label": "ANS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "M&A",
+                "titulo": "Prudential entra em transação regional de até US$ 3 bilhões com Brasil e México no mesmo pacote",
+                "url": "https://cqcs.com.br/noticia/prudential-entra-no-radar-de-seguradoras-em-operacao-de-us-3-bilhoes/",
+                "texto": "Grandes grupos seguradores avaliam o conjunto das operações, com a CNP entre os interessados. <strong>O comprador assume posição de alta renda em dois dos maiores mercados latino-americanos de uma vez</strong>.",
+                "fonte": "Pipeline",
+                "fonte_url": "https://cqcs.com.br/tv/cqcs-destaque/bateu-e-deu-perda-total-entenda-o-que-muda-no-seguro-de-eletricos-cnp-mira-coface-e-prudential/",
+                "fonte_label": "Pipeline · CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Concentração de intermediários muda a relação de força entre seguradora e canal em Vida",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O sigma 4/2026 aponta que a consolidação de distribuidores e a individualização da aposentadoria redesenham a venda de proteção. <strong>Quem não tem canal próprio paga mais caro pelo acesso ao cliente</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "TENDÊNCIA",
+                "titulo": "Transferência da responsabilidade previdenciária ao indivíduo é apontada como vetor global",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O estudo da Swiss Re trata a mudança nos sistemas previdenciários como motor de redesenho da distribuição de proteção financeira. <strong>Menos garantia institucional significa mais venda consultiva individual</strong> — e mais dependência de quem detém a relação.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CICLO",
+                "titulo": "Resgates elevados com captação deprimida mantêm a assinatura do efeito tributário",
+                "url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+                "texto": "O setor pagou R$ 150,3 bilhões em indenizações, benefícios, resgates e sorteios até julho. <strong>Todos os players de acumulação disputam um mercado que encolheu por decisão tributária</strong>, não por preferência do cliente.",
+                "fonte": "Susep",
+                "fonte_url": "https://cqcs.com.br/noticia/setor-segurador-paga-r-1503-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios-ate-julho/",
+                "fonte_label": "Susep · CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CAPACIDADE",
+                "titulo": "Cessões ao resseguro crescem e confirmam a capacidade como limitador das linhas de responsabilidade",
+                "url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+                "texto": "O levantamento da Fenaber associa a demanda à absorção de riscos de projetos maiores e mais complexos. <strong>Em RC, risco de cauda longa, a capacidade de resseguro define o limite comercial da seguradora</strong>.",
+                "fonte": "Fenaber · Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+                "fonte_label": "Fenaber · Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "reg",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Consulta sobre resseguro regula formação de contrato pelo silêncio do ressegurador",
+                "url": "https://revistaapolice.com.br/2026/09/susep-propoe-novas-regras-para-operacoes-de-resseguro/",
+                "texto": "O Edital 07/2026 adequa a norma à Lei 15.040/2024 e à Resolução CNSP 494/2026, incluindo o mecanismo de aceitação tácita. <strong>Segurança sobre quando o contrato existe muda o risco operacional de toda colocação de responsabilidade</strong>.",
+                "fonte": "Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/09/susep-propoe-novas-regras-para-operacoes-de-resseguro/",
+                "fonte_label": "Susep · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "JURÍDICO",
+                "titulo": "Preferência por conciliação em disputas sistêmicas muda a estratégia jurídica das administrações",
+                "url": "https://www.mixvale.com.br/2026/10/07/stf-suspende-julgamento-sobre-planos-de-saude-e-busca-acordo/",
+                "texto": "O encaminhamento da ADC 90 ao núcleo de solução consensual sinaliza que o Judiciário busca acordo em controvérsias de alto impacto econômico. <strong>Conduzir negociação de passivo bilionário é decisão de administração</strong> — e decisão de administração é o que D&O cobre.",
+                "fonte": "STF",
+                "fonte_url": "https://diariodocomercio.com.br/economia/julgamento-stf-reajuste-planos-saude-idosos/",
+                "fonte_label": "STF · Diário do Comércio",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CONFORMIDADE",
+                "titulo": "Consolidação normativa impõe revisão de processo com prazo definido",
+                "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+                "texto": "A CNSP 493 revoga treze resoluções e entra em vigor em janeiro de 2027. <strong>Transição normativa mal conduzida é falha de gestão com data conhecida</strong>, o que a torna especialmente difícil de justificar depois.",
+                "fonte": "CNSP · Susep",
+                "fonte_url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+                "fonte_label": "CNSP · Correio Braziliense",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CRÉDITO",
+                "titulo": "Inadimplência corporativa impulsiona a demanda por proteção de recebíveis",
+                "url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+                "texto": "O custo da inadimplência vem puxando a procura por seguro de crédito no ambiente empresarial. <strong>É uma das poucas linhas que crescem quando o ciclo piora</strong>, funcionando como hedge natural da carteira corporativa.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/noticia/custo-da-inadimplencia-impulsionamercado-de-seguro-de-credito-em-santa-catarina/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CAPACIDADE",
+                "titulo": "Fenaber associa crescimento das cessões à absorção de riscos de infraestrutura, energia e agronegócio",
+                "url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+                "texto": "A entidade lembra que ter capacidade disponível é condição para acompanhar projetos cada vez maiores. <strong>Ambição de crescer em grandes riscos sem programa de resseguro estruturado é discurso</strong>.",
+                "fonte": "Fenaber · Susep",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/cessoes-ao-resseguro-somam-r-1527-bilhoes-no-semestre/",
+                "fonte_label": "Fenaber · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "VAREJO",
+                "titulo": "Garantia estendida avança com a sazonalidade do varejo e confirma o seguro embarcado como canal de massa",
+                "url": "https://cqcs.com.br/noticia/dia-das-criancas-deve-movimentar-r-927-bilhoes-no-varejo-garantia-estendida-cresce-83/",
+                "texto": "O produto acompanha o movimento de vendas em datas comemorativas, com crescimento consistente. <strong>É o melhor laboratório disponível no Brasil para entender venda de proteção no ponto de consumo</strong> — lição aplicável a residencial.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/noticia/dia-das-criancas-deve-movimentar-r-927-bilhoes-no-varejo-garantia-estendida-cresce-83/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "PREVENÇÃO",
+                "titulo": "Parcerias de telemetria e mobilidade estendem o vínculo com o cliente além da apólice",
+                "url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+                "texto": "Ofertas combinadas aproximam o prestador de prevenção do uso cotidiano do segurado. <strong>Quem controla o dispositivo controla o dado de risco</strong> — e precifica massificados melhor que o concorrente.",
+                "fonte": "Ituran · Sem Parar",
+                "fonte_url": "https://cqcs.com.br/noticia/sem-parar-oferece-3-meses-gratis-e-66-de-desconto-para-clientes-ituran/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "ok",
+            "emoji": "🎉",
+            "titulo": "Pico do Ano",
+            "url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+            "texto": "Outubro trouxe o mercado inteiro para a agenda do canal: campanhas de produção com premiação elevada da Akad, bonificação adicional de 30% em Vida da Seguros Unimed, treinamentos da Allianz em São Paulo, encontro da Tokio com 150 profissionais no Rio, ações de marca da AXA e live do Sincor-RJ. É o momento de maior disputa por atenção do corretor em todo o calendário."
+          },
+          "disputa": {
+            "status": "alerta",
+            "emoji": "⚖️",
+            "titulo": "Registro Reescrito",
+            "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+            "texto": "A Resolução CNSP 493 revoga treze resoluções antigas, reorganiza as regras de registro em um texto único e autoriza a Susep a cancelar de ofício o registro do corretor que ficar 180 dias suspenso sem se manifestar. Entra em vigor em janeiro de 2027 e trata também de devolução de prêmio e comissão. É a mudança mais relevante para a profissão em anos — e quase ninguém está explicando-a ao canal."
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "📱",
+            "titulo": "Apoio de Rotina",
+            "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+            "texto": "A tendência passou de ferramenta de cotação para apoio completo à rotina comercial: a plataforma que a Seguros Unimed disponibiliza aos parceiros reúne conteúdos para redes sociais, materiais de WhatsApp, e-mail marketing, newsletters, folders e apresentações de produto. Resolver a prospecção do corretor, e não só a cotação, é o novo campo de disputa."
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "Alper Seguros",
+            "tipo": "Corretora Nacional · Consolidadora",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "INOVAÇÃO",
+                "titulo": "Alper promove programa próprio de aceleração de startups em São Paulo",
+                "url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+                "texto": "A consolidadora passou a operar iniciativa dedicada a incorporar soluções tecnológicas diretamente à sua operação. <strong>Corretora que produz a própria tecnologia reduz a dependência do que a seguradora oferece</strong> — e muda a relação de força na negociação.",
+                "fonte": "Alper Seguros",
+                "fonte_url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Lockton Brasil",
+            "tipo": "Corretora Global · Benefícios e People Solutions",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "MERCADO",
+                "titulo": "Corretagem global opera em ambiente de concentração crescente de intermediários",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "O estudo da Swiss Re aponta a consolidação de distribuidores como vetor que altera a relação entre seguradora e canal. <strong>Para a corretagem global, concentração é vantagem — desde que ela esteja do lado que consolida</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Wiz Co · BRB Seguros",
+            "tipo": "Plataforma de Canais · Parcerias de Distribuição",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "DISTRIBUIÇÃO",
+                "titulo": "Modelos de monetização de canal ganham valor com a concentração apontada em estudo global",
+                "url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "texto": "A análise da Swiss Re destaca o peso crescente de quem já detém a relação com o consumidor em planejamento financeiro. <strong>Plataforma que organiza acesso a canal de terceiros vale mais quanto mais caro fica construir canal próprio</strong>.",
+                "fonte": "Swiss Re Institute",
+                "fonte_url": "https://revistaapolice.com.br/2026/10/swiss-re-ve-avanco-da-disputa-por-clientes-de-seguros-de-vida",
+                "fonte_label": "Swiss Re · Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "UCS · União dos Corretores de Seguros",
+            "tipo": "Entidade de Corretores · Base Associativa",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "RELACIONAMENTO",
+                "titulo": "UCS recebe o Grupo HDI em encontro de apresentação de soluções para corretores",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/grupo-hdi-apresenta-solucoes-para-corretor-no-evento-trocando-ideias-da-ucs/",
+                "texto": "O evento Trocando Ideias manteve o formato de contato direto entre seguradora e base associada. <strong>Entidade regional é o caminho mais barato para alcançar dezenas de corretoras com um único movimento comercial</strong>.",
+                "fonte": "UCS · Grupo HDI",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/grupo-hdi-apresenta-solucoes-para-corretor-no-evento-trocando-ideias-da-ucs/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Aconseg-SP",
+            "tipo": "Associação de Assessorias · São Paulo",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "FORMAÇÃO",
+                "titulo": "Associações de assessorias ampliam oferta de capacitação gratuita no último trimestre",
+                "url": "https://cqcs.com.br/noticia/aconseg-rj-patrocina-inscricoes-gratuitas-para-o-quarto-curso-de-2026-da-universidade-aconseg-uac/",
+                "texto": "Patrocínios que viabilizam inscrições gratuitas em cursos profissionais seguem como instrumento de retenção associativa. <strong>Assessoria que forma o corretor da sua base cria dependência técnica, não apenas comercial</strong>.",
+                "fonte": "Aconseg-RJ",
+                "fonte_url": "https://cqcs.com.br/noticia/aconseg-rj-patrocina-inscricoes-gratuitas-para-o-quarto-curso-de-2026-da-universidade-aconseg-uac/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "CVG-RJ",
+            "tipo": "Clube de Vida em Grupo · Rio de Janeiro",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "AGENDA",
+                "titulo": "Entidades do Rio concentram ações de celebração e conteúdo no mês do corretor",
+                "url": "https://cqcs.com.br/galeria/live-dia-do-corretor-sincor-rj/",
+                "texto": "Lives e encontros marcaram a semana do Dia do Corretor na praça fluminense. <strong>Outubro é quando a entidade prova valor ao associado</strong> — e quando a seguradora consegue o acesso mais barato a esse público.",
+                "fonte": "Sincor-RJ",
+                "fonte_url": "https://cqcs.com.br/galeria/live-dia-do-corretor-sincor-rj/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Sompo Seguros",
+            "tipo": "Seguradora · Relacionamento com o Canal",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "SINISTRO",
+                "titulo": "Inovação na jornada de sinistro reúne lideranças do mercado em roda de conversa",
+                "url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/roda-de-conversa-do-cqcs-inovacao-reune-lideres-do-mercado-para-debater-inovacao-em-sinistros/",
+                "texto": "O encontro discutiu como tecnologia e comunicação podem transformar a percepção de valor do seguro no momento da indenização. <strong>Sinistro é onde o corretor ganha ou perde o cliente</strong> — e onde a seguradora ganha ou perde o corretor.",
+                "fonte": "Mercado Segurador",
+                "fonte_url": "https://cqcs.com.br/tv/canal-cqcs-in-loco/roda-de-conversa-do-cqcs-inovacao-reune-lideres-do-mercado-para-debater-inovacao-em-sinistros/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "hot",
+            "tag_label": "REGULAÇÃO",
+            "titulo": "CNSP 493 reescreve o registro do corretor e ninguém está explicando isso ao canal",
+            "url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+            "texto": "A norma revoga treze resoluções, autoriza cancelamento de ofício após 180 dias de suspensão sem manifestação e trata de devolução de prêmio e comissão, valendo a partir de janeiro de 2027. <strong>Seguradora que traduzir essa mudança para o parceiro ocupa uma conversa que nenhuma campanha compra</strong>.",
+            "fonte": "CNSP · Susep",
+            "fonte_url": "https://correiobraziliense.com.br/cbradar/corretor-de-seguros-que-ficar-180-dias-com-o-registro-suspenso-sem-se-manifestar-pode-ter-o-registro-cancelado-de-oficio-pela-susep-regra-da-resolucao-cnsp-493-que-revoga-13-resolucoes-antigas-e-com",
+            "fonte_label": "CNSP · Correio Braziliense",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "att",
+            "tag_label": "INCENTIVO",
+            "titulo": "Campanhas de produção com premiação elevada definem o pico anual de disputa pelo canal",
+            "url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+            "texto": "Ações válidas até dezembro, computando renovações, convertem produção em prêmios de valor relevante. <strong>Incentivo de outubro compra volume do trimestre; não compra a renovação de janeiro</strong>.",
+            "fonte": "Akad Seguros",
+            "fonte_url": "https://cqcs.com.br/noticia/akad-lanca-campanha-que-transforma-producao-de-corretores-em-premios-de-ate-r-25-mil/",
+            "fonte_label": "Akad · CQCS",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "new",
+            "tag_label": "APOIO",
+            "titulo": "Plataforma de materiais de prospecção vira o novo campo de disputa além da ferramenta de cotação",
+            "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-oferece-bonificacao-de-30-a-corretores/",
+            "texto": "Conteúdos para redes sociais, WhatsApp, e-mail marketing, newsletters e apresentações de produto reduzem o esforço comercial do corretor antes mesmo da cotação. <strong>Quem resolve a prospecção entra na rotina do parceiro mais cedo do que quem só resolve o preço</strong>.",
+            "fonte": "Seguros Unimed",
+            "fonte_url": "https://cqcs.com.br/noticia/seguros-unimed-amplia-acoes-para-corretores-com-campanhas-de-incentivo-capacitacao-e-recursos-de-apoio-as-vendas/",
+            "fonte_label": "Seguros Unimed · Revista Apólice",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "att",
+            "tag_label": "PRESENÇA",
+            "titulo": "Treinamento presencial e encontros regionais concentram-se no mês do corretor",
+            "url": "https://cqcs.com.br/galeria/corretor-tokio-pj-reune-150-profissionais-no-rio/",
+            "texto": "Encontros com centenas de profissionais e treinamentos em capitais marcaram a semana em várias praças. <strong>Presença física concentrada em outubro define a lembrança de marca que chega à renovação</strong>.",
+            "fonte": "Tokio Marine · Allianz",
+            "fonte_url": "https://cqcs.com.br/galeria/treinamento-capaz-da-allianz-em-sao-paulo/",
+            "fonte_label": "CQCS",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "wtf",
+            "tag_label": "TECNOLOGIA",
+            "titulo": "Corretoras passam a produzir a própria tecnologia em vez de consumir a da seguradora",
+            "url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+            "texto": "Programas próprios de aceleração permitem à consolidadora incorporar soluções diretamente à operação. <strong>Intermediário com tecnologia própria negocia de outra posição</strong> — e fica menos sensível à ferramenta que a companhia oferece.",
+            "fonte": "Alper Seguros",
+            "fonte_url": "https://cqcs.com.br/galeria/alper-seguros-promove-programa-de-aceleracao-de-startups-em-sao-paulo/",
+            "fonte_label": "CQCS",
+            "data": "Out/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "Queremos que o corretor sinta o cuidado e a parceria em todas as pontas da sua rotina.",
+            "avatar": "RA",
+            "nome": "Rodrigo Aguiar",
+            "cargo": "Superintendente Comercial e de Produtos · Seguros Unimed",
+            "contexto": "Sobre a campanha Acelera e o apoio ao canal no Dia do Corretor · Out/2026"
+          },
+          {
+            "quote": "A indenização é o coração do negócio.",
+            "avatar": "GD",
+            "nome": "Gustavo Doria",
+            "cargo": "Fundador · CQCS",
+            "contexto": "Roda de Conversa sobre percepção de valor do seguro · Out/2026"
+          },
+          {
+            "quote": "A saúde suplementar atravessa um momento decisivo de transformações profundas no Brasil.",
+            "avatar": "JM",
+            "nome": "João Paulo Moreira de Mello",
+            "cargo": "Presidente · CSP-MG",
+            "contexto": "Sobre o Seminário Saúde Suplementar em Belo Horizonte · Out/2026"
+          },
+          {
+            "quote": "Ter capacidade disponível é importante para acompanhar projetos cada vez maiores e mais complexos.",
+            "avatar": "FB",
+            "nome": "Fenaber",
+            "cargo": "Federação Nacional das Empresas de Resseguros",
+            "contexto": "Sobre a evolução das cessões ao resseguro no semestre · Out/2026"
+          }
+        ],
+        "oportunidade": "O mês do corretor expõe com clareza a diferença entre ruído e posição. O <strong>ruído</strong> é a inflação de incentivo: campanhas de produção com premiação elevada, treinamentos presenciais, ativações de marca — tudo concentrado em outubro, tudo reversível, tudo replicável por qualquer concorrente com caixa. A Seguros Unimed entrou nessa disputa com o pacote certo: bonificação adicional de 30% em Vida, treinamentos e uma plataforma que resolve a prospecção do parceiro, e não apenas a cotação. A <strong>posição</strong>, porém, está em outro lugar. A Resolução CNSP 493 reescreve as regras de registro do corretor, revoga treze resoluções, autoriza cancelamento de ofício após 180 dias de suspensão e entra em vigor em janeiro de 2027 — e a opção tributária do Simples está na reta final. <strong>São duas mudanças com data marcada que atingem o cadastro e o caixa da corretora, e nenhuma seguradora está ocupando essa conversa.</strong> Dentro de um canal cooperativo cativo, traduzir norma é mais barato que comprar atenção — e muito mais difícil de ser disputado depois."
+      }
+    },
+    {
       "id": "2026-10-02",
       "titulo": "Edição 02/Out/2026",
       "data": "02 de outubro de 2026",
