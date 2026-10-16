@@ -1,6 +1,1789 @@
 {
   "edicoes": [
     {
+      "id": "2026-10-16",
+      "titulo": "Edição 16/Out/2026",
+      "data": "16 de outubro de 2026",
+      "termometro": {
+        "regulatorio": {
+          "status": "alerta",
+          "emoji": "⚖️",
+          "titulo": "Prazos em Série",
+          "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+          "texto": "O <strong>Decreto nº 13.135/2026</strong> obriga atendimento humano no SAC de planos de saúde a partir de 02/11. A Susep recebe até 29/10 contribuições sobre resolução de conflitos fora da Justiça (Lei 15.040), e a <strong>Resolução Susep 99/2026</strong> de PLD passa a alcançar cooperativas em 01/01/2027. A ANS aprovou novo lote de multas e já aplica a fiscalização baseada em risco."
+        },
+        "competitivo": {
+          "status": "alerta",
+          "emoji": "🔥",
+          "titulo": "Consolidação",
+          "url": "https://www.sonhoseguro.com.br/2026/10/liberty-volta-ao-brasil-com-a-compra-da-seguradora-austral/",
+          "texto": "A <strong>Liberty Mutual</strong> volta ao país comprando a Austral, e MetLife e CNP disputam a Prudential. A BradSaúde reúne Saúde e Odonto do Bradesco, enquanto a seguradora do grupo se concentra em linhas rentáveis e PGBL."
+        },
+        "sentimento": {
+          "status": "ok",
+          "emoji": "🧭",
+          "titulo": "Canal Mobilizado",
+          "url": "https://www.sonhoseguro.com.br/2026/10/seguradoras-defendem-corretor-multiproduto-e-uso-da-inteligencia-artificial-para-ampliar-vendas/",
+          "texto": "O Mês do Corretor movimentou o mercado: na Convenção Lojacorr, oito seguradoras defenderam o <strong>corretor multiproduto</strong> e o uso de IA sem perder o relacionamento."
+        }
+      },
+      "secoes": {
+        "geral": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Liberty Mutual volta ao Brasil com a compra da Austral, especialista em seguro garantia",
+              "url": "https://www.sonhoseguro.com.br/2026/10/liberty-volta-ao-brasil-com-a-compra-da-seguradora-austral/",
+              "texto": "A aquisição, anunciada em 13/10, marca o <strong>retorno de capital estrangeiro a linhas especializadas</strong> e reabre o ciclo de consolidação em ramos empresariais.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Decreto nº 13.135/2026 torna obrigatório o atendimento humano no SAC de serviços regulados",
+              "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+              "texto": "Atendente humano das 8h às 20h, espera de até 20 segundos para 80% das ligações e regras para chatbots. <strong>Planos de saúde estão no alcance, com vigência em 02/11/2026.</strong>",
+              "fonte": "TechTudo",
+              "fonte_url": "https://www.techtudo.com.br/",
+              "fonte_label": "TechTudo",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "SUSEP",
+              "titulo": "Susep abre consulta para credenciar entidades de resolução de conflitos fora da Justiça",
+              "url": "https://www2.susep.gov.br/safe/SCP/app/consultas-publicas",
+              "texto": "Regulamenta o art. 129 da Lei 15.040 (mediação e arbitragem em seguros). <strong>Contribuições até 29/10/2026.</strong>",
+              "fonte": "Susep",
+              "fonte_url": "https://www.gov.br/susep/",
+              "fonte_label": "Susep",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "SUSEP",
+              "titulo": "Resolução Susep 99/2026 de PLD passa a alcançar cooperativas de seguros",
+              "url": "https://www.saudlaw.com/2026/10/susep-atualiza-suas-regras-de-pld-ftp-e-moderniza-seus-procedimentos-internos-de-comunicacao-ao-coaf/",
+              "texto": "Cria verificação de clientes em três níveis conforme o risco e inclui cooperativas e associações mutualistas. <strong>Vale a partir de 01/01/2027.</strong>",
+              "fonte": "Saud Advogados",
+              "fonte_url": "https://www.saudlaw.com/",
+              "fonte_label": "Saud Advogados",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Após a cisão da saúde, Bradesco Seguros quer crescer em linhas rentáveis",
+              "url": "https://cqcs.com.br/noticia/apos-cisao-de-saude-bradseg-quer-crescer-em-seguros-rentaveis-diz-ceo/",
+              "texto": "Com a <strong>BradSaúde</strong> separada, a seguradora prioriza rentabilidade e vê espaço no PGBL. A disputa com a SU passa a ocorrer em duas frentes distintas.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "ANS",
+              "titulo": "ANS aprova lote de multas com Prevent Senior, Hapvida e Unimed-Rio entre as autuadas",
+              "url": "https://atlaspublico.com.br/noticias/ans-aprova-multas-a-operadoras-de-planos-de-saude-maior-91758",
+              "texto": "Aprovado na 644ª reunião da Diretoria Colegiada (09/10). <strong>Autuações de singulares Unimed respingam na marca que a SU compartilha.</strong>",
+              "fonte": "Atlas Público",
+              "fonte_url": "https://atlaspublico.com.br/",
+              "fonte_label": "Atlas Público",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "CANAL",
+              "titulo": "Seguradoras defendem corretor multiproduto e IA na Convenção Lojacorr",
+              "url": "https://www.sonhoseguro.com.br/2026/10/seguradoras-defendem-corretor-multiproduto-e-uso-da-inteligencia-artificial-para-ampliar-vendas/",
+              "texto": "Bradesco Saúde, Tokio Marine, HDI e Mapfre defenderam ir além do auto, com <strong>venda consultiva apoiada por IA</strong>.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed cria Creators Hub para formar corretores produtores de conteúdo",
+              "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-cria-programa-de-creators-para-corretores/",
+              "texto": "Programa com a Community Creators Academy. <strong>Diferencial de canal num mês em que todo o mercado disputa a atenção do corretor.</strong>",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            }
+          ],
+          "vozes": [
+            {
+              "quote": "O papel da academia é dar neutralidade para que o aluno ou o receptor da informação saiba que aquela mensagem é neutra.",
+              "avatar": "ON",
+              "nome": "Osvaldo Nascimento",
+              "cargo": "Presidente do Conselho Superior · ANSP",
+              "contexto": "XII Fórum Fenaprevi · Out/2026"
+            },
+            {
+              "quote": "O HUB de Cotações foi desenvolvido para transformar dados comerciais em ações mais estratégicas.",
+              "avatar": "DM",
+              "nome": "Dennis Milan",
+              "cargo": "Diretor de Tecnologia, Digital e Inovação · Tokio Marine",
+              "contexto": "Lançamento do HUB de Cotações · Out/2026"
+            },
+            {
+              "quote": "Esse prêmio coloca em evidência a consistência do trabalho que temos desenvolvido no mercado brasileiro.",
+              "avatar": "LB",
+              "nome": "Luciana Bastos",
+              "cargo": "Diretora de Produtos Vida · Icatu Seguros",
+              "contexto": "Global Banking & Finance Awards · Out/2026"
+            },
+            {
+              "quote": "A Marsh não pode apoiar exclusões absolutas de inteligência artificial.",
+              "avatar": "NS",
+              "nome": "Nick Studer",
+              "cargo": "CEO · Marsh",
+              "contexto": "The Insurer · Out/2026 (tradução livre)"
+            }
+          ],
+          "implicacao": "A semana combina <strong>concentração do mercado</strong> (Liberty, Prudential, BradSaúde) com <strong>endurecimento das regras de conduta</strong> (SAC humano, PLD, mediação). Para a SU, isso pede duas frentes imediatas: adequar o atendimento de Saúde e Odonto ao decreto até 02/11, com as centrais das cooperativas como reforço humano, e usar as transições de M&A em Vida para atrair corretores de carteiras em mudança."
+        },
+        "saude": {
+          "noticias": [
+            {
+              "tag": "att",
+              "tag_label": "ANS",
+              "titulo": "Lote de multas da ANS tem Prevent Senior na maior autuação e dezenas de processos de Hapvida e Unimed-Rio",
+              "url": "https://atlaspublico.com.br/noticias/ans-aprova-multas-a-operadoras-de-planos-de-saude-maior-91758",
+              "texto": "Reunião de 09/10, publicada em 13/10. <strong>Risco reputacional para todo o Sistema Unimed.</strong>",
+              "fonte": "Atlas Público",
+              "fonte_url": "https://atlaspublico.com.br/",
+              "fonte_label": "Atlas Público",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "ANS",
+              "titulo": "RN 680 amplia o Rol a partir de 1º/10 e cria a DUT 175",
+              "url": "https://ctsconsultoria.com.br/rn-680-rol-ans-operadoras/",
+              "texto": "Atualiza coberturas (DIU/SIU hormonal e medicamentos). <strong>Operadoras precisam ajustar autorização e auditoria.</strong>",
+              "fonte": "CTS Consultoria",
+              "fonte_url": "https://ctsconsultoria.com.br/",
+              "fonte_label": "CTS Consultoria",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "ANS",
+              "titulo": "RNs 656 a 659: multas passam a considerar o risco prudencial da operadora",
+              "url": "https://www.trueauditoria.com.br/novas-regras-da-ans-tornam-fiscalizacao-mais-rigorosa-e-baseada-em-riscos/",
+              "texto": "O valor da penalidade deixa de depender só do porte. <strong>Solvência e governança entram na conta da fiscalização.</strong>",
+              "fonte": "True Auditoria",
+              "fonte_url": "https://www.trueauditoria.com.br/",
+              "fonte_label": "True Auditoria",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Atendimento humano no SAC passa a ser exigido de planos de saúde a partir de 02/11",
+              "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+              "texto": "<strong>URA e chatbots precisam ser revistos</strong> para garantir atendente humano das 8h às 20h.",
+              "fonte": "TechTudo",
+              "fonte_url": "https://www.techtudo.com.br/",
+              "fonte_label": "TechTudo",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed inclui o Hospital BP no Novo Essencial SP",
+              "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-inclui-hospital-bp-na-rede-credenciada/",
+              "texto": "A BP – Beneficência Portuguesa passa a atender contratos empresariais e por adesão na Grande SP. <strong>Reforço da rede premium no principal mercado do país.</strong>",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Care Plus compra participação na Beep Saúde e aposta em cuidado fora do hospital",
+              "url": "https://jovempan.com.br/economia/negocios/care-plus-e-dr-consulta-reforcam-aposta-em-saude-fora-do-hospital",
+              "texto": "Movimento do segmento premium em <strong>atendimento domiciliar</strong> (repercussão de exclusiva do Valor).",
+              "fonte": "Jovem Pan",
+              "fonte_url": "https://jovempan.com.br/",
+              "fonte_label": "Jovem Pan",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "CANAL",
+              "titulo": "Lojacorr faz 30 anos e anuncia vertical dedicada a saúde",
+              "url": "https://www.sonhoseguro.com.br/2026/10/lojacorr-seguros-celebra-30-anos-resgata-sonho-do-fundador-e-anuncia-vertical-de-saude/",
+              "texto": "Rede com mais de 40 seguradoras parceiras cria estrutura própria para <strong>pequenos e médios corretores</strong> venderem saúde.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "SISTEMA UNIMED",
+              "titulo": "Unimed Porto Alegre e Unisinos assinam contrato de expansão da rede própria",
+              "url": "https://www.unimed.coop.br/site/web/portoalegre/",
+              "texto": "Descrito pela cooperativa como <strong>um dos maiores projetos de expansão</strong> da sua rede.",
+              "fonte": "Unimed Porto Alegre",
+              "fonte_url": "https://www.unimed.coop.br/",
+              "fonte_label": "Unimed",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Fiscalização baseada em risco, Rol ampliado e SAC humano <strong>punem operadoras com muitas reclamações</strong>. A SU ganha argumento de qualidade com a BP na rede, mas precisa ajustar a autorização à RN 680 e manter indicadores de reclamação baixos, porque autuações de singulares respingam na marca Unimed.",
+          "oportunidade": "Lançar um pacote PME <strong>Novo Essencial SP + Odonto</strong> para a nova vertical de saúde da Lojacorr, com a BP como argumento de venda."
+        },
+        "odonto": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Odontoprev opera agora sob o guarda-chuva da BradSaúde",
+              "url": "https://cqcs.com.br/noticia/apos-cisao-de-saude-bradseg-quer-crescer-em-seguros-rentaveis-diz-ceo/",
+              "texto": "Plataforma que vende <strong>Saúde e Odonto juntos</strong> para empresas, com escala de bancassurance.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Odontoprev usa dados de carteira para mostrar baixa ida ao dentista até os 5 anos",
+              "url": "https://revistaapolice.com.br/2026/10/estudo-aponta-baixa-procura-por-dentista-ate-os-5-anos/",
+              "texto": "<strong>Dados próprios viram conteúdo de prevenção e de marca.</strong>",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "MetLife amplia benefício dos planos odontológicos",
+              "url": "https://www.sonhoseguro.com.br/",
+              "texto": "Novo benefício leva o cuidado além do consultório (08/10). <em>Link aponta para a home do veículo; confirmar URL da matéria.</em>",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Decreto do SAC humano alcança também as operadoras odontológicas",
+              "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+              "texto": "Leitura do Radar: <strong>revisar URA e canais digitais até 02/11</strong>.",
+              "fonte": "TechTudo",
+              "fonte_url": "https://www.techtudo.com.br/",
+              "fonte_label": "TechTudo",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "ANS",
+              "titulo": "Fiscalização baseada em risco prudencial vale para todas as modalidades de operadora",
+              "url": "https://www.trueauditoria.com.br/novas-regras-da-ans-tornam-fiscalizacao-mais-rigorosa-e-baseada-em-riscos/",
+              "texto": "As RNs 656 a 659 também alcançam <strong>odontologias de grupo e cooperativas</strong>.",
+              "fonte": "True Auditoria",
+              "fonte_url": "https://www.trueauditoria.com.br/",
+              "fonte_label": "True Auditoria",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Creators Hub cria via de conteúdo para venda casada de Odonto",
+              "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-cria-programa-de-creators-para-corretores/",
+              "texto": "Corretor que produz conteúdo pode usar o <strong>NPS nº 1 do Unimed Odonto</strong> como argumento.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "CANAL",
+              "titulo": "Vertical de saúde da Lojacorr abre porta para Odonto PME",
+              "url": "https://www.sonhoseguro.com.br/2026/10/lojacorr-seguros-celebra-30-anos-resgata-sonho-do-fundador-e-anuncia-vertical-de-saude/",
+              "texto": "Nova estrutura para corretores pequenos e médios, <strong>perfil que compra Odonto junto com Saúde</strong>.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "A <strong>BradSaúde é a maior ameaça estrutural em Odonto</strong>: escala e venda casada com saúde empresarial. O NPS nº 1 da SU é o contrapeso, mas só funciona se chegar ao corretor e ao RH.",
+          "oportunidade": "Campanha <strong>\"Odonto que o cliente recomenda\"</strong> com dados próprios de prevenção, distribuída via Creators Hub, e Odonto como item padrão em toda proposta PME de Saúde."
+        },
+        "vida": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "MetLife e CNP disputam as operações da Prudential no Brasil",
+              "url": "https://www.brasilemfolhas.com.br/2026/10/metlife-e-cnp-disputam-operacoes-da-prudential-no-brasil/",
+              "texto": "Desdobramento da transação da semana anterior: <strong>dois candidatos nomeados</strong> e Mapfre avaliando. Corretores e carteiras de vida individual podem entrar em transição.",
+              "fonte": "Brasil em Folhas",
+              "fonte_url": "https://www.brasilemfolhas.com.br/",
+              "fonte_label": "Brasil em Folhas",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "CANAL",
+              "titulo": "Mapfre lança websérie \"Vida em Toda Conversa\" para corretores",
+              "url": "https://revistaapolice.com.br/2026/10/mapfre-lanca-nova-webserie-sobre-seguro-de-vida/",
+              "texto": "<strong>15 episódios</strong> que ensinam o corretor a abordar proteção com o cliente.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Icatu é eleita Melhor Seguradora de Vida do Brasil 2026",
+              "url": "https://www.insurtalks.com.br/posts/icatu-seguros-e-eleita-melhor-seguradora-de-vida-do-brasil-2026-pelo-global-banking-finance-awards",
+              "texto": "Prêmio do Global Banking & Finance Awards em momento de <strong>expansão de portfólio</strong>.",
+              "fonte": "InsurTalks",
+              "fonte_url": "https://www.insurtalks.com.br/",
+              "fonte_label": "InsurTalks",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Painel \"O Novo Seguro de Vida\" reúne Bradesco, Icatu e Prudential",
+              "url": "https://cqcs.com.br/noticia/bernardo-castello-diretor-presidente-da-bradesco-vida-e-previdencia-luciano-soares-presidente-da-icatu-seguros-e-patricia-freitas-ceo-e-presidente-da-prudential-do-brasil-sao-liderancas-confirma/",
+              "texto": "Bernardo Castello, Luciano Soares e Patricia Freitas no CQCS Inovação 2026. <strong>Os três maiores nomes de vida individual na mesma mesa.</strong>",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Público acima de 60 anos puxa o seguro viagem da Bradesco",
+              "url": "https://revistaapolice.com.br/2026/10/publico-acima-de-60-anos-impulsiona-seguro-viagem",
+              "texto": "A <strong>economia da longevidade</strong> passa a orientar desenho de produto em pessoas.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "CANAL",
+              "titulo": "Seguradoras defendem que corretor de auto passe a vender Vida",
+              "url": "https://www.sonhoseguro.com.br/2026/10/seguradoras-defendem-corretor-multiproduto-e-uso-da-inteligencia-artificial-para-ampliar-vendas/",
+              "texto": "Na Convenção Lojacorr, a <strong>migração do corretor de auto para pessoas</strong> foi tese central.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "SUSEP",
+              "titulo": "Nova regra de PLD eleva exigência de verificação em Vida e Previdência",
+              "url": "https://www.saudlaw.com/2026/10/susep-atualiza-suas-regras-de-pld-ftp-e-moderniza-seus-procedimentos-internos-de-comunicacao-ao-coaf/",
+              "texto": "Resolução Susep 99/2026: <strong>verificação em três níveis</strong> conforme o risco, a partir de 01/01/2027.",
+              "fonte": "Saud Advogados",
+              "fonte_url": "https://www.saudlaw.com/",
+              "fonte_label": "Saud Advogados",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Vida entra em <strong>consolidação</strong> e em disputa por conteúdo de venda para o corretor. A SU não ganha por escala; ganha pela <strong>integração Vida + Saúde</strong> que nenhum dos compradores da Prudential oferece.",
+          "oportunidade": "Oferta de Vida com assistência de saúde Unimed para corretores afetados pela venda da Prudential, apoiada por conteúdo no formato do <strong>Creators Hub</strong>."
+        },
+        "previdencia": {
+          "noticias": [
+            {
+              "tag": "new",
+              "tag_label": "FENAPREVI",
+              "titulo": "Academia pode dar neutralidade à educação previdenciária",
+              "url": "https://cqcs.com.br/noticia/academia-pode-ajudar-a-dar-neutralidade-a-educacao-previdenciaria/",
+              "texto": "Defesa feita no <strong>XII Fórum Fenaprevi</strong> de Vida e Previdência.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Bradesco vê oportunidade no PGBL com o IOF sobre aportes no VGBL",
+              "url": "https://cqcs.com.br/noticia/apos-cisao-de-saude-bradseg-quer-crescer-em-seguros-rentaveis-diz-ceo/",
+              "texto": "Após a cisão da saúde, a Bradesco Seguros põe o <strong>PGBL no centro da estratégia</strong> de previdência.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "2º Fórum de Longevidade do IBA debate o futuro de seguros e previdência",
+              "url": "https://cqcs.com.br/noticia/2o-forum-de-longevidade-do-iba-amplia-debate-sobre-futuro-de-seguros-e-previdencia/",
+              "texto": "Foco no <strong>risco de a reserva não durar</strong> vidas de 90 a 100 anos.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "PRODUTO",
+              "titulo": "Universal Life aparece como próxima frente de inovação em vida e previdência",
+              "url": "https://cqcs.com.br/noticia/vida-previdencia-e-universal-life-a-proxima-avenida-de-inovacao-para-o-mercado-segurador-brasileiro/",
+              "texto": "Produto que combina <strong>proteção e acumulação flexível</strong>.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Boletim setorial nº 68 consolida mudanças em vesting, resseguro e seguro rural",
+              "url": "https://www.tortoromr.com.br/2026/10/13/boletim-setorial-previdencia-complementar-seguros-e-resseguros-no-68-de-outubro-de-2026/",
+              "texto": "Destaque para a <strong>cláusula de vesting</strong> e as consultas abertas da Susep.",
+              "fonte": "TMR Advogados",
+              "fonte_url": "https://www.tortoromr.com.br/",
+              "fonte_label": "TMR Advogados",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "SUSEP",
+              "titulo": "Resolução Susep 99/2026 de PLD alcança planos de acumulação",
+              "url": "https://www.saudlaw.com/2026/10/susep-atualiza-suas-regras-de-pld-ftp-e-moderniza-seus-procedimentos-internos-de-comunicacao-ao-coaf/",
+              "texto": "Previdência é ramo de risco elevado para lavagem de dinheiro. <strong>Adequação até 01/01/2027.</strong>",
+              "fonte": "Saud Advogados",
+              "fonte_url": "https://www.saudlaw.com/",
+              "fonte_label": "Saud Advogados",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Icatu encerra campanha do mês do cliente com sorteios convertidos em aporte",
+              "url": "https://www.sonhoseguro.com.br/2026/09/icatu-seguros-celebra-mes-do-cliente-com-campanha-de-incentivo-ao-planejamento-financeiro/",
+              "texto": "Vencedores divulgados em 13/10. <strong>Incentivo ao aporte como ferramenta de retenção.</strong>",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Set/2026"
+            }
+          ],
+          "implicacao": "A conversa em Previdência mudou de rentabilidade para <strong>longevidade e sucessão</strong>, e o Bradesco já se posiciona no PGBL. Sem narrativa própria, o produto da SU vira só mais uma opção financeira.",
+          "oportunidade": "Posicionar a Previdência SU como <strong>reserva para a saúde na longevidade</strong> e oferecer PGBL a médicos cooperados."
+        },
+        "elementares": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "M&A",
+              "titulo": "Liberty Mutual volta ao país comprando a Austral, de seguro garantia",
+              "url": "https://www.sonhoseguro.com.br/2026/10/liberty-volta-ao-brasil-com-a-compra-da-seguradora-austral/",
+              "texto": "<strong>Mais concorrência em garantia e riscos empresariais</strong> com capital internacional.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "PRODUTO",
+              "titulo": "Allianz inclui proteção para vítimas de violência doméstica no residencial",
+              "url": "https://revistaapolice.com.br/2026/10/allianz-inclui-protecao-para-vitimas-de-violencia-domestica/",
+              "texto": "Reembolso do <strong>aluguel de outro imóvel por até seis meses</strong>.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EMBEDDED",
+              "titulo": "Chubb e Vivo lançam residencial com assistência pet",
+              "url": "https://www.sonhoseguro.com.br/2026/10/chubb-brasil-e-vivo-entram-no-segmento-pet-com-assistencia-integrada-a-seguro-residencial/",
+              "texto": "Com a Petlove, vendido pelo app e lojas Vivo, <strong>sem passar pelo corretor</strong>.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "CNSP",
+              "titulo": "Resolução CNSP 496/2026 atualiza regras dos contratos de seguros de danos",
+              "url": "https://www.demarest.com.br/en/susep-publica-resolucao-cnsp-no-496-2026-sobre-contratos-de-seguros-de-danos/",
+              "texto": "Amplia o <strong>registro eletrônico das condições</strong> e define prazos de regulação de sinistros.",
+              "fonte": "Demarest",
+              "fonte_url": "https://www.demarest.com.br/",
+              "fonte_label": "Demarest",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "IA",
+              "titulo": "Porto usa agente de IA no WhatsApp para abrir sinistros de roubo e furto",
+              "url": "https://revistaapolice.com.br/2026/10/porto-automatiza-70-dos-sinistros-de-roubo-e-furto/",
+              "texto": "Aviso de sinistro <strong>sem formulários</strong>, com plano de estender a outros ramos.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "DIGITAL",
+              "titulo": "Akad passa a cotar e emitir RCV em até 2 minutos",
+              "url": "https://cqcs.com.br/noticia/akad-amplia-jornada-digital-de-transportes-e-passa-a-permitir-cotacao-e-emissao-de-rcv-em-ate-2-minutos/",
+              "texto": "Fixa um <strong>novo padrão de emissão digital</strong> em responsabilidade civil.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DIGITAL",
+              "titulo": "Tokio Marine lança HUB de Cotações para assessorias",
+              "url": "https://revistaapolice.com.br/2026/10/novo-hub-da-tokio-marine-permite-monitorar-cotacoes/",
+              "texto": "<strong>Dados de conversão</strong> compartilhados com o parceiro comercial.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "reg",
+              "tag_label": "CNSP",
+              "titulo": "CNSP 494/2026 atualiza regras de resseguro, retrocessão e cosseguro",
+              "url": "https://sincor.org.br/cnsp-publica-resolucao-sobre-operacoes-de-resseguro-retrocessao-e-cosseguro/",
+              "texto": "Entra em vigor em <strong>02/01/2027</strong>.",
+              "fonte": "Sincor-SP",
+              "fonte_url": "https://sincor.org.br/",
+              "fonte_label": "Sincor-SP",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Em Elementares, os concorrentes se diferenciam por <strong>coberturas com propósito, venda embutida e velocidade digital</strong>. O espaço da SU é o RE ligado ao ecossistema de saúde: consultórios, clínicas e RC profissional médico.",
+          "oportunidade": "Cotação rápida de <strong>RCP médico e empresarial de clínicas</strong> no Calcule+, desenvolvida com a Stormia."
+        },
+        "canais": {
+          "noticias": [
+            {
+              "tag": "opp",
+              "tag_label": "DESTAQUE SU",
+              "titulo": "Seguros Unimed cria Creators Hub para corretores",
+              "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-cria-programa-de-creators-para-corretores/",
+              "texto": "Com a Community Creators Academy, o corretor aprende a <strong>produzir conteúdo de venda</strong>.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CONCORRÊNCIA",
+              "titulo": "Zurich anuncia condições especiais para novos negócios no Dia do Corretor",
+              "url": "https://cqcs.com.br/noticia/dia-do-corretor-zurich-reforca-parceria-com-o-canal-e-anuncia-condicoes-especiais-para-novos-negocios/",
+              "texto": "Desconto de <strong>12 a 16/10</strong> combinado com escuta ativa do canal.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "DIGITAL",
+              "titulo": "Tokio Marine dá às assessorias visão de conversão das cotações",
+              "url": "https://revistaapolice.com.br/2026/10/novo-hub-da-tokio-marine-permite-monitorar-cotacoes/",
+              "texto": "<strong>Dado comercial vira ferramenta de gestão</strong> para o parceiro.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "CANAL",
+              "titulo": "Oito seguradoras defendem corretor multiproduto na Convenção Lojacorr",
+              "url": "https://www.sonhoseguro.com.br/2026/10/seguradoras-defendem-corretor-multiproduto-e-uso-da-inteligencia-artificial-para-ampliar-vendas/",
+              "texto": "Tese central: <strong>sair da dependência do auto</strong> com apoio de IA.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "SAÚDE",
+              "titulo": "Lojacorr cria vertical de saúde aos 30 anos",
+              "url": "https://www.sonhoseguro.com.br/2026/10/lojacorr-seguros-celebra-30-anos-resgata-sonho-do-fundador-e-anuncia-vertical-de-saude/",
+              "texto": "Nova estrutura para <strong>corretores pequenos e médios</strong>.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "EVENTO",
+              "titulo": "Sincor-RJ faz live do Dia do Corretor com SulAmérica e Amil",
+              "url": "https://cqcs.com.br/noticia/sincor-rjpromove-live-especial-em-celebracao-ao-dia-do-corretor-de-seguros/",
+              "texto": "Lideranças comerciais de <strong>Saúde e Odonto</strong> dialogam com o canal.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "GRANDES CORRETORAS",
+              "titulo": "Wiz Co abre vagas em quatro estados, incluindo a Wiz Benefícios",
+              "url": "https://revistaapolice.com.br/2026/10/wiz-co-abre-vagas-em-quatro-estados/",
+              "texto": "Expansão em <strong>saúde</strong>, consórcio e crédito.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "O Mês do Corretor virou disputa aberta por <strong>desconto, conteúdo e ferramentas</strong>. A SU chega bem com Creators Hub e a campanha Acelera, mas Tokio Marine, Akad e Porto elevam o padrão digital que o corretor passa a esperar.",
+          "oportunidade": "Dar <strong>produtividade</strong> ao corretor: painel de cotações para redes como a Lojacorr, emissão rápida de RCP e PME e conteúdo pronto para vender Saúde + Odonto + Vida juntos."
+        },
+        "tendencias": {
+          "noticias": [
+            {
+              "tag": "hot",
+              "tag_label": "🌎 GLOBAL",
+              "titulo": "Marsh, Aon e WTW se opõem a exclusões amplas de IA nas apólices",
+              "url": "https://www.theinsurer.com/ti/news/aon-and-wtw-add-to-broker-pressure-on-ai-exclusions-2026-10-08/",
+              "texto": "As três maiores corretoras globais rejeitam cláusulas genéricas. <strong>🇧🇷 Impacto BR:</strong> o debate tende a chegar a D&O, cyber e RCP no Brasil.",
+              "fonte": "The Insurer",
+              "fonte_url": "https://www.theinsurer.com/",
+              "fonte_label": "The Insurer",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "hot",
+              "tag_label": "🌎 GLOBAL",
+              "titulo": "Prudential prepara saída de Brasil e México",
+              "url": "https://www.brasilemfolhas.com.br/2026/10/metlife-e-cnp-disputam-operacoes-da-prudential-no-brasil/",
+              "texto": "<strong>🇧🇷 Impacto BR:</strong> muda o grupo de líderes em vida individual e libera carteiras e corretores.",
+              "fonte": "Brasil em Folhas",
+              "fonte_url": "https://www.brasilemfolhas.com.br/",
+              "fonte_label": "Brasil em Folhas",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "🌎 GLOBAL",
+              "titulo": "Liberty Mutual retorna ao Brasil depois de anos fora",
+              "url": "https://www.sonhoseguro.com.br/2026/10/liberty-volta-ao-brasil-com-a-compra-da-seguradora-austral/",
+              "texto": "<strong>🇧🇷 Impacto BR:</strong> capital estrangeiro volta a apostar em linhas especializadas do país.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Atendimento humano volta a ser regra num setor que vinha automatizando",
+              "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+              "texto": "<strong>Automação passa a ter limite regulatório</strong>; o ganho de eficiência da IA precisa conviver com atendente humano.",
+              "fonte": "TechTudo",
+              "fonte_url": "https://www.techtudo.com.br/",
+              "fonte_label": "TechTudo",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "att",
+              "tag_label": "REGULAÇÃO",
+              "titulo": "Resolução de conflitos fora da Justiça ganha marco próprio em seguros",
+              "url": "https://www2.susep.gov.br/safe/SCP/app/consultas-publicas",
+              "texto": "A Lei 15.040 abre caminho para <strong>câmaras de mediação credenciadas</strong>, reduzindo judicialização.",
+              "fonte": "Susep",
+              "fonte_url": "https://www.gov.br/susep/",
+              "fonte_label": "Susep",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "IA",
+              "titulo": "IA generativa chega ao aviso de sinistro pelo WhatsApp",
+              "url": "https://revistaapolice.com.br/2026/10/porto-automatiza-70-dos-sinistros-de-roubo-e-furto/",
+              "texto": "<strong>Sinistro conversacional</strong> vira o novo padrão de experiência.",
+              "fonte": "Revista Apólice",
+              "fonte_url": "https://revistaapolice.com.br/",
+              "fonte_label": "Revista Apólice",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "opp",
+              "tag_label": "EMBEDDED",
+              "titulo": "Seguro embutido em telecom e pet amplia canais fora do corretor",
+              "url": "https://www.sonhoseguro.com.br/2026/10/chubb-brasil-e-vivo-entram-no-segmento-pet-com-assistencia-integrada-a-seguro-residencial/",
+              "texto": "<strong>Distribuição embarcada</strong> avança em residencial.",
+              "fonte": "Sonho Seguro",
+              "fonte_url": "https://www.sonhoseguro.com.br/",
+              "fonte_label": "Sonho Seguro",
+              "data": "Out/2026"
+            },
+            {
+              "tag": "new",
+              "tag_label": "LONGEVIDADE",
+              "titulo": "Longevidade se torna eixo de produto em vida, previdência e viagem",
+              "url": "https://cqcs.com.br/noticia/2o-forum-de-longevidade-do-iba-amplia-debate-sobre-futuro-de-seguros-e-previdencia/",
+              "texto": "Fórum do IBA consolida a <strong>economia da longevidade</strong> como agenda setorial.",
+              "fonte": "CQCS",
+              "fonte_url": "https://cqcs.com.br/",
+              "fonte_label": "CQCS",
+              "data": "Out/2026"
+            }
+          ],
+          "implicacao": "Três tendências se cruzam: <strong>consolidação com capital estrangeiro</strong>, <strong>limite regulatório à automação</strong> (SAC humano) e <strong>longevidade como eixo de produto</strong>. A SU tem ativos para as três — rede humana das cooperativas, Stormia e a integração Saúde + Vida + Previdência."
+        }
+      },
+      "agenda": [
+        {
+          "titulo": "Adequar o SAC de Saúde e Odonto ao Decreto nº 13.135/2026 até 02/11",
+          "texto": "Atendente humano das 8h às 20h e espera máxima regulada. <strong>Usar as centrais das cooperativas Unimed como contingência e revisar URA e chatbots agora.</strong>",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Regulação",
+              "tipo": ""
+            },
+            {
+              "label": "Saúde/Odonto",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Enviar contribuição à consulta da Susep sobre resolução de conflitos até 29/10",
+          "texto": "Participar via CNseg/Fenaprevi e <strong>avaliar uma câmara de mediação própria do Sistema Unimed</strong>, aproveitando o modelo cooperativo.",
+          "tags": [
+            {
+              "label": "Urgente",
+              "tipo": "urgente"
+            },
+            {
+              "label": "Lei 15.040",
+              "tipo": ""
+            },
+            {
+              "label": "Cooperativismo",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Blindar a marca diante das autuações da ANS a singulares Unimed",
+          "texto": "O lote de multas inclui dezenas de processos da Unimed-Rio. <strong>Alinhar com a Unimed do Brasil uma agenda de redução de reclamações e de comunicação de qualidade.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Saúde",
+              "tipo": ""
+            },
+            {
+              "label": "Reputação",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Atrair corretores de Vida em carteiras em transição",
+          "texto": "Oferta de Vida com assistência de saúde Unimed para corretores afetados pela venda da Prudential. <strong>Janela de dois a três trimestres antes de o comprador estabilizar o canal.</strong>",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Vida",
+              "tipo": ""
+            },
+            {
+              "label": "Corretores",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Acelerar a jornada digital do corretor via Stormia",
+          "texto": "Cotação e emissão em minutos para RCP e PME, mais <strong>painel de cotações para assessorias e redes</strong> — resposta direta a Tokio Marine, Akad e Porto.",
+          "tags": [
+            {
+              "label": "Médio prazo",
+              "tipo": "medio"
+            },
+            {
+              "label": "Digital",
+              "tipo": ""
+            },
+            {
+              "label": "Elementares",
+              "tipo": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Construir a oferta integrada de longevidade (50+) e preparar a adequação à PLD",
+          "texto": "Pacote Saúde + Vida + Previdência para o público 50+ e <strong>adequação à Resolução Susep 99/2026 até 01/01/2027</strong>.",
+          "tags": [
+            {
+              "label": "Longo prazo",
+              "tipo": "longo"
+            },
+            {
+              "label": "Previdência",
+              "tipo": ""
+            },
+            {
+              "label": "Longevidade",
+              "tipo": ""
+            }
+          ]
+        }
+      ],
+      "concorrentes": {
+        "top10": [
+          {
+            "rank": "1ª",
+            "nome": "Bradesco Seguros",
+            "tipo": "Bancassurance · Grupo Bradesco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Após a cisão da saúde, Bradesco Seguros mira linhas rentáveis e PGBL",
+                "url": "https://cqcs.com.br/noticia/apos-cisao-de-saude-bradseg-quer-crescer-em-seguros-rentaveis-diz-ceo/",
+                "texto": "Com a <strong>BradSaúde</strong> separada, o grupo passa a competir com a SU por duas empresas distintas.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PRODUTO",
+                "titulo": "Público 60+ puxa o seguro viagem da Bradesco",
+                "url": "https://revistaapolice.com.br/2026/10/publico-acima-de-60-anos-impulsiona-seguro-viagem",
+                "texto": "Sinal de <strong>produto orientado à longevidade</strong>.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "2ª",
+            "nome": "SulAmérica",
+            "tipo": "Associada ao ecossistema Rede D'Or",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "SulAmérica participa da live do Sincor-RJ no Dia do Corretor",
+                "url": "https://cqcs.com.br/noticia/sincor-rjpromove-live-especial-em-celebracao-ao-dia-do-corretor-de-seguros/",
+                "texto": "Participação do <strong>VP Comercial de Saúde e Odonto</strong>.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "LEITURA SETORIAL",
+                "titulo": "Fiscalização da ANS baseada em risco alcança grandes operadoras de saúde",
+                "url": "https://www.trueauditoria.com.br/novas-regras-da-ans-tornam-fiscalizacao-mais-rigorosa-e-baseada-em-riscos/",
+                "texto": "As RNs 656 a 659 elevam a <strong>exposição a multas</strong> de carteiras grandes. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "True Auditoria",
+                "fonte_url": "https://www.trueauditoria.com.br/",
+                "fonte_label": "True Auditoria",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "3ª",
+            "nome": "Porto Seguro",
+            "tipo": "Seguradora multiproduto · Itaú Unibanco",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "IA",
+                "titulo": "Porto lança agente de IA no WhatsApp para sinistros de roubo e furto",
+                "url": "https://revistaapolice.com.br/2026/10/porto-automatiza-70-dos-sinistros-de-roubo-e-furto/",
+                "texto": "<strong>IA generativa</strong> no aviso de sinistro, com plano de expansão para outros ramos.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Decreto do SAC humano impõe limite à automação também para Porto Saúde",
+                "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+                "texto": "A estratégia de <strong>atendimento por IA</strong> precisa conviver com atendente humano a partir de 02/11. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "TechTudo",
+                "fonte_url": "https://www.techtudo.com.br/",
+                "fonte_label": "TechTudo",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "4ª",
+            "nome": "Hapvida / NDI",
+            "tipo": "Operadora verticalizada · Rede própria",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "ANS",
+                "titulo": "Hapvida responde por dezenas de processos no lote de multas da ANS",
+                "url": "https://atlaspublico.com.br/noticias/ans-aprova-multas-a-operadoras-de-planos-de-saude-maior-91758",
+                "texto": "<strong>Risco regulatório e reputacional</strong> persistente.",
+                "fonte": "Atlas Público",
+                "fonte_url": "https://atlaspublico.com.br/",
+                "fonte_label": "Atlas Público",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "5ª",
+            "nome": "Icatu Seguros",
+            "tipo": "Seguradora independente · Vida e Previdência",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "MARCA",
+                "titulo": "Icatu é eleita Melhor Seguradora de Vida do Brasil 2026",
+                "url": "https://www.insurtalks.com.br/posts/icatu-seguros-e-eleita-melhor-seguradora-de-vida-do-brasil-2026-pelo-global-banking-finance-awards",
+                "texto": "Reforço de marca em <strong>vida individual</strong>.",
+                "fonte": "InsurTalks",
+                "fonte_url": "https://www.insurtalks.com.br/",
+                "fonte_label": "InsurTalks",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "LIDERANÇA",
+                "titulo": "Presidente da Icatu confirmado no painel \"O Novo Seguro de Vida\"",
+                "url": "https://cqcs.com.br/noticia/bernardo-castello-diretor-presidente-da-bradesco-vida-e-previdencia-luciano-soares-presidente-da-icatu-seguros-e-patricia-freitas-ceo-e-presidente-da-prudential-do-brasil-sao-liderancas-confirma/",
+                "texto": "Luciano Soares ao lado de <strong>Bradesco e Prudential</strong>.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "6ª",
+            "nome": "Amil",
+            "tipo": "Operadora de saúde · Controle Seripieri Filho",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Amil participa da live do Sincor-RJ no Dia do Corretor",
+                "url": "https://cqcs.com.br/noticia/sincor-rjpromove-live-especial-em-celebracao-ao-dia-do-corretor-de-seguros/",
+                "texto": "Diretoria comercial dialoga com o canal. <strong>Sem movimento corporativo verificado.</strong>",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "7ª",
+            "nome": "Caixa Seguridade",
+            "tipo": "Bancassurance · Caixa Econômica Federal",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ESTRATÉGIA",
+                "titulo": "Caixa Seguridade planeja vida resgatável e novos segmentos até o fim de 2026",
+                "url": "https://bpmoney.com.br/negocios/empresas-na-bolsa/caixa-seguridade-cxse3-novos-segmentos-seguros-final-ano/",
+                "texto": "Plano anunciado pelo CEO. <strong>Notícia de agosto, sem atualização no período.</strong>",
+                "fonte": "BPMoney",
+                "fonte_url": "https://bpmoney.com.br/",
+                "fonte_label": "BPMoney",
+                "data": "Ago/2026"
+              }
+            ]
+          },
+          {
+            "rank": "8ª",
+            "nome": "★ Seguros Unimed",
+            "tipo": "Braço segurador do Sistema Unimed",
+            "su": true,
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "CANAL",
+                "titulo": "Seguros Unimed cria Creators Hub para corretores",
+                "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-cria-programa-de-creators-para-corretores/",
+                "texto": "Com a <strong>Community Creators Academy</strong>.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "REDE",
+                "titulo": "Hospital BP entra no Novo Essencial SP",
+                "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-inclui-hospital-bp-na-rede-credenciada/",
+                "texto": "Reforço da <strong>rede premium</strong> em São Paulo.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "9ª",
+            "nome": "BB Seguros",
+            "tipo": "Bancassurance · Banco do Brasil",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "wtf",
+                "tag_label": "RISCO",
+                "titulo": "Citi aponta risco na renovação do acordo de distribuição com o BB",
+                "url": "https://www.seudinheiro.com/2026/empresas/bb-seguridade-bbse3-pode-subir-pouco-mas-cair-muito-o-risco-que-fez-o-citi-recomendar-a-venda-das-acoes-miql/",
+                "texto": "A <strong>dependência do contrato com o banco</strong> volta ao centro da tese.",
+                "fonte": "Seu Dinheiro",
+                "fonte_url": "https://www.seudinheiro.com/",
+                "fonte_label": "Seu Dinheiro",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "10ª",
+            "nome": "Zurich Santander",
+            "tipo": "Bancassurance · Zurich + Santander",
+            "su": false,
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "CANAL",
+                "titulo": "Zurich anuncia condições especiais no Dia do Corretor",
+                "url": "https://cqcs.com.br/noticia/dia-do-corretor-zurich-reforca-parceria-com-o-canal-e-anuncia-condicoes-especiais-para-novos-negocios/",
+                "texto": "Movimento da <strong>Zurich Brasil</strong>; sem notícia específica da Zurich Santander.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Nova regra de PLD da Susep eleva exigência para bancassurances de vida e previdência",
+                "url": "https://www.saudlaw.com/2026/10/susep-atualiza-suas-regras-de-pld-ftp-e-moderniza-seus-procedimentos-internos-de-comunicacao-ao-coaf/",
+                "texto": "Resolução Susep 99/2026, <strong>vigente em 01/01/2027</strong>. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "Saud Advogados",
+                "fonte_url": "https://www.saudlaw.com/",
+                "fonte_label": "Saud Advogados",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        ],
+        "leitura": "A semana separa quem <strong>consolida</strong> de quem <strong>reposiciona</strong>. O Bradesco reorganiza o grupo em BradSaúde e seguradora focada em rentabilidade; a Prudential sai e atrai MetLife e CNP; a Porto acelera em IA. Os bancassurances seguem presos à discussão de contratos com os bancos. A <strong>BradSaúde é o concorrente mais relevante para a SU</strong> por atacar Saúde e Odonto ao mesmo tempo, e a SU teve a semana de canal mais intensa entre os top 10, com Creators Hub e a BP na rede."
+      },
+      "concorrentes_segmento": {
+        "saude": {
+          "geral": {
+            "players": [
+              "Bradesco/BradSaúde",
+              "Amil",
+              "Hapvida Intermédica",
+              "SulAmérica",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "BRADSAÚDE",
+                "titulo": "Cisão concentra a saúde do Bradesco na BradSaúde",
+                "url": "https://cqcs.com.br/noticia/apos-cisao-de-saude-bradseg-quer-crescer-em-seguros-rentaveis-diz-ceo/",
+                "texto": "Plataforma integrada de <strong>saúde e odonto</strong> com escala de bancassurance.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "HAPVIDA",
+                "titulo": "Hapvida entre as mais autuadas no lote de multas da ANS",
+                "url": "https://atlaspublico.com.br/noticias/ans-aprova-multas-a-operadoras-de-planos-de-saude-maior-91758",
+                "texto": "Multas aprovadas em <strong>09/10</strong>.",
+                "fonte": "Atlas Público",
+                "fonte_url": "https://atlaspublico.com.br/",
+                "fonte_label": "Atlas Público",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Care Plus",
+              "Omint"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "CARE PLUS",
+                "titulo": "Care Plus compra participação na Beep Saúde",
+                "url": "https://jovempan.com.br/economia/negocios/care-plus-e-dr-consulta-reforcam-aposta-em-saude-fora-do-hospital",
+                "texto": "Aposta em <strong>atendimento domiciliar</strong>.",
+                "fonte": "Jovem Pan",
+                "fonte_url": "https://jovempan.com.br/",
+                "fonte_label": "Jovem Pan",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "CARE PLUS",
+                "titulo": "Care Plus aposta em proximidade com o cliente empresarial",
+                "url": "https://www.revistacobertura.com.br/noticias/saude-e-odonto-noticias/grupo-care-plus-aposta-em-proximidade-do-cliente-para-tornar-a-gestao-de-saude-mais-estrategica/",
+                "texto": "Gestão de saúde <strong>consultiva</strong>. Omint sem notícia no período.",
+                "fonte": "Revista Cobertura",
+                "fonte_url": "https://www.revistacobertura.com.br/",
+                "fonte_label": "Revista Cobertura",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "digital": {
+            "players": [
+              "Alice",
+              "Sami"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "LEITURA SETORIAL",
+                "titulo": "SAC humano obrigatório desafia modelos de saúde 100% digitais",
+                "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+                "texto": "Operadoras digitais terão de garantir <strong>atendente humano das 8h às 20h</strong> a partir de 02/11. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "TechTudo",
+                "fonte_url": "https://www.techtudo.com.br/",
+                "fonte_label": "TechTudo",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "LEITURA SETORIAL",
+                "titulo": "Fiscalização baseada em risco prudencial pesa mais sobre operadoras jovens",
+                "url": "https://www.trueauditoria.com.br/novas-regras-da-ans-tornam-fiscalizacao-mais-rigorosa-e-baseada-em-riscos/",
+                "texto": "As RNs 656 a 659 ligam multa a <strong>solvência e governança</strong>. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "True Auditoria",
+                "fonte_url": "https://www.trueauditoria.com.br/",
+                "fonte_label": "True Auditoria",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "senior": {
+            "players": [
+              "Prevent Sênior",
+              "MedSênior"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "PREVENT",
+                "titulo": "Prevent Senior recebe a maior multa do lote da ANS",
+                "url": "https://atlaspublico.com.br/noticias/ans-aprova-multas-a-operadoras-de-planos-de-saude-maior-91758",
+                "texto": "<strong>Risco regulatório</strong> no segmento sênior.",
+                "fonte": "Atlas Público",
+                "fonte_url": "https://atlaspublico.com.br/",
+                "fonte_label": "Atlas Público",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "PREVENT",
+                "titulo": "Prevent Senior digitaliza resultados de exames a partir de 03/11",
+                "url": "https://www.preventsenior.com.br/",
+                "texto": "Acesso por <strong>app e portal</strong>. MedSênior sem notícia no período.",
+                "fonte": "Prevent Senior",
+                "fonte_url": "https://www.preventsenior.com.br/",
+                "fonte_label": "Prevent Senior",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "odonto": {
+          "geral": {
+            "players": [
+              "Odontoprev/BradSaúde",
+              "Amil",
+              "SulAmérica",
+              "Hapvida Intermédica",
+              "Porto",
+              "MetLife",
+              "Dental Uni",
+              "UniOdonto",
+              "BrasilDental",
+              "Odonto Empresas"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ODONTOPREV",
+                "titulo": "Odontoprev transforma dados de carteira em estudo sobre saúde bucal infantil",
+                "url": "https://revistaapolice.com.br/2026/10/estudo-aponta-baixa-procura-por-dentista-ate-os-5-anos/",
+                "texto": "<strong>Dados próprios como conteúdo</strong> de marca e prevenção.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "METLIFE",
+                "titulo": "MetLife amplia benefício dos planos odontológicos",
+                "url": "https://www.sonhoseguro.com.br/",
+                "texto": "Cuidado <strong>além do consultório</strong>. Confirmar URL da matéria.",
+                "fonte": "Sonho Seguro",
+                "fonte_url": "https://www.sonhoseguro.com.br/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "premium": {
+            "players": [
+              "Omint Odonto",
+              "CarePlus Odonto"
+            ],
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "LEITURA SETORIAL",
+                "titulo": "SAC humano vale também para operadoras odontológicas premium",
+                "url": "https://www.techtudo.com.br/noticias/2026/10/nova-regra-exige-atendimento-humano-em-bancos-e-operadoras-veja-o-que-muda-edapps.ghtml",
+                "texto": "Exigência de <strong>atendente humano</strong> a partir de 02/11. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "TechTudo",
+                "fonte_url": "https://www.techtudo.com.br/",
+                "fonte_label": "TechTudo",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "CARE PLUS",
+                "titulo": "Grupo Care Plus amplia aposta em cuidado fora do hospital",
+                "url": "https://jovempan.com.br/economia/negocios/care-plus-e-dr-consulta-reforcam-aposta-em-saude-fora-do-hospital",
+                "texto": "Movimento do grupo em saúde; <strong>sem notícia específica de odonto</strong>.",
+                "fonte": "Jovem Pan",
+                "fonte_url": "https://jovempan.com.br/",
+                "fonte_label": "Jovem Pan",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "vida": {
+          "geral": {
+            "players": [
+              "Excelsior",
+              "Icatu",
+              "MetLife",
+              "Mongeral",
+              "Porto",
+              "Prudential",
+              "SulAmérica"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "PRUDENTIAL/METLIFE",
+                "titulo": "MetLife e CNP disputam a Prudential no Brasil",
+                "url": "https://www.brasilemfolhas.com.br/2026/10/metlife-e-cnp-disputam-operacoes-da-prudential-no-brasil/",
+                "texto": "Pode <strong>mudar a liderança</strong> em vida individual.",
+                "fonte": "Brasil em Folhas",
+                "fonte_url": "https://www.brasilemfolhas.com.br/",
+                "fonte_label": "Brasil em Folhas",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "ICATU",
+                "titulo": "Icatu eleita Melhor Seguradora de Vida 2026",
+                "url": "https://www.insurtalks.com.br/posts/icatu-seguros-e-eleita-melhor-seguradora-de-vida-do-brasil-2026-pelo-global-banking-finance-awards",
+                "texto": "Reforço de <strong>marca</strong> em vida individual.",
+                "fonte": "InsurTalks",
+                "fonte_url": "https://www.insurtalks.com.br/",
+                "fonte_label": "InsurTalks",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "previdencia": {
+          "geral": {
+            "players": [
+              "Icatu",
+              "Itaú",
+              "Mapfre",
+              "SulAmérica",
+              "XP"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ICATU",
+                "titulo": "Icatu fecha campanha do mês do cliente com aportes como prêmio",
+                "url": "https://www.sonhoseguro.com.br/2026/09/icatu-seguros-celebra-mes-do-cliente-com-campanha-de-incentivo-ao-planejamento-financeiro/",
+                "texto": "Vencedores em 13/10. <strong>Incentivo ao aporte como retenção.</strong>",
+                "fonte": "Sonho Seguro",
+                "fonte_url": "https://www.sonhoseguro.com.br/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Set/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "REGULAÇÃO",
+                "titulo": "Nova regra de PLD alcança todos os planos de acumulação",
+                "url": "https://www.saudlaw.com/2026/10/susep-atualiza-suas-regras-de-pld-ftp-e-moderniza-seus-procedimentos-internos-de-comunicacao-ao-coaf/",
+                "texto": "Itaú, Mapfre, SulAmérica e XP terão de aplicar <strong>verificação em três níveis</strong> a partir de 01/01/2027. <em>Sem notícia específica dos players no período.</em>",
+                "fonte": "Saud Advogados",
+                "fonte_url": "https://www.saudlaw.com/",
+                "fonte_label": "Saud Advogados",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        },
+        "elementares": {
+          "rcp": {
+            "players": [
+              "Akad",
+              "Chubb",
+              "Fairfax",
+              "Fator",
+              "Mapfre",
+              "Porto"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "AKAD",
+                "titulo": "Akad emite RCV em até 2 minutos",
+                "url": "https://cqcs.com.br/noticia/akad-amplia-jornada-digital-de-transportes-e-passa-a-permitir-cotacao-e-emissao-de-rcv-em-ate-2-minutos/",
+                "texto": "Novo padrão de <strong>emissão digital</strong> em RC.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "att",
+                "tag_label": "AKAD",
+                "titulo": "Akad debate a Lei 15.040 em responsabilidade civil no ANSP Fórum",
+                "url": "https://www.segs.com.br/seguros/454947-akad-seguros-participa-de-ansp-forum-sobre-impactos-da-nova-lei-de-seguros-em-responsabilidade-civil",
+                "texto": "Impactos em <strong>RCG, D&O, E&O e cyber</strong>.",
+                "fonte": "Segs",
+                "fonte_url": "https://www.segs.com.br/",
+                "fonte_label": "Segs",
+                "data": "Set/2026"
+              }
+            ]
+          },
+          "do": {
+            "players": [
+              "AIG",
+              "Akad",
+              "Chubb",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "D&O/IA",
+                "titulo": "Corretoras globais pressionam contra exclusões amplas de IA",
+                "url": "https://www.theinsurer.com/ti/news/aon-and-wtw-add-to-broker-pressure-on-ai-exclusions-2026-10-08/",
+                "texto": "Afeta diretamente as <strong>cláusulas de D&O e cyber</strong>.",
+                "fonte": "The Insurer",
+                "fonte_url": "https://www.theinsurer.com/",
+                "fonte_label": "The Insurer",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "ZURICH",
+                "titulo": "Zurich reforça o canal com condições especiais",
+                "url": "https://cqcs.com.br/noticia/dia-do-corretor-zurich-reforca-parceria-com-o-canal-e-anuncia-condicoes-especiais-para-novos-negocios/",
+                "texto": "Movimento de canal, <strong>não específico de D&O</strong>.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "empresarial": {
+            "players": [
+              "Chubb",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine",
+              "Zurich"
+            ],
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "TOKIO MARINE",
+                "titulo": "Tokio Marine lança HUB de Cotações para assessorias",
+                "url": "https://revistaapolice.com.br/2026/10/novo-hub-da-tokio-marine-permite-monitorar-cotacoes/",
+                "texto": "<strong>Dados de conversão</strong> compartilhados com parceiros.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "new",
+                "tag_label": "HDI/MAPFRE",
+                "titulo": "HDI e Mapfre defendem o corretor multiproduto na Lojacorr",
+                "url": "https://www.sonhoseguro.com.br/2026/10/seguradoras-defendem-corretor-multiproduto-e-uso-da-inteligencia-artificial-para-ampliar-vendas/",
+                "texto": "Tese de <strong>diversificação além do auto</strong>.",
+                "fonte": "Sonho Seguro",
+                "fonte_url": "https://www.sonhoseguro.com.br/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          "residencial": {
+            "players": [
+              "Allianz",
+              "HDI",
+              "Mapfre",
+              "Porto",
+              "Tokio Marine"
+            ],
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "ALLIANZ",
+                "titulo": "Allianz Residência protege vítimas de violência doméstica",
+                "url": "https://revistaapolice.com.br/2026/10/allianz-inclui-protecao-para-vitimas-de-violencia-domestica/",
+                "texto": "Reembolso de <strong>aluguel por até 6 meses</strong>.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              },
+              {
+                "tag": "wtf",
+                "tag_label": "FORA DA LISTA",
+                "titulo": "Chubb e Vivo lançam residencial com assistência pet",
+                "url": "https://www.sonhoseguro.com.br/2026/10/chubb-brasil-e-vivo-entram-no-segmento-pet-com-assistencia-integrada-a-seguro-residencial/",
+                "texto": "<strong>Ameaça de venda embutida</strong>; demais players sem notícia.",
+                "fonte": "Sonho Seguro",
+                "fonte_url": "https://www.sonhoseguro.com.br/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Out/2026"
+              }
+            ]
+          }
+        }
+      },
+      "corretores": {
+        "termometro": {
+          "atividade": {
+            "status": "ok",
+            "emoji": "🎉",
+            "titulo": "Mês do Corretor",
+            "url": "https://revistaapolice.com.br/2026/10/seguros-unimed-cria-programa-de-creators-para-corretores/",
+            "texto": "Convenção Lojacorr com oito seguradoras, live do Sincor-RJ com SulAmérica e Amil, e lançamento do <strong>Creators Hub</strong> da Seguros Unimed."
+          },
+          "disputa": {
+            "status": "alerta",
+            "emoji": "⚔️",
+            "titulo": "Intensa",
+            "url": "https://cqcs.com.br/noticia/dia-do-corretor-zurich-reforca-parceria-com-o-canal-e-anuncia-condicoes-especiais-para-novos-negocios/",
+            "texto": "Zurich com desconto em novos negócios de 12 a 16/10, websérie de Vida da Mapfre e <strong>tese do corretor multiproduto</strong> disputada por todo o mercado."
+          },
+          "digitalizacao": {
+            "status": "att",
+            "emoji": "⚡",
+            "titulo": "Acelerando",
+            "url": "https://revistaapolice.com.br/2026/10/novo-hub-da-tokio-marine-permite-monitorar-cotacoes/",
+            "texto": "HUB de Cotações da Tokio Marine, emissão de RCV em 2 minutos da Akad e agente de IA da Porto <strong>elevam o padrão digital</strong> que o corretor espera."
+          }
+        },
+        "grandes_corretoras": [
+          {
+            "rank": "",
+            "nome": "Marsh",
+            "tipo": "Corretora Global",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "IA",
+                "titulo": "Marsh se posiciona contra exclusões absolutas de IA",
+                "url": "https://www.theinsurer.com/ti/news/aon-and-wtw-add-to-broker-pressure-on-ai-exclusions-2026-10-08/",
+                "texto": "Posição pública do CEO Nick Studer. <strong>A corretora assume a defesa do cliente</strong> na redação das apólices.",
+                "fonte": "The Insurer",
+                "fonte_url": "https://www.theinsurer.com/",
+                "fonte_label": "The Insurer",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Aon",
+            "tipo": "Corretora Global",
+            "noticias": [
+              {
+                "tag": "hot",
+                "tag_label": "IA",
+                "titulo": "Aon rejeita exclusões genéricas de IA",
+                "url": "https://www.theinsurer.com/ti/news/aon-and-wtw-add-to-broker-pressure-on-ai-exclusions-2026-10-08/",
+                "texto": "Posição da <strong>co-CEO para EMEA</strong>.",
+                "fonte": "The Insurer",
+                "fonte_url": "https://www.theinsurer.com/",
+                "fonte_label": "The Insurer",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "WTW",
+            "tipo": "Corretora Global",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "IA",
+                "titulo": "WTW elogia o mercado por não generalizar exclusões de IA",
+                "url": "https://www.theinsurer.com/ti/news/aon-and-wtw-add-to-broker-pressure-on-ai-exclusions-2026-10-08/",
+                "texto": "Posição do <strong>chefe global de cyber</strong>.",
+                "fonte": "The Insurer",
+                "fonte_url": "https://www.theinsurer.com/",
+                "fonte_label": "The Insurer",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Wiz Co",
+            "tipo": "Corretora listada · Bancassurance",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EXPANSÃO",
+                "titulo": "Wiz Co abre vagas em quatro estados, incluindo a Wiz Benefícios",
+                "url": "https://revistaapolice.com.br/2026/10/wiz-co-abre-vagas-em-quatro-estados/",
+                "texto": "Expansão em <strong>saúde</strong>, consórcio e crédito.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Lojacorr",
+            "tipo": "Rede de Corretoras",
+            "noticias": [
+              {
+                "tag": "opp",
+                "tag_label": "SAÚDE",
+                "titulo": "Lojacorr faz 30 anos e cria vertical de saúde",
+                "url": "https://www.sonhoseguro.com.br/2026/10/lojacorr-seguros-celebra-30-anos-resgata-sonho-do-fundador-e-anuncia-vertical-de-saude/",
+                "texto": "<strong>Mais de 40 seguradoras parceiras</strong>; nova porta para Saúde e Odonto PME.",
+                "fonte": "Sonho Seguro",
+                "fonte_url": "https://www.sonhoseguro.com.br/",
+                "fonte_label": "Sonho Seguro",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Sincor-RJ",
+            "tipo": "Entidade de Classe",
+            "noticias": [
+              {
+                "tag": "new",
+                "tag_label": "EVENTO",
+                "titulo": "Sincor-RJ promove live do Dia do Corretor",
+                "url": "https://cqcs.com.br/noticia/sincor-rjpromove-live-especial-em-celebracao-ao-dia-do-corretor-de-seguros/",
+                "texto": "Reuniu lideranças comerciais de <strong>SulAmérica e Amil</strong>.",
+                "fonte": "CQCS",
+                "fonte_url": "https://cqcs.com.br/",
+                "fonte_label": "CQCS",
+                "data": "Out/2026"
+              }
+            ]
+          },
+          {
+            "rank": "",
+            "nome": "Fenacor",
+            "tipo": "Entidade Nacional",
+            "noticias": [
+              {
+                "tag": "att",
+                "tag_label": "EVENTO",
+                "titulo": "Fenacor faz balanço do Congresso Brasileiro de Corretores",
+                "url": "https://revistaapolice.com.br/2026/09/fenacor-comemora-sucesso-do-congresso-brasileiro-de-corretores-de-seguros/",
+                "texto": "Tese do <strong>corretor como protagonista da transformação</strong>.",
+                "fonte": "Revista Apólice",
+                "fonte_url": "https://revistaapolice.com.br/",
+                "fonte_label": "Revista Apólice",
+                "data": "Set/2026"
+              }
+            ]
+          }
+        ],
+        "benchmark": [
+          {
+            "tag": "opp",
+            "tag_label": "TOKIO MARINE",
+            "titulo": "HUB de Cotações compartilha dados de conversão com assessorias",
+            "url": "https://revistaapolice.com.br/2026/10/novo-hub-da-tokio-marine-permite-monitorar-cotacoes/",
+            "texto": "<strong>Dado comercial vira ferramenta de gestão</strong> do parceiro.",
+            "fonte": "Revista Apólice",
+            "fonte_url": "https://revistaapolice.com.br/",
+            "fonte_label": "Revista Apólice",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "opp",
+            "tag_label": "ZURICH",
+            "titulo": "Desconto em novos negócios combinado com escuta ativa",
+            "url": "https://cqcs.com.br/noticia/dia-do-corretor-zurich-reforca-parceria-com-o-canal-e-anuncia-condicoes-especiais-para-novos-negocios/",
+            "texto": "Condição comercial de <strong>prazo curto</strong> no Dia do Corretor.",
+            "fonte": "CQCS",
+            "fonte_url": "https://cqcs.com.br/",
+            "fonte_label": "CQCS",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "opp",
+            "tag_label": "MAPFRE",
+            "titulo": "Websérie de Vida entrega conteúdo de venda pronto",
+            "url": "https://revistaapolice.com.br/2026/10/mapfre-lanca-nova-webserie-sobre-seguro-de-vida/",
+            "texto": "<strong>15 episódios</strong> para o corretor usar com o cliente.",
+            "fonte": "Revista Apólice",
+            "fonte_url": "https://revistaapolice.com.br/",
+            "fonte_label": "Revista Apólice",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "opp",
+            "tag_label": "AKAD",
+            "titulo": "Cotação e emissão de RCV em até 2 minutos",
+            "url": "https://cqcs.com.br/noticia/akad-amplia-jornada-digital-de-transportes-e-passa-a-permitir-cotacao-e-emissao-de-rcv-em-ate-2-minutos/",
+            "texto": "<strong>Velocidade de emissão</strong> como argumento de canal.",
+            "fonte": "CQCS",
+            "fonte_url": "https://cqcs.com.br/",
+            "fonte_label": "CQCS",
+            "data": "Out/2026"
+          },
+          {
+            "tag": "opp",
+            "tag_label": "PORTO",
+            "titulo": "Agente de IA no WhatsApp para sinistros",
+            "url": "https://revistaapolice.com.br/2026/10/porto-automatiza-70-dos-sinistros-de-roubo-e-furto/",
+            "texto": "Experiência de sinistro que <strong>o corretor pode vender como diferencial</strong>.",
+            "fonte": "Revista Apólice",
+            "fonte_url": "https://revistaapolice.com.br/",
+            "fonte_label": "Revista Apólice",
+            "data": "Out/2026"
+          }
+        ],
+        "vozes": [
+          {
+            "quote": "O corretor não está apenas acompanhando a transformação. Ele é parte essencial dela.",
+            "avatar": "AV",
+            "nome": "Armando Vergílio",
+            "cargo": "Presidente · Fenacor",
+            "contexto": "Congresso Brasileiro de Corretores · Set/2026"
+          },
+          {
+            "quote": "Escutar quem está na ponta é parte imprescindível para definir onde precisamos avançar.",
+            "avatar": "PC",
+            "nome": "Paulo Ricardo Costa",
+            "cargo": "Diretor executivo de Distribuição · Zurich",
+            "contexto": "Dia do Corretor · Out/2026"
+          },
+          {
+            "quote": "A IA não substitui o corretor, mas sim aquele que não souber utilizá-la.",
+            "avatar": "VV",
+            "nome": "Victor Vaz",
+            "cargo": "Executivo · Seguralta",
+            "contexto": "14ª Convenção Seguralta · Jan/2026 (paráfrase)"
+          },
+          {
+            "quote": "Após a aproximação com a Seguros Unimed, a produção da corretora cresceu.",
+            "avatar": "DS",
+            "nome": "Diogo Simões",
+            "cargo": "Corretor · Winner Corretora",
+            "contexto": "24º Congresso de Corretores · Ago/2026 (paráfrase)"
+          }
+        ],
+        "oportunidade": "A SU já tem relacionamento forte com o corretor; o próximo passo é <strong>dar produtividade</strong> a ele. Isso significa oferecer às redes um painel de cotações, emissão rápida de RCP e PME e conteúdo do Creators Hub para vender <strong>Saúde + Odonto + Vida juntos</strong>."
+      }
+    },
+    {
       "id": "2026-10-09",
       "titulo": "Edição 09/Out/2026",
       "data": "09 de outubro de 2026",
